@@ -37,7 +37,7 @@ for (var i=0; i<input.length; i++) {
 	line = line.trim();
 	if (!line) continue;
 	if (line.charAt(0) === '=') {
-		speciesid = toId(line);
+		speciesid = Tools.getTemplate(line).id;
 		species = line;
 		continue;
 	}

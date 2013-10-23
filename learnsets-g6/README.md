@@ -5,7 +5,7 @@ This should be in the the following format:
 
 	[How to get the move] - [Move name]
 
-Specifically, it should be in this order:
+Specifically, it should be in this order (and how to get the move *must* be written one of these way):
 
 	Start - [Start move]
 	L? - [Level-up move of unknown level]
@@ -14,4 +14,4 @@ Specifically, it should be in this order:
 	Egg - [Egg move]
 	Event - [Event move]
 
-Remember: You need a space before and after the `-`.
+Remember: You need a space both before and after the `-`.
