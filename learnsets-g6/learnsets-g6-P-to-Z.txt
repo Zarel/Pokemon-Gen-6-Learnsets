@@ -1979,21 +1979,21 @@ L? - Encore
 L? - Take Down
 L? - Aurora Beam
 L? - Light Screen
-L? - Outrage
 L? - Megahorn
-L? - Psych Up
-L? - Nature Power
 L? - Ingrain
 L? - Aromatherapy
 L? - Gravity
-L? - Close Combat
-L? - Night Slash
-L? - Giga Impact
 L? - Heal Pulse
-L? - Horn Leech
 L? - Geomancy
 L? - Moonblast
-L? - Misty Terrain
+L51 - Night Slash
+L55 - Horn Leech
+L59 - Psych Up
+L63 - Misty Terrain
+L72 - Nature Power
+L80 - Close Combat
+L88 - Giga Impact
+L93 - Outrage
 TM - Cut
 TM - Roar
 TM - Hyper Beam
@@ -2059,22 +2059,22 @@ Egg - Feint
 
 L? - Razor Wind
 L? - Disable
-L? - Hyper Beam
-L? - Psychic
 L? - Double Team
-L? - Sky Attack
 L? - Taunt
 L? - Roost
-L? - Sucker Punch
 L? - Dark Pulse
 L? - Air Slash
-L? - Dragon Rush
-L? - Focus Blast
-L? - Foul Play
 L? - Hurricane
 L? - Snarl
 L? - Oblivion Wing
-L? - Phantom Force
+L51 - Foul Play
+L55 - Phantom Force
+L59 - Psychic
+L63 - Dragon Rush
+L72 - Focus Blast
+L80 - Sucker Punch
+L88 - Hyper Beam
+L93 - Sky Attack
 TM - Cut
 TM - Fly
 TM - Hyper Beam
@@ -2229,18 +2229,18 @@ L? - Earthquake
 L? - Dig
 L? - Haze
 L? - Glare
-L? - Outrage
 L? - Sandstorm
 L? - Safeguard
 L? - Dragon Breath
 L? - Crunch
-L? - Extreme Speed
 L? - Camouflage
-L? - Dragon Dance
 L? - Dragon Pulse
-L? - Coil
 L? - Bulldoze
 L? - Land's Wrath
+L72 - Dragon Dance
+L80 - Coil
+L93 - Outrage
+L88 - Extreme Speed
 TM - Hyper Beam
 TM - Strength
 TM - Earthquake
