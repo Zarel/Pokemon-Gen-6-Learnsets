@@ -1,4 +1,6 @@
 // import learnsets
+// FROM: text in learnsets-g6 
+// TO: PS data/learnsets.js
 
 toId = function(text) {
         if (text && text.id) text = text.id;
@@ -16,5 +18,89 @@ fs.exists = require("path").exists;
 fs.existsSync = require("path").existsSync;
 
 var Tools = require('./tools.js');
+var Learnsets = Tools.data.Learnsets;
 
-var input = ''+fs.readFileSync('')
+// If modern computers didn't come standard with 4GB of RAM,
+// I'd probably stream this
+var input = ''+fs.readFileSync('learnsets-g6/learnsets-g6-A-to-C.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-D-to-I.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-J-to-R.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-P-to-Z.txt');
+
+input = input.split('\n');
+
+var speciesid = '';
+var species = '';
+
+for (var i=0; i<input.length; i++) {
+	var line = input[i];
+	line = line.trim();
+	if (!line) continue;
+	if (line.charAt(0) === '=') {
+		speciesid = toId(line);
+		species = line;
+		continue;
+	}
+	var parts = line.split(' - ');
+	if (!parts[0] || !parts[1] || parts.length != 2) {
+		console.log("Line '"+line+"' must be in the format 'Source - Move' for "+species);
+		continue;
+	}
+	var move = Tools.getMove(parts[1]);
+	if (!move.exists) {
+		console.log("Move '"+parts[1]+"' in '"+line+"' doesn't exist for "+species);
+		continue;
+	}
+	var typeString = parts[0].toLowerCase().replace(/ /g,'').replace('.','');
+ 
+	var type = '';
+	var level = '';
+	if (typeString.substr(0,2) in {tm:1,hm:1}) type = '6M';
+	else if (typeString === 'egg') type = '6E';
+	else if (typeString === 'moverelearner' || typeString === 'relearn' || typeString === 'mr' || typeString === 'l?' || typeString === '?') type = '6L0';
+	else if (typeString === 'start' || typeString === 'n/a' || typeString === 'unknown') type = '6L0';
+	else if (typeString.substr(0,5) === 'level') {
+		level = typeString.substr(5);
+	}
+	else if (typeString.substr(0,3) === 'lvl') {
+		level = typeString.substr(3);
+	}
+	else if (typeString.substr(0,2) === 'lv') {
+		level = typeString.substr(2);
+	}
+	else if (typeString.substr(0,1) === 'l') {
+		level = typeString.substr(1);
+	}
+	if (!type && !level) level = typeString;
+	if (level) {
+		if (level.charAt(0) in {'<':1,'>':1,'?':1}) type = '6L0';
+		else if (/^[0-9]{1,3}$/.test(level)) type = '6L'+parseInt(level, 10);
+	}
+	if (!type) console.log("Source '"+parts[0]+"' in '"+line+"' not formatted correctly for "+species);
+	if (type) {
+		if (!Learnsets[speciesid]) {
+			if (Learnsets[speciesid] !== '') console.log("Pokemon '"+species+"' doesn't exist or shouldn't have a learnset.");
+			Learnsets[speciesid] = '';
+			continue;
+		}
+		if (!Learnsets[speciesid].learnset[move.id]) Learnsets[speciesid].learnset[move.id] = [type];
+		else Learnsets[speciesid].learnset[move.id].push(type);
+	}
+}
+ 
+var output = 'exports.BattleLearnsets = {\n';
+ 
+for (var speciesid in Learnsets) {
+	var learnset = Learnsets[speciesid].learnset;
+	output += '	'+speciesid+':{learnset:{';
+	output += Object.keys(learnset).map(function(key) {
+		return (key==='return'?'"return"':key)+':'+JSON.stringify(learnset[key]);
+	}).join(',');
+	output += '}},\n';
+}
+ 
+output = output.substr(0, output.length-2)+'\n';
+ 
+output += '};';
+
+fs.writeFileSync('data/learnsets.js', output);
