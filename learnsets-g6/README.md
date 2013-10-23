@@ -18,8 +18,8 @@ written one of these ways):
 Notes
 -----
 
-- Only pokémon that can hatch from eggs (specifically, Azurill and Marill, but
-  not Azumarill) should have egg moves
+- Only pokémon that can hatch from eggs (e.g. Azurill and Marill, but not
+  Azumarill) should have egg moves
 
 - This is in alphabetical order (unlike Smogon Research, which is alphabetical
   by final evo)
