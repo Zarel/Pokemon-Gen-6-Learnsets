@@ -1782,21 +1782,22 @@ TM - Calm Mind
 
 == Vivillon ==
 
-L? - Gust
-L? - Supersonic
-L? - Psybeam
-L? - PoisonPowder
-L? - Stun Spore
-L? - Sleep Powder
-L? - Light Screen
-L? - Safeguard
-L? - Aromatherapy
-L? - Bug Buzz
-L? - Quiver Dance
-L? - Struggle Bug
-L? - Hurricane
-L? - Draining Kiss
-L? - Powder
+Start - Powder
+Start - Stun Spore
+Start - Poison Powder
+Start - Sleep Powder
+Start - Gust
+Start - Light Screen
+L12 - Struggle Bug
+L17 - Psybeam
+L21 - Supersonic
+L25 - Draining Kiss
+L31 - Aromatherapy
+L35 - Bug Buzz
+L41 - Safeguard
+L45 - Quiver Dance
+L50 - Hurricane
+L55 - Powder
 TM - Hyper Beam
 TM - SolarBeam
 TM - Toxic
