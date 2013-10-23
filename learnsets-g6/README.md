@@ -18,9 +18,10 @@ written one of these ways):
 Notes
 -----
 
-- Only the first evolution should have egg moves
+- Only pokémon that can hatch from eggs (specifically, Azurill and Marill, but
+  not Azumarill) should have egg moves
 
 - This is in alphabetical order (unlike Smogon Research, which is alphabetical
   by final evo)
 
-- You need a space both before and after the `-`.
+- You need a space both before and after the `-`
