@@ -1,0 +1,2207 @@
+== Darkrai ==
+
+TM - Dark Pulse
+
+== Darumaka ==
+
+Egg - Take Down
+Egg - Focus Energy
+Egg - Flame Wheel
+Egg - Endure
+Egg - Sleep Talk
+Egg - Encore
+Egg - Focus Punch
+Egg - Yawn
+Egg - Hammer Arm
+
+== Dedenne ==
+
+L? - Tackle
+L? - Tail Whip
+L? - Thunder Shock
+L? - Thunder Wave
+L? - Thunder
+L? - Rest
+L? - Snore
+L? - Charm
+L? - Charge
+L? - Discharge
+L? - Charge Beam
+L? - Entrainment
+L? - Volt Switch
+L? - Nuzzle
+L? - Parabolic Charge
+L? - Play Rough
+TM - Cut
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Thunder
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Facade
+TM - Aerial Ace
+TM - U-turn
+TM - Fling
+TM - Giga Impact
+TM - Grass Knot
+TM - Charge Beam
+TM - Round
+TM - Retaliate
+TM - Volt Switch
+TM - Wild Charge
+TM - Confide
+
+== Deerling ==
+
+Egg - Agility
+Egg - Sleep Talk
+Egg - Baton Pass
+Egg - Synthesis
+Egg - Fake Tears
+Egg - Odor Sleuth
+Egg - GrassWhistle
+Egg - Natural Gift
+Egg - Worry Seed
+
+== Deino ==
+
+Egg - Screech
+Egg - Astonish
+Egg - Assurance
+Egg - Dark Pulse
+Egg - Earth Power
+Egg - Thunder Fang
+Egg - Ice Fang
+Egg - Fire Fang
+Egg - Head Smash
+Egg - Double Hit
+
+== Delibird ==
+
+Egg - Ice Punch
+Egg - Aurora Beam
+Egg - Quick Attack
+Egg - Splash
+Egg - Icy Wind
+Egg - Rapid Spin
+Egg - Future Sight
+Egg - Fake Out
+Egg - Ice Ball
+Egg - Ice Shard
+Egg - Bestow
+
+== Delphox ==
+
+L? - Scratch
+L? - Tail Whip
+L? - Ember
+L? - Flamethrower
+L? - Psybeam
+L? - Fire Spin
+L? - Psychic
+L? - Light Screen
+L? - Fire Blast
+L? - Sunny Day
+L? - Shadow Ball
+L? - Future Sight
+L? - Will-O-Wisp
+L? - Role Play
+L? - Howl
+L? - Lucky Chant
+L? - Switcheroo
+L? - Psyshock
+L? - Magic Room
+L? - Flame Charge
+L? - Mystical Fire
+TM - Cut
+TM - Flamethrower
+TM - Hyper Beam
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Fire Blast
+TM - Dream Eater
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Psych Up
+TM - Shadow Ball
+TM - Will-O-Wisp
+TM - Facade
+TM - Overheat
+TM - Calm Mind
+TM - Embargo
+TM - Giga Impact
+TM - Trick Room
+TM - Grass Knot
+TM - Psyshock
+TM - Flame Charge
+TM - Round
+TM - Echoed Voice
+TM - Incinerate
+TM - Confide
+TM - Power-Up Punch
+
+== Deoxys ==
+
+TM - Psychic
+
+== Diggersby ==
+
+L? - Swords Dance
+L? - Double Kick
+L? - Tackle
+L? - Take Down
+L? - Growl
+L? - Earthquake
+L? - Dig
+L? - Agility
+L? - Quick Attack
+L? - Super Fang
+L? - Flail
+L? - Mud-Slap
+L? - Facade
+L? - Odor Sleuth
+L? - Bounce
+L? - Mud Shot
+L? - Hammer Arm
+L? - Bulldoze
+L? - Rototiller
+TM - Swords Dance
+TM - Cut
+TM - Surf
+TM - Hyper Beam
+TM - Strength
+TM - Earthquake
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Sludge Bomb
+TM - Sandstorm
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rock Smash
+TM - Torment
+TM - Facade
+TM - Nature Power
+TM - Brick Break
+TM - Rock Tomb
+TM - Bulk Up
+TM - U-turn
+TM - Payback
+TM - Fling
+TM - Giga Impact
+TM - Stone Edge
+TM - Grass Knot
+TM - Smack Down
+TM - Round
+TM - Bulldoze
+TM - Wild Charge
+TM - Confide
+TM - Power-Up Punch
+
+== Diglett ==
+
+Egg - Headbutt
+Egg - Screech
+Egg - Reversal
+Egg - Feint Attack
+Egg - Endure
+Egg - Pursuit
+Egg - Ancient Power
+Egg - Beat Up
+Egg - Uproar
+Egg - Memento
+Egg - Astonish
+Egg - Mud Bomb
+Egg - Final Gambit
+
+== Ditto ==
+
+L? - Transform
+
+== Doduo ==
+
+TM - Fly
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Steel Wing
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Sunny Day
+TM - Facade
+TM - Aerial Ace
+TM - Roost
+TM - Round
+TM - Echoed Voice
+TM - Confide
+Egg - Supersonic
+Egg - Quick Attack
+Egg - Haze
+Egg - Mirror Move
+Egg - Flail
+Egg - Feint Attack
+Egg - Endeavor
+Egg - Natural Gift
+Egg - Assurance
+Egg - Brave Bird
+
+== Doublade ==
+
+L? - Swords Dance
+L? - Tackle
+L? - Slash
+L? - Fury Cutter
+L? - Pursuit
+L? - Metal Sound
+L? - Aerial Ace
+L? - Iron Defense
+L? - Power Trick
+L? - Night Slash
+L? - Shadow Sneak
+L? - Iron Head
+L? - Autotomize
+L? - Retaliate
+L? - Sacred Sword
+TM - Swords Dance
+TM - Cut
+TM - Toxic
+TM - Double Team
+TM - Reflect
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - False Swipe
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Brick Break
+TM - Aerial Ace
+TM - Gyro Ball
+TM - Shadow Claw
+TM - Flash Cannon
+TM - Retaliate
+TM - Confide
+
+== Dragalge ==
+
+L? - Tackle
+L? - Tail Whip
+L? - Acid
+L? - Water Gun
+L? - Hydro Pump
+L? - Toxic
+L? - Double Team
+L? - SmokeScreen
+L? - Bubble
+L? - Feint Attack
+L? - Sludge Bomb
+L? - Twister
+L? - Camouflage
+L? - Poison Tail
+L? - Water Pulse
+L? - Aqua Tail
+L? - Dragon Pulse
+L? - Dragon Tail
+TM - Surf
+TM - Hyper Beam
+TM - Thunderbolt
+TM - Thunder
+TM - Double Team
+TM - Waterfall
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Sludge Bomb
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Shadow Ball
+TM - Hail
+TM - Facade
+TM - Focus Blast
+TM - Giga Impact
+TM - Venoshock
+TM - Sludge Wave
+TM - Round
+TM - Scald
+TM - Dragon Tail
+TM - Confide
+Egg - Toxic Spikes
+
+== Dratini ==
+
+Egg - Supersonic
+Egg - Mist
+Egg - Haze
+Egg - Dragon Breath
+Egg - Iron Tail
+Egg - Extreme Speed
+Egg - Dragon Dance
+Egg - Water Pulse
+Egg - Dragon Pulse
+Egg - Dragon Rush
+Egg - Aqua Jet
+
+== Drifloon ==
+
+Egg - Body Slam
+Egg - Disable
+Egg - Hypnosis
+Egg - Haze
+Egg - Destiny Bond
+Egg - Memento
+Egg - Weather Ball
+Egg - Defog
+Egg - Clear Smog
+
+== Drilbur ==
+
+Egg - Submission
+Egg - Skull Bash
+Egg - Rapid Spin
+Egg - Crush Claw
+Egg - Metal Sound
+Egg - Iron Defense
+Egg - Earth Power
+Egg - Rock Climb
+
+== Drowzee ==
+
+Egg - Fire Punch
+Egg - Ice Punch
+Egg - Thunder Punch
+Egg - Barrier
+Egg - Flatter
+Egg - Role Play
+Egg - Assist
+Egg - Skill Swap
+Egg - Secret Power
+Egg - Guard Swap
+Egg - Nasty Plot
+Egg - Psycho Cut
+
+== Druddigon ==
+
+Egg - Glare
+Egg - Feint Attack
+Egg - Pursuit
+Egg - Iron Tail
+Egg - Metal Claw
+Egg - Snatch
+Egg - Crush Claw
+Egg - Poison Tail
+Egg - Sucker Punch
+Egg - Thunder Fang
+Egg - Fire Fang
+
+== Ducklett ==
+
+Egg - Gust
+Egg - Mirror Move
+Egg - Steel Wing
+Egg - Air Cutter
+Egg - Brine
+Egg - Lucky Chant
+Egg - Me First
+
+== Dunsparce ==
+
+Egg - Headbutt
+Egg - Bite
+Egg - Agility
+Egg - Bide
+Egg - Snore
+Egg - Curse
+Egg - Sleep Talk
+Egg - Ancient Power
+Egg - Magic Coat
+Egg - Secret Power
+Egg - Astonish
+Egg - Trump Card
+Egg - Hex
+
+== Durant ==
+
+Egg - Screech
+Egg - Feint Attack
+Egg - Endure
+Egg - Baton Pass
+Egg - Thunder Fang
+Egg - Rock Climb
+
+== Duskull ==
+
+Egg - Feint Attack
+Egg - Destiny Bond
+Egg - Pain Split
+Egg - Memento
+Egg - Skill Swap
+Egg - Imprison
+Egg - Grudge
+Egg - Dark Pulse
+Egg - Ominous Wind
+
+== Dustox ==
+
+TM - Aerial Ace
+
+== Dwebble ==
+
+Egg - Counter
+Egg - Curse
+Egg - Spikes
+Egg - Endure
+Egg - Sand Tomb
+Egg - Iron Defense
+Egg - Block
+Egg - Night Slash
+
+== Eelektrik ==
+
+TM - Thunderbolt
+
+== Eelektross ==
+
+TM - Thunderbolt
+
+== Eevee ==
+
+L? - Baby-Doll Eyes
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Shadow Ball
+TM - Facade
+TM - Round
+TM - Echoed Voice
+TM - Retaliate
+TM - Confide
+Egg - Curse
+Egg - Flail
+Egg - Detect
+Egg - Endure
+Egg - Charm
+Egg - Wish
+Egg - Yawn
+Egg - Fake Tears
+Egg - Tickle
+Egg - Covet
+Egg - Natural Gift
+Egg - Synchronoise
+Egg - Stored Power
+
+== Ekans ==
+
+Egg - Slam
+Egg - Disable
+Egg - Spite
+Egg - Scary Face
+Egg - Pursuit
+Egg - Iron Tail
+Egg - Beat Up
+Egg - Snatch
+Egg - Poison Fang
+Egg - Poison Tail
+Egg - Sucker Punch
+Egg - Switcheroo
+
+== Electabuzz ==
+
+TM - Hyper Beam
+TM - Strength
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Thunder
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Brick Break
+TM - Fling
+TM - Focus Blast
+TM - Giga Impact
+TM - Charge Beam
+TM - Low Sweep
+TM - Round
+TM - Volt Switch
+TM - Wild Charge
+TM - Confide
+TM - Power-Up Punch
+
+== Electrike ==
+
+Egg - Headbutt
+Egg - Swift
+Egg - Curse
+Egg - Crunch
+Egg - Uproar
+Egg - Shock Wave
+Egg - Switcheroo
+Egg - Thunder Fang
+Egg - Ice Fang
+Egg - Fire Fang
+Egg - Discharge
+Egg - Flame Burst
+Egg - Electro Ball
+
+== Electrode ==
+
+TM - Hyper Beam
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Thunder
+TM - Toxic
+TM - Double Team
+TM - Flash
+TM - Explosion
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Torment
+TM - Facade
+TM - Taunt
+TM - Gyro Ball
+TM - Giga Impact
+TM - Charge Beam
+TM - Round
+TM - Volt Switch
+TM - Wild Charge
+TM - Confide
+
+== Elekid ==
+
+Egg - Karate Chop
+Egg - Fire Punch
+Egg - Ice Punch
+Egg - Rolling Kick
+Egg - Meditate
+Egg - Barrier
+Egg - Dynamic Punch
+Egg - Cross Chop
+Egg - Focus Punch
+Egg - Hammer Arm
+Egg - Feint
+
+== Elgyem ==
+
+Egg - Disable
+Egg - Teleport
+Egg - Barrier
+Egg - Skill Swap
+Egg - Astonish
+Egg - Power Swap
+Egg - Guard Swap
+Egg - Nasty Plot
+
+== Emolga ==
+
+L? - Nuzzle
+Egg - Charm
+Egg - Baton Pass
+Egg - Iron Tail
+Egg - Astonish
+Egg - Tickle
+Egg - Covet
+Egg - Shock Wave
+Egg - Roost
+Egg - Air Slash
+
+== Empoleon ==
+
+TM - Psychic
+
+== Entei ==
+
+TM - Calm Mind
+
+== Espurr ==
+
+L? - Scratch
+L? - Leer
+L? - Psybeam
+L? - Confusion
+L? - Light Screen
+L? - Fake Out
+L? - Covet
+L? - Psyshock
+TM - Cut
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Reflect
+TM - Dream Eater
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Psych Up
+TM - Torment
+TM - Facade
+TM - Calm Mind
+TM - Payback
+TM - Dark Pulse
+TM - Energy Ball
+TM - Trick Room
+TM - Charge Beam
+TM - Psyshock
+TM - Round
+TM - Echoed Voice
+TM - Confide
+
+== Exeggcute ==
+
+Egg - Curse
+Egg - Giga Drain
+Egg - Synthesis
+Egg - Moonlight
+Egg - Ancient Power
+Egg - Nature Power
+Egg - Ingrain
+Egg - Skill Swap
+Egg - Block
+Egg - Natural Gift
+Egg - Lucky Chant
+Egg - Power Swap
+Egg - Leaf Storm
+
+== Farfetch'd ==
+
+Egg - Gust
+Egg - Quick Attack
+Egg - Mirror Move
+Egg - Curse
+Egg - Flail
+Egg - Mud-Slap
+Egg - Foresight
+Egg - Steel Wing
+Egg - Revenge
+Egg - FeatherDance
+Egg - Covet
+Egg - Leaf Blade
+Egg - Roost
+Egg - Trump Card
+Egg - Night Slash
+
+== Feebas ==
+
+Egg - Mist
+Egg - Hypnosis
+Egg - Confuse Ray
+Egg - Haze
+Egg - Dragon Breath
+Egg - Iron Tail
+Egg - Mirror Coat
+Egg - Mud Sport
+Egg - Tickle
+Egg - Brine
+Egg - Dragon Pulse
+Egg - Captivate
+
+== Fennekin ==
+
+L? - Scratch
+L? - Tail Whip
+L? - Ember
+L? - Flamethrower
+L? - Psybeam
+L? - Fire Spin
+L? - Psychic
+L? - Light Screen
+L? - Fire Blast
+L? - Sunny Day
+L? - Will-O-Wisp
+L? - Howl
+L? - Lucky Chant
+L? - Psyshock
+L? - Magic Room
+L? - Flame Charge
+TM - Cut
+TM - Flamethrower
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Fire Blast
+TM - Dream Eater
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Psych Up
+TM - Will-O-Wisp
+TM - Facade
+TM - Overheat
+TM - Embargo
+TM - Grass Knot
+TM - Psyshock
+TM - Flame Charge
+TM - Round
+TM - Echoed Voice
+TM - Incinerate
+TM - Confide
+TM - Power-Up Punch
+
+== Ferroseed ==
+
+Egg - Leech Seed
+Egg - Spikes
+Egg - Bullet Seed
+Egg - Gravity
+Egg - Worry Seed
+Egg - Seed Bomb
+Egg - Rock Climb
+Egg - Stealth Rock
+
+== Finneon ==
+
+Egg - Psybeam
+Egg - Aurora Beam
+Egg - Agility
+Egg - Splash
+Egg - Flail
+Egg - Sweet Kiss
+Egg - Charm
+Egg - Tickle
+Egg - Signal Beam
+Egg - Brine
+Egg - Aqua Tail
+
+== Flabebe ==
+
+L? - Vine Whip
+L? - Tackle
+L? - Razor Leaf
+L? - SolarBeam
+L? - Petal Dance
+L? - Wish
+L? - Aromatherapy
+L? - Magical Leaf
+L? - Lucky Chant
+L? - Fairy Wind
+L? - Petal Blizzard
+L? - Moonblast
+L? - Grassy Terrain
+L? - Misty Terrain
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Facade
+TM - Nature Power
+TM - Calm Mind
+TM - Energy Ball
+TM - Grass Knot
+TM - Round
+TM - Echoed Voice
+TM - Dazzling Gleam
+TM - Confide
+
+== Flareon ==
+
+L? - Flare Blitz
+TM - Roar
+TM - Flamethrower
+TM - Hyper Beam
+TM - Strength
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Fire Blast
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Shadow Ball
+TM - Rock Smash
+TM - Will-O-Wisp
+TM - Facade
+TM - Overheat
+TM - Giga Impact
+TM - Flame Charge
+TM - Round
+TM - Echoed Voice
+TM - Incinerate
+TM - Retaliate
+TM - Confide
+
+== Fletchinder ==
+
+L? - Razor Wind
+L? - Tackle
+L? - Growl
+L? - Ember
+L? - Peck
+L? - Agility
+L? - Quick Attack
+L? - Flail
+L? - Steel Wing
+L? - Roost
+L? - Natural Gift
+L? - Tailwind
+L? - Me First
+L? - Flame Charge
+L? - Acrobatics
+TM - Swords Dance
+TM - Fly
+TM - Flamethrower
+TM - Toxic
+TM - Double Team
+TM - Fire Blast
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Steel Wing
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Sunny Day
+TM - Will-O-Wisp
+TM - Facade
+TM - Taunt
+TM - Overheat
+TM - Aerial Ace
+TM - Roost
+TM - U-turn
+TM - Flame Charge
+TM - Round
+TM - Incinerate
+TM - Acrobatics
+TM - Confide
+
+== Fletchling ==
+
+L? - Razor Wind
+L? - Tackle
+L? - Growl
+L? - Peck
+L? - Agility
+L? - Quick Attack
+L? - Flail
+L? - Steel Wing
+L? - Roost
+L? - Natural Gift
+L? - Tailwind
+L? - Me First
+L? - Flame Charge
+L? - Acrobatics
+TM - Swords Dance
+TM - Fly
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Steel Wing
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Sunny Day
+TM - Facade
+TM - Taunt
+TM - Overheat
+TM - Aerial Ace
+TM - Roost
+TM - U-turn
+TM - Flame Charge
+TM - Round
+TM - Acrobatics
+TM - Confide
+
+== Floette ==
+
+L? - Vine Whip
+L? - Tackle
+L? - Razor Leaf
+L? - SolarBeam
+L? - Petal Dance
+L? - Wish
+L? - Aromatherapy
+L? - Magical Leaf
+L? - Lucky Chant
+L? - Fairy Wind
+L? - Petal Blizzard
+L? - Moonblast
+L? - Grassy Terrain
+L? - Misty Terrain
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Facade
+TM - Nature Power
+TM - Calm Mind
+TM - Energy Ball
+TM - Grass Knot
+TM - Round
+TM - Echoed Voice
+TM - Dazzling Gleam
+TM - Confide
+
+== Florges ==
+
+L? - Petal Dance
+L? - Wish
+L? - Aromatherapy
+L? - Magical Leaf
+L? - Lucky Chant
+L? - Grass Knot
+L? - Petal Blizzard
+L? - Moonblast
+L? - Disarming Voice
+L? - Flower Shield
+L? - Grassy Terrain
+L? - Misty Terrain
+TM - Hyper Beam
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Facade
+TM - Nature Power
+TM - Calm Mind
+TM - Energy Ball
+TM - Giga Impact
+TM - Grass Knot
+TM - Round
+TM - Echoed Voice
+TM - Dazzling Gleam
+TM - Confide
+
+== Foongus ==
+
+Egg - Body Slam
+Egg - Growth
+Egg - PoisonPowder
+Egg - Stun Spore
+Egg - Defense Curl
+Egg - Endure
+Egg - Rollout
+Egg - Gastro Acid
+
+== Frillish ==
+
+Egg - Mist
+Egg - Recover
+Egg - Confuse Ray
+Egg - Constrict
+Egg - Acid Armor
+Egg - Pain Split
+
+== Froakie ==
+
+L? - Pound
+L? - Growl
+L? - Hydro Pump
+L? - Quick Attack
+L? - Double Team
+L? - SmokeScreen
+L? - Lick
+L? - Bubble
+L? - Substitute
+L? - Bounce
+L? - Water Pulse
+L? - Fling
+L? - Smack Down
+L? - Round
+TM - Cut
+TM - Surf
+TM - Ice Beam
+TM - Blizzard
+TM - Strength
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Waterfall
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Taunt
+TM - Rock Tomb
+TM - Aerial Ace
+TM - U-turn
+TM - Fling
+TM - Grass Knot
+TM - Smack Down
+TM - Round
+TM - Echoed Voice
+TM - Scald
+TM - Acrobatics
+TM - Confide
+TM - Power-Up Punch
+Egg - Toxic Spikes
+
+== Frogadier ==
+
+L? - Pound
+L? - Growl
+L? - Hydro Pump
+L? - Quick Attack
+L? - Double Team
+L? - SmokeScreen
+L? - Lick
+L? - Bubble
+L? - Substitute
+L? - Bounce
+L? - Water Pulse
+L? - Fling
+L? - Smack Down
+L? - Round
+TM - Cut
+TM - Surf
+TM - Ice Beam
+TM - Blizzard
+TM - Strength
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Waterfall
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Taunt
+TM - Rock Tomb
+TM - Aerial Ace
+TM - U-turn
+TM - Fling
+TM - Dark Pulse
+TM - Grass Knot
+TM - Smack Down
+TM - Round
+TM - Echoed Voice
+TM - Scald
+TM - Acrobatics
+TM - Confide
+TM - Power-Up Punch
+Egg - Toxic Spikes
+
+== Furfrou ==
+
+L? - Sand Attack
+L? - Headbutt
+L? - Tackle
+L? - Take Down
+L? - Tail Whip
+L? - Bite
+L? - Growl
+L? - Charm
+L? - Odor Sleuth
+L? - Sucker Punch
+L? - Retaliate
+L? - Cotton Guard
+L? - Baby-Doll Eyes
+TM - Roar
+TM - Surf
+TM - Thunder Wave
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Rock Smash
+TM - Facade
+TM - U-turn
+TM - Dark Pulse
+TM - Giga Impact
+TM - Grass Knot
+TM - Charge Beam
+TM - Round
+TM - Echoed Voice
+TM - Retaliate
+TM - Wild Charge
+TM - Snarl
+TM - Confide
+
+== Galvantula ==
+
+L? - Sticky Web
+
+== Gastly ==
+
+Egg - Fire Punch
+Egg - Ice Punch
+Egg - Thunder Punch
+Egg - Disable
+Egg - Haze
+Egg - Smog
+Egg - Psywave
+Egg - Scary Face
+Egg - Perish Song
+Egg - Grudge
+Egg - Astonish
+Egg - Clear Smog
+
+== Genesect ==
+
+TM - Ice Beam
+
+== Geodude ==
+
+Egg - Mega Punch
+Egg - Curse
+Egg - Flail
+Egg - Endure
+Egg - Focus Punch
+Egg - Block
+Egg - Hammer Arm
+Egg - Rock Climb
+Egg - Autotomize
+
+== Gible ==
+
+Egg - Body Slam
+Egg - Thrash
+Egg - Double-Edge
+Egg - Scary Face
+Egg - Outrage
+Egg - Dragon Breath
+Egg - Iron Tail
+Egg - Metal Claw
+Egg - Twister
+Egg - Sand Tomb
+Egg - Mud Shot
+Egg - Rock Climb
+Egg - Iron Head
+
+== Girafarig ==
+
+Egg - Razor Wind
+Egg - Double Kick
+Egg - Take Down
+Egg - Amnesia
+Egg - Foresight
+Egg - Mean Look
+Egg - Mirror Coat
+Egg - Future Sight
+Egg - Beat Up
+Egg - Wish
+Egg - Magic Coat
+Egg - Skill Swap
+Egg - Secret Power
+
+== Glameow ==
+
+Egg - Sand Attack
+Egg - Tail Whip
+Egg - Bite
+Egg - Quick Attack
+Egg - Flail
+Egg - Snatch
+Egg - Fake Tears
+Egg - Wake-Up Slap
+Egg - Assurance
+Egg - Last Resort
+
+== Gligar ==
+
+Egg - Razor Wind
+Egg - Wing Attack
+Egg - Double-Edge
+Egg - Counter
+Egg - Agility
+Egg - Baton Pass
+Egg - Metal Claw
+Egg - Sand Tomb
+Egg - Poison Tail
+Egg - Feint
+Egg - Power Trick
+Egg - Night Slash
+Egg - Rock Climb
+Egg - Cross Poison
+
+== Gogoat ==
+
+L? - Vine Whip
+L? - Tackle
+L? - Take Down
+L? - Double-Edge
+L? - Tail Whip
+L? - Leech Seed
+L? - Growth
+L? - Razor Leaf
+L? - Earthquake
+L? - Milk Drink
+L? - Synthesis
+L? - Aerial Ace
+L? - Bulk Up
+L? - Leaf Blade
+L? - Worry Seed
+L? - Seed Bomb
+L? - Bulldoze
+L? - Horn Leech
+TM - Roar
+TM - Surf
+TM - Hyper Beam
+TM - Strength
+TM - SolarBeam
+TM - Earthquake
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Rock Smash
+TM - Facade
+TM - Nature Power
+TM - Brick Break
+TM - Aerial Ace
+TM - Bulk Up
+TM - Payback
+TM - Energy Ball
+TM - Giga Impact
+TM - Grass Knot
+TM - Round
+TM - Retaliate
+TM - Bulldoze
+TM - Wild Charge
+TM - Confide
+
+== Goldeen ==
+
+Egg - Body Slam
+Egg - Hydro Pump
+Egg - Psybeam
+Egg - Haze
+Egg - Skull Bash
+Egg - Mud-Slap
+Egg - Sleep Talk
+Egg - Mud Sport
+Egg - Signal Beam
+Egg - Mud Shot
+Egg - Aqua Tail
+
+== Golett ==
+
+TM - Earthquake
+
+== Golurk ==
+
+TM - Earthquake
+
+== Goodra ==
+
+L? - Tackle
+L? - Body Slam
+L? - Absorb
+L? - Bide
+L? - Bubble
+L? - Flail
+L? - Protect
+L? - Outrage
+L? - Dragon Breath
+L? - Rain Dance
+L? - Muddy Water
+L? - Feint
+L? - Aqua Tail
+L? - Dragon Pulse
+L? - Power Whip
+TM - Flamethrower
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Strength
+TM - Thunderbolt
+TM - Thunder
+TM - Earthquake
+TM - Toxic
+TM - Double Team
+TM - Fire Blast
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - Sludge Bomb
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Rock Smash
+TM - Hail
+TM - Facade
+TM - Focus Blast
+TM - Giga Impact
+TM - Sludge Wave
+TM - Round
+TM - Incinerate
+TM - Bulldoze
+TM - Dragon Tail
+TM - Infestation
+TM - Confide
+
+== Goomy ==
+
+L? - Tackle
+L? - Body Slam
+L? - Absorb
+L? - Bide
+L? - Bubble
+L? - Flail
+L? - Protect
+L? - Dragon Breath
+L? - Rain Dance
+L? - Muddy Water
+L? - Dragon Pulse
+TM - Thunderbolt
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - Sludge Bomb
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Facade
+TM - Sludge Wave
+TM - Round
+TM - Infestation
+TM - Confide
+
+== Gothita ==
+
+Egg - Mean Look
+Egg - Mirror Coat
+Egg - Uproar
+Egg - Miracle Eye
+Egg - Dark Pulse
+Egg - Captivate
+
+== Gourgeist ==
+
+L? - Leech Seed
+L? - Razor Leaf
+L? - Confuse Ray
+L? - Explosion
+L? - Scary Face
+L? - Pain Split
+L? - Shadow Ball
+L? - Trick
+L? - Astonish
+L? - Bullet Seed
+L? - Worry Seed
+L? - Seed Bomb
+L? - Shadow Sneak
+L? - Phantom Force
+L? - Trick-or-Treat
+TM - Flamethrower
+TM - Hyper Beam
+TM - SolarBeam
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Fire Blast
+TM - Dream Eater
+TM - Flash
+TM - Explosion
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Sludge Bomb
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Sunny Day
+TM - Shadow Ball
+TM - Rock Smash
+TM - Will-O-Wisp
+TM - Facade
+TM - Nature Power
+TM - Gyro Ball
+TM - Dark Pulse
+TM - Focus Blast
+TM - Energy Ball
+TM - Giga Impact
+TM - Trick Room
+TM - Grass Knot
+TM - Charge Beam
+TM - Flame Charge
+TM - Round
+TM - Incinerate
+TM - Confide
+
+== Granbull ==
+
+L? - Play Rough
+
+== Greninja ==
+
+L? - Pound
+L? - Growl
+L? - Hydro Pump
+L? - Quick Attack
+L? - Double Team
+L? - SmokeScreen
+L? - Haze
+L? - Lick
+L? - Bubble
+L? - Substitute
+L? - Feint Attack
+L? - Spikes
+L? - Role Play
+L? - Extrasensory
+L? - Water Pulse
+L? - Night Slash
+L? - Shadow Sneak
+L? - Water Shuriken
+L? - Mat Block
+TM - Cut
+TM - Surf
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Strength
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Waterfall
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Taunt
+TM - Rock Tomb
+TM - Aerial Ace
+TM - U-turn
+TM - Fling
+TM - Dark Pulse
+TM - Giga Impact
+TM - Grass Knot
+TM - Smack Down
+TM - Round
+TM - Echoed Voice
+TM - Scald
+TM - Acrobatics
+TM - Confide
+TM - Power-Up Punch
+Egg - Toxic Spikes
+
+== Grimer ==
+
+Egg - Haze
+Egg - Lick
+Egg - Curse
+Egg - Scary Face
+Egg - Mean Look
+Egg - Stockpile
+Egg - Spit Up
+Egg - Swallow
+Egg - Imprison
+Egg - Shadow Punch
+Egg - Shadow Sneak
+Egg - Acid Spray
+
+== Groudon ==
+
+TM - Earthquake
+
+== Growlithe ==
+
+Egg - Double Kick
+Egg - Body Slam
+Egg - Thrash
+Egg - Double-Edge
+Egg - Fire Spin
+Egg - Iron Tail
+Egg - Morning Sun
+Egg - Crunch
+Egg - Heat Wave
+Egg - Howl
+Egg - Covet
+Egg - Close Combat
+Egg - Flare Blitz
+
+== Gulpin ==
+
+L? - Belch
+Egg - Smog
+Egg - Acid Armor
+Egg - Curse
+Egg - Mud-Slap
+Egg - Destiny Bond
+Egg - Pain Split
+Egg - Gunk Shot
+
+== Gyarados ==
+
+L? - Bite
+TM - Surf
+
+== Happiny ==
+
+Egg - Counter
+Egg - Metronome
+Egg - Endure
+Egg - Heal Bell
+Egg - Present
+Egg - Helping Hand
+Egg - Aromatherapy
+Egg - Gravity
+Egg - Natural Gift
+Egg - Last Resort
+Egg - Mud Bomb
+
+== Hawlucha ==
+
+L? - Karate Chop
+L? - Swords Dance
+L? - Wing Attack
+L? - Tackle
+L? - High Jump Kick
+L? - Sky Attack
+L? - Detect
+L? - Encore
+L? - Endeavor
+L? - FeatherDance
+L? - Aerial Ace
+L? - Bounce
+L? - Roost
+L? - Fling
+L? - Hone Claws
+L? - Sky Drop
+L? - Flying Press
+TM - Swords Dance
+TM - Cut
+TM - Fly
+TM - Strength
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - False Swipe
+TM - Swagger
+TM - Steel Wing
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Rock Smash
+TM - Torment
+TM - Facade
+TM - Taunt
+TM - Brick Break
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Bulk Up
+TM - Roost
+TM - U-turn
+TM - Payback
+TM - Fling
+TM - Poison Jab
+TM - X-Scissor
+TM - Focus Blast
+TM - Giga Impact
+TM - Stone Edge
+TM - Grass Knot
+TM - Hone Claws
+TM - Low Sweep
+TM - Round
+TM - Sky Drop
+TM - Acrobatics
+TM - Retaliate
+TM - Confide
+TM - Power-Up Punch
+
+== Heatmor ==
+
+Egg - Body Slam
+Egg - Wrap
+Egg - Curse
+Egg - Feint Attack
+Egg - Sleep Talk
+Egg - Pursuit
+Egg - Heat Wave
+Egg - Tickle
+Egg - Sucker Punch
+Egg - Night Slash
+
+== Heatran ==
+
+TM - Flamethrower
+
+== Heliolisk ==
+
+L? - Razor Wind
+L? - Thunder
+L? - Quick Attack
+L? - Charge
+L? - Parabolic Charge
+L? - Eerie Impulse
+L? - Electrify
+TM - Cut
+TM - Surf
+TM - Hyper Beam
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Thunder
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Light Screen
+TM - Flash
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - Sandstorm
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Psych Up
+TM - Facade
+TM - Rock Tomb
+TM - U-turn
+TM - Dark Pulse
+TM - Focus Blast
+TM - Giga Impact
+TM - Grass Knot
+TM - Charge Beam
+TM - Low Sweep
+TM - Round
+TM - Volt Switch
+TM - Bulldoze
+TM - Dragon Tail
+TM - Wild Charge
+TM - Confide
+
+== Helioptile ==
+
+L? - Pound
+L? - Razor Wind
+L? - Tail Whip
+L? - Thunder Shock
+L? - Thunderbolt
+L? - Thunder Wave
+L? - Quick Attack
+L? - Mud-Slap
+L? - Charge
+L? - Volt Switch
+L? - Bulldoze
+L? - Parabolic Charge
+L? - Electrify
+TM - Cut
+TM - Surf
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Thunder
+TM - Dig
+TM - Toxic
+TM - Double Team
+TM - Light Screen
+TM - Flash
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - Sandstorm
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Psych Up
+TM - Facade
+TM - Rock Tomb
+TM - U-turn
+TM - Dark Pulse
+TM - Grass Knot
+TM - Charge Beam
+TM - Low Sweep
+TM - Round
+TM - Volt Switch
+TM - Bulldoze
+TM - Dragon Tail
+TM - Wild Charge
+TM - Confide
+
+== Heracross ==
+
+Egg - Double-Edge
+Egg - Seismic Toss
+Egg - Harden
+Egg - Bide
+Egg - Flail
+Egg - Megahorn
+Egg - Pursuit
+Egg - Focus Punch
+Egg - Revenge
+
+== Hippopotas ==
+
+Egg - Whirlwind
+Egg - Body Slam
+Egg - Curse
+Egg - Sleep Talk
+Egg - Stockpile
+Egg - Spit Up
+Egg - Swallow
+Egg - Revenge
+Egg - Slack Off
+Egg - Sand Tomb
+
+== Hitmonlee ==
+
+TM - Strength
+TM - Earthquake
+TM - Toxic
+TM - Double Team
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Rock Smash
+TM - Facade
+TM - Brick Break
+TM - Rock Tomb
+TM - Bulk Up
+TM - Fling
+TM - Poison Jab
+TM - Focus Blast
+TM - Stone Edge
+TM - Low Sweep
+TM - Round
+TM - Retaliate
+TM - Bulldoze
+TM - Confide
+TM - Power-Up Punch
+
+== Honedge ==
+
+L? - Swords Dance
+L? - Tackle
+L? - Slash
+L? - Fury Cutter
+L? - Pursuit
+L? - Metal Sound
+L? - Aerial Ace
+L? - Iron Defense
+L? - Power Trick
+L? - Night Slash
+L? - Shadow Sneak
+L? - Iron Head
+L? - Autotomize
+L? - Retaliate
+L? - Sacred Sword
+TM - Cut
+TM - Toxic
+TM - Double Team
+TM - Reflect
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Protect
+TM - False Swipe
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Rock Smash
+TM - Facade
+TM - Brick Break
+TM - Aerial Ace
+TM - Gyro Ball
+TM - Shadow Claw
+TM - Flash Cannon
+TM - Retaliate
+TM - Confide
+
+== Ho-Oh ==
+
+L? - Recover
+L? - Sacred Fire
+L? - Brave Bird
+
+== Hoothoot ==
+
+Egg - Wing Attack
+Egg - Whirlwind
+Egg - Supersonic
+Egg - Agility
+Egg - Night Shade
+Egg - Mirror Move
+Egg - Sky Attack
+Egg - Feint Attack
+Egg - FeatherDance
+Egg - Defog
+
+== Hoppip ==
+
+Egg - Double-Edge
+Egg - Confusion
+Egg - Amnesia
+Egg - Endure
+Egg - Encore
+Egg - Helping Hand
+Egg - Aromatherapy
+Egg - Worry Seed
+Egg - Seed Bomb
+Egg - Cotton Guard
+
+== Horsea ==
+
+Egg - Razor Wind
+Egg - Disable
+Egg - Aurora Beam
+Egg - Dragon Rage
+Egg - Splash
+Egg - Flail
+Egg - Octazooka
+Egg - Outrage
+Egg - Dragon Breath
+Egg - Signal Beam
+Egg - Muddy Water
+Egg - Water Pulse
+Egg - Clear Smog
+
+== Houndour ==
+
+Egg - Counter
+Egg - Fire Spin
+Egg - Rage
+Egg - Reversal
+Egg - Spite
+Egg - Pursuit
+Egg - Beat Up
+Egg - Feint
+Egg - Punishment
+Egg - Sucker Punch
+Egg - Nasty Plot
+Egg - Thunder Fang
+Egg - Fire Fang
+
+== Igglybuff ==
+
+Egg - Feint Attack
+Egg - Perish Song
+Egg - Sleep Talk
+Egg - Present
+Egg - Wish
+Egg - Fake Tears
+Egg - Covet
+Egg - Gravity
+Egg - Punishment
+Egg - Last Resort
+Egg - Captivate
+
+== Illumise ==
+
+L? - Play Nice
+Egg - Growth
+Egg - Confuse Ray
+Egg - Baton Pass
+Egg - Encore
+Egg - Fake Tears
+Egg - Silver Wind
+Egg - Bug Buzz
+Egg - Captivate
+
+== Inkay ==
+
+L? - Tackle
+L? - Psybeam
+L? - Peck
+L? - Hypnosis
+L? - Light Screen
+L? - Reflect
+L? - Constrict
+L? - Psywave
+L? - Slash
+L? - Swagger
+L? - Superpower
+L? - Pluck
+L? - Payback
+L? - Night Slash
+L? - Switcheroo
+L? - Psycho Cut
+L? - Foul Play
+L? - Topsy-turvy
+TM - Cut
+TM - Flamethrower
+TM - Thunderbolt
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Flash
+TM - Rest
+TM - Rock Slide
+TM - Substitute
+TM - Thief
+TM - Protect
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Psych Up
+TM - Torment
+TM - Facade
+TM - Taunt
+TM - Aerial Ace
+TM - Calm Mind
+TM - Payback
+TM - Embargo
+TM - Fling
+TM - Dark Pulse
+TM - Trick Room
+TM - Round
+TM - Retaliate
+TM - Confide
+
