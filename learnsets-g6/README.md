@@ -5,7 +5,8 @@ This should be in the the following format:
 
 	[How to get the move] - [Move name]
 
-Specifically, it should be in this order (and how to get the move *must* be written one of these way):
+Specifically, it should be in this order (and how to get the move *must* be
+written one of these ways):
 
 	Start - [Start move]
 	L? - [Level-up move of unknown level]
