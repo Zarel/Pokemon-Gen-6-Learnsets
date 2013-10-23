@@ -43,10 +43,11 @@ TM - Payback
 
 == Scatterbug ==
 
-L? - Tackle
-L? - Stun Spore
-L? - String Shot
-L? - Bug Bite
+Start - Tackle
+Start - String Shot
+L6 - Stun Spore
+L15 - Bug Bite
+Egg - Rage Powder
 
 == Scraggy ==
 
@@ -767,8 +768,8 @@ Egg - Astonish
 
 == Spewpa ==
 
-L? - Harden
-L? - Protect
+Start - Harden
+L9 - Protect
 
 == Spheal ==
 
