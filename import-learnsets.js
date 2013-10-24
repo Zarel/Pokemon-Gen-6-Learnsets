@@ -20,6 +20,14 @@ fs.existsSync = require("path").existsSync;
 var Tools = require('./tools.js');
 var Learnsets = Tools.data.Learnsets;
 
+var LearnsetsG6 = {};
+for (var speciesid in Learnsets) {
+	LearnsetsG6[speciesid] = {learnset:{}};
+	for (var moveid in Learnsets[speciesid].learnset) {
+		LearnsetsG6[speciesid].learnset[moveid] = [];
+	}
+}
+
 // If modern computers didn't come standard with 4GB of RAM,
 // I'd probably stream this
 var input = ''+fs.readFileSync('learnsets-g6/learnsets-g6-A-to-C.txt');
@@ -85,9 +93,12 @@ for (var i=0; i<input.length; i++) {
 		}
 		if (!Learnsets[speciesid].learnset[move.id]) Learnsets[speciesid].learnset[move.id] = [type];
 		else Learnsets[speciesid].learnset[move.id].push(type);
+
+		if (!LearnsetsG6[speciesid].learnset[move.id]) LearnsetsG6[speciesid].learnset[move.id] = [type];
+		else LearnsetsG6[speciesid].learnset[move.id].push(type);
 	}
 }
- 
+
 var output = 'exports.BattleLearnsets = {\n';
  
 for (var speciesid in Learnsets) {
@@ -104,3 +115,21 @@ output = output.substr(0, output.length-2)+'\n';
 output += '};';
 
 fs.writeFileSync('data/learnsets.js', output);
+
+
+output = 'exports.BattleLearnsets = {\n';
+ 
+for (var speciesid in LearnsetsG6) {
+	var learnset = LearnsetsG6[speciesid].learnset;
+	output += '	'+speciesid+':{learnset:{';
+	output += Object.keys(learnset).map(function(key) {
+		return (key==='return'?'"return"':key)+':'+JSON.stringify(learnset[key]);
+	}).join(',');
+	output += '}},\n';
+}
+ 
+output = output.substr(0, output.length-2)+'\n';
+ 
+output += '};';
+
+fs.writeFileSync('data/learnsets-g6.js', output);
