@@ -16,7 +16,7 @@ fs.existsSync = require("path").existsSync;
 var LearnsetsG6 = require('./learnsets-g6.js');
 var Tools = require('./tools.js');
 
-// A-C, D-I, J-R, S-O, P-Z
+// A-C, D-I, J-O, P-R, S-Z
 
 var keys = Object.keys(LearnsetsG6).sort();
 
@@ -36,16 +36,17 @@ for (var i=0; i<keys.length; i++) {
 		buf = '';
 		curFile = 'j';
 	}
-	if (key.charAt(0) === 's' && curFile === 'j') {
-		fs.writeFileSync('learnsets-g6/learnsets-g6-J-to-R.txt', buf);
-		buf = '';
-		curFile = 's';
-	}
-	if (key.charAt(0) === 'p' && curFile === 's') {
-		fs.writeFileSync('learnsets-g6/learnsets-g6-S-to-O.txt', buf);
+	if (key.charAt(0) === 'p' && curFile === 'j') {
+		fs.writeFileSync('learnsets-g6/learnsets-g6-J-to-O.txt', buf);
 		buf = '';
 		curFile = 'p';
 	}
+	if (key.charAt(0) === 's' && curFile === 'p') {
+		fs.writeFileSync('learnsets-g6/learnsets-g6-P-to-R.txt', buf);
+		buf = '';
+		curFile = 's';
+	}
+	console.log(key.charAt(0)+' '+curFile);
 
 	buf += '== '+Tools.getTemplate(key).name+' ==\n\n';
 	for (var j in LearnsetsG6[key].level) {
@@ -59,4 +60,4 @@ for (var i=0; i<keys.length; i++) {
 	}
 	buf += '\n';
 }
-fs.writeFileSync('learnsets-g6/learnsets-g6-P-to-Z.txt', buf);
+fs.writeFileSync('learnsets-g6/learnsets-g6-S-to-Z.txt', buf);
