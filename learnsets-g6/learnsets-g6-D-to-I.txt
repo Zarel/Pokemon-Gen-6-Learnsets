@@ -16,22 +16,22 @@ Egg - Hammer Arm
 
 == Dedenne ==
 
-L? - Tackle
-L? - Tail Whip
+Start - Tackle
+Start - Tail Whip
 L? - Thunder Shock
+L? - Charge
+L? - Charm
+L? - Parabolic Charge
+L? - Nuzzle
 L? - Thunder Wave
-L? - Thunder
+L? - Volt Switch
 L? - Rest
 L? - Snore
-L? - Charm
-L? - Charge
-L? - Discharge
 L? - Charge Beam
 L? - Entrainment
-L? - Volt Switch
-L? - Nuzzle
-L? - Parabolic Charge
 L? - Play Rough
+L? - Thunder
+L? - Discharge
 TM - Cut
 TM - Thunderbolt
 TM - Thunder Wave
@@ -90,8 +90,51 @@ Egg - Fire Fang
 Egg - Head Smash
 Egg - Double Hit
 
+== Delcatty ==
+
+TM - Calm Mind
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Solar Beam
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Dig
+TM - Shadow Ball
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Echoed Voice
+TM - Charge Beam
+TM - Payback
+TM - Retaliate
+TM - Giga Impact
+TM - Flash
+TM - Thunder Wave
+TM - Psych Up
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Wild Charge
+TM - Rock Smash
+TM - Confide
+TM - Strength
+
 == Delibird ==
 
+L? - Present
 Egg - Ice Punch
 Egg - Aurora Beam
 Egg - Quick Attack
@@ -106,6 +149,10 @@ Egg - Bestow
 
 == Delphox ==
 
+Start - Future Sight
+Start - Role Play
+Start - Switcheroo
+Start - Shadow Ball
 L? - Scratch
 L? - Tail Whip
 L? - Ember
@@ -116,13 +163,10 @@ L? - Psychic
 L? - Light Screen
 L? - Fire Blast
 L? - Sunny Day
-L? - Shadow Ball
 L? - Future Sight
 L? - Will-O-Wisp
-L? - Role Play
 L? - Howl
 L? - Lucky Chant
-L? - Switcheroo
 L? - Psyshock
 L? - Magic Room
 L? - Flame Charge
@@ -171,6 +215,13 @@ TM - Power-Up Punch
 == Deoxys ==
 
 TM - Psychic
+
+== Dewgong ==
+
+L? - Ice Shard
+L? - Rest
+L? - Aqua Ring
+L? - Aurora Beam
 
 == Diggersby ==
 
@@ -257,6 +308,12 @@ L? - Transform
 
 == Doduo ==
 
+L? - Peck
+L? - Growl
+L? - Quick Attack
+L? - Rage
+L? - Fury Attack
+L? - Pursuit
 TM - Fly
 TM - Toxic
 TM - Double Team
@@ -335,6 +392,8 @@ TM - Confide
 
 == Dragalge ==
 
+Start - Twister
+Start - Dragon Tail
 L? - Tackle
 L? - Tail Whip
 L? - Acid
@@ -346,13 +405,12 @@ L? - SmokeScreen
 L? - Bubble
 L? - Feint Attack
 L? - Sludge Bomb
-L? - Twister
 L? - Camouflage
 L? - Poison Tail
 L? - Water Pulse
 L? - Aqua Tail
-L? - Dragon Pulse
 L? - Dragon Tail
+L? - Dragon Pulse
 TM - Surf
 TM - Hyper Beam
 TM - Thunderbolt
@@ -381,10 +439,239 @@ TM - Round
 TM - Scald
 TM - Dragon Tail
 TM - Confide
-Egg - Toxic Spikes
+
+== Dragonair ==
+
+Start - Wrap
+Start - Leer
+L? - Twister
+L? - Dragon Rage
+L? - Slam
+L? - Agility
+L? - Dragon Tail
+L? - Aqua Tail
+L? - Dragon Rush
+L? - Safeguard
+L? - Dragon Dance
+L? - Outrage
+L? - Hyper Beam
+L5 - Thunder Wave
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Double Team
+TM - Flamethrower
+TM - Fire Blast
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Incinerate
+TM - Thunder Wave
+TM - Dragon Tail
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Surf
+TM - Waterfall
+
+== Dragonite ==
+
+Start - Wrap
+Start - Leer
+Start - Hurricane
+Start - Fire Punch
+Start - Thunder Punch
+Start - Roost
+L? - Twister
+L? - Dragon Rage
+L? - Slam
+L? - Agility
+L? - Dragon Tail
+L? - Aqua Tail
+L? - Dragon Rush
+L? - Safeguard
+L? - Wing Attack
+L? - Dragon Dance
+L? - Outrage
+L? - Hyper Beam
+L? - Hurricane
+L5 - Thunder Wave
+TM - Hone Claws
+TM - Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Roost
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Earthquake
+TM - Return
+TM - Brick Break
+TM - Double Team
+TM - Flamethrower
+TM - Sandstorm
+TM - Fire Blast
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Steel Wing
+TM - Focus Blast
+TM - Fling
+TM - Sky Drop
+TM - Incinerate
+TM - Giga Impact
+TM - Stone Edge
+TM - Thunder Wave
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Cut
+TM - Fly
+TM - Surf
+TM - Strength
+TM - Waterfall
+
+== Drapion ==
+
+L? - Thunder Fang
+L? - Ice Fang
+L? - Fire Fang
+L? - Bite
+L? - Poison Sting
+L? - Leer
+L? - Knock Off
+L? - Pin Missile
+L? - Acupressure
+L? - Night Slash
+L? - Scary Face
+TM - Hone Claws
+TM - Roar
+TM - Toxic
+TM - Venoshock
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Hyper Beam
+TM - Protect
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Shadow Ball
+TM - Brick Break
+TM - Double Team
+TM - Sludge Bomb
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - False Swipe
+TM - Fling
+TM - Payback
+TM - Retaliate
+TM - Giga Impact
+TM - Flash
+TM - Swords Dance
+TM - Struggle Bug
+TM - Bulldoze
+TM - Rock Slide
+TM - X-Scissor
+TM - Infestation
+TM - Poison Jab
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Snarl
+TM - Dark Pulse
+TM - Confide
+TM - Cut
+TM - Strength
 
 == Dratini ==
 
+Start - Wrap
+Start - Leer
+L? - Twister
+L? - Dragon Rage
+L? - Slam
+L? - Agility
+L? - Dragon Tail
+L? - Aqua Tail
+L? - Dragon Rush
+L? - Safeguard
+L? - Dragon Dance
+L? - Outrage
+L? - Hyper Beam
+L5 - Thunder Wave
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Double Team
+TM - Flamethrower
+TM - Fire Blast
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Incinerate
+TM - Thunder Wave
+TM - Dragon Tail
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Surf
+TM - Waterfall
 Egg - Supersonic
 Egg - Mist
 Egg - Haze
@@ -397,8 +684,105 @@ Egg - Dragon Pulse
 Egg - Dragon Rush
 Egg - Aqua Jet
 
+== Drifblim ==
+
+Start - Phantom Force
+L? - Swallow
+L? - Spit Up
+L? - Shadow Ball
+L? - Amnesia
+L? - Baton Pass
+L? - Explosion
+L? - Phantom Force
+TM - Calm Mind
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Charge Beam
+TM - Will-O-Wisp
+TM - Acrobatics
+TM - Embargo
+TM - Explosion
+TM - Payback
+TM - Giga Impact
+TM - Flash
+TM - Thunder Wave
+TM - Gyro Ball
+TM - Psych Up
+TM - Dream Eater
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Cut
+TM - Fly
+
 == Drifloon ==
 
+Start - Constrict
+Start - Minimize
+L? - Astonish
+L? - Gust
+L? - Focus Energy
+L? - Payback
+L? - Ominous Wind
+L? - Stockpile
+L? - Hex
+L? - Swallow
+L? - Spit Up
+L? - Shadow Ball
+L? - Amnesia
+L? - Baton Pass
+L? - Explosion
+TM - Calm Mind
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Charge Beam
+TM - Will-O-Wisp
+TM - Acrobatics
+TM - Embargo
+TM - Explosion
+TM - Payback
+TM - Flash
+TM - Thunder Wave
+TM - Gyro Ball
+TM - Psych Up
+TM - Dream Eater
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Cut
 Egg - Body Slam
 Egg - Disable
 Egg - Hypnosis
@@ -411,6 +795,8 @@ Egg - Clear Smog
 
 == Drilbur ==
 
+Start - Scratch
+Start - Mud Sport
 Egg - Submission
 Egg - Skull Bash
 Egg - Rapid Spin
@@ -437,6 +823,70 @@ Egg - Psycho Cut
 
 == Druddigon ==
 
+Start - Leer
+Start - Scratch
+L? - Bite
+L? - Scary Face
+L? - Dragon Rage
+L? - Slash
+L? - Crunch
+L? - Dragon Claw
+L? - Chip Away
+L? - Revenge
+L? - Night Slash
+L? - Dragon Tail
+L? - Rock Climb
+L? - Superpower
+L? - Outrage
+L5 - Hone Claws
+TM - Hone Claws
+TM - Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Smack Down
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Flamethrower
+TM - Sludge Bomb
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Charge Beam
+TM - Incinerate
+TM - Shadow Claw
+TM - Payback
+TM - Retaliate
+TM - Giga Impact
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Flash Cannon
+TM - Rock Smash
+TM - Snarl
+TM - Dark Pulse
+TM - Power-Up Punch
+TM - Confide
+TM - Cut
+TM - Surf
+TM - Strength
 Egg - Glare
 Egg - Feint Attack
 Egg - Pursuit
@@ -451,6 +901,44 @@ Egg - Fire Fang
 
 == Ducklett ==
 
+Start - Water Gun
+L? - Water Sport
+L? - Defog
+L? - Wing Attack
+L? - Water Pulse
+L? - Aerial Ace
+L? - Bubble Beam
+L? - Feather Dance
+L? - Aqua Ring
+L? - Air Slash
+L? - Roost
+L? - Rain Dance
+L? - Tailwind
+L? - Brave Bird
+L? - Hurricane
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Protect
+TM - Rain Dance
+TM - Roost
+TM - Frustration
+TM - Return
+TM - Double Team
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Steel Wing
+TM - Scald
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Fly
+TM - Surf
 Egg - Gust
 Egg - Mirror Move
 Egg - Steel Wing
@@ -461,6 +949,43 @@ Egg - Me First
 
 == Dunsparce ==
 
+Start - Rage
+Start - Defense Curl
+Start - Rollout
+L? - Spite
+L? - Pursuit
+L? - Screech
+L? - Yawn
+L? - Ancient Power
+L? - Take Down
+L? - Roost
+L? - Glare
+L? - Dig
+L? - Double-Edge
+L? - Coil
+L? - Endure
+L? - Drill Run
+L? - Endeavor
+L? - Flail
+TM - Toxic
+TM - Protect
+TM - Frustration
+TM - Thunderbolt
+TM - Return
+TM - Dig
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Charge Beam
+TM - Thunder Wave
+TM - Gyro Ball
+TM - Bulldoze
+TM - Poison Jab
+TM - Rock Smash
+TM - Confide
+TM - Strength
 Egg - Headbutt
 Egg - Bite
 Egg - Agility
@@ -477,6 +1002,58 @@ Egg - Hex
 
 == Durant ==
 
+Start - Iron Defense
+Start - Metal Sound
+Start - Vice Grip
+Start - Sand Attack
+L? - Guillotine
+L? - Fury Cutter
+L? - Bite
+L? - Agility
+L? - Metal Claw
+L? - Bug Bite
+L? - Crunch
+L? - Iron Head
+L? - Dig
+L? - Entrainment
+L? - X-Scissor
+L? - Iron Defense
+L? - Guillotine
+L? - Metal Sound
+TM - Hone Claws
+TM - Toxic
+TM - Hidden Power
+TM - Protect
+TM - Frustration
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Sandstorm
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Energy Ball
+TM - False Swipe
+TM - Shadow Claw
+TM - Retaliate
+TM - Giga Impact
+TM - Rock Polish
+TM - Stone Edge
+TM - Thunder Wave
+TM - Struggle Bug
+TM - Rock Slide
+TM - X-Scissor
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Flash Cannon
+TM - Rock Smash
+TM - Confide
+TM - Cut
+TM - Strength
 Egg - Screech
 Egg - Feint Attack
 Egg - Endure
@@ -498,10 +1075,59 @@ Egg - Ominous Wind
 
 == Dustox ==
 
+L? - Confusion
+L? - Gust
+L? - Protect
+L? - Moonlight
+L? - Psybeam
+L? - Whirlwind
+L? - Light Screen
+L? - Silver Wind
+L? - Toxic
+L? - Bug Buzz
+L? - Quiver Dance
+TM - Toxic
+TM - Venoshock
+TM - Hidden Power
+TM - Hyper Beam
+TM - Light Screen
+TM - Roost
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Sludge Bomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Energy Ball
+TM - Acrobatics
+TM - Giga Impact
+TM - Flash
+TM - Struggle Bug
+TM - Infestation
+TM - Swagger
+TM - Sleep Talk
+TM - U-turn
+TM - Substitute
+TM - Confide
 TM - Aerial Ace
 
 == Dwebble ==
 
+L? - Sand Attack
+L? - Withdraw
+L? - Feint Attack
+L? - Rock Blast
+L? - Smack Down
+L? - Rock Polish
+L? - Bug Bite
+L? - Stealth Rock
+L? - Rock Slide
 Egg - Counter
 Egg - Curse
 Egg - Spikes
@@ -521,7 +1147,23 @@ TM - Thunderbolt
 
 == Eevee ==
 
+Start - Helping Hand
+Start - Growl
+Start - Tackle
+Start - Tail Whip
 L? - Baby-Doll Eyes
+L? - Swift
+L? - Bite
+L? - Quick Attack
+L? - Refresh
+L? - Covet
+L? - Take Down
+L? - Charm
+L? - Baton Pass
+L? - Double Edge
+L? - Last Resort
+L? - Trump Card
+L5 - Sand Attack
 TM - Dig
 TM - Toxic
 TM - Double Team
@@ -558,6 +1200,13 @@ Egg - Stored Power
 
 == Ekans ==
 
+Start - Wrap
+Start - Leer
+L? - Poison Sting
+L? - Bite
+L? - Glare
+L? - Screech
+L? - Acid
 Egg - Slam
 Egg - Disable
 Egg - Spite
@@ -573,6 +1222,10 @@ Egg - Switcheroo
 
 == Electabuzz ==
 
+L? - Thunder Wave
+L? - Electro Ball
+L? - Light Screen
+L? - ThunderPunch
 TM - Hyper Beam
 TM - Strength
 TM - Thunderbolt
@@ -610,6 +1263,20 @@ TM - Power-Up Punch
 
 == Electrike ==
 
+Start - Tackle
+L? - Thunder Wave
+L? - Leer
+L? - Howl
+L? - Quick Attack
+L? - Spark
+L? - Odor Sleuth
+L? - Bite
+L? - Thunder Fang
+L? - Roar
+L? - Discharge
+L? - Charge
+L? - Wild Charge
+L? - Thunder
 Egg - Headbutt
 Egg - Swift
 Egg - Curse
@@ -626,6 +1293,23 @@ Egg - Electro Ball
 
 == Electrode ==
 
+L? - Magnetic Flux
+L? - Charge
+L? - Tackle
+L? - Sonic Boom
+L? - Spark
+L? - Eerie Impulse
+L? - Rollout
+L? - Screech
+L? - Charge Beam
+L? - Light Screen
+L? - Electro Ball
+L? - Self-Destruct
+L? - Swift
+L? - Magnet Rise
+L? - Gyro Ball
+L? - Explosion
+L? - Mirror Coat
 TM - Hyper Beam
 TM - Thunderbolt
 TM - Thunder Wave
@@ -682,7 +1366,38 @@ Egg - Nasty Plot
 
 == Emolga ==
 
+L? - Spark
 L? - Nuzzle
+L? - Pursuit
+L? - Double Team
+L? - Shock Wave
+L? - Volt Switch
+L? - Aerial Ace
+L? - Acrobatics
+TM - Toxic
+TM - Hidden Power
+TM - Taunt
+TM - Protect
+TM - Rain Dance
+TM - Roost
+TM - Frustration
+TM - Thunderbolt
+TM - Return
+TM - Double Team
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Fling
+TM - Charge Beam
+TM - Acrobatics
+TM - Flash
+TM - Thunder Wave
+TM - Sleep Talk
+TM - U-turn
+TM - Substitute
+TM - Wild Charge
+TM - Cut
 Egg - Charm
 Egg - Baton Pass
 Egg - Iron Tail
@@ -696,6 +1411,7 @@ Egg - Air Slash
 == Empoleon ==
 
 TM - Psychic
+TM - Surf
 
 == Entei ==
 
@@ -749,6 +1465,54 @@ TM - Confide
 
 == Exeggcute ==
 
+Start - Barrage
+Start - Uproar
+Start - Hypnosis
+L? - Reflect
+L? - Leech Seed
+L? - Bullet Seed
+L? - Sleep Powder
+L? - Poison Powder
+L? - Stun Spore
+L? - Confusion
+L? - Worry Seed
+L? - Natural Gift
+L? - Solarbeam
+L? - Extrasensory
+L? - Bestow
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Light Screen
+TM - Protect
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Psychic
+TM - Double Team
+TM - Reflect
+TM - Sludge Bomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Energy Ball
+TM - Explosion
+TM - Flash
+TM - Swords Dance
+TM - Psych Up
+TM - Rock Slide
+TM - Infestation
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Trick Room
+TM - Nature Power
+TM - Confide
+TM - Strength
 Egg - Curse
 Egg - Giga Drain
 Egg - Synthesis
@@ -765,6 +1529,46 @@ Egg - Leaf Storm
 
 == Farfetch'd ==
 
+Start - Peck
+Start - Sand Attack
+Start - Leer
+Start - Fury Cutter
+L? - Fury Attack
+L? - Aerial Ace
+L? - Knock Off
+L? - Slash
+L? - Air Cutter
+L? - Swords Dance
+L? - Agility
+L? - Night Slash
+L? - Acrobatics
+L? - Feint
+L? - False Swipe
+L? - Air Slash
+L? - Brave Bird
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Roost
+TM - Frustration
+TM - Double Team
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Steel Wing
+TM - Acrobatics
+TM - Retaliate
+TM - Swords Dance
+TM - Psych Up
+TM - Poison Jab
+TM - Swagger
+TM - Sleep Talk
+TM - U-turn
+TM - Substitute
+TM - Confide
+TM - Fly 
 Egg - Gust
 Egg - Quick Attack
 Egg - Mirror Move
@@ -798,9 +1602,8 @@ Egg - Captivate
 
 == Fennekin ==
 
-L? - Scratch
-L? - Tail Whip
-L? - Ember
+Start - Scratch
+Start - Tail Whip
 L? - Flamethrower
 L? - Psybeam
 L? - Fire Spin
@@ -814,6 +1617,7 @@ L? - Lucky Chant
 L? - Psyshock
 L? - Magic Room
 L? - Flame Charge
+L5 - Ember
 TM - Cut
 TM - Flamethrower
 TM - SolarBeam
@@ -852,6 +1656,15 @@ TM - Power-Up Punch
 
 == Ferroseed ==
 
+L? - Harden
+L? - Rollout
+L? - Curse
+L? - Metal Claw
+L? - Gyro Ball
+L? - Iron Defense
+L? - Mirror Shot
+L? - Ingrain
+L? - Self-Destruct
 Egg - Leech Seed
 Egg - Spikes
 Egg - Bullet Seed
@@ -1003,9 +1816,9 @@ TM - Confide
 
 == Fletchling ==
 
+Start - Tackle
+Start - Growl
 L? - Razor Wind
-L? - Tackle
-L? - Growl
 L? - Peck
 L? - Agility
 L? - Quick Attack
@@ -1133,6 +1946,45 @@ TM - Confide
 
 == Foongus ==
 
+Start - Absorb
+L? - Growth
+L? - Astonish
+L? - Bide
+L? - Mega Drain
+L? - Ingrain
+L? - Feint Attack
+L? - Sweet Scent
+L? - Giga Drain
+L? - Toxic
+L? - Synthesis
+L? - Clear Smog
+L? - Solar Beam
+L? - Rage Powder
+L? - Spore
+TM - Toxic
+TM - Venoshock
+TM - Hidden Power
+TM - Sunny Day
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Double Team
+TM - Sludge Bomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Energy Ball
+TM - Payback
+TM - Flash
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Nature Power
+TM - Confide
 Egg - Body Slam
 Egg - Growth
 Egg - PoisonPowder
@@ -1153,8 +2005,8 @@ Egg - Pain Split
 
 == Froakie ==
 
-L? - Pound
-L? - Growl
+Start - Pound
+Start - Growl
 L? - Hydro Pump
 L? - Quick Attack
 L? - Double Team
@@ -1207,8 +2059,8 @@ Egg - Toxic Spikes
 
 == Frogadier ==
 
-L? - Pound
-L? - Growl
+Start - Pound
+Start - Growl
 L? - Hydro Pump
 L? - Quick Attack
 L? - Double Team
@@ -1262,13 +2114,13 @@ Egg - Toxic Spikes
 
 == Furfrou ==
 
+Start - Tackle
+Start - Growl
 L? - Sand Attack
 L? - Headbutt
-L? - Tackle
 L? - Take Down
 L? - Tail Whip
 L? - Bite
-L? - Growl
 L? - Charm
 L? - Odor Sleuth
 L? - Sucker Punch
@@ -1311,8 +2163,28 @@ TM - Confide
 
 L? - Sticky Web
 
+== Garchomp ==
+
+L? - Crunch
+L? - Dragon Rush
+
 == Gastly ==
 
+Start - Hypnosis
+Start - Lick
+L? - Mean Look
+L? - Curse
+L? - Night Shade
+L? - Confuse Ray
+L? - Sucker Punch
+L? - Payback
+L? - Shadow Ball
+L? - Dream Eater
+L? - Dark Pulse
+L? - Destiny Bond
+L? - Hex
+L? - Nightmare 
+L5 - Spite
 Egg - Fire Punch
 Egg - Ice Punch
 Egg - Thunder Punch
@@ -1344,6 +2216,34 @@ Egg - Autotomize
 
 == Gible ==
 
+Start - Tackle
+L? - Sand Attack
+L? - Dragon Rage
+L? - Sandstorm
+L? - Take Down
+L? - Sand Tomb
+L? - Slash
+L? - Dragon Claw
+L? - Dig
+L? - Dragon Rush
+TM - Return
+TM - Protect
+TM - Rock Smash
+TM - Shadow Claw
+TM - Rest
+TM - Sleep Talk
+TM - Frustration
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Cut
+TM - Strength
+TM - Hone Claws
+TM - Toxic
+TM - Hidden Power
+TM - Flamethrower
+TM - Facade
+TM - Attract
+TM - Confide
 Egg - Body Slam
 Egg - Thrash
 Egg - Double-Edge
@@ -1389,6 +2289,10 @@ Egg - Last Resort
 
 == Gligar ==
 
+L? - Feint Attack
+L? - Fury Cutter
+L? - Quick Attack
+L? - Acrobatics
 Egg - Razor Wind
 Egg - Wing Attack
 Egg - Double-Edge
@@ -1463,6 +2367,13 @@ TM - Confide
 
 == Goldeen ==
 
+L? - Peck
+L? - Tail Whip
+L? - Water Sport
+L? - Supersonic
+L? - Horn Attack
+L? - Water Pulse
+L? - Flail
 Egg - Body Slam
 Egg - Hydro Pump
 Egg - Psybeam
@@ -1477,11 +2388,107 @@ Egg - Aqua Tail
 
 == Golett ==
 
+Start - Pound
+Start - Astonish
+Start - Defense Curl
+L? - Rollout
+L? - Shadow Punch
+L? - Iron Defense
+L? - Mega Punch
+L? - Magnitude
+L? - Dynamic Punch
+L? - Night Shade
+L? - Curse
+L? - Earthquake
+L? - Hammer Arm
+L? - Focus Punch
+L5 - Mud-Slap
+TM - Toxic
+TM - Hidden Power
+TM - Ice Beam
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
 TM - Earthquake
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Brick Break
+TM - Double Team
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Thief
+TM - Low Sweep
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Rock Polish
+TM - Flash
+TM - Gyro Ball
+TM - Bulldoze
+TM - Rock Slide
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Strength
 
 == Golurk ==
 
+Start - Phantom Force
+Start - Focus Punch
+L? - Heavy Slam
+L? - Earthquake
+L? - Hammer Arm
+L? - Focus Punch
+L? - Phantom Force
+TM - Toxic
+TM - Hidden Power
+TM - Ice Beam
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Solar Beam
+TM - Thunderbolt
 TM - Earthquake
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Brick Break
+TM - Double Team
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Thief
+TM - Low Sweep
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Charge Beam
+TM - Giga Impact
+TM - Rock Polish
+TM - Flash
+TM - Stone Edge
+TM - Gyro Ball
+TM - Bulldoze
+TM - Rock Slide
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Flash Cannon
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Fly
+TM - Strength
 
 == Goodra ==
 
@@ -1643,7 +2650,29 @@ TM - Confide
 
 == Granbull ==
 
+Start - Outrage
+L? - Roar
+L? - Rage
 L? - Play Rough
+L? - Outrage
+L? - Fire Fang
+L? - Ice Fang
+L? - Thunder Fang
+TM - Protect
+TM - Return
+TM - Dig
+TM - Rock Tomb
+TM - Rest
+TM - Thief
+TM - Payback
+TM - Thunder Wave
+TM - Sleep Talk
+TM - Rock Smash
+TM - Strength
+TM - Attract
+TM - Bulldoze
+TM - Power-Up Punch
+
 
 == Greninja ==
 
@@ -1728,6 +2757,43 @@ TM - Earthquake
 
 == Growlithe ==
 
+Start - Bite
+Start - Roar
+L? - Ember
+L? - Leer
+L? - Odor Sleuth
+L? - Helping Hand
+L? - Flame Wheel
+L? - Reversal
+L? - Fire Fang
+L? - Take Down
+L? - Flame Burst
+L? - Agility
+L? - Retaliate
+L? - Flamethrower
+L? - Crunch
+L? - Heat Wave
+L? - Outrage
+L? - Flare Blitz
+TM - Toxic
+TM - Hidden Power
+TM - Protect
+TM - Frustration
+TM - Return
+TM - Dig
+TM - Fire Blast
+TM - Aerial Ace
+TM - Facade
+TM - Flame Charge
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Will-o-wisp
+TM - Bulldoze
+TM - Sleep Talk
+TM - Rock Smash
+TM - Confide
+TM - Strength
 Egg - Double Kick
 Egg - Body Slam
 Egg - Thrash
@@ -1744,7 +2810,41 @@ Egg - Flare Blitz
 
 == Gulpin ==
 
+Start - Pound
+L? - Yawn
+L? - Poison Gas
+L? - Sludge
+L? - Amnesia
+L? - Encore
 L? - Belch
+TM - Toxic
+TM - Venoshock
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Shadow Ball
+TM - Double Team
+TM - Sludge Wave
+TM - Sludge Bomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Explosion
+TM - Infestation
+TM - Dream Eater
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Strength
 Egg - Smog
 Egg - Acid Armor
 Egg - Curse
@@ -1755,7 +2855,17 @@ Egg - Gunk Shot
 
 == Gyarados ==
 
+L? - Thrash
 L? - Bite
+L? - Dragon Rage
+L? - Leer
+L? - Twister
+L? - Ice Fang
+L? - Aqua Tail
+L? - Rain Dance
+L? - Hydro Pump
+L? - Dragon Dance
+L? - Hyper Beam
 TM - Surf
 
 == Happiny ==
@@ -1774,13 +2884,14 @@ Egg - Mud Bomb
 
 == Hawlucha ==
 
+Start - Detect
+Start - Tackle
+Start - Hone Claws
 L? - Karate Chop
 L? - Swords Dance
 L? - Wing Attack
-L? - Tackle
 L? - High Jump Kick
 L? - Sky Attack
-L? - Detect
 L? - Encore
 L? - Endeavor
 L? - FeatherDance
@@ -1788,7 +2899,6 @@ L? - Aerial Ace
 L? - Bounce
 L? - Roost
 L? - Fling
-L? - Hone Claws
 L? - Sky Drop
 L? - Flying Press
 TM - Swords Dance
@@ -1841,6 +2951,37 @@ TM - Power-Up Punch
 
 == Heatmor ==
 
+Start - Hone Claws
+Start - Tackle
+Start - Incinerate
+Start - Lick
+L? - Odor Sleuth
+L? - Bind
+L? - Fire Spin
+L? - Fury Swipes
+L? - Snatch
+L? - Flame Burst
+L? - Bug Bite
+L? - Slash
+L? - Amnesia
+L? - Flamethrower
+TM - Hone Claws
+TM - Toxic
+TM - Sunny Day
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Fire Blast
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Attract
+TM - Shadow Claw
+TM - Infestation
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Cut 
 Egg - Body Slam
 Egg - Wrap
 Egg - Curse
@@ -1907,9 +3048,9 @@ TM - Confide
 
 == Helioptile ==
 
-L? - Pound
+Start - Pound
+Start - Tail Whip
 L? - Razor Wind
-L? - Tail Whip
 L? - Thunder Shock
 L? - Thunderbolt
 L? - Thunder Wave
@@ -1959,6 +3100,23 @@ TM - Confide
 
 == Heracross ==
 
+Start - Tackle
+Start - Leer
+Start - Endure
+Start - Horn Attack
+L? - Fury Attack
+L? - Arm Thrust
+L? - Bullet Seed
+L? - Aerial Ace
+L? - Chip Away
+L? - Counter
+L? - Brick Break
+L? - Take Down
+L? - Pin Missle
+L? - Close Combat
+L? - Feint
+L? - Reversal
+L? - Megahorn
 Egg - Double-Edge
 Egg - Seismic Toss
 Egg - Harden
@@ -1971,6 +3129,41 @@ Egg - Revenge
 
 == Hippopotas ==
 
+Start - Tackle
+Start - Sand Attack
+L? - Bite
+L? - Yawn
+L? - Take Down
+L? - Dig
+L? - Sand Tomb
+L? - Crunch
+L? - Earthquake
+L? - Double-Edge
+L? - Fissure
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Protect
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Sandstorm
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Bulldoze
+TM - Rock Slide
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+TM - Strength
 Egg - Whirlwind
 Egg - Body Slam
 Egg - Curse
@@ -1981,6 +3174,36 @@ Egg - Swallow
 Egg - Revenge
 Egg - Slack Off
 Egg - Sand Tomb
+
+== Hippowdon ==
+
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Protect
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Sandstorm
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Giga Impact
+TM - Stone Edge
+TM - Bulldoze
+TM - Rock Slide
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+TM - Strength
 
 == Hitmonlee ==
 
@@ -2081,6 +3304,14 @@ Egg - Defog
 
 == Hoppip ==
 
+L? - Synthesis
+L? - Tail Whip
+L? - Splash
+L? - Tackle
+L? - Fairy Wind
+L? - Poison Powder
+L? - Stun Spore
+L? - Sleep Powder
 Egg - Double-Edge
 Egg - Confusion
 Egg - Amnesia
@@ -2110,6 +3341,30 @@ Egg - Clear Smog
 
 == Houndour ==
 
+Start - Leer
+Start - Ember
+L? - Howl
+L? - Smog
+L? - Roar
+L? - Bite
+L? - Odor Sleuth
+TM - Toxic
+TM - Hidden Power
+TM - Protect
+TM - Frustration
+TM - Return
+TM - Flamethrower
+TM - Torment
+TM - Facade
+TM - Flame Charge
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Embargo
+TM - Payback
+TM - Sleep Talk
+TM - Rock Smash
+TM - Confide
 Egg - Counter
 Egg - Fire Spin
 Egg - Rage
@@ -2126,6 +3381,46 @@ Egg - Fire Fang
 
 == Igglybuff ==
 
+Start - Sing
+Start - Charm
+L? - Pound
+L? - Sweet Kiss
+L? - Copycat
+L5 - Defense Curl
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Dig
+TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Reflect
+TM - Flamethrower
+TM - Fire Blast
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Echoed Voice
+TM - Fling
+TM - Incinerate
+TM - Flash
+TM - Thunder Wave
+TM - Psych Up
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Wild Charge
+TM - Confide
 Egg - Feint Attack
 Egg - Perish Song
 Egg - Sleep Talk
@@ -2141,6 +3436,9 @@ Egg - Captivate
 == Illumise ==
 
 L? - Play Nice
+L? - Moonlight
+L? - Sweet Scent
+L? - Charm
 Egg - Growth
 Egg - Confuse Ray
 Egg - Baton Pass
@@ -2152,13 +3450,13 @@ Egg - Captivate
 
 == Inkay ==
 
-L? - Tackle
+Start - Tackle
+Start - Peck
+Start - Constrict
 L? - Psybeam
-L? - Peck
 L? - Hypnosis
 L? - Light Screen
 L? - Reflect
-L? - Constrict
 L? - Psywave
 L? - Slash
 L? - Swagger
