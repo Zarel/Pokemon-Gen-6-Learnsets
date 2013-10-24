@@ -2264,13 +2264,13 @@ Egg - Cross Poison
 
 == Gogoat ==
 
-L32: Bulk Up
-L40: Double Edge
-L47: Horn Leech
-L55: Leaf Blade
-L58: Milk Drink
-L60: Earthquake
-L65: Aerial Ace
+L32 - Bulk Up
+L40 - Double-Edge
+L47 - Horn Leech
+L55 - Leaf Blade
+L58 - Milk Drink
+L60 - Earthquake
+L65 - Aerial Ace
 TM - Roar
 TM - Surf
 TM - Hyper Beam
@@ -3234,7 +3234,7 @@ L16 - Chip Away
 L19 - Counter
 L25 - Brick Break
 L28 - Take Down
-L31 - Pin Missle
+L31 - Pin Missile
 L34 - Close Combat
 L37 - Feint
 L43 - Reversal

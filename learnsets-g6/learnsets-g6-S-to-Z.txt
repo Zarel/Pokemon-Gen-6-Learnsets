@@ -84,7 +84,7 @@ Lv3 - Sand Attack
 Lv5 - Poison Sting
 Lv7 - Rollout
 Lv9 - Rapid Spin
-Lv11 Swift
+Lv11 - Swift
 Lv14 - Fury Cutter
 Lv17 - Magnitude
 Lv20 - Fury Swipes
@@ -149,7 +149,7 @@ Lv3 - Sand Attack
 Lv5 - Poison Sting
 Lv7 - Rollout
 Lv9 - Rapid Spin
-Lv11 Swift
+Lv11 - Swift
 Lv14 - Fury Cutter
 Lv17 - Magnitude
 Lv20 - Fury Swipes
@@ -1048,7 +1048,7 @@ Lv1 - Bite
 Lv1 - Poison Sting
 Lv1 - Leer
 Lv5 - Knock Off
-Lv9 - Pin Missle
+Lv9 - Pin Missile
 Lv13 - Acupressure
 Lv16 - Pursuit
 Lv20 - Bug Bite
@@ -1175,9 +1175,9 @@ Egg - After You
 
 == Sliggoo ==
 
-Lv1- Tackle
-Lv1 - Bubble
-Lv1 - Draco Meteor
+Start - Tackle
+Start - Bubble
+Start - Draco Meteor
 Lv5 - Absorb
 Lv9 - Protect
 Lv13 - Bide
@@ -1280,7 +1280,7 @@ TM92 - Trick Room
 TM94 - Rock Smash
 TM100 - Confide
 Hm03 - Surf
-HM04- Strength
+HM04 - Strength
 
 == Slowking ==
 
@@ -1299,7 +1299,7 @@ Lv28 - Water Pulse
 Lv32 - Zen Headbutt
 Lv36 - Nasty Plot
 Lv41 - Swagger
-Lv45 - Psychich
+Lv45 - Psychic
 Lv49 - Trump Card
 Lv54 - Psych Up
 Lv58 - Heal Pulse
@@ -1352,7 +1352,7 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 Hm03 - Surf
-HM04- Strength
+HM04 - Strength
 
 
 == Slowpoke ==
@@ -1425,7 +1425,7 @@ TM90 - Substitute
 TM92 - Trick Room
 TM100 - Confide
 Hm03 - Surf
-HM04- Strength
+HM04 - Strength
 
 == Slugma ==
 
@@ -1814,7 +1814,7 @@ Lv1 - Tail Whip
 Lv1 - Charm
 Lv1 - Fire Fang
 Lv1 - Ice Fang
-Lv1 - Thunde Fang
+Lv1 - Thunder Fang
 Lv7 - Bite
 Lv13 - Lick
 Lv19 - Headbutt
@@ -1823,20 +1823,6 @@ Lv31 - Rage
 Lv37 - Play Rough
 Lv43 - Payback
 Lv49 - Crunch
-Egg - Double-Edge
-Egg - Mimic
-Egg - Metronome
-Egg - Snore
-Egg - Feint Attack
-Egg - Heal Bell
-Egg - Present
-Egg - Crunch
-Egg - Focus Punch
-Egg - smellingsalts
-Egg - Close Combat
-Egg - Thunder Fang
-Egg - Ice Fang
-Egg - Fire Fang
 TM05 - Roar
 TM06 - Toxic
 TM08 - Bulk Up
@@ -1883,6 +1869,20 @@ TM99 - Dazzling Gleam
 TM100 - Confide
 HM04 - Strength
 HM04 - Strength
+Egg - Double-Edge
+Egg - Mimic
+Egg - Metronome
+Egg - Snore
+Egg - Feint Attack
+Egg - Heal Bell
+Egg - Present
+Egg - Crunch
+Egg - Focus Punch
+Egg - Smelling Salts
+Egg - Close Combat
+Egg - Thunder Fang
+Egg - Ice Fang
+Egg - Fire Fang
 
 == Solosis ==
 
