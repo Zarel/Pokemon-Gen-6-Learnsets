@@ -380,22 +380,22 @@ Egg - Night Slash
 
 == Skrelp ==
 
-L? - Tackle
-L? - Tail Whip
-L? - Acid
-L? - Water Gun
-L? - Hydro Pump
-L? - Toxic
-L? - Double Team
-L? - SmokeScreen
-L? - Bubble
-L? - Feint Attack
-L? - Sludge Bomb
-L? - Camouflage
-L? - Poison Tail
-L? - Water Pulse
-L? - Aqua Tail
-L? - Dragon Pulse
+Start - Tackle
+Start - Smokescreen
+Start - Bubble
+L5 - Feint Attack
+L9 - Tail Whip
+L12 - Water Gun
+L15 - Acid
+L19 - Camouflage
+L23 - Poison Tail
+L25 - Water Pulse
+L28 - Double Team
+L32 - Toxic
+L35 - Aqua Tail
+L38 - Sludge Bomb
+L42 - Hydro Pump
+L49 - Dragon Pulse
 TM - Surf
 TM - Thunderbolt
 TM - Toxic
@@ -421,6 +421,8 @@ TM - Round
 TM - Scald
 TM - Confide
 Egg - Toxic Spikes
+Egg - Haze
+Egg - Venom Drench
 
 == Slakoth ==
 
@@ -502,22 +504,22 @@ Egg - Inferno
 
 == Slurpuff ==
 
-L? - Tackle
-L? - Light Screen
-L? - Cotton Spore
-L? - Safeguard
-L? - Sweet Scent
-L? - Wish
-L? - Endeavor
-L? - Aromatherapy
-L? - Fake Tears
-L? - Energy Ball
-L? - Round
-L? - Cotton Guard
-L? - Draining Kiss
-L? - Fairy Wind
-L? - Play Rough
-L? - Play Nice
+Start - Sweet Scent
+Start - Tackle
+L5 - Fairy Wind
+L8 - Play Nice
+L10 - Fake Tears
+L13 - Round
+L17 - Cotton Spore
+L21 - Endeavor
+L26 - Aromatherapy
+L31 - Draining Kiss
+L36 - Energy Ball
+L41 - Cotton Guard
+L45 - Wish
+L49 - Play Rough
+L58 - Light Screen
+L67 - Safeguard
 TM - Flamethrower
 TM - Surf
 TM - Hyper Beam
