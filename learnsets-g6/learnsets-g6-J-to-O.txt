@@ -1459,6 +1459,8 @@ Egg - Howl
 Egg - Mud Bomb
 Egg - Iron Head
 
+== Octillery ==
+
 == Oddish ==
 
 TM - Swords Dance
@@ -1513,6 +1515,8 @@ Egg - Muddy Water
 Egg - Water Pulse
 Egg - Wring Out
 Egg - Toxic Spikes
+
+== Omastar ==
 
 == Onix ==
 
