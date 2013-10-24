@@ -768,7 +768,7 @@ L? - Scratch
 L? - Harden
 L? - Mud Sport
 L? - Water Gun
-L? - Meta Claw
+L? - Metal Claw
 L25 - Protect
 L31 - Ancient Power
 L37 - Fury Cutter
