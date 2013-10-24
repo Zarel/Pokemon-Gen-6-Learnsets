@@ -3572,6 +3572,8 @@ Egg - Silver Wind
 Egg - Bug Buzz
 Egg - Captivate
 
+== Infernape ==
+
 == Inkay ==
 
 Start - Tackle
