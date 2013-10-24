@@ -2007,12 +2007,12 @@ Egg - Pain Split
 
 Start - Pound
 Start - Growl
+L5 - Bubble
 L? - Hydro Pump
 L? - Quick Attack
 L? - Double Team
 L? - SmokeScreen
 L? - Lick
-L? - Bubble
 L? - Substitute
 L? - Bounce
 L? - Water Pulse
