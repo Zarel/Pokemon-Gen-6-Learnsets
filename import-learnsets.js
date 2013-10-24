@@ -32,8 +32,9 @@ for (var speciesid in Learnsets) {
 // I'd probably stream this
 var input = ''+fs.readFileSync('learnsets-g6/learnsets-g6-A-to-C.txt');
 input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-D-to-I.txt');
-input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-J-to-R.txt');
-input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-P-to-Z.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-J-to-O.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-P-to-R.txt');
+input += ''+fs.readFileSync('learnsets-g6/learnsets-g6-S-to-Z.txt');
 
 input = input.split('\n');
 

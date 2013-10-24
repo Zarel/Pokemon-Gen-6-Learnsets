@@ -1,17 +1,17 @@
 == Sableye ==
 
-Lv? - Mean Look
-Lv? - Zen Headbutt
-Lv? - Leer
-Lv? - Scratch
-Lv? - Foresight
-Lv? - Night Shade
-Lv? - Astonish
-Lv? - Fury Swipes
-Lv? - Fake Out
-Lv? - Detect
-Lv? - Confuse Ray
-Lv? - Foul Play
+L? - Mean Look
+L? - Zen Headbutt
+L? - Leer
+L? - Scratch
+L? - Foresight
+L? - Night Shade
+L? - Astonish
+L? - Fury Swipes
+L? - Fake Out
+L? - Detect
+L? - Confuse Ray
+L? - Foul Play
 Egg - Recover
 Egg - Mean Look
 Egg - Moonlight
@@ -57,14 +57,14 @@ HM01 - Cut
 
 == Sandile ==
 
-Lv? - Sand Attack]
-Lv? - Torment
-Lv? - Assurance
-Lv? - Sand Tomb
-Lv19 - Mud Slap
-Lv22 - Embargo
-Lv25 - Swagger
-Lv28 - Crunch
+L? - Sand Attack]
+L? - Torment
+L? - Assurance
+L? - Sand Tomb
+L19 - Mud Slap
+L22 - Embargo
+L25 - Swagger
+L28 - Crunch
 Egg - Double-Edge
 Egg - Counter
 Egg - Focus Energy
@@ -91,20 +91,20 @@ Egg - Chip Away
 
 == Sandslash ==
 
-Lv? - Dig
-Lv? - Swords Dance
-Lv? - Gyro Ball
-Lv? - Sandstorm
-Lv46 - Earthquake
+L? - Dig
+L? - Swords Dance
+L? - Gyro Ball
+L? - Sandstorm
+L46 - Earthquake
 
 == Sawk ==
-Lv? - Focus Energy
-Lv? - Double Kick
-Lv? - Low Sweep
-Lv? - Counter
-Lv? - Karate Chop
-Lv? - Retaliate
-Lv? - Close Combat
+L? - Focus Energy
+L? - Double Kick
+L? - Low Sweep
+L? - Counter
+L? - Karate Chop
+L? - Retaliate
+L? - Close Combat
 TM - Payback
 TM84 - Poison Jab
 
@@ -118,17 +118,17 @@ Egg - Rage Powder
 
 == Scraggy ==
 
-Lv? - Low Kick
-Lv? - Sand Attack
-Lv? - Leer
-Lv9 - Faint Attack
-Lv12 - Headbutt
-Lv16 - Swagger
-Lv20 - Brick Break
-Lv23 - Payback
-Lv31 - Hi Jump Kick
-Lv34 - Scary Face
-Lv38 - Crunch
+L? - Low Kick
+L? - Sand Attack
+L? - Leer
+L9 - Faint Attack
+L12 - Headbutt
+L16 - Swagger
+L20 - Brick Break
+L23 - Payback
+L31 - Hi Jump Kick
+L34 - Scary Face
+L38 - Crunch
 Egg - Fire Punch
 Egg - Ice Punch
 Egg - Thunder Punch
@@ -164,10 +164,10 @@ TM - Confide
 
 == Scyther ==
 
-Lv? - X-Scissor
-Lv? - Night Slash
-Lv? - Double Hit
-Lv? - Air Slash
+L? - X-Scissor
+L? - Night Slash
+L? - Double Hit
+L? - Air Slash
 Egg - Razor Wind
 Egg - Counter
 Egg - Reversal
@@ -215,11 +215,11 @@ Egg - Water Pulse
 
 == Sentret ==
 
-Lv? - Scratch
-Lv? - Defense Curl
-Lv? - Foresight
-Lv? - Quick Attack
-Lv13 - Fury Swipes
+L? - Scratch
+L? - Defense Curl
+L? - Foresight
+L? - Quick Attack
+L13 - Fury Swipes
 Egg - Double-Edge
 Egg - Focus Energy
 Egg - Slash
@@ -235,17 +235,17 @@ Egg - Last Resort
 
 == Seviper ==
 
-Lv? - Wrap
-Lv? - Swagger
-Lv? - Bite
-Lv9 - Lick
-Lv12 - Poison Tail
-Lv16 - Screech
-Lv20 - Venoshock
-Lv23 - Glare
-Lv27 - Poison Fang
-Lv28 - Venom Drench
-Lv31 - Night Slash
+L? - Wrap
+L? - Swagger
+L? - Bite
+L9 - Lick
+L12 - Poison Tail
+L16 - Screech
+L20 - Venoshock
+L23 - Glare
+L27 - Poison Fang
+L28 - Venom Drench
+L31 - Night Slash
 TM06 - Toxic
 TM09 - Venoshock
 TM17 - Protect
@@ -341,21 +341,21 @@ Egg - Clear Smog
 
 == Shelmet ==
 
-Lv1 - Leech Life
-Lv4 - Acid
-Lv8 - Bide
-Lv13 - Curse
-Lv16 - Struggle Bug
-Lv20 - Mega Drain
-Lv25 - Yawn
-Lv28 - Protect
-Lv32 - Acid Armor
-Lv37 - Giga Drain
-Lv40 - Body Slam
-Lv44 - Bug Buzz
-Lv49 - Recover
-Lv50 - Guard Swap
-Lv56 - Final Gambit
+L1 - Leech Life
+L4 - Acid
+L8 - Bide
+L13 - Curse
+L16 - Struggle Bug
+L20 - Mega Drain
+L25 - Yawn
+L28 - Protect
+L32 - Acid Armor
+L37 - Giga Drain
+L40 - Body Slam
+L44 - Bug Buzz
+L49 - Recover
+L50 - Guard Swap
+L56 - Final Gambit
 Egg - Double-Edge
 Egg - Mind Reader
 Egg - Mud-Slap
@@ -386,14 +386,14 @@ TM90 - Substitute
 
 == Shieldon ==
 
-Lv? - Tackle
-Lv? - Protect
-Lv? - Taunt
-Lv? - Metal Sound
-Lv? - Take Down
-Lv? - Iron Defense
-Lv24 - Swagger
-Lv28 - Ancient Power
+L? - Tackle
+L? - Protect
+L? - Taunt
+L? - Metal Sound
+L? - Take Down
+L? - Iron Defense
+L24 - Swagger
+L28 - Ancient Power
 Egg - Headbutt
 Egg - Body Slam
 Egg - Double-Edge
@@ -425,7 +425,7 @@ HM04 - Strength
 
 == Shinx ==
 
-Lv11 - Baby-Doll Eyes
+L11 - Baby-Doll Eyes
 Egg - Double Kick
 Egg - Take Down
 Egg - Quick Attack
@@ -441,18 +441,18 @@ Egg - Fire Fang
 
 == Shroomish ==
 
-Lv01 - Absorb
-Lv05 - Tackle
-Lv09 - Stun Spore
-Lv13 - Leech Seed
-Lv17 - Mega Drain
-Lv21 - Headbutt
-Lv25 - Poison Powder
-Lv29 - Worry Seed
-Lv33 - Growth
-Lv37 - Giga Drain
-Lv41 - Seed Bomb
-Lv45 - Spore
+L01 - Absorb
+L05 - Tackle
+L09 - Stun Spore
+L13 - Leech Seed
+L17 - Mega Drain
+L21 - Headbutt
+L25 - Poison Powder
+L29 - Worry Seed
+L33 - Growth
+L37 - Giga Drain
+L41 - Seed Bomb
+L45 - Spore
 Egg - Charm
 Egg - Focus Punch
 Egg - Helping Hand
@@ -467,7 +467,7 @@ TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
 TM11 - Sunny Day
-TM17- Protect
+TM17 - Protect
 TM20 - Safeguard
 TM21 - Frustration
 TM22 - Solar Beam
@@ -490,10 +490,10 @@ TM100 - Confide
 
 == Shuckle ==
 
-Lv? - Power Trick
-Lv? - Shell Smash
-Lv? - Rock Slide
-Lv? - Bug Bite
+L? - Power Trick
+L? - Shell Smash
+L? - Rock Slide
+L? - Bug Bite
 Egg - Acid
 Egg - Mud-Slap
 Egg - Sweet Scent
@@ -506,16 +506,16 @@ Egg - Final Gambit
 
 == Shuppet ==
 
-Lv1 - Knock Off
-Lv4 - Screech
-Lv7 - Night Shade
-Lv10 - Spite
-Lv13 - Will-O-Wisp
-Lv16 - Shadow Sneak
-Lv22 - Feint Attack
-Lv26 - Hex
-Lv30 - Shadow Ball
-Lv34 - Sucker Punch
+L1 - Knock Off
+L4 - Screech
+L7 - Night Shade
+L10 - Spite
+L13 - Will-O-Wisp
+L16 - Shadow Sneak
+L22 - Feint Attack
+L26 - Hex
+L30 - Shadow Ball
+L34 - Sucker Punch
 TM04 - Calm Mind
 TM06 - Toxic
 TM10 - Hidden Power
@@ -565,22 +565,22 @@ Egg - Phantom Force
 
 == Sigilyph ==
 
-Lv1 - Gust
-Lv1 - Miracle Eye
-Lv? - Psywave
-Lv? - Tailwind
-Lv? - Whirlwind
-Lv? - Psybeam
-Lv21 - Air Cutter
-Lv24 - Light Screen
-Lv28 - Reflect
-Lv31 - Synchronoise
-Lv34 - Mirror Move
-Lv38 - Gravity
-Lv41 - Air Slash
-Lv44 - Psychic
-Lv47 - Cosmic Power
-Lv50 - Sky Attack
+L1 - Gust
+L1 - Miracle Eye
+L? - Psywave
+L? - Tailwind
+L? - Whirlwind
+L? - Psybeam
+L21 - Air Cutter
+L24 - Light Screen
+L28 - Reflect
+L31 - Synchronoise
+L34 - Mirror Move
+L38 - Gravity
+L41 - Air Slash
+L44 - Psychic
+L47 - Cosmic Power
+L50 - Sky Attack
 Egg - Steel Wing
 Egg - Ancient Power
 Egg - Skill Swap
@@ -606,25 +606,25 @@ HM02 - Fly
 
 == Silcoon ==
 
-Lv7 - Harden
+L7 - Harden
 
 == Skarmory ==
 
-Lv? - Leer
-Lv? - Peck
-Lv6 -  Sand Attack
-Lv9 - Swift
-Lv12 - Agility
-Lv17 - Fury Attack
-Lv20 - Feint
-Lv23 - Air Cutter
-Lv28 - Spikes
-Lv31 - Metal Sound
-Lv34 - Steel Wing
-Lv39 - Automotize
-Lv42 - Air Slash
-Lv45 - Slash
-Lv50 - Night Slash
+L? - Leer
+L? - Peck
+L6 -  Sand Attack
+L9 - Swift
+L12 - Agility
+L17 - Fury Attack
+L20 - Feint
+L23 - Air Cutter
+L28 - Spikes
+L31 - Metal Sound
+L34 - Steel Wing
+L39 - Autotomize
+L42 - Air Slash
+L45 - Slash
+L50 - Night Slash
 Egg - Whirlwind
 Egg - Drill Peck
 Egg - Sky Attack
@@ -724,24 +724,24 @@ TM - Confide
 
 == Skitty ==
 
-Lv1 - Fake Out
-Lv1 - Growl
-Lv1 - Tackle
-Lv1 - Tail Whip
-Lv4 - Foresight
-Lv8 - Attract
-Lv11 - Sing
-Lv15 - Double Slap
-Lv18 - Copycat
-Lv22 - Assist
-Lv25 - Charm
-Lv29 - Feint Attack
-Lv32 - Wake-Up Slap
-Lv36 - Covet
-Lv39 - Heal Bell
-Lv42 - Double-Edge
-Lv46 - Captivate
-Lv49 - Play Rough
+L1 - Fake Out
+L1 - Growl
+L1 - Tackle
+L1 - Tail Whip
+L4 - Foresight
+L8 - Attract
+L11 - Sing
+L15 - Double Slap
+L18 - Copycat
+L22 - Assist
+L25 - Charm
+L29 - Feint Attack
+L32 - Wake-Up Slap
+L36 - Covet
+L39 - Heal Bell
+L42 - Double-Edge
+L46 - Captivate
+L49 - Play Rough
 Egg - Baton Pass
 Egg - Fake Out
 Egg - Uproar
@@ -793,10 +793,10 @@ TM100 - Confide
 
 == Skorupi ==
 
-Lv? - Poison Fang
-Lv? - Venoshock
-Lv? - Hone Claws
-Lv? - Toxic Spikes
+L? - Poison Fang
+L? - Venoshock
+L? - Hone Claws
+L? - Toxic Spikes
 Egg - Whirlwind
 Egg - Sand Attack
 Egg - Twineedle
@@ -909,13 +909,13 @@ TM - Confide
 
 == Slowpoke ==
 
-Lv? - Water Gun
-Lv? - Disable
-Lv? - Confusion
-Lv? - Headbutt
-Lv28 - Water Pulse
-Lv32 - Zen Headbutt
-Lv36 - Slack Off
+L? - Water Gun
+L? - Disable
+L? - Confusion
+L? - Headbutt
+L28 - Water Pulse
+L32 - Zen Headbutt
+L36 - Slack Off
 Egg - Stomp
 Egg - Snore
 Egg - Belly Drum
@@ -929,12 +929,12 @@ Egg - Wonder Room
 
 == Slugma ==
 
-Lv? - Harden
-Lv? - Recover
-Lv? - Flame Burst
-Lv? - Ancientpower
-Lv 32 - Amnesia
-Lv 37 - Lava Plume
+L? - Harden
+L? - Recover
+L? - Flame Burst
+L? - Ancientpower
+L 32 - Amnesia
+L 37 - Lava Plume
 Egg - SmokeScreen
 Egg - Acid Armor
 Egg - Curse
@@ -1047,22 +1047,22 @@ L? - Venom Drench
 
 == Smoochum ==
 
-Lv1 - Pound
-Lv1 - Wake-Up Slap
-Lv5 - Lick
-Lv8 - Sweet Kiss
-Lv11 - Powder Snow
-Lv15 - Confusion
-Lv18 - Sing
-Lv21 - Heart Stamp
-Lv25 - Mean Look
-Lv28 - Fake Tears
-Lv31 - Lucky Chant
-Lv35 - Avalanche
-Lv38 - Psychic
-Lv41 - Copycat
-Lv45 - Perish Song
-Lv48 - Blizzard
+L1 - Pound
+L1 - Wake-Up Slap
+L5 - Lick
+L8 - Sweet Kiss
+L11 - Powder Snow
+L15 - Confusion
+L18 - Sing
+L21 - Heart Stamp
+L25 - Mean Look
+L28 - Fake Tears
+L31 - Lucky Chant
+L35 - Avalanche
+L38 - Psychic
+L41 - Copycat
+L45 - Perish Song
+L48 - Blizzard
 Egg - Ice Punch
 Egg - Meditate
 Egg - Fake Out
@@ -1074,26 +1074,26 @@ Egg - Captivate
 
 == Sneasel ==
 
-Lv? - Scratch
-Lv? - Leer
-Lv? - Taunt
-Lv? - Quick Attack
-Lv? - Feint Attack (new spelling I suppose of Faint Attack)
-Lv? - Icy Wind
-Lv? - Fury Swipes
-Lv? - Agility
-Lv? - Metal Claw
-Lv? - Hone Claws
-Lv? - Beat Up
-Lv? - Screech
-Lv? - Slash
-Lv? - Hone Claws
-Lv? - Beat Up
-Lv? - Screech
-Lv? - Slash
-Lvl 40 - Snatch
-Lvl 44 - Punishment
-Lvl 47 - Ice Shard
+L? - Scratch
+L? - Leer
+L? - Taunt
+L? - Quick Attack
+L? - Feint Attack
+L? - Icy Wind
+L? - Fury Swipes
+L? - Agility
+L? - Metal Claw
+L? - Hone Claws
+L? - Beat Up
+L? - Screech
+L? - Slash
+L? - Hone Claws
+L? - Beat Up
+L? - Screech
+L? - Slash
+L40 - Snatch
+L44 - Punishment
+L47 - Ice Shard
 Egg - Ice Punch
 Egg - Bite
 Egg - Counter
@@ -1142,19 +1142,19 @@ Egg - Captivate
 
 == Snorlax ==
 
-Lv? - Amnesia
-Lv? - Lick
-Lv17 - Chip Away
-Lv25 - Body Slam
-Lv30 - Rest
-Lv30 - Snore
-Lv33 - Sleep Talk
-Lv36 - Rollout
-Lv41 - Block
-Lv44 - Belly Drum
-Lv47 -Crunch
+L? - Amnesia
+L? - Lick
+L17 - Chip Away
+L25 - Body Slam
+L30 - Rest
+L30 - Snore
+L33 - Sleep Talk
+L36 - Rollout
+L41 - Block
+L44 - Belly Drum
+L47 - Crunch
 L50 - Heavy Slam
-L57  -Giga Impact
+L57 - Giga Impact
 TM - Flamethrower
 TM - Surf
 TM - Ice Beam
@@ -1226,13 +1226,14 @@ Egg - Hex
 Start - Powder Snow
 Start - Leer
 Start - Mist
-Lv5 - Razor Leaf
-Lv9 - Icy Wind
-Lv13 - Grass Whistle
-Lv17 - Swagger
-Lv? - Ice Shard
-Lv? - Ingrain
-Lv? - Wood HammerEgg - Stomp
+L5 - Razor Leaf
+L9 - Icy Wind
+L13 - Grass Whistle
+L17 - Swagger
+L? - Ice Shard
+L? - Ingrain
+L? - Wood Hammer
+Egg - Stomp
 Egg - Double-Edge
 Egg - Mist
 Egg - Leech Seed
@@ -1250,9 +1251,9 @@ Start - Tackle
 Start - Mean Look
 Start - Tail Whip
 Start - Charm
-Lv7 - Bite
-Lv13 - Lick
-Lv19 - Headbutt
+L7 - Bite
+L13 - Lick
+L19 - Headbutt
 Egg - Double-Edge
 Egg - Mimic
 Egg - Metronome

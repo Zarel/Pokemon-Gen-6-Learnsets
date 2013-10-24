@@ -1535,3 +1535,4 @@ Egg - Trump Card
 Egg - Copycat
 Egg - Night Slash
 Egg - Air Slash
+

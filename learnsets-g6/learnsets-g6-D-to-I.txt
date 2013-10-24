@@ -3112,7 +3112,7 @@ L? - Chip Away
 L? - Counter
 L? - Brick Break
 L? - Take Down
-L? - Pin Missle
+L? - Pin Missile
 L? - Close Combat
 L? - Feint
 L? - Reversal
