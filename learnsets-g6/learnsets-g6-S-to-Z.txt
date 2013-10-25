@@ -12,16 +12,6 @@ L? - Fake Out
 L? - Detect
 L? - Confuse Ray
 L? - Foul Play
-Egg - Recover
-Egg - Mean Look
-Egg - Moonlight
-Egg - Flatter
-Egg - Trick
-Egg - Feint
-Egg - Metal Burst
-Egg - Sucker Punch
-Egg - Nasty Plot
-Egg - Captivate
 TM01 - Hone Claws
 TM04 - Calm Mind
 TM06 - Toxic
@@ -54,50 +44,16 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM99 - Dazzling Gleam
 HM01 - Cut
-
-== Salamence ==
-
-L? - Double-Edge
-L? - Fire Fang
-L? - Thunder Fang
-L? - Rage
-L? - Bite
-L? - Leer
-L? - Headbutt
-L? - Focus Energy
-L? - Ember
-L? - Protect
-L? - Dragon Breath
-L? - Scary Face
-L50 - Fly
-L53 - Crunch
-L61 - Dragon Claw
-L70 - Double-Edge
-TM01 - Hone Claws
-TM06 - Toxic
-TM10 - Hidden Power
-TM17 - Protect
-TM21 - Frustration
-TM27 - Return
-TM31 - Brick Break
-TM35 - Flamethrower
-TM38 - Fire Blast
-TM39 - Rock Tomb
-TM40 - Aerial Ace
-TM42 - Facade
-TM45 - Attract
-TM65 - Shadow Claw
-TM82 - Dragon Tail
-TM90 - Substitute
-TM94 - Rock Smash
-TM100 - Confide
-HM01 - Cut
-HM02 - Fly
-HM04 - Strength
-
-== Samurott ==
-
-(TODO)
+Egg - Recover
+Egg - Mean Look
+Egg - Moonlight
+Egg - Flatter
+Egg - Trick
+Egg - Feint
+Egg - Metal Burst
+Egg - Sucker Punch
+Egg - Nasty Plot
+Egg - Captivate
 
 == Sandile ==
 
@@ -139,16 +95,6 @@ Lv34 - Gyro Ball
 Lv38 - Swords Dance
 Lv42 - Sandstorm
 Lv46 - Earthquake
-Egg - Counter
-Egg - Flail
-Egg - Endure
-Egg - Rapid Spin
-Egg - Metal Claw
-Egg - Crush Claw
-Egg - Mud Shot
-Egg - Night Slash
-Egg - Rock Climb
-Egg - Chip Away
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -184,6 +130,16 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Egg - Counter
+Egg - Flail
+Egg - Endure
+Egg - Rapid Spin
+Egg - Metal Claw
+Egg - Crush Claw
+Egg - Mud Shot
+Egg - Night Slash
+Egg - Rock Climb
+Egg - Chip Away
 
 == Sandslash ==
 
@@ -204,16 +160,6 @@ Lv34 - Gyro Ball
 Lv38 - Swords Dance
 Lv42 - Sandstorm
 Lv46 - Earthquake
-Egg - Counter
-Egg - Flail
-Egg - Endure
-Egg - Rapid Spin
-Egg - Metal Claw
-Egg - Crush Claw
-Egg - Mud Shot
-Egg - Night Slash
-Egg - Rock Climb
-Egg - Chip Away
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -251,9 +197,18 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Egg - Counter
+Egg - Flail
+Egg - Endure
+Egg - Rapid Spin
+Egg - Metal Claw
+Egg - Crush Claw
+Egg - Mud Shot
+Egg - Night Slash
+Egg - Rock Climb
+Egg - Chip Away
 
 == Sawk ==
-
 L? - Focus Energy
 L? - Double Kick
 L? - Low Sweep
@@ -261,12 +216,8 @@ L? - Counter
 L? - Karate Chop
 L? - Retaliate
 L? - Close Combat
-TM - Payback
+TM66 - Payback
 TM84 - Poison Jab
-
-== Sawsbuck ==
-
-(TODO)
 
 == Scatterbug ==
 
@@ -275,22 +226,6 @@ Start - String Shot
 L6 - Stun Spore
 L15 - Bug Bite
 Egg - Rage Powder
-
-== Sceptile ==
-
-(TODO)
-
-== Scizor ==
-
-(TODO)
-
-== Scolipede ==
-
-(TODO)
-
-== Scrafty ==
-
-(TODO)
 
 == Scraggy ==
 
@@ -305,6 +240,25 @@ L23 - Payback
 L31 - Hi Jump Kick
 L34 - Scary Face
 L38 - Crunch
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM17 - Protect
+TM27 - Return
+TM32 - Double Team
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM66 - Payback
+TM86 - Grass Knot
+TM88 - Sleep Talk
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Egg - Fire Punch
 Egg - Ice Punch
 Egg - Thunder Punch
@@ -316,26 +270,7 @@ Egg - Fake Out
 Egg - Dragon Dance
 Egg - Drain Punch
 Egg - Zen Headbutt
-TM - Protect
-TM - Return
-TM - Rock Smash
-TM - Rest
-TM - Attract
-TM - Low Sweep
-TM - Payback
-TM - Grass Knot
-TM - Sleep Talk
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Strength
-TM - Toxic
-TM - Torment
-TM - Facade
-TM - Hidden Power
-TM - Taunt
-TM - Double Team
-TM - Rock Tomb
-TM - Confide
+
 
 == Scyther ==
 
@@ -357,16 +292,6 @@ Lv49 - Double Hit
 Lv50 - Air Slash
 Lv57 - Swords Dance
 Lv61 - Feint
-Egg - Razor Wind
-Egg - Counter
-Egg - Reversal
-Egg - Endure
-Egg - Steel Wing
-Egg - Baton Pass
-Egg - Silver Wind
-Egg - Night Slash
-Egg - Bug Buzz
-Egg - Defog
 TM06 - Toxic
 TM10 - Hidden Power
 TM11 - Sunny Day
@@ -399,18 +324,16 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
-
-== Seadra ==
-
-(TODO)
-
-== Seaking ==
-
-(TODO)
-
-== Sealeo ==
-
-(TODO)
+Egg - Razor Wind
+Egg - Counter
+Egg - Reversal
+Egg - Endure
+Egg - Steel Wing
+Egg - Baton Pass
+Egg - Silver Wind
+Egg - Night Slash
+Egg - Bug Buzz
+Egg - Defog
 
 == Seedot ==
 
@@ -446,10 +369,6 @@ Egg - Signal Beam
 Egg - Icicle Spear
 Egg - Water Pulse
 
-== Seismitoad ==
-
-(TODO)
-
 == Sentret ==
 
 Lv1 - Scratch
@@ -466,18 +385,6 @@ Lv36 - Amnesia
 Lv39 - Baton Pass
 Lv42 - Me First
 Lv47 - Hyper Voice
-Egg - Double-Edge
-Egg - Focus Energy
-Egg - Slash
-Egg - Reversal
-Egg - Charm
-Egg - Pursuit
-Egg - Iron Tail
-Egg - Trick
-Egg - Assist
-Egg - Covet
-Egg - Natural Gift
-Egg - Last Resort
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -513,14 +420,18 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM01 - Cut
 HM03 - Surf
-
-== Serperior ==
-
-(TODO)
-
-== Servine ==
-
-(TODO)
+Egg - Double-Edge
+Egg - Focus Energy
+Egg - Slash
+Egg - Reversal
+Egg - Charm
+Egg - Pursuit
+Egg - Iron Tail
+Egg - Trick
+Egg - Assist
+Egg - Covet
+Egg - Natural Gift
+Egg - Last Resort
 
 == Seviper ==
 
@@ -541,6 +452,7 @@ TM17 - Protect
 TM21 - Frustration
 TM27 - Return
 TM28 - Dig
+TM35 - Flamethrower
 TM44 - Rest
 TM45 - Attract
 TM46 - Thief
@@ -552,7 +464,6 @@ TM88 - Sleep Talk
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
-TM - Flamethrower
 Egg - Body Slam
 Egg - Scary Face
 Egg - Iron Tail
@@ -578,21 +489,9 @@ Egg - Silver Wind
 Egg - Me First
 Egg - Air Slash
 
-== Sharpedo ==
-
-(TODO)
-
 == Shaymin ==
 
-TM - Substitute
-
-== Shedinja ==
-
-(TODO)
-
-== Shelgon ==
-
-(TODO)
+TM90 - Substitute
 
 == Shellder ==
 
@@ -657,16 +556,6 @@ L44 - Bug Buzz
 L49 - Recover
 L50 - Guard Swap
 L56 - Final Gambit
-Egg - Double-Edge
-Egg - Mind Reader
-Egg - Mud-Slap
-Egg - Spikes
-Egg - Endure
-Egg - Baton Pass
-Egg - Encore
-Egg - Pursuit
-Egg - Feint
-Egg - Guard Split
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -684,6 +573,16 @@ TM76 - Struggle Bug
 TM83 - Infestation
 TM88 - Sleep Talk
 TM90 - Substitute
+Egg - Double-Edge
+Egg - Mind Reader
+Egg - Mud-Slap
+Egg - Spikes
+Egg - Endure
+Egg - Baton Pass
+Egg - Encore
+Egg - Pursuit
+Egg - Feint
+Egg - Guard Split
 
 == Shieldon ==
 
@@ -695,18 +594,6 @@ L? - Take Down
 L? - Iron Defense
 L24 - Swagger
 L28 - Ancient Power
-Egg - Headbutt
-Egg - Body Slam
-Egg - Double-Edge
-Egg - Counter
-Egg - Fissure
-Egg - Screech
-Egg - Focus Energy
-Egg - Curse
-Egg - Scary Face
-Egg - Rock Blast
-Egg - Stealth Rock
-Egg - Wide Guard
 TM06 - Toxic
 TM12 - Taunt
 TM13 - Ice Beam
@@ -723,10 +610,18 @@ TM91 - Flash Cannon
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
-
-== Shiftry ==
-
-(TODO)
+Egg - Headbutt
+Egg - Body Slam
+Egg - Double-Edge
+Egg - Counter
+Egg - Fissure
+Egg - Screech
+Egg - Focus Energy
+Egg - Curse
+Egg - Scary Face
+Egg - Rock Blast
+Egg - Stealth Rock
+Egg - Wide Guard
 
 == Shinx ==
 
@@ -758,16 +653,6 @@ L33 - Growth
 L37 - Giga Drain
 L41 - Seed Bomb
 L45 - Spore
-Egg - Charm
-Egg - Focus Punch
-Egg - Helping Hand
-Egg - Fake Tears
-Egg - Bullet Seed
-Egg - Wake-Up Slap
-Egg - Natural Gift
-Egg - Worry Seed
-Egg - Seed Bomb
-Egg - Drain Punch
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -792,6 +677,16 @@ TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
+Egg - Charm
+Egg - Focus Punch
+Egg - Helping Hand
+Egg - Fake Tears
+Egg - Bullet Seed
+Egg - Wake-Up Slap
+Egg - Natural Gift
+Egg - Worry Seed
+Egg - Seed Bomb
+Egg - Drain Punch
 
 == Shuckle ==
 
@@ -815,15 +710,6 @@ Lv45 - Power Split
 Lv45 - Guard Split
 Lv49 - Stone Edge
 Lv53 - Sticky Web
-Egg - Acid
-Egg - Mud-Slap
-Egg - Sweet Scent
-Egg - Helping Hand
-Egg - Knock Off
-Egg - Sand Tomb
-Egg - Rock Blast
-Egg - Acupressure
-Egg - Final Gambit
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -858,6 +744,15 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+Egg - Acid
+Egg - Mud-Slap
+Egg - Sweet Scent
+Egg - Helping Hand
+Egg - Knock Off
+Egg - Sand Tomb
+Egg - Rock Blast
+Egg - Acupressure
+Egg - Final Gambit
 
 == Shuppet ==
 
@@ -936,12 +831,6 @@ L41 - Air Slash
 L44 - Psychic
 L47 - Cosmic Power
 L50 - Sky Attack
-Egg - Steel Wing
-Egg - Ancient Power
-Egg - Skill Swap
-Egg - Roost
-Egg - Psycho Shift
-Egg - Stored Power
 TM04 - Calm Mind
 TM10 - Hidden Power
 TM11 - Sunny Day
@@ -958,22 +847,16 @@ TM88 - Sleep Talk
 TM92 - Trick Room
 TM99 - Dazzling Gleam
 HM02 - Fly
+Egg - Steel Wing
+Egg - Ancient Power
+Egg - Skill Swap
+Egg - Roost
+Egg - Psycho Shift
+Egg - Stored Power
 
 == Silcoon ==
 
 L7 - Harden
-
-== Simipour ==
-
-(TODO)
-
-== Simisage ==
-
-(TODO)
-
-== Simisear ==
-
-(TODO)
 
 == Skarmory ==
 
@@ -992,16 +875,6 @@ L39 - Autotomize
 L42 - Air Slash
 L45 - Slash
 L50 - Night Slash
-Egg - Whirlwind
-Egg - Drill Peck
-Egg - Sky Attack
-Egg - Curse
-Egg - Endure
-Egg - Pursuit
-Egg - Assurance
-Egg - Guard Swap
-Egg - Brave Bird
-Egg - Stealth Rock
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1037,6 +910,16 @@ TM97 - Dark Pulse
 TM100 - Confide
 HM01 - Cut
 HM02 - Fly
+Egg - Whirlwind
+Egg - Drill Peck
+Egg - Sky Attack
+Egg - Curse
+Egg - Endure
+Egg - Pursuit
+Egg - Assurance
+Egg - Guard Swap
+Egg - Brave Bird
+Egg - Stealth Rock
 
 == Skiddo ==
 
@@ -1056,42 +939,38 @@ L? - Worry Seed
 L? - Seed Bomb
 L? - Bulldoze
 L? - Horn Leech
-TM - Roar
-TM - Surf
-TM - Strength
-TM - SolarBeam
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Facade
-TM - Nature Power
-TM - Brick Break
-TM - Bulk Up
-TM - Payback
-TM - Energy Ball
-TM - Grass Knot
-TM - Round
-TM - Retaliate
-TM - Bulldoze
-TM - Wild Charge
-TM - Confide
-
-== Skiploom ==
-
-(TODO)
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - SolarBeam
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM42 - Facade
+TM44 - Res
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM66 - Payback
+TM67 - Retaliate
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
 
 == Skitty ==
 
@@ -1113,19 +992,6 @@ L39 - Heal Bell
 L42 - Double-Edge
 L46 - Captivate
 L49 - Play Rough
-Egg - Baton Pass
-Egg - Fake Out
-Egg - Uproar
-Egg - Helping Hand
-Egg - Wish
-Egg - Fake Tears
-Egg - Tickle
-Egg - Last Resort
-Egg - Sucker Punch
-Egg - Mud Bomb
-Egg - Zen Headbutt
-Egg - Captivate
-Egg - Simple Beam
 TM04 - Calm Mind
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1161,6 +1027,19 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
+Egg - Baton Pass
+Egg - Fake Out
+Egg - Uproar
+Egg - Helping Hand
+Egg - Wish
+Egg - Fake Tears
+Egg - Tickle
+Egg - Last Resort
+Egg - Sucker Punch
+Egg - Mud Bomb
+Egg - Zen Headbutt
+Egg - Captivate
+Egg - Simple Beam
 
 == Skorupi ==
 
@@ -1181,18 +1060,6 @@ Lv41 - Scary Face
 Lv45 - Crunch
 Lv47 - Fell Stinger
 Lv49 - Cross poison
-Egg - Whirlwind
-Egg - Sand Attack
-Egg - Twineedle
-Egg - Agility
-Egg - Screech
-Egg - Confuse Ray
-Egg - Slash
-Egg - Feint Attack
-Egg - Pursuit
-Egg - Iron Tail
-Egg - Poison Tail
-Egg - Night Slash
 TM01 - Hone Claws
 TM06 - Toxic
 TM09 - Venoshock
@@ -1232,6 +1099,18 @@ TM97 - Dark Pulse
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Egg - Whirlwind
+Egg - Sand Attack
+Egg - Twineedle
+Egg - Agility
+Egg - Screech
+Egg - Confuse Ray
+Egg - Slash
+Egg - Feint Attack
+Egg - Pursuit
+Egg - Iron Tail
+Egg - Poison Tail
+Egg - Night Slash
 
 == Skrelp ==
 
@@ -1251,41 +1130,33 @@ L? - Poison Tail
 L? - Water Pulse
 L? - Aqua Tail
 L? - Dragon Pulse
-TM - Surf
-TM - Thunderbolt
-TM - Toxic
-TM - Double Team
-TM - Waterfall
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Shadow Ball
-TM - Hail
-TM - Facade
-TM - Venoshock
-TM - Sludge Wave
-TM - Round
-TM - Scald
-TM - Confide
+TM06 - Toxic
+TM07 - Hail
+TM09 - Venoshock
+TM10 - Hidden Power
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Egg - Toxic Spikes
 Egg - Haze
 Egg - Venom Drench
-
-== Skuntank ==
-
-(TODO)
-
-== Slaking ==
-
-(TODO)
 
 == Slakoth ==
 
@@ -1312,32 +1183,32 @@ Lv13 - Bide
 Lv18 - Dragonbreath
 Lv25 - Rain Dance
 Lv28 - Flail
-L32 - Body Slam
+Lv32 - Body Slam
 Lv38 - Muddy Water
-L47 - Dragon Pulse
-TM - Ice Beam
-TM - Blizzard
-TM - Thunderbolt
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Sludge Wave
-TM - Round
-TM - Infestation
-TM - Confide
+Lv47 - Dragon Pulse
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM80 - Rock Slide
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 
 == Slowbro =
 
@@ -1482,6 +1353,7 @@ TM100 - Confide
 Hm03 - Surf
 HM04 - Strength
 
+
 == Slowpoke ==
 
 Lv1 - Curse
@@ -1500,16 +1372,6 @@ Lv45 - Psychic
 Lv49 - Rain Dance
 Lv54 - Psych Up
 Lv58 - Heal Pulse
-Egg - Stomp
-Egg - Snore
-Egg - Belly Drum
-Egg - Sleep Talk
-Egg - Future Sight
-Egg - Mud Sport
-Egg - Block
-Egg - Me First
-Egg - Zen Headbutt
-Egg - Wonder Room
 TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
@@ -1553,6 +1415,16 @@ TM92 - Trick Room
 TM100 - Confide
 Hm03 - Surf
 HM04 - Strength
+Egg - Stomp
+Egg - Snore
+Egg - Belly Drum
+Egg - Sleep Talk
+Egg - Future Sight
+Egg - Mud Sport
+Egg - Block
+Egg - Me First
+Egg - Zen Headbutt
+Egg - Wonder Room
 
 == Slugma ==
 
@@ -1570,17 +1442,6 @@ Lv41 - Rock Slide
 Lv46 - Body Slam
 Lv50 - Flamethrower
 Lv55 - Earth Power
-Egg - SmokeScreen
-Egg - Acid Armor
-Egg - Curse
-Egg - Rollout
-Egg - Stockpile
-Egg - Spit Up
-Egg - Swallow
-Egg - Heat Wave
-Egg - Memento
-Egg - Earth Power
-Egg - Inferno
 TM06 - Toxic
 TM10 - Hidden Power
 TM11 - Sunny Day
@@ -1609,6 +1470,17 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM96 - Nature Power
 TM100 - Confide
+Egg - SmokeScreen
+Egg - Acid Armor
+Egg - Curse
+Egg - Rollout
+Egg - Stockpile
+Egg - Spit Up
+Egg - Swallow
+Egg - Heat Wave
+Egg - Memento
+Egg - Earth Power
+Egg - Inferno
 
 == Slurpuff ==
 
@@ -1628,41 +1500,41 @@ Lv45 - Wish
 Lv49 - Play Rough
 Lv58 - Light Screen
 Lv67 - Safeguard
-TM - Flamethrower
-TM - Surf
-TM - Hyper Beam
-TM - Thunderbolt
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Dream Eater
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Facade
-TM - Calm Mind
-TM - Energy Ball
-TM - Giga Impact
-TM - Round
-TM - Dazzling Gleam
-TM - Confide
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM35 - Flamethrower
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM03 - Surf
 
 == Smeargle ==
 
-Start - Sketch
+L? - Sketch
 
 == Smoochum ==
 
@@ -1709,21 +1581,6 @@ Lv35 - Slash
 L40 - Snatch
 L44 - Punishment
 L47 - Ice Shard
-Egg - Ice Punch
-Egg - Bite
-Egg - Counter
-Egg - Spite
-Egg - Foresight
-Egg - Pursuit
-Egg - Fake Out
-Egg - Assist
-Egg - Crush Claw
-Egg - Feint
-Egg - Punishment
-Egg - Avalanche
-Egg - Ice Shard
-Egg - Double Hit
-Egg - Icicle Crash
 TM01 - Hone Claws
 TM04 - Calm Mind
 TM12 - Taunt
@@ -1741,6 +1598,21 @@ TM88 - Sleep Talk
 TM98 - Power-Up Punch
 TM100 - Confide
 HM03 - Surf
+Egg - Ice Punch
+Egg - Bite
+Egg - Counter
+Egg - Spite
+Egg - Foresight
+Egg - Pursuit
+Egg - Fake Out
+Egg - Assist
+Egg - Crush Claw
+Egg - Feint
+Egg - Punishment
+Egg - Avalanche
+Egg - Ice Shard
+Egg - Double Hit
+Egg - Icicle Crash
 
 == Snivy ==
 
@@ -1837,7 +1709,6 @@ Egg - Avalanche
 Egg - Hex
 
 == Snover ==
-
 Lv1 - Powder Snow
 Lv1 - Leer
 Lv5 - Razor Leaf
@@ -1850,17 +1721,6 @@ Lv31 - Ingrain
 Lv36 - Wood Hammer
 Lv41 - Blizzard
 Lv46 - Sheer Cold
-Egg - Stomp
-Egg - Double-Edge
-Egg - Mist
-Egg - Leech Seed
-Egg - Growth
-Egg - Skull Bash
-Egg - Bullet Seed
-Egg - Magical Leaf
-Egg - Natural Gift
-Egg - Seed Bomb
-Egg - Avalanche
 TM06 - Toxic
 TM07 - Hail
 TM10 - Hidden Power
@@ -1889,6 +1749,17 @@ TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
+Egg - Stomp
+Egg - Double-Edge
+Egg - Mist
+Egg - Leech Seed
+Egg - Growth
+Egg - Skull Bash
+Egg - Bullet Seed
+Egg - Magical Leaf
+Egg - Natural Gift
+Egg - Seed Bomb
+Egg - Avalanche
 
 == Snubbull ==
 
@@ -2161,10 +2032,6 @@ Egg - Extrasensory
 Egg - Me First
 Egg - Zen Headbutt
 
-== Staraptor ==
-
-(TODO)
-
 == Staravia ==
 
 L? - Wing Attack
@@ -2194,14 +2061,6 @@ TM - Surf
 == Staryu ==
 
 TM - Surf
-
-== Steelix ==
-
-(TODO)
-
-== Stoutland ==
-
-(TODO)
 
 == Stunfisk ==
 
@@ -2246,10 +2105,6 @@ Egg - Stealth Rock
 
 TM - Calm Mind
 
-== Sunflora ==
-
-(TODO)
-
 == Sunkern ==
 
 Egg - Leech Seed
@@ -2290,25 +2145,9 @@ Egg - Roost
 Egg - Power Swap
 Egg - Dragon Rush
 
-== Swadloon ==
-
-(TODO)
-
 == Swalot ==
 
 L? - Belch
-
-== Swampert ==
-
-(TODO)
-
-== Swanna ==
-
-(TODO)
-
-== Swellow ==
-
-(TODO)
 
 == Swinub ==
 
@@ -2372,10 +2211,6 @@ TM - Energy Ball
 TM - Round
 TM - Dazzling Gleam
 TM - Confide
-
-== Swoobat ==
-
-(TODO)
 
 == Sylveon ==
 
@@ -2510,14 +2345,6 @@ Egg - Power Swap
 Egg - Leaf Storm
 Egg - Rage Powder
 
-== Tangrowth ==
-
-(TODO)
-
-== Tauros ==
-
-(TODO)
-
 == Teddiursa ==
 
 Egg - Take Down
@@ -2548,10 +2375,6 @@ Egg - Tickle
 Egg - Muddy Water
 Egg - Acupressure
 Egg - Aqua Ring
-
-== Tentacruel ==
-
-(TODO)
 
 == Tepig ==
 
@@ -2604,10 +2427,6 @@ Egg - Knock Off
 Egg - Iron Defense
 Egg - Water Pulse
 
-== Togekiss ==
-
-(TODO)
-
 == Togepi ==
 
 Egg - Peck
@@ -2622,10 +2441,6 @@ Egg - Psycho Shift
 Egg - Lucky Chant
 Egg - Nasty Plot
 Egg - Stored Power
-
-== Togetic ==
-
-(TODO)
 
 == Torchic ==
 
@@ -2660,10 +2475,6 @@ Egg - Clear Smog
 
 TM - Acrobatics
 
-== Torterra ==
-
-(TODO)
-
 == Totodile ==
 
 Egg - Ice Punch
@@ -2679,14 +2490,6 @@ Egg - Water Sport
 Egg - Dragon Dance
 Egg - Water Pulse
 Egg - Aqua Jet
-
-== Toxicroak ==
-
-(TODO)
-
-== Tranquill ==
-
-(TODO)
 
 == Trapinch ==
 
@@ -2840,14 +2643,6 @@ Egg - Mud Bomb
 
 L? - Spark
 
-== Typhlosion ==
-
-(TODO)
-
-== Tyranitar ==
-
-(TODO)
-
 == Tyrantrum ==
 
 L? - Stomp
@@ -2966,29 +2761,13 @@ TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
 
-== Umbreon ==
-
-(TODO)
-
-== Unfezant ==
-
-(TODO)
-
 == Unown ==
 
 L? - Hidden Power
 
-== Ursaring ==
-
-(TODO)
-
 == Uxie ==
 
 TM - U-turn
-
-== Vanillish ==
-
-(TODO)
 
 == Vanillite ==
 
@@ -3000,10 +2779,6 @@ Egg - Natural Gift
 Egg - Magnet Rise
 Egg - Ice Shard
 Egg - Autotomize
-
-== Vanilluxe ==
-
-(TODO)
 
 == Vaporeon ==
 
@@ -3103,26 +2878,6 @@ L? - Petal Blizzard
 
 TM - Roost
 
-== Vibrava ==
-
-(TODO)
-
-== Victini ==
-
-(TODO)
-
-== Victreebel ==
-
-(TODO)
-
-== Vigoroth ==
-
-(TODO)
-
-== Vileplume ==
-
-(TODO)
-
 == Virizion ==
 
 TM - Calm Mind
@@ -3191,10 +2946,6 @@ Egg - Trick
 Egg - Silver Wind
 Egg - Bug Buzz
 
-== Volcarona ==
-
-(TODO)
-
 == Voltorb ==
 
 TM - Thunderbolt
@@ -3239,49 +2990,9 @@ Egg - Aqua Ring
 Egg - Zen Headbutt
 Egg - Soak
 
-== Wailord ==
-
-(TODO)
-
-== Walrein ==
-
-(TODO)
-
-== Wartortle ==
-
-(TODO)
-
-== Watchog ==
-
-(TODO)
-
-== Weavile ==
-
-(TODO)
-
 == Weedle ==
 
 L? - Poison Sting
-
-== Weepinbell ==
-
-(TODO)
-
-== Weezing ==
-
-(TODO)
-
-== Whimsicott ==
-
-(TODO)
-
-== Whirlipede ==
-
-(TODO)
-
-== Whiscash ==
-
-(TODO)
 
 == Whismur ==
 
@@ -3364,10 +3075,6 @@ L? - Tackle
 
 L? - Encore
 
-== Xatu ==
-
-(TODO)
-
 == Xerneas ==
 
 L? - Take Down
@@ -3449,10 +3156,6 @@ Egg - Silver Wind
 Egg - Signal Beam
 Egg - Feint
 
-== Yanmega ==
-
-(TODO)
-
 == Yveltal ==
 
 L? - Razor Wind
@@ -3532,14 +3235,6 @@ Egg - Final Gambit
 L? - Thunderbolt
 TM - Thunderbolt
 
-== Zebstrika ==
-
-(TODO)
-
-== Zekrom ==
-
-(TODO)
-
 == Zigzagoon ==
 
 L? - Sand Attack
@@ -3570,10 +3265,6 @@ Egg - Trick
 Egg - Tickle
 Egg - Rock Climb
 Egg - Simple Beam
-
-== Zoroark ==
-
-(TODO)
 
 == Zorua ==
 
@@ -3630,10 +3321,6 @@ Egg - Brave Bird
 Egg - Nasty Plot
 Egg - Zen Headbutt
 Egg - Defog
-
-== Zweilous ==
-
-(TODO)
 
 == Zygarde ==
 
