@@ -857,6 +857,8 @@ TM - Strength
 
 == Arceus ==
 
+(Unreleased)
+
 == Archen ==
 
 L? - Double Team
@@ -877,6 +879,8 @@ Egg - Defog
 Egg - Head Smash
 
 == Archeops ==
+
+(TODO)
 
 == Ariados ==
 
@@ -1322,6 +1326,8 @@ Egg - Dragon Pulse
 
 == Azelf ==
 
+(Unreleased)
+
 TM - U-turn
 
 == Azumarill ==
@@ -1529,7 +1535,11 @@ Egg - Brine
 
 == Bastiodon ==
 
+(TODO)
+
 == Bayleef ==
+
+(Unreleased)
 
 == Beartic ==
 
@@ -1684,6 +1694,8 @@ TM - Infestation
 TM - Confide
 
 == Beheeyem ==
+
+(TODO)
 
 == Beldum ==
 
@@ -2027,6 +2039,8 @@ TM - Cut
 TM - Strength
 
 == Blissey ==
+
+(TODO)
 
 == Blitzle ==
 
@@ -2468,6 +2482,8 @@ Egg - Nasty Plot
 
 == Cacturne ==
 
+(TODO)
+
 == Camerupt ==
 
 L? - Amnesia
@@ -2623,6 +2639,8 @@ Egg - Rage Powder
 
 == Carracosta ==
 
+(TODO)
+
 == Carvanha ==
 
 Egg - Thrash
@@ -2634,6 +2652,7 @@ Egg - Brine
 
 == Cascoon ==
 
+Start - Harden
 L7 - Harden
 
 == Castform ==
@@ -2653,6 +2672,8 @@ Start - String Shot
 L15 - Bug Bite
 
 == Celebi ==
+
+(Unreleased)
 
 TM - Giga Drain
 
@@ -2855,6 +2876,8 @@ Egg - Defog
 Egg - Boomburst
 
 == Cherrim ==
+
+(TODO)
 
 == Cherubi ==
 
@@ -3464,6 +3487,8 @@ TM - Volt Switch
 
 == Cofagrigus ==
 
+(TODO)
+
 == Combee ==
 
 L? - Sweet Scent
@@ -3573,6 +3598,8 @@ Egg - Switcheroo
 
 == Cradily ==
 
+(TODO)
+
 == Cranidos ==
 
 Start - Headbutt
@@ -3648,6 +3675,8 @@ L44 - Crabhammer
 
 == Cresselia ==
 
+(Unreleased)
+
 TM - Reflect
 
 == Croagunk ==
@@ -3674,9 +3703,15 @@ Egg - Bullet Punch
 
 == Crobat ==
 
+(TODO)
+
 == Croconaw ==
 
+(TODO)
+
 == Crustle ==
+
+(TODO)
 
 == Cryogonal ==
 
