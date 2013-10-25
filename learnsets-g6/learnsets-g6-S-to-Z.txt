@@ -1535,51 +1535,7 @@ TM - Confide
 
 == Smeargle ==
 
-L? - Baby-Doll Eyes
-L? - Boomburst
-L? - Crafty Shield
-L? - Dazzling Gleam
-L? - Fairy Wind
-L? - Flying Press
-L? - Forest's Curse
-L? - Geomancy
-L? - Petal Blizzard
-L? - Infestation
-L? - Moonblast
-L? - Mystical Fire
-L? - Noble Roar
-L? - Nuzzle
-L? - Oblivion Wing
-L? - Parabolic Charge
-L? - Phantom Force
-L? - Play Rough
-L? - Play Nice
-L? - Trick-or-Treat
-L? - Water Shuriken
-L? - Aromatic Mist
-L? - Belch
-L? - Confide
-L? - Disarming Voice
-L? - Eerie Impulse
-L? - Electric Terrain
-L? - Electrify
-L? - Fairy Lock
-L? - Fell Stinger
-L? - Flower Shield
-L? - Grassy Terrain
-L? - Ion Deluge
-L? - King's Shield
-L? - Land's Wrath
-L? - Magnetic Flux
-L? - Misty Terrain
-L? - Parting Shot
-L? - Powder
-L? - Power-Up Punch
-L? - Rototiller
-L? - Spiky Shield
-L? - Sticky Web
-L? - Topsy-turvy
-L? - Venom Drench
+L? - Sketch
 
 == Smoochum ==
 
