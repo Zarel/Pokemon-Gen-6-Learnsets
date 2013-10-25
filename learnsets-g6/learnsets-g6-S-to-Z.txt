@@ -55,6 +55,46 @@ TM98 - Power-Up Punch
 TM99 - Dazzling Gleam
 HM01 - Cut
 
+== Salamence ==
+
+L? - Double-Edge
+L? - Fire Fang
+L? - Thunder Fang
+L? - Rage
+L? - Bite
+L? - Leer
+L? - Headbutt
+L? - Focus Energy
+L? - Ember
+L? - Protect
+L? - Dragon Breath
+L? - Scary Face
+L50 - Fly
+L53 - Crunch
+L61 - Dragon Claw
+L70 - Double-Edge
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM45 - Attract
+TM65 - Shadow Claw
+TM82 - Dragon Tail
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM04 - Strength
+
 == Sandile ==
 
 L? - Sand Attack
