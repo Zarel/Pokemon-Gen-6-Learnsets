@@ -1,9 +1,20 @@
 == Abomasnow ==
 
-L39 - Rock Tomb
-L52 - Focus Blast
-L78 - Bulldoze
-L94 - Rock Smash
+Start - Ice Punch
+Start - Powder Snow
+Start - Leer
+Start - Razor Leaf
+Start - Icy Wind
+L5 - Razor Leaf
+L9 - Icy Wind
+L13 - Grass Whistle
+L17 - Swagger
+L21 - Mist
+L26 - Ice Shard
+L31 - Ingrain
+L36 - Wood Hammer
+L47 - Blizzard
+L58 - Sheer Cold
 TM - Toxic
 TM - Hail
 TM - Hidden Power
@@ -46,41 +57,41 @@ TM - Strength
 == Abra ==
 
 Start - Teleport
-TM - Thunder Wave
+TM - Psyshock
+TM - Calm Mind
 TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Reflect
-TM - Dream Eater
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
 TM - Hidden Power
-TM - Rain Dance
 TM - Sunny Day
-TM - Psych Up
+TM - Taunt
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Return
+TM - Psychic
 TM - Shadow Ball
+TM - Double Team
+TM - Reflect
 TM - Torment
 TM - Facade
-TM - Taunt
-TM - Calm Mind
-TM - Embargo
-TM - Fling
-TM - Energy Ball
-TM - Trick Room
-TM - Grass Knot
-TM - Charge Beam
-TM - Psyshock
+TM - Rest
+TM - Attract
+TM - Thief
 TM - Round
+TM - Energy Ball
+TM - Fling
+TM - Charge Beam
+TM - Embargo
+TM - Flash
+TM - Thunder Wave
+TM - Psych Up
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Trick Room
 TM - Dazzling Gleam
 TM - Confide
 Egg - Fire Punch
@@ -96,13 +107,13 @@ Egg - Guard Split
 
 == Absol ==
 
+Start - Perish Song
+Start - Me First
+Start - Razor Wind
 Start - Detect
 Start - Taunt
 Start - Scratch
 Start - Feint
-L? - Perish Song
-L? - Me First
-L? - Razor Wind
 L4 - Leer
 L9 - Quick Attack
 L12 - Pursuit
@@ -116,6 +127,9 @@ L41 - Night Slash
 L44 - Detect
 L47 - Psycho Cut
 L50 - Sucker Punch
+L57 - Razor Wind
+L60 - Me First
+L65 - Perish Song
 TM - Hone Claws
 TM - Calm Mind
 TM - Toxic
@@ -189,8 +203,26 @@ Egg - Hex
 
 == Accelgor ==
 
-(PLACEHOLDER: taken from Shelmet)
-
+Start - Final Gambit
+Start - Power Swap
+Start - Leech Life
+Start - Acid Spray
+Start - Double Team
+Start - Quick Attack
+L4 - Acid Spray
+L8 - Double Team
+L13 - Quick Attack
+L16 - Struggle Bug
+L20 - Mega Drain
+L25 - Swift
+L28 - Me First
+L32 - Agility
+L37 - Giga Drain
+L40 - U-Turn
+L44 - Bug Buzz
+L49 - Recover
+L52 - Power Swap
+L56 - Final Gambit
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -211,20 +243,19 @@ TM90 - Substitute
 
 == Aegislash ==
 
-L? - Swords Dance
-L? - Slash
-L? - Fury Cutter
-L? - Pursuit
-L? - Aerial Ace
-L? - Iron Defense
-L? - Power Trick
-L? - Night Slash
-L? - Shadow Sneak
-L? - Iron Head
-L? - Head Smash
-L? - Autotomize
-L? - Sacred Sword
-L? - King's Shield
+Start - Fury Cutter
+Start - Pursuit
+Start - Autotomize
+Start - Shadow Sneak
+Start - Slash
+Start - Iron Defense
+Start - Night Slash
+Start - Power Trick
+Start - Iron Head
+Start - Head Smash
+Start - Swords Dance
+Start - King's Shield
+Start - Sacred Sword
 TM - Swords Dance
 TM - Cut
 TM - Hyper Beam
@@ -269,6 +300,7 @@ L41 - Take Down
 L49 - Sky Drop
 L57 - Iron Head
 L65 - Hyper Beam
+L73 - Rock Slide
 L81 - Giga Impact
 TM - Fly
 TM - Roar
@@ -325,6 +357,24 @@ Egg - Assurance
 
 == Aggron ==
 
+Start - Tackle
+Start - Harden
+Start - Mud-Slap
+Start - Headbutt
+L4 - Mud-Slap
+L8 - Headbutt
+L11 - Metal Claw
+L15 - Iron Defense
+L18 - Roar
+L22 - Take Down
+L25 - Iron Head
+L29 - Protect
+L34 - Metal Sound
+L40 - Iron Tail
+L48 - Autotomize
+L57 - Heavy Slam
+L65 - Double-Edge
+L74 - Metal Burst
 TM - Hone Claws
 TM - Dragon Claw
 TM - Roar
@@ -443,6 +493,10 @@ Egg - Switcheroo
 
 == Alakazam ==
 
+Start - Teleport
+Start - Kinesis
+Start - Confusion
+L16 - Confusion
 L18 - Disable
 L22 - Miracle Eye
 L24 - Ally Switch
@@ -453,6 +507,8 @@ L36 - Recover
 L40 - Psycho Cut
 L42 - Calm Mind
 L46 - Psychic
+L48 - Future Sight
+L50 - Trick
 TM - Calm Mind
 TM - Toxic
 TM - Hidden Power
@@ -474,11 +530,11 @@ TM - Dazzling Gleam
 
 == Alomomola ==
 
+Start - Hydro Pump
 Start - Wide Guard
 Start - Healing Wish
 Start - Pound
 Start - Water Sport
-L? - Hydro Pump
 L5 - Aqua Ring
 L9 - Aqua Jet
 L13 - Double Slap
@@ -490,6 +546,10 @@ L33 - Soak
 L37 - Wish
 L41 - Brine
 L45 - Safeguard
+L49 - Helping Hand
+L53 - Wide Guard
+L57 - Healing Wish
+L61 - Hydro Pump
 TM - Calm Mind
 TM - Toxic
 TM - Hail
@@ -526,23 +586,25 @@ Egg - Tickle
 
 == Altaria ==
 
-L? - Dragon Dance
-L? - Dragon Breath
-L? - Cotton Guard
-L? - Dragon Pulse
-L? - Sky Attack
-L? - Pluck
-L? - Peck
-L? - Growl
-L? - Astonish
-L? - Sing
-L? - Fury Attack
-L? - Safeguard
-L? - Mist
-L? - Round
-L? - Natural Gift
-L? - Take Down
-L? - Refresh
+Start - Sky Attack
+Start - Pluck
+Start - Peck
+Start - Growl
+Start - Astonish
+Start - Sing
+L4 - Astonish
+L8 - Sing
+L10 - Fury Attack
+L13 - Safeguard
+L15 - Mist
+L18 - Round
+L21 - Natural Gift
+L25 - Take Down
+L29 - Refresh
+L34 - Dragon Dance
+L35 - Dragon Breath
+L42 - Cotton Guard
+L48 - Dragon Pulse
 L57 - Perish Song
 L60 - Moonblast
 L64 - Sky Attack
@@ -590,7 +652,7 @@ TM - Fly
 
 Start - Growl
 Start - Powder Snow
-L6 - Thunder Wave
+L5 - Thunder Wave
 L10 - Rock Throw
 L13 - Icy Wind
 L15 - Take Down
@@ -605,6 +667,7 @@ L44 - Encore
 L47 - Light Screen
 L50 - Ice Beam
 L57 - Hyper Beam
+L65 - Blizzard
 TM - Roar
 TM - Ice Beam
 TM - Blizzard
@@ -696,11 +759,20 @@ TM - Strength
 
 == Amoonguss ==
 
-L? - Feint Attack
-L? - Sweet Scent
-L? - Giga Drain
-L? - Toxic
-L? - Synthesis
+Start - Absorb
+Start - Growth
+Start - Astonish
+Start - Bide
+L6 - Growth
+L8 - Astonish
+L12 - Bide
+L15 - Mega Drain
+L18 - Ingrain
+L20 - Feint Attack
+L24 - Sweet Scent
+L28 - Giga Drain
+L32 - Toxic
+L35 - Synthesis
 L43 - Clear Smog
 L49 - Solar Beam
 L54 - Rage Powder
@@ -734,13 +806,23 @@ TM - Confide
 
 == Ampharos ==
 
-Start - Zap Cannon
-Start - Ion Deluge
 Start - Magnetic Flux
+Start - Ion Deluge
 Start - Dragon Pulse
 Start - Fire Punch
+Start - Tackle
+Start - Growl
+Start - Thunder Wave
+Start - Thunder Shock
+L4 - Thunder Wave
+L8 - Thunder Shock
+L11 - Cotton Spore
+L16 - Charge
+L20 - Take Down
+L25 - Electro Ball
+L29 - Confuse Ray
 L30 - Thunder Punch
-L36 - Power Gem
+L35 - Power Gem
 L40 - Discharge
 L46 - Cotton Guard
 L51 - Signal Beam
