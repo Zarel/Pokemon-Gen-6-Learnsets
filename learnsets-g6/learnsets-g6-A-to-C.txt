@@ -899,6 +899,18 @@ Egg - Cross Poison
 
 == Arbok ==
 
+Start - Ice Fang
+Start - Thunder Fang
+Start - Fire Fang
+Start - Wrap
+Start - Leer
+Start- Poison Sting
+Start - Bite
+L4 - Poison Sting
+L9 - Bite
+L12 - Glare
+L17 - Screech
+L20 - Acid
 L22 - Crunch
 L27 - Stockpile
 L27 - Swallow
@@ -908,6 +920,42 @@ L39 - Mud Bomb
 L44 - Gastro Acid
 L48 - Belch
 L51 - Haze
+L56 - Coil
+L63 - Gunk Shot
+TM - Toxic
+TM - Venoshock
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Sludge Wave
+TM - Sludge Bomb
+TM - Rock Tomb
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Payback
+TM - Giga Impact
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Infestation
+TM - Poison Jab
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Dark Pulse
+TM - Confide
+TM - Strength
 
 == Arcanine ==
 
@@ -921,8 +969,11 @@ TM - Toxic
 TM - Hidden Power
 TM - Protect
 TM - Frustration
+TM - Solar Beam
 TM - Return
 TM - Dig
+TM - Double Team
+TM - Flamethrower
 TM - Fire Blast
 TM - Aerial Ace
 TM - Facade
@@ -930,10 +981,19 @@ TM - Flame Charge
 TM - Rest
 TM - Attract
 TM - Thief
+TM - Round
+TM - Overheat
+TM - Incinerate
 TM - Will-o-wisp
+TM - Retaliate
+TM - Giga Impact
 TM - Bulldoze
+TM - Swagger
+TM - Substitute
 TM - Sleep Talk
+TM - Wild Charge
 TM - Rock Smash
+TM - Snarl
 TM - Confide
 TM - Strength
 
@@ -969,14 +1029,16 @@ Egg - Head Smash
 Start - Venom Drench
 Start - Fell Stinger
 Start - Bug Bite
-L? - Poison Sting
-L? - String Shot
-L? - Scary Face
-L? - Constrict
-L? - Leech Life
-L? - Night Shade
-L? - Shadow Sneak
-L? - Fury Swipes
+Start - Poison Sting
+Start - String Shot
+Start - Scary Face
+Start - Constrict
+L5 - Scary Face
+L8 - Constrict
+L12 - Leech Life
+L15 - Night Shade
+L19 - Shadow Sneak
+L23 - Fury Swipes
 L28 - Sucker Punch
 L32 - Spider Web
 L37 - Agility
@@ -1038,17 +1100,15 @@ TM - Cut
 
 Start - Aromatic Mist
 Start - Heal Pulse
-L? - Sweet Kiss
-L? - Attract
-L? - Sweet Scent
-L? - Aromatherapy
-L? - Odor Sleuth
-L? - Calm Mind
-L? - Echoed Voice
-L? - Heal Pulse
-L? - Draining Kiss
-L? - Fairy Wind
-L? - Aromatic Mist
+Start - Sweet Scent
+Start - Fairy Wind
+L6 - Sweet Kiss
+L8 - Odor Sleuth
+L13 - Echoed Voice
+L17 - Calm Mind
+L21 - Draining Kiss
+L25 - Aromatherapy
+L29 - Attract
 L31 - Moonblast
 L35 - Charm
 L38 - Flail
@@ -1104,6 +1164,15 @@ L8 - Headbutt
 L11 - Metal Claw
 L15 - Iron Defense
 L18 - Roar
+L22 - Take Down
+L25 - Iron Head
+L29 - Protect
+L32 - Metal Sound
+L36 - Iron Tail
+L39 - Autotomize
+L43 - Heavy Slam
+L46 - Double-Edge
+L50 - Metal Burst
 TM - Hone Claws
 TM - Roar
 TM - Toxic
@@ -1138,7 +1207,7 @@ Egg - Stomp
 Egg - Body Slam
 Egg - Screech
 Egg - Curse
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Superpower
 Egg - Endeavor
 Egg - Dragon Rush
@@ -1166,37 +1235,57 @@ L? - Agility
 L71 - Blizzard
 L78 - Sheer Cold
 L85 - Roost
+L92 - Hurricane
+TM - Roar
 TM - Toxic
+TM - Hail
 TM - Hidden Power
+TM - Sunny Day
 TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
 TM - Protect
+TM - Rain Dance
+TM - Roost
 TM - Frustration
 TM - Return
 TM - Double Team
 TM - Reflect
+TM - Sandstorm
 TM - Aerial Ace
 TM - Facade
 TM - Rest
+TM - Round
+TM - Steel Wing
 TM - Sky Drop
 TM - Giga Impact
 TM - Frost Breath
+TM - Swagger
 TM - Sleep Talk
-TM - U-turn
+TM - U-Turn
 TM - Substitute
 TM - Rock Smash
 TM - Confide
-TM - Fly 
+TM - Fly
 
 == Audino ==
 
-L? - Growl
-L? - Helping Hand
-L? - Refresh
-L? - Double Slap
-L? - Attract
-L? - Entrainment
-L? - Secret Power
-L? - Take Down
+Start - Last Resort
+Start - Play Nice
+Start - Pound
+Start - Growl
+Start - Helping Hand
+L5 - Refresh
+L10 - Double Slap
+L15 - Attract
+L20 - Secret Power
+L25 - Entrainment
+L30 - Take Down
+L35 - Heal Pulse
+L40 - After You
+L45 - Simple Beam
+L50 - Double-Edge
+L55 - Last Resort
 TM - Psyshock
 TM - Calm Mind
 TM - Toxic
@@ -1257,26 +1346,26 @@ Egg - Bestow
 
 == Aurorus ==
 
-L? - Take Down
-L? - Growl
-L? - Mist
-L? - Aurora Beam
-L? - Thunder Wave
-L? - Rock Throw
-L? - Light Screen
-L? - Powder Snow
-L? - Icy Wind
-L? - Encore
-L? - Ancient Power
-L? - Hail
-L? - Nature Power
-L? - Avalanche
-L? - Round
-L? - Freeze Dry
+Start - Freeze-Dry
+Start - Growl
+Start - Powder Snow
+L5 - Thunder Wave
+L10 - Rock Throw
+L13 - Icy Wind
+L15 - Take Down
+L18 - Mist
+L20 - Aurora Beam
+L26 - Ancient Power
+L30 - Round
+L34 - Avalanche
+L38 - Hail
+L43 - Nature Power
+L46 - Encore
+L50 - Light Screen
 L56 - Ice Beam
 L63 - Hyper Beam
 L74 - Blizzard
-L77 - Freeze Dry
+L77 - Freeze-Dry
 TM - Roar
 TM - Ice Beam
 TM - Blizzard
@@ -1327,22 +1416,21 @@ TM - Confide
 
 == Avalugg ==
 
-Start - Skull Bash
 Start - Iron Defense
 Start - Crunch
-L? - Tackle
-L? - Take Down
-L? - Bite
-L? - Harden
-L? - Sharpen
-L? - Curse
-L? - Powder Snow
-L? - Icy Wind
-L? - Rapid Spin
-L? - Ice Ball
-L? - Iron Defense
-L? - Avalanche
-L? - Ice Fang
+Start - Skull Bash
+Start - Tackle
+Start - Bite
+Start - Harden
+L5 - Powder Snow
+L10 - Icy Wind
+L15 - Take Down
+L20 - Sharpen
+L22 - Curse
+L26 - Ice Fang
+L30 - Ice Ball
+L35 - Rapid Spin
+L42 - Avalanche
 L46 - Blizzard
 L51 - Recover
 L56 - Double-Edge
@@ -1386,15 +1474,55 @@ TM - Confide
 
 == Axew ==
 
-L? - Assurance
-L? - Dragon Rage
-L? - Dual Chop
+Start - Scratch
+L4 - Leer
+L7 - Assurance
+L10 - Dragon Rage
+L13 - Dual Chop
 L16 - Scary Face
-L22 - Slash
+L20 - Slash
 L28 - Dragon Claw
 L32 - Dragon Dance
 L36 - Taunt
-L42 - Dragon Pulse
+L41 - Dragon Pulse
+L46 - Swords Dance
+L50 - Guillotine
+L56 - Outrage
+L61 - Giga Impact
+TM - Hone Claws
+TM - Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - False Swipe
+TM - Fling
+TM - Incinerate
+TM - Payback
+TM - Giga Impact
+TM - Swords Dance
+TM - X-Scissor
+TM - Poison Jab
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+TM - Cut
+TM - Strength
 Egg - Razor Wind
 Egg - Counter
 Egg - Harden
@@ -1405,6 +1533,7 @@ Egg - Iron Tail
 Egg - Endeavor
 Egg - Night Slash
 Egg - Dragon Pulse
+Tutor - Draco Meteor
 
 == Azelf ==
 
@@ -1414,6 +1543,18 @@ TM - U-turn
 
 == Azumarill ==
 
+Start - Tackle
+Start - Bubble
+Start - Tail Whip
+Start - Water Sport
+L2 - Tail Whip
+L5 - Water Sport
+L7 - Water Gun
+L10 - Defense Curl
+L10 - Rollout
+L13 - Bubble Beam
+L16 - Helping Hand
+L21 - Aqua Tail
 L25 - Double-Edge
 L31 - Aqua Ring
 L35 - Rain Dance
@@ -1441,14 +1582,38 @@ TM - Waterfall
 
 == Azurill ==
 
-L? - Splash
-L? - Water Gun
-L? - Tail Whip
-L? - Water Sport
-L? - Charm
-L? - Helping Hand
-L7 - Bubble
+Start - Splash
+Start - Bubble
+L2 - Tail Whip
+L5 - Water Sport
+L7 - Water Gun
+L10 - Charm
 L13 - Bubble Beam
+L16 - Helping Hand
+L20 - Slam
+L23 - Bounce
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Return
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Scald
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Surf
+TM - Waterfall
 Egg - Slam
 Egg - Body Slam
 Egg - Sing
