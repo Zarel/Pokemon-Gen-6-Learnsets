@@ -2,6 +2,10 @@
 
 TM - Dark Pulse
 
+== Darmanitan ==
+
+(TODO)
+
 == Darumaka ==
 
 Egg - Take Down
@@ -214,6 +218,14 @@ L? - Rest
 L? - Aqua Ring
 L? - Aurora Beam
 
+== Dewott ==
+
+(TODO)
+
+== Dialga ==
+
+(TODO)
+
 == Diggersby ==
 
 Start - Hammer Arm
@@ -290,6 +302,10 @@ Egg - Final Gambit
 
 L? - Transform
 
+== Dodrio ==
+
+(TODO)
+
 == Doduo ==
 
 L? - Peck
@@ -329,6 +345,10 @@ Egg - Endeavor
 Egg - Natural Gift
 Egg - Assurance
 Egg - Brave Bird
+
+== Donphan ==
+
+(TODO)
 
 == Doublade ==
 
@@ -916,6 +936,10 @@ Egg - Brine
 Egg - Lucky Chant
 Egg - Me First
 
+== Dugtrio ==
+
+(TODO)
+
 == Dunsparce ==
 
 Start - Rage
@@ -968,6 +992,10 @@ Egg - Secret Power
 Egg - Astonish
 Egg - Trump Card
 Egg - Hex
+
+== Duosion ==
+
+(TODO)
 
 == Durant ==
 
@@ -1029,6 +1057,14 @@ Egg - Endure
 Egg - Baton Pass
 Egg - Thunder Fang
 Egg - Rock Climb
+
+== Dusclops ==
+
+(TODO)
+
+== Dusknoir ==
+
+(TODO)
 
 == Duskull ==
 
@@ -1230,6 +1266,10 @@ TM - Wild Charge
 TM - Confide
 TM - Power-Up Punch
 
+== Electivire ==
+
+(TODO)
+
 == Electrike ==
 
 Start - Tackle
@@ -1333,6 +1373,10 @@ Egg - Power Swap
 Egg - Guard Swap
 Egg - Nasty Plot
 
+== Emboar ==
+
+(TODO)
+
 == Emolga ==
 
 L? - Spark
@@ -1386,6 +1430,14 @@ TM - Surf
 
 TM - Calm Mind
 
+== Escavalier ==
+
+(TODO)
+
+== Espeon ==
+
+(TODO)
+
 == Espurr ==
 
 Start - Scratch
@@ -1432,6 +1484,10 @@ TM - Psyshock
 TM - Round
 TM - Echoed Voice
 TM - Confide
+
+== Excadrill ==
+
+(TODO)
 
 == Exeggcute ==
 
@@ -1496,6 +1552,14 @@ Egg - Natural Gift
 Egg - Lucky Chant
 Egg - Power Swap
 Egg - Leaf Storm
+
+== Exeggutor ==
+
+(TODO)
+
+== Exploud ==
+
+(TODO)
 
 == Farfetch'd ==
 
@@ -1624,6 +1688,10 @@ TM - Incinerate
 TM - Confide
 TM - Power-Up Punch
 
+== Feraligatr ==
+
+(TODO)
+
 == Ferroseed ==
 
 L? - Harden
@@ -1645,6 +1713,10 @@ Egg - Seed Bomb
 Egg - Rock Climb
 Egg - Stealth Rock
 
+== Ferrothorn ==
+
+(TODO)
+
 == Finneon ==
 
 Egg - Psybeam
@@ -1658,6 +1730,10 @@ Egg - Tickle
 Egg - Signal Beam
 Egg - Brine
 Egg - Aqua Tail
+
+== Flaaffy ==
+
+(TODO)
 
 == Flabebe ==
 
@@ -1823,6 +1899,10 @@ TM - Round
 TM - Acrobatics
 TM - Confide
 
+== Floatzel ==
+
+(TODO)
+
 == Floette ==
 
 L20 - Wish
@@ -1905,6 +1985,10 @@ TM - Echoed Voice
 TM - Dazzling Gleam
 TM - Confide
 
+== Flygon ==
+
+(TODO)
+
 == Foongus ==
 
 Start - Absorb
@@ -1954,6 +2038,14 @@ Egg - Defense Curl
 Egg - Endure
 Egg - Rollout
 Egg - Gastro Acid
+
+== Forretress ==
+
+(TODO)
+
+== Fraxure ==
+
+(TODO)
 
 == Frillish ==
 
@@ -2066,6 +2158,10 @@ TM - Confide
 TM - Power-Up Punch
 Egg - Toxic Spikes
 
+== Froslass ==
+
+(TODO)
+
 == Furfrou ==
 
 Start - Tackle
@@ -2113,14 +2209,34 @@ TM - Wild Charge
 TM - Snarl
 TM - Confide
 
+== Furret ==
+
+(TODO)
+
+== Gabite ==
+
+(TODO)
+
+== Gallade ==
+
+(TODO)
+
 == Galvantula ==
 
 L? - Sticky Web
+
+== Garbodor ==
+
+(TODO)
 
 == Garchomp ==
 
 L? - Crunch
 L? - Dragon Rush
+
+== Gardevoir ==
+
+(TODO)
 
 == Gastly ==
 
@@ -2152,9 +2268,17 @@ Egg - Grudge
 Egg - Astonish
 Egg - Clear Smog
 
+== Gastrodon ==
+
+(TODO)
+
 == Genesect ==
 
 TM - Ice Beam
+
+== Gengar ==
+
+(TODO)
 
 == Geodude ==
 
@@ -2212,6 +2336,10 @@ Egg - Mud Shot
 Egg - Rock Climb
 Egg - Iron Head
 
+== Gigalith ==
+
+(TODO)
+
 == Girafarig ==
 
 Egg - Razor Wind
@@ -2227,6 +2355,18 @@ Egg - Wish
 Egg - Magic Coat
 Egg - Skill Swap
 Egg - Secret Power
+
+== Giratina ==
+
+(TODO)
+
+== Glaceon ==
+
+(TODO)
+
+== Glalie ==
+
+(TODO)
 
 == Glameow ==
 
@@ -2261,6 +2401,14 @@ Egg - Power Trick
 Egg - Night Slash
 Egg - Rock Climb
 Egg - Cross Poison
+
+== Gliscor ==
+
+(TODO)
+
+== Gloom ==
+
+(TODO)
 
 == Gogoat ==
 
@@ -2308,6 +2456,10 @@ TM - Bulldoze
 TM - Wild Charge
 TM - Confide
 
+== Golbat ==
+
+(TODO)
+
 == Goldeen ==
 
 L? - Peck
@@ -2328,6 +2480,14 @@ Egg - Mud Sport
 Egg - Signal Beam
 Egg - Mud Shot
 Egg - Aqua Tail
+
+== Golduck ==
+
+(TODO)
+
+== Golem ==
+
+(TODO)
 
 == Golett ==
 
@@ -2521,6 +2681,10 @@ TM - Sludge Wave
 TM - Round
 TM - Infestation
 TM - Confide
+
+== Gorebyss ==
+
+(TODO)
 
 == Gothita ==
 
@@ -2794,6 +2958,9 @@ TM - Attract
 TM - Bulldoze
 TM - Power-Up Punch
 
+== Graveler ==
+
+(TODO)
 
 == Greninja ==
 
@@ -2872,9 +3039,17 @@ Egg - Shadow Punch
 Egg - Shadow Sneak
 Egg - Acid Spray
 
+== Grotle ==
+
+(TODO)
+
 == Groudon ==
 
 TM - Earthquake
+
+== Grovyle ==
+
+(TODO)
 
 == Growlithe ==
 
@@ -2929,6 +3104,10 @@ Egg - Covet
 Egg - Close Combat
 Egg - Flare Blitz
 
+== Grumpig ==
+
+(TODO)
+
 == Gulpin ==
 
 Start - Pound
@@ -2974,6 +3153,10 @@ Egg - Destiny Bond
 Egg - Pain Split
 Egg - Gunk Shot
 
+== Gurdurr ==
+
+(TODO)
+
 == Gyarados ==
 
 Start - Thrash
@@ -3002,6 +3185,14 @@ Egg - Gravity
 Egg - Natural Gift
 Egg - Last Resort
 Egg - Mud Bomb
+
+== Hariyama ==
+
+(TODO)
+
+== Haunter ==
+
+(TODO)
 
 == Hawlucha ==
 
@@ -3069,6 +3260,10 @@ TM - Acrobatics
 TM - Retaliate
 TM - Confide
 TM - Power-Up Punch
+
+== Haxorus ==
+
+(TODO)
 
 == Heatmor ==
 
@@ -3249,6 +3444,10 @@ Egg - Pursuit
 Egg - Focus Punch
 Egg - Revenge
 
+== Herdier ==
+
+(TODO)
+
 == Hippopotas ==
 
 Start - Tackle
@@ -3327,6 +3526,10 @@ TM - Rock Smash
 TM - Confide
 TM - Strength
 
+== Hitmonchan ==
+
+(TODO)
+
 == Hitmonlee ==
 
 L? - Protect
@@ -3363,6 +3566,10 @@ TM - Retaliate
 TM - Bulldoze
 TM - Confide
 TM - Power-Up Punch
+
+== Hitmontop ==
+
+(TODO)
 
 == Honedge ==
 
@@ -3412,6 +3619,10 @@ TM - Confide
 L? - Recover
 L? - Sacred Fire
 L? - Brave Bird
+
+== Honchkrow ==
+
+(TODO)
 
 == Hoothoot ==
 
@@ -3463,6 +3674,10 @@ Egg - Muddy Water
 Egg - Water Pulse
 Egg - Clear Smog
 
+== Houndoom ==
+
+(TODO)
+
 == Houndour ==
 
 Start - Leer
@@ -3502,6 +3717,18 @@ Egg - Sucker Punch
 Egg - Nasty Plot
 Egg - Thunder Fang
 Egg - Fire Fang
+
+== Huntail ==
+
+(TODO)
+
+== Hydreigon ==
+
+(TODO)
+
+== Hypno ==
+
+(TODO)
 
 == Igglybuff ==
 
@@ -3574,6 +3801,8 @@ Egg - Captivate
 
 == Infernape ==
 
+(TODO)
+
 == Inkay ==
 
 Start - Tackle
@@ -3628,4 +3857,8 @@ TM - Trick Room
 TM - Round
 TM - Retaliate
 TM - Confide
+
+== Ivysaur ==
+
+(TODO)
 
