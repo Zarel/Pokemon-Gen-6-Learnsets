@@ -63,6 +63,7 @@ for (var i=0; i<input.length; i++) {
 	var line = input[i];
 	line = line.trim();
 	if (!line) continue;
+	if (line.charAt(0) === '(') continue; // this is a comment
 	if (line.charAt(0) === '=') {
 		speciesid = Tools.getTemplate(line).id;
 		species = line;
