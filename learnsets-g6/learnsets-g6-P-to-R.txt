@@ -13,6 +13,14 @@ Egg - Fake Tears
 Egg - Covet
 Egg - Bestow
 
+== Palkia ==
+
+(TODO)
+
+== Palpitoad ==
+
+(TODO)
+
 == Pancham ==
 
 L? - Karate Chop
@@ -298,6 +306,14 @@ Egg - Sucker Punch
 Egg - Psycho Cut
 Egg - Stealth Rock
 
+== Pelipper ==
+
+(TODO)
+
+== Persian ==
+
+(TODO)
+
 == Petilil ==
 
 Egg - Bide
@@ -399,6 +415,14 @@ Egg - Volt Tackle
 Egg - Lucky Chant
 Egg - Bestow
 
+== Pidgeot ==
+
+(TODO)
+
+== Pidgeotto ==
+
+(TODO)
+
 == Pidgey ==
 
 TM - Fly
@@ -443,6 +467,10 @@ Egg - Wish
 Egg - Lucky Chant
 Egg - Bestow
 
+== Pignite ==
+
+(TODO)
+
 == Pikachu ==
 
 L? - Nuzzle
@@ -477,6 +505,10 @@ TM - Echoed Voice
 TM - Volt Switch
 TM - Wild Charge
 TM - Confide
+
+== Piloswine ==
+
+(TODO)
 
 == Pineco ==
 
@@ -566,6 +598,10 @@ Egg - Wish
 Egg - Lucky Chant
 Egg - Discharge
 
+== Politoed ==
+
+(TODO)
+
 == Poliwag ==
 
 Egg - Mist
@@ -581,6 +617,14 @@ Egg - Ice Ball
 Egg - Mud Shot
 Egg - Water Sport
 Egg - Water Pulse
+
+== Poliwhirl ==
+
+(TODO)
+
+== Poliwrath ==
+
+(TODO)
 
 == Ponyta ==
 
@@ -622,6 +666,18 @@ TM - Fire Blast
 == Porygon-Z ==
 
 TM - Thunderbolt
+
+== Primeape ==
+
+(TODO)
+
+== Prinplup ==
+
+(TODO)
+
+== Probopass ==
+
+(TODO)
 
 == Psyduck ==
 
@@ -694,6 +750,10 @@ TM - Round
 TM - Incinerate
 TM - Confide
 
+== Pupitar ==
+
+(TODO)
+
 == Purrloin ==
 
 Egg - Pay Day
@@ -704,6 +764,10 @@ Egg - Yawn
 Egg - Fake Tears
 Egg - Covet
 Egg - Foul Play
+
+== Purugly ==
+
+(TODO)
 
 == Pyroar ==
 
@@ -761,6 +825,14 @@ TM - Bulldoze
 TM - Wild Charge
 TM - Snarl
 TM - Confide
+
+== Quagsire ==
+
+(TODO)
+
+== Quilava ==
+
+(TODO)
 
 == Quilladin ==
 
@@ -898,6 +970,18 @@ Egg - Grudge
 Egg - Shadow Sneak
 Egg - Synchronoise
 
+== Rampardos ==
+
+(TODO)
+
+== Rapidash ==
+
+(TODO)
+
+== Raticate ==
+
+(TODO)
+
 == Rattata ==
 
 Egg - Bite
@@ -911,6 +995,10 @@ Egg - Revenge
 Egg - Me First
 Egg - Last Resort
 Egg - Final Gambit
+
+== Rayquaza ==
+
+(TODO)
 
 == Regice ==
 
@@ -958,6 +1046,18 @@ Egg - Mud Shot
 Egg - Rock Blast
 Egg - Water Pulse
 Egg - Acid Spray
+
+== Reshiram ==
+
+(TODO)
+
+== Reuniclus ==
+
+(TODO)
+
+== Rhydon ==
+
+(TODO)
 
 == Rhyhorn ==
 
@@ -1013,6 +1113,10 @@ Egg - Ice Fang
 Egg - Fire Fang
 Egg - Rock Climb
 
+== Rhyperior ==
+
+(TODO)
+
 == Riolu ==
 
 Egg - Bite
@@ -1056,6 +1160,10 @@ Egg - GrassWhistle
 Egg - Natural Gift
 Egg - Seed Bomb
 Egg - Leaf Storm
+
+== Roserade ==
+
+(TODO)
 
 == Rotom ==
 
