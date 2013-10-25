@@ -1,3 +1,19 @@
+== Jellicent ==
+
+(TODO)
+
+== Jigglypuff ==
+
+(TODO)
+
+== Jirachi ==
+
+(TODO)
+
+== Jolteon ==
+
+(TODO)
+
 == Joltik ==
 
 Egg - Poison Sting
@@ -7,6 +23,14 @@ Egg - Feint Attack
 Egg - Pursuit
 Egg - Rock Climb
 Egg - Cross Poison
+
+== Jumpluff ==
+
+(TODO)
+
+== Jynx ==
+
+(TODO)
 
 == Kabuto ==
 
@@ -21,6 +45,14 @@ Egg - Giga Drain
 Egg - Rapid Spin
 Egg - Knock Off
 Egg - Mud Shot
+
+== Kabutops ==
+
+(TODO)
+
+== Kadabra ==
+
+(TODO)
 
 == Kakuna ==
 
@@ -119,6 +151,18 @@ Egg - Foul Play
 
 TM - Surf
 
+== Kingdra ==
+
+(TODO)
+
+== Kingler ==
+
+(TODO)
+
+== Keldeo ==
+
+(TODO)
+
 == Klang ==
 
 TM - Thunderbolt
@@ -215,13 +259,45 @@ TM - Bide
 
 TM - Protect
 
+== Krokorok ==
+
+(TODO)
+
+== Krookodile ==
+
+(TODO)
+
 == Kyogre ==
 
 TM - Surf
 
+== Kyurem ==
+
+(TODO)
+
+== Kyurem-Black ==
+
+(TODO)
+
+== Kyurem-White ==
+
+(TODO)
+
+== Lairon ==
+
+(TODO)
+
+== Lampent ==
+
+(TODO)
+
 == Landorus ==
 
 TM - Earthquake
+
+== Lanturn ==
+
+(TODO)
 
 == Lapras ==
 
@@ -264,6 +340,26 @@ Egg - Assurance
 Egg - Iron Head
 Egg - Stealth Rock
 
+== Latias ==
+
+(TODO)
+
+== Latios ==
+
+(TODO)
+
+== Leafeon ==
+
+(TODO)
+
+== Leavanny ==
+
+(TODO)
+
+== Ledian ==
+
+(TODO)
+
 == Ledyba ==
 
 Egg - Psybeam
@@ -277,6 +373,10 @@ Egg - Silver Wind
 Egg - Bug Buzz
 Egg - Drain Punch
 Egg - Bug Bite
+
+== Lickilicky ==
+
+(TODO)
 
 == Lickitung ==
 
@@ -292,6 +392,10 @@ Egg - Muddy Water
 Egg - Hammer Arm
 Egg - Zen Headbutt
 
+== Liepard ==
+
+(TODO)
+
 == Lileep ==
 
 Egg - Mega Drain
@@ -303,6 +407,10 @@ Egg - Mirror Coat
 Egg - Tickle
 Egg - Wring Out
 Egg - Stealth Rock
+
+== Lilligant ==
+
+(TODO)
 
 == Lillipup ==
 
@@ -317,6 +425,10 @@ Egg - Howl
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
+
+== Linoone ==
+
+(TODO)
 
 == Litleo ==
 
@@ -382,6 +494,14 @@ Egg - Heat Wave
 Egg - Captivate
 Egg - Clear Smog
 
+== Lombre ==
+
+(TODO)
+
+== Lopunny ==
+
+(TODO)
+
 == Lotad ==
 
 Egg - Water Gun
@@ -395,11 +515,27 @@ Egg - Synthesis
 Egg - Teeter Dance
 Egg - Tickle
 
+== Loudred ==
+
+(TODO)
+
+== Lucario ==
+
+(TODO)
+
+== Ludicolo ==
+
+(TODO)
+
 == Lugia ==
 
 L? - Hydro Pump
 L? - Recover
 L? - Aeroblast
+
+== Lumineon ==
+
+(TODO)
 
 == Lunatone ==
 
@@ -416,6 +552,18 @@ Egg - Aqua Ring
 Egg - Captivate
 Egg - Aqua Jet
 Egg - Heal Pulse
+
+== Luxio ==
+
+(TODO)
+
+== Luxray ==
+
+(TODO)
+
+== Machamp ==
+
+(TODO)
 
 == Machoke ==
 
@@ -528,10 +676,22 @@ Egg - Iron Tail
 Egg - Cross Chop
 Egg - Flare Blitz
 
+== Magcargo ==
+
+(TODO)
+
 == Magikarp ==
 
 L? - Tackle
 L? - Splash
+
+== Magmar ==
+
+(TODO)
+
+== Magmortar ==
+
+(TODO)
 
 == Magnemite ==
 
@@ -654,9 +814,21 @@ TM - Round
 TM - Retaliate
 TM - Confide
 
+== Mamoswine ==
+
+(TODO)
+
 == Manaphy ==
 
 TM - Surf
+
+== Mandibuzz ==
+
+(TODO)
+
+== Manectric ==
+
+(TODO)
 
 == Mankey ==
 
@@ -782,6 +954,14 @@ TM - Bulldoze
 TM - Confide
 TM - Power-Up Punch
 
+== Marshtomp ==
+
+(TODO)
+
+== Masquerain ==
+
+(TODO)
+
 == Mawile ==
 
 L? - Growl
@@ -801,6 +981,10 @@ Egg - Ice Fang
 Egg - Fire Fang
 Egg - Captivate
 
+== Medicham ==
+
+(TODO)
+
 == Meditite ==
 
 Egg - Fire Punch
@@ -816,6 +1000,10 @@ Egg - Guard Swap
 Egg - Drain Punch
 Egg - Bullet Punch
 Egg - Psycho Cut
+
+== Meganium ==
+
+(TODO)
 
 == Meloetta ==
 
@@ -1105,6 +1293,18 @@ Egg - Knock Off
 Egg - Feint
 Egg - Me First
 
+== Mienshao ==
+
+(TODO)
+
+== Mightyena ==
+
+(TODO)
+
+== Milotic ==
+
+(TODO)
+
 == Miltank ==
 
 Egg - Double-Edge
@@ -1174,10 +1374,18 @@ Egg - Shadow Sneak
 Egg - Ominous Wind
 Egg - Wonder Room
 
+== Mismagius ==
+
+(TODO)
+
 == Moltres ==
 
 L? - Sky Attack
 TM - Flamethrower
+
+== Monferno ==
+
+(TODO)
 
 == Mothim ==
 
@@ -1216,6 +1424,10 @@ Egg - Ice Ball
 Egg - Avalanche
 Egg - Mud Bomb
 Egg - Wide Guard
+
+== Muk ==
+
+(TODO)
 
 == Munchlax ==
 
@@ -1260,6 +1472,10 @@ Egg - Assurance
 Egg - Psycho Shift
 Egg - Brave Bird
 
+== Musharna ==
+
+(TODO)
+
 == Natu ==
 
 Egg - Drill Peck
@@ -1274,6 +1490,14 @@ Egg - Roost
 Egg - Sucker Punch
 Egg - Zen Headbutt
 Egg - Synchronoise
+
+== Nidoking ==
+
+(TODO)
+
+== Nidoqueen ==
+
+(TODO)
 
 == Nidoran-F ==
 
@@ -1307,6 +1531,14 @@ Egg - Sucker Punch
 Egg - Head Smash
 Egg - Chip Away
 
+== Nidorina ==
+
+(TODO)
+
+== Nidorino ==
+
+(TODO)
+
 == Nincada ==
 
 Egg - Gust
@@ -1317,6 +1549,18 @@ Egg - Night Slash
 Egg - Bug Buzz
 Egg - Bug Bite
 Egg - Final Gambit
+
+== Ninetales ==
+
+(TODO)
+
+== Ninjask ==
+
+(TODO)
+
+== Noctowl ==
+
+(TODO)
 
 == Noibat ==
 
@@ -1459,7 +1703,13 @@ Egg - Howl
 Egg - Mud Bomb
 Egg - Iron Head
 
+== Nuzleaf ==
+
+(TODO)
+
 == Octillery ==
+
+(TODO)
 
 == Oddish ==
 
@@ -1517,6 +1767,8 @@ Egg - Wring Out
 Egg - Toxic Spikes
 
 == Omastar ==
+
+(TODO)
 
 == Onix ==
 
