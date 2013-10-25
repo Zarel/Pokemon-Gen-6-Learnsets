@@ -20,6 +20,24 @@ fs.existsSync = require("path").existsSync;
 var Tools = require('./tools.js');
 var Learnsets = Tools.data.Learnsets;
 
+// remove existing gen 6 data
+
+for (var speciesid in Learnsets) {
+	if (!Learnsets[speciesid] || !Learnsets[speciesid].learnset) continue;
+	var learnset = Learnsets[speciesid].learnset;
+	for (var moveid in learnset) {
+		var sources = learnset[moveid];
+		for (var i=sources.length-1; i>=0; i--) {
+			if (sources[i].charAt(0) === '6') {
+				sources.splice(i, 1);
+			}
+		} 
+		if (!sources.length) delete learnset[moveid];
+	}
+}
+
+// build learnsetsG6
+
 var LearnsetsG6 = {};
 for (var speciesid in Learnsets) {
 	LearnsetsG6[speciesid] = {learnset:{}};
