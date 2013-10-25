@@ -2227,41 +2227,41 @@ L28 - Slash
 L33 - Dragon Claw
 L40 - Dig
 L49 - Dragon Rush
-TM Hone Claws
-TM Dragon Claw
-TM Roar
-TM Toxic
-TM Hidden Power
-TM Sunny Day
-TM Protect
-TM Rain Dance
-TM Frustration
-TM Earthquake
-TM Return
-TM Dig
-TM Double Team
-TM Flamethrower
-TM Sandstorm
-TM Fire Blast
-TM Rock Tomb
-TM Aerial Ace
-TM Facade
-TM Rest
-TM Attract
-TM Round
-TM Incinerate
-TM Shadow Claw
-TM Stone Edge
-TM Bulldoze
-TM Rock Slide
-TM Swagger
-TM Sleep Talk
-TM Substitute
-TM Rock Smash
-TM Confide
-HM Cut
-HM Strength
-Tutor Draco Meteor
+TM - Hone Claws
+TM -  Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Flamethrower
+TM - Sandstorm
+TM - Fire Blast
+TM -  Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Incinerate
+TM - Shadow Claw
+TM - Stone Edge
+TM - Bulldoze
+TM - Rock Slide
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+HM - Cut
+HM - Strength
+Tutor - Draco Meteor
 
 == Gallade ==
 
@@ -2371,49 +2371,49 @@ L33 - Dragon Claw
 L40 - Dig
 L48 - Crunch
 L55 - Dragon Rush
-TM Hone Claws
-TM Dragon Claw
-TM Roar
-TM Toxic
-TM Hidden Power
-TM Sunny Day
-TM Hyper Beam
-TM Protect
-TM Rain Dance
-TM Frustration
-TM Earthquake
-TM Return
-TM Dig
-TM Brick Break
-TM Double Team
-TM Flamethrower
-TM Sandstorm
-TM Fire Blast
-TM Rock Tomb
-TM Aerial Ace
-TM Facade
-TM Rest
-TM Attract
-TM Round
-TM False Swipe
-TM Fling
-TM Incinerate
-TM Shadow Claw
-TM Giga Impact
-TM Stone Edge
-TM Swords Dance
-TM Bulldoze
-TM Rock Slide
-TM Dragon Tail
-TM Poison Jab
-TM Swagger
-TM Sleep Talk
-TM Substitute
-TM Rock Smash
-TM Confide
-HM Cut
-HM Surf
-HM Strength
+TM - Hone Claws
+TM - Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Flamethrower
+TM - Sandstorm
+TM - Fire Blast
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - False Swipe
+TM - Fling
+TM - Incinerate
+TM - Shadow Claw
+TM - Giga Impact
+TM - Stone Edge
+TM - Swords Dance
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Poison Jab
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+HM - Cut
+HM - Surf
+HM - Strength
 
 == Gardevoir ==
 
@@ -2440,47 +2440,47 @@ L65 - Hypnosis
 L73 - Dream Eater
 L80 - Stored Power
 L85 - Moonblast
-TM Psyshock
-TM Calm Mind
-TM Toxic
-TM Hidden Power
-TM Sunny Day
-TM Taunt
-TM Hyper Beam
-TM Light Screen
-TM Protect
-TM Rain Dance
-TM Safeguard
-TM Frustration
-TM Thunderbolt
-TM Return
-TM Psychic
-TM Shadow Ball
-TM Double Team
-TM Reflect
-TM Torment
-TM Facade
-TM Rest
-TM Attract
-TM Thief
-TM Round
-TM Echoed Voice
-TM Focus Blast
-Tm Energy Ball
-TM Fling
-TM Charge Beam
-TM Will-O-Wisp
-TM Giga Impact
-TM Flash
-TM Thunder Wave
-TM Psych Up
-TM Dream Eater
-TM Grass Knot
-TM Swagger
-TM Sleep Talk
-TM Substitute
-TM Trick Room
-TM Confide
+TM - Psyshock
+TM - Calm Mind
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Reflect
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Echoed Voice
+TM - Focus Blast
+TM - Energy Ball
+TM - Fling
+TM - Charge Beam
+TM - Will-O-Wisp
+TM - Giga Impact
+TM - Flash
+TM - Thunder Wave
+TM - Psych Up
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Trick Room
+TM - Confide
 
 == Gastly ==
 
@@ -3417,40 +3417,40 @@ L45 - Hammer Arm
 L49 - Stone Edge
 L53 - Focus Punch
 L57 - Superpower
-TM Toxic
-TM Bulk Up
-TM Hidden Power
-TM Sunny Day
-TM Taunt
-TM Protect
-TM Rain Dance
-TM Frustration
-TM Smack Down
-TM Return
-TM Dig
-TM Brick Break
-TM Double Team
-TM Rock Tomb
-TM Facade
-TM Rest
-TM Attract
-TM Low Sweep
-TM Round
-TM Focus Blast
-TM Fling
-TM Payback
-TM Retaliate
-TM Stone Edge
-TM Rock Slide
-TM Poison Jab
-TM Grass Knot
-TM Swagger
-TM Sleep Talk
-TM Substitute
-TM Rock Smash
-TM Power-Up Punch
-TM Confide
-HM Strength
+TM - Toxic
+TM - Bulk Up
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Smack Down
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Low Sweep
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Payback
+TM - Retaliate
+TM - Stone Edge
+TM - Rock Slide
+TM - Poison Jab
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+HM - Strength
 
 == Gyarados ==
 
@@ -3465,47 +3465,47 @@ L38 - Rain Dance
 L41 - Hydro Pump
 L44 - Dragon Dance
 L47 - Hyper Beam
-TM Roar
-TM Toxic
-TM Hail
-TM Hidden Power
-TM Taunt
-TM Ice Beam
-TM Blizzard
-TM Hyper Beam
-TM Protect
-TM Rain Dance
-TM Frustration
-TM Thunderbolt
-TM Thunder
-TM Earthquake
-TM Return
-TM Double Team
-TM Flamethrower
-TM Sandstorm
-TM Fire Blast
-TM Torment
-TM Facade
-TM Rest
-TM Attract
-TM Round
-TM Scald
-TM Incinerate
-TM Payback
-TM Giga Impact
-TM Stone Edge
-TM Thunder Wave
-TM Bulldoze
-TM Dragon Tail
-TM Swagger
-TM Sleep Talk
-TM Substitute
-TM Rock Smash
-TM Dark Pulse
-TM Confide
-HM Surf
-HM Strength
-HM Waterfall
+TM - Roar
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Taunt
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Earthquake
+TM - Return
+TM - Double Team
+TM - Flamethrower
+TM - Sandstorm
+TM - Fire Blast
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Scald
+TM - Incinerate
+TM - Payback
+TM - Giga Impact
+TM - Stone Edge
+TM - Thunder Wave
+TM - Bulldoze
+TM - Dragon Tail
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Dark Pulse
+TM - Confide
+HM - Surf
+HM - Strength
+HM - Waterfall
 
 == Happiny ==
 
