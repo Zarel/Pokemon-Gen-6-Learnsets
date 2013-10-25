@@ -2215,11 +2215,135 @@ TM - Confide
 
 == Gabite ==
 
-(TODO)
+Start - Tackle
+Start -  Sand Attack
+L3 - Sand Attack
+L7 - Dragon Rage
+L13 - Sandstorm
+L15 - Take Down
+L19 - Sand Tomb
+L24 - Dual Chop
+L28 - Slash
+L33 - Dragon Claw
+L40 - Dig
+L49 - Dragon Rush
+TM Hone Claws
+TM Dragon Claw
+TM Roar
+TM Toxic
+TM Hidden Power
+TM Sunny Day
+TM Protect
+TM Rain Dance
+TM Frustration
+TM Earthquake
+TM Return
+TM Dig
+TM Double Team
+TM Flamethrower
+TM Sandstorm
+TM Fire Blast
+TM Rock Tomb
+TM Aerial Ace
+TM Facade
+TM Rest
+TM Attract
+TM Round
+TM Incinerate
+TM Shadow Claw
+TM Stone Edge
+TM Bulldoze
+TM Rock Slide
+TM Swagger
+TM Sleep Talk
+TM Substitute
+TM Rock Smash
+TM Confide
+HM Cut
+HM Strength
+Tutor Draco Meteor
 
 == Gallade ==
 
-(TODO)
+Start - Stored Power
+Start - Close Combat
+Start - Leaf Blade
+Start - Night Slash
+Start - Leer
+Start - Confusion
+Start - Double Team
+Start - Teleport
+L6 - Confusion
+L10 - Double Team
+L12 - Teleport
+L17 - Fury Cutter
+L22 - Slash
+L25 -  Heal Pulse
+L31 - Swords Dance
+L36 - Psycho Cut
+L39 - Helping Hand
+L45 - Feint
+L50 - False Swipe
+L53 - Protect
+L59 - Close Combat
+L64 - Stored Power
+TM - Psyshock
+TM - Calm Mind
+TM - Toxic
+TM - Bulk Up
+TM - Hidden Power
+TM - Sunny Day
+TM - Taunt
+TM - Hyper Beam
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Earthquake
+TM - Return
+TM - Psychic
+TM - Shadow Ball
+TM - Brick Break
+TM - Double Team
+TM - Reflect
+TM - Rock Tomb 
+TM - Aerial Ace
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Low Sweep
+TM - Round
+TM - Echoed Voice
+TM - Focus Blast
+TM - False Swipe
+TM - Fling
+TM - Charge Beam
+TM - Will-O-Wisp
+TM - Retaliate
+TM - Giga Impact
+TM - Flash
+TM - Stone Edge
+TM - Thunder Wave
+TM - Swords Dance
+TM - Psych Up
+TM - Bulldoze
+TM - Rock Slide
+TM - X-Scissor
+TM - Poison Jab
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Trick Room
+TM - Rock Smash
+TM - Power Punch
+TM - Dazzling Gleam
+TM - Confide
+HM - Cut
+HM - Strength
 
 == Galvantula ==
 
@@ -2231,19 +2355,76 @@ L? - Sticky Web
 
 == Garchomp ==
 
-L? - Crunch
-L? - Dragon Rush
+Start - Fire Fang
+Start - Tackle
+Start - Sand Attack
+start - Dragon Rage
+Start - Sandstorm
+L3 - Sand Attack
+L7 - Dragon Rage
+L13 - Sandstorm
+L15 - Take Down
+L19 - Sand Tomb
+L24 - Dual Chop
+L28 - Slash
+L33 - Dragon Claw
+L40 - Dig
+L48 - Crunch
+L55 - Dragon Rush
+TM Hone Claws
+TM Dragon Claw
+TM Roar
+TM Toxic
+TM Hidden Power
+TM Sunny Day
+TM Hyper Beam
+TM Protect
+TM Rain Dance
+TM Frustration
+TM Earthquake
+TM Return
+TM Dig
+TM Brick Break
+TM Double Team
+TM Flamethrower
+TM Sandstorm
+TM Fire Blast
+TM Rock Tomb
+TM Aerial Ace
+TM Facade
+TM Rest
+TM Attract
+TM Round
+TM False Swipe
+TM Fling
+TM Incinerate
+TM Shadow Claw
+TM Giga Impact
+TM Stone Edge
+TM Swords Dance
+TM Bulldoze
+TM Rock Slide
+TM Dragon Tail
+TM Poison Jab
+TM Swagger
+TM Sleep Talk
+TM Substitute
+TM Rock Smash
+TM Confide
+HM Cut
+HM Surf
+HM Strength
 
 == Gardevoir ==
 
-L? - Moonblast
-L? - Stored Power
-L? - Misty Terrain
-L? - Healing Wish
-L? - Growl
-L? - Confusion
-L? - Double Team
-L? - Teleport
+Start - Moonblast
+Start - Stored Power
+Start - Misty Terrain
+Start - Healing Wish
+Start - Growl
+Start - Confusion
+Start - Double Team
+Start - Teleport
 L6 - Confusion
 L10 - Double Team
 L12 - Teleport
@@ -2259,47 +2440,47 @@ L65 - Hypnosis
 L73 - Dream Eater
 L80 - Stored Power
 L85 - Moonblast
-TM03 Psyshock
-TM04 Calm Mind
-TM06 Toxic
-TM10 Hidden Power
-TM11 Sunny Day
-TM12 Taunt
-TM15 Hyper Beam
-TM16 Light Screen
-TM17 Protect
-TM18 Rain Dance
-TM20 Safeguard
-TM21 Frustration
-TM24 Thunderbolt
-TM27 Return
-TM29 Psychic
-TM30 Shadow Ball
-TM32 Double Team
-TM33 Reflect
-TM41 Torment
-TM42 Facade
-TM44 Rest
-TM45 Attract
-TM46 Thief
-TM48 Round
-TM49 Echoed Voice
-TM52 Focus Blast
-Tm53 Energy Ball
-TM56 Fling
-TM57 Charge Beam
-TM61 Will-O-Wisp
-TM68 Giga Impact
-TM70 Flash
-Tm73 Thunder Wave
-TM77 Psych Up
-TM85 Dream Eater
-TM86 Grass Knot
-TM87 Swagger
-TM99 Sleep Talk
-TM90 Substitute
-TM92 Trick Room
-TM100 Confide
+TM Psyshock
+TM Calm Mind
+TM Toxic
+TM Hidden Power
+TM Sunny Day
+TM Taunt
+TM Hyper Beam
+TM Light Screen
+TM Protect
+TM Rain Dance
+TM Safeguard
+TM Frustration
+TM Thunderbolt
+TM Return
+TM Psychic
+TM Shadow Ball
+TM Double Team
+TM Reflect
+TM Torment
+TM Facade
+TM Rest
+TM Attract
+TM Thief
+TM Round
+TM Echoed Voice
+TM Focus Blast
+Tm Energy Ball
+TM Fling
+TM Charge Beam
+TM Will-O-Wisp
+TM Giga Impact
+TM Flash
+TM Thunder Wave
+TM Psych Up
+TM Dream Eater
+TM Grass Knot
+TM Swagger
+TM Sleep Talk
+TM Substitute
+TM Trick Room
+TM Confide
 
 == Gastly ==
 
@@ -3218,7 +3399,58 @@ Egg - Gunk Shot
 
 == Gurdurr ==
 
-(TODO)
+Start - Pound
+Start - Leer
+Start - Focus Energy
+Start - Bide
+L4 - Focus Energy
+L8 - Bide
+L12 - Low Kick
+L16 - Rock Throw
+L20 - Wake-up Slap
+L24 - Chip Away
+L29 - Bulk Up
+L33 - Rock Slide
+L37 - Dynamic Punch
+L41 - Scary Face
+L45 - Hammer Arm
+L49 - Stone Edge
+L53 - Focus Punch
+L57 - Superpower
+TM Toxic
+TM Bulk Up
+TM Hidden Power
+TM Sunny Day
+TM Taunt
+TM Protect
+TM Rain Dance
+TM Frustration
+TM Smack Down
+TM Return
+TM Dig
+TM Brick Break
+TM Double Team
+TM Rock Tomb
+TM Facade
+TM Rest
+TM Attract
+TM Low Sweep
+TM Round
+TM Focus Blast
+TM Fling
+TM Payback
+TM Retaliate
+TM Stone Edge
+TM Rock Slide
+TM Poison Jab
+TM Grass Knot
+TM Swagger
+TM Sleep Talk
+TM Substitute
+TM Rock Smash
+TM Power-Up Punch
+TM Confide
+HM Strength
 
 == Gyarados ==
 
@@ -3233,7 +3465,47 @@ L38 - Rain Dance
 L41 - Hydro Pump
 L44 - Dragon Dance
 L47 - Hyper Beam
-TM - Surf
+TM Roar
+TM Toxic
+TM Hail
+TM Hidden Power
+TM Taunt
+TM Ice Beam
+TM Blizzard
+TM Hyper Beam
+TM Protect
+TM Rain Dance
+TM Frustration
+TM Thunderbolt
+TM Thunder
+TM Earthquake
+TM Return
+TM Double Team
+TM Flamethrower
+TM Sandstorm
+TM Fire Blast
+TM Torment
+TM Facade
+TM Rest
+TM Attract
+TM Round
+TM Scald
+TM Incinerate
+TM Payback
+TM Giga Impact
+TM Stone Edge
+TM Thunder Wave
+TM Bulldoze
+TM Dragon Tail
+TM Swagger
+TM Sleep Talk
+TM Substitute
+TM Rock Smash
+TM Dark Pulse
+TM Confide
+HM Surf
+HM Strength
+HM Waterfall
 
 == Happiny ==
 
