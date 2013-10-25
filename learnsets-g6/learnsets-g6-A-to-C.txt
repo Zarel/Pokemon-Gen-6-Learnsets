@@ -189,6 +189,26 @@ Egg - Hex
 
 == Accelgor ==
 
+(PLACEHOLDER: taken from Shelmet)
+
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM53 - Energy Ball
+TM76 - Struggle Bug
+TM83 - Infestation
+TM88 - Sleep Talk
+TM90 - Substitute
+
 == Aegislash ==
 
 L? - Swords Dance
