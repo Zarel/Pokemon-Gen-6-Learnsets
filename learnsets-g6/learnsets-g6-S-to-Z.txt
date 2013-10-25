@@ -95,6 +95,10 @@ HM01 - Cut
 HM02 - Fly
 HM04 - Strength
 
+== Samurott ==
+
+(TODO)
+
 == Sandile ==
 
 L? - Sand Attack
@@ -249,6 +253,7 @@ HM01 - Cut
 HM04 - Strength
 
 == Sawk ==
+
 L? - Focus Energy
 L? - Double Kick
 L? - Low Sweep
@@ -259,6 +264,10 @@ L? - Close Combat
 TM - Payback
 TM84 - Poison Jab
 
+== Sawsbuck ==
+
+(TODO)
+
 == Scatterbug ==
 
 Start - Tackle
@@ -266,6 +275,22 @@ Start - String Shot
 L6 - Stun Spore
 L15 - Bug Bite
 Egg - Rage Powder
+
+== Sceptile ==
+
+(TODO)
+
+== Scizor ==
+
+(TODO)
+
+== Scolipede ==
+
+(TODO)
+
+== Scrafty ==
+
+(TODO)
 
 == Scraggy ==
 
@@ -311,7 +336,6 @@ TM - Taunt
 TM - Double Team
 TM - Rock Tomb
 TM - Confide
-
 
 == Scyther ==
 
@@ -376,6 +400,18 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 
+== Seadra ==
+
+(TODO)
+
+== Seaking ==
+
+(TODO)
+
+== Sealeo ==
+
+(TODO)
+
 == Seedot ==
 
 Egg - Razor Wind
@@ -409,6 +445,10 @@ Egg - Swallow
 Egg - Signal Beam
 Egg - Icicle Spear
 Egg - Water Pulse
+
+== Seismitoad ==
+
+(TODO)
 
 == Sentret ==
 
@@ -474,6 +514,14 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 
+== Serperior ==
+
+(TODO)
+
+== Servine ==
+
+(TODO)
+
 == Seviper ==
 
 Lv1 - Wrap
@@ -530,9 +578,21 @@ Egg - Silver Wind
 Egg - Me First
 Egg - Air Slash
 
+== Sharpedo ==
+
+(TODO)
+
 == Shaymin ==
 
 TM - Substitute
+
+== Shedinja ==
+
+(TODO)
+
+== Shelgon ==
+
+(TODO)
 
 == Shellder ==
 
@@ -663,6 +723,10 @@ TM91 - Flash Cannon
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+
+== Shiftry ==
+
+(TODO)
 
 == Shinx ==
 
@@ -899,6 +963,18 @@ HM02 - Fly
 
 L7 - Harden
 
+== Simipour ==
+
+(TODO)
+
+== Simisage ==
+
+(TODO)
+
+== Simisear ==
+
+(TODO)
+
 == Skarmory ==
 
 L? - Leer
@@ -1012,6 +1088,10 @@ TM - Retaliate
 TM - Bulldoze
 TM - Wild Charge
 TM - Confide
+
+== Skiploom ==
+
+(TODO)
 
 == Skitty ==
 
@@ -1198,6 +1278,14 @@ TM - Confide
 Egg - Toxic Spikes
 Egg - Haze
 Egg - Venom Drench
+
+== Skuntank ==
+
+(TODO)
+
+== Slaking ==
+
+(TODO)
 
 == Slakoth ==
 
@@ -1394,7 +1482,6 @@ TM100 - Confide
 Hm03 - Surf
 HM04 - Strength
 
-
 == Slowpoke ==
 
 Lv1 - Curse
@@ -1575,7 +1662,7 @@ TM - Confide
 
 == Smeargle ==
 
-L? - Sketch
+Start - Sketch
 
 == Smoochum ==
 
@@ -1750,6 +1837,7 @@ Egg - Avalanche
 Egg - Hex
 
 == Snover ==
+
 Lv1 - Powder Snow
 Lv1 - Leer
 Lv5 - Razor Leaf
@@ -2073,6 +2161,10 @@ Egg - Extrasensory
 Egg - Me First
 Egg - Zen Headbutt
 
+== Staraptor ==
+
+(TODO)
+
 == Staravia ==
 
 L? - Wing Attack
@@ -2102,6 +2194,14 @@ TM - Surf
 == Staryu ==
 
 TM - Surf
+
+== Steelix ==
+
+(TODO)
+
+== Stoutland ==
+
+(TODO)
 
 == Stunfisk ==
 
@@ -2146,6 +2246,10 @@ Egg - Stealth Rock
 
 TM - Calm Mind
 
+== Sunflora ==
+
+(TODO)
+
 == Sunkern ==
 
 Egg - Leech Seed
@@ -2186,9 +2290,25 @@ Egg - Roost
 Egg - Power Swap
 Egg - Dragon Rush
 
+== Swadloon ==
+
+(TODO)
+
 == Swalot ==
 
 L? - Belch
+
+== Swampert ==
+
+(TODO)
+
+== Swanna ==
+
+(TODO)
+
+== Swellow ==
+
+(TODO)
 
 == Swinub ==
 
@@ -2252,6 +2372,10 @@ TM - Energy Ball
 TM - Round
 TM - Dazzling Gleam
 TM - Confide
+
+== Swoobat ==
+
+(TODO)
 
 == Sylveon ==
 
@@ -2386,6 +2510,14 @@ Egg - Power Swap
 Egg - Leaf Storm
 Egg - Rage Powder
 
+== Tangrowth ==
+
+(TODO)
+
+== Tauros ==
+
+(TODO)
+
 == Teddiursa ==
 
 Egg - Take Down
@@ -2416,6 +2548,10 @@ Egg - Tickle
 Egg - Muddy Water
 Egg - Acupressure
 Egg - Aqua Ring
+
+== Tentacruel ==
+
+(TODO)
 
 == Tepig ==
 
@@ -2468,6 +2604,10 @@ Egg - Knock Off
 Egg - Iron Defense
 Egg - Water Pulse
 
+== Togekiss ==
+
+(TODO)
+
 == Togepi ==
 
 Egg - Peck
@@ -2482,6 +2622,10 @@ Egg - Psycho Shift
 Egg - Lucky Chant
 Egg - Nasty Plot
 Egg - Stored Power
+
+== Togetic ==
+
+(TODO)
 
 == Torchic ==
 
@@ -2516,6 +2660,10 @@ Egg - Clear Smog
 
 TM - Acrobatics
 
+== Torterra ==
+
+(TODO)
+
 == Totodile ==
 
 Egg - Ice Punch
@@ -2531,6 +2679,14 @@ Egg - Water Sport
 Egg - Dragon Dance
 Egg - Water Pulse
 Egg - Aqua Jet
+
+== Toxicroak ==
+
+(TODO)
+
+== Tranquill ==
+
+(TODO)
 
 == Trapinch ==
 
@@ -2684,6 +2840,14 @@ Egg - Mud Bomb
 
 L? - Spark
 
+== Typhlosion ==
+
+(TODO)
+
+== Tyranitar ==
+
+(TODO)
+
 == Tyrantrum ==
 
 L? - Stomp
@@ -2802,13 +2966,29 @@ TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
 
+== Umbreon ==
+
+(TODO)
+
+== Unfezant ==
+
+(TODO)
+
 == Unown ==
 
 L? - Hidden Power
 
+== Ursaring ==
+
+(TODO)
+
 == Uxie ==
 
 TM - U-turn
+
+== Vanillish ==
+
+(TODO)
 
 == Vanillite ==
 
@@ -2820,6 +3000,10 @@ Egg - Natural Gift
 Egg - Magnet Rise
 Egg - Ice Shard
 Egg - Autotomize
+
+== Vanilluxe ==
+
+(TODO)
 
 == Vaporeon ==
 
@@ -2919,6 +3103,26 @@ L? - Petal Blizzard
 
 TM - Roost
 
+== Vibrava ==
+
+(TODO)
+
+== Victini ==
+
+(TODO)
+
+== Victreebel ==
+
+(TODO)
+
+== Vigoroth ==
+
+(TODO)
+
+== Vileplume ==
+
+(TODO)
+
 == Virizion ==
 
 TM - Calm Mind
@@ -2987,6 +3191,10 @@ Egg - Trick
 Egg - Silver Wind
 Egg - Bug Buzz
 
+== Volcarona ==
+
+(TODO)
+
 == Voltorb ==
 
 TM - Thunderbolt
@@ -3031,9 +3239,49 @@ Egg - Aqua Ring
 Egg - Zen Headbutt
 Egg - Soak
 
+== Wailord ==
+
+(TODO)
+
+== Walrein ==
+
+(TODO)
+
+== Wartortle ==
+
+(TODO)
+
+== Watchog ==
+
+(TODO)
+
+== Weavile ==
+
+(TODO)
+
 == Weedle ==
 
 L? - Poison Sting
+
+== Weepinbell ==
+
+(TODO)
+
+== Weezing ==
+
+(TODO)
+
+== Whimsicott ==
+
+(TODO)
+
+== Whirlipede ==
+
+(TODO)
+
+== Whiscash ==
+
+(TODO)
 
 == Whismur ==
 
@@ -3116,6 +3364,10 @@ L? - Tackle
 
 L? - Encore
 
+== Xatu ==
+
+(TODO)
+
 == Xerneas ==
 
 L? - Take Down
@@ -3197,6 +3449,10 @@ Egg - Silver Wind
 Egg - Signal Beam
 Egg - Feint
 
+== Yanmega ==
+
+(TODO)
+
 == Yveltal ==
 
 L? - Razor Wind
@@ -3276,6 +3532,14 @@ Egg - Final Gambit
 L? - Thunderbolt
 TM - Thunderbolt
 
+== Zebstrika ==
+
+(TODO)
+
+== Zekrom ==
+
+(TODO)
+
 == Zigzagoon ==
 
 L? - Sand Attack
@@ -3306,6 +3570,10 @@ Egg - Trick
 Egg - Tickle
 Egg - Rock Climb
 Egg - Simple Beam
+
+== Zoroark ==
+
+(TODO)
 
 == Zorua ==
 
@@ -3362,6 +3630,10 @@ Egg - Brave Bird
 Egg - Nasty Plot
 Egg - Zen Headbutt
 Egg - Defog
+
+== Zweilous ==
+
+(TODO)
 
 == Zygarde ==
 
