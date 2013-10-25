@@ -1675,6 +1675,7 @@ TM - Echoed Voice
 TM - Acrobatics
 TM - Wild Charge
 TM - Confide
+Tutor - Draco Meteor
 
 == Nosepass ==
 
