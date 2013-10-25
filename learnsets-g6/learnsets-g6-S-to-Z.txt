@@ -3385,36 +3385,36 @@ L? - Bulldoze
 L? - Land's Wrath
 L72 - Dragon Dance
 L80 - Coil
-L93 - Outrage
 L88 - Extreme Speed
-TM - Hyper Beam
-TM - Strength
-TM - Earthquake
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sandstorm
-TM - Swagger
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Sunny Day
-TM - Rock Smash
-TM - Facade
-TM - Brick Break
-TM - Focus Blast
-TM - Giga Impact
-TM - Stone Edge
-TM - Grass Knot
-TM - Sludge Wave
-TM - Round
-TM - Bulldoze
-TM - Dragon Tail
-TM - Confide
+L93 - Outrage
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM34 - Sludge Wave
+TM37 - Sandstorm
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM52 - Focus Blast
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
