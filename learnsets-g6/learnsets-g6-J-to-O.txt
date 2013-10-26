@@ -13,6 +13,17 @@
 == Jolteon ==
 
 (TODO)
+TM - Return
+TM - Protect
+TM - Rock Smash
+TM - Frustration
+TM - Flash
+TM - Attract
+TM - Thunderbolt
+TM - Toxic
+TM - Facade
+TM - Dig
+TM - Confide
 
 == Joltik ==
 
@@ -27,13 +38,48 @@ Egg - Cross Poison
 == Jumpluff ==
 
 (TODO)
+L29 - Mega Drain
+L34 - Acrobatics
+L39 - Rage Powder
+L44 - Cotton Spore
+L49 - U-turn
+L54 - Worry Seed
+L59 - Giga Drain
+L64 - Bounce
+L69 - Memento
 
 == Jynx ==
 
 (TODO)
+L44 - Body slam
+L49 - Wring out
+L55 - Perish song
+L60 - Blizzard
+TM - Frost Breath
+TM - Facade
+TM - Fling
+TM - Torment
+TM - Toxic
+TM - Echoed Voice
+TM - Grass Knot
+TM - Trick Room
+TM - Attract
+TM - Power-up Punch
+TM - Flash
+TM - Payback
+TM - Sleep Talk
+TM - Rest
+TM - Protect
+TM - Thief
+TM - Return
 
 == Kabuto ==
 
+L21 - Sand Attack
+L26 - Endure
+L31 - Aqua Jet
+L35 - Mega Drain
+L41 - Metal Sound
 Egg - BubbleBeam
 Egg - Aurora Beam
 Egg - Screech
@@ -158,6 +204,14 @@ TM - Surf
 == Kingler ==
 
 (TODO)
+L? - Wide Guard
+L? - Mud Sport
+L? - Bubble
+L? - Vice Grip
+L? - Leer
+L? - Harden
+L? - Bubblebeam
+L? - Mud Shot 
 
 == Keldeo ==
 
@@ -262,10 +316,105 @@ TM - Protect
 == Krokorok ==
 
 (TODO)
+L32 - Dig
+L36 - Scary Face
+L40 - Foul Play
+TM - Hone Claws
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Taunt
+TM - Protect
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Sludge Bomb
+TM - Sandstorm
+TM - Rock Tomb
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Low Sweep
+TM - Round
+TM - Fling
+TM - Incinerate
+TM - Embargo
+TM - Shadow Claw
+TM - Payback
+TM - Retaliate
+TM - Stone Edge
+TM - Bulldoze
+TM - Rock Slide
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Snarl
+TM - Dark Pulse
+TM - Power-Up Punch
+TM -  Confide
+TM - Cut
+TM - Strength
 
 == Krookodile ==
 
 (TODO)
+TM - Hone Claws
+TM - Dragon Claw
+TM - Roar
+TM - Toxic
+TM - Bulk Up
+TM - Hidden Power
+TM - Taunt
+TM - Hyper Beam
+TM - Protect
+TM - Frustration
+TM - Smack Down
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Sludge Bomb
+TM - Sandstorm
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Torment
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Low Sweep
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Incinerate
+TM - Embargo
+TM - Shadow Claw
+TM - Payback
+TM - Retaliate
+TM - Giga Impact
+TM - Stone Edge
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Snarl
+TM - Dark Pulse
+TM - Power-Up Punch
+TM -Confide
+TM - Cut
+TM - Strength
 
 == Kyogre ==
 
@@ -298,9 +447,96 @@ TM - Earthquake
 == Lanturn ==
 
 (TODO)
+L27 - Stockpile
+L27 - Swallow
+L27 - Spit Up
+L30 - Electro Ball
+L35 - Bubble Beam
+L40 - Signal Beam
+L47 - Discharge
+L52 - Aqua Ring
+L57 - Hydro Pump
+L60 - Ion Deluge
+L64 - Charge
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Scald
+TM - Charge Beam
+TM - Giga Impact
+TM - Flash
+TM - Volt Switch
+TM - Thunder Wave
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Wild Charge
+TM - Dazzling Gleam
+TM - Confide
+TM - Surf
+TM - Waterfall
 
 == Lapras ==
-
+Start - Sing
+Start - Growl
+Start - Water Gun
+L4 - Mist
+L7 - Confuse Ray
+L10 - Ice Shard
+L14 - Water Pulse
+L18 - Body Slam
+L22 - Rain Dance
+L27 - Perish Song
+L43 - Safeguard
+L47 - Hydro Pump
+L50 - Sheer Cold
+TM - Roar
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Thunderbolt
+TM - Thunder
+TM - Return
+TM - Psychic
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Echoed Voice
+TM - Giga Impact
+TM - Bulldoze
+TM - Frost Breath
+TM - Dream Eater
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+TM - Surf
+TM - Strength
+TM - Waterfall
 Egg - Horn Drill
 Egg - Fissure
 Egg - Curse
@@ -351,6 +587,40 @@ Egg - Stealth Rock
 == Leafeon ==
 
 (TODO)
+L25 - Giga Drain
+L29 - Swords Dance
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Dig
+TM - Shadow Ball
+TM - Double Team
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Echoed Voice
+TM - Energy Ball
+TM - Retaliate
+TM - Giga Impact
+TM - Flash
+TM - Swords Dance
+TM - X-Scissor
+TM - Grass Knot
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Nature Power
+TM - Confide
+HM - Strength
 
 == Leavanny ==
 
@@ -359,9 +629,97 @@ Egg - Stealth Rock
 == Ledian ==
 
 (TODO)
+L24 - Baton Pass
+L29 - Silver Wind
+L36 - Agility
+L41 - Swift
+L48 - Double-Edge
+L53 - Bug Buzz
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Roost
+TM - Safeguard
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Reflect
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Acrobatics
+TM - Giga Impact
+TM - Flash
+TM - Swords Dance
+TM - Struggle Bug
+TM - Infestation
+TM - Swagger
+TM - Sleep Talk
+TM - U-turn
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Strength
 
 == Ledyba ==
 
+Start - Tackle
+L6 - Supersonic
+L9 - Comet Punch
+L14 - Light Screen
+L14 - Reflect
+L14 - Safeguard
+L17 - Mach Punch
+L22 - Baton Pass
+L25 - Silver Wind
+L30 - Agility
+L33 - Swift
+L38 - Double-Edge
+L41 - Bug Buzz
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Light Screen
+TM - Protect
+TM - Roost
+TM - Safeguard
+TM - Frustration
+TM - Solar Beam
+TM - Return
+TM - Dig
+TM - Brick Break
+TM - Double Team
+TM - Reflect
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Fling
+TM - Acrobatics
+TM - Flash
+TM - Swords Dance
+TM - Struggle Bug
+TM - Infestation
+TM - Swagger
+TM - Sleep Talk
+TM - U-turn
+TM - Substitute
+TM - Power-Up Punch
+TM - Confide
 Egg - Psybeam
 Egg - Screech
 Egg - Bide
@@ -377,6 +735,73 @@ Egg - Bug Bite
 == Lickilicky ==
 
 (TODO)
+Start - Wring Out
+Start- Power Whip
+Start- Lick
+L5 - Supersonic
+L9 - Defense Curl
+L13 - Knock Off
+L17 - Wrap
+L22 - Stomp
+L25 - Disable
+L29 - Slam
+L33 - Rollout
+L37 - Chip Away
+L41 - Me First
+L45 - Refresh
+L49 - Screech
+L53 - Power Whip
+L57 - Wring Out
+L61 - Gyro Ball
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Solar Beam
+TM - Thunderbolt
+TM - Thunder
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Shadow Ball
+TM - Brick Break
+TM - Double Team
+TM - Flamethrower
+TM - Sandstorm
+TM - Fire Blast
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Thief
+TM - Round
+TM - Focus Blast
+TM - Fling
+TM - Incinerate
+TM - Explosion
+TM - Retaliate
+TM - Giga Impact
+TM - Gyro Ball
+TM - Swords Dance
+TM - Psych Up
+TM - Bulldoze
+TM - Rock Slide
+TM - Dragon Tail
+TM - Dream Eater
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Power-Up Punch
+TM - Confide
+TM - Cut
+TM - Surf
+TM - Strength
 
 == Lickitung ==
 
@@ -395,6 +820,17 @@ Egg - Zen Headbutt
 == Liepard ==
 
 (TODO)
+L? - Scratch
+L? - Growl
+L? - Assist
+L? - Sand Attack
+L? - Fury Swipes
+L? - Pursuit
+L?- Torment
+L? - Fake Out
+L? - Hone Claws
+L? - Assurance
+L? - Slash
 
 == Lileep ==
 
@@ -429,6 +865,31 @@ Egg - Fire Fang
 == Linoone ==
 
 (TODO)
+Start - Play Rough
+Start - Rototiller
+Start - Switcheroo
+L? - Growl
+L? - Tackle
+L? - Odor slueth
+L? - Headbutt
+L23 - Mud Sport
+L29 - Fury Swipes
+L35 - Covet
+L41 - Bestow
+L47 - Slash
+L53 - Rest
+L59 - Belly Drum
+TM - Hone Claws
+TM - Protect
+TM - Frustration
+TM - Return
+TM - Rest
+TM - Thief
+TM - Shadow Claw
+TM - Thunder Wave
+TM - Sleep Talk
+TM - Rock Smash
+TM - Strength
 
 == Litleo ==
 
@@ -522,6 +983,70 @@ Egg - Tickle
 == Lucario ==
 
 (TODO)
+L? - Extremespeed
+L? - Dragon Pulse
+L? - Foresight
+L? - Quick Attack
+L? - Detect
+L? - Metal Claw
+L? - Counter
+L? - Feint
+L? - Power-up Punch
+L? - Swords Dance
+L? - Metal Sound
+L? - Bone Rush
+L33 - Quick Guard
+L37 - Me First
+L42 - Aura Sphere
+L47 - Calm Mind
+L51 - Heal Pulse
+L55 - Close Combat
+L60 - Dragon Pulse
+L65 - Extreme Speed
+TM01: Hone Claws
+TM04: Calm Mind
+TM05: Roar
+TM06: Toxic
+TM08: Bulk Up
+TM10: Hidden Power
+TM11: Sunny Day
+TM15: Hyper Beam
+TM17: Protect
+TM18: Rain Dance
+TM21: Frustration
+TM26: Earthquake
+TM27: Return
+TM28: Dig
+TM29: Psychic
+TM30: Shadow Ball
+TM31: Brick Break
+TM32: Double Team
+TM39: Rock Tomb
+TM42: Facade
+TM44: Rest
+TM45: Attract
+TM47: Low Sweep
+TM48: Round
+TM52: Focus Blast
+TM56: Fling
+TM65: Shadow Claw
+TM66: Payback
+TM67: Retaliate
+TM68: Giga Impact
+TM71: Stone Edge
+TM75: Swords Dance
+TM78: Bulldoze
+TM80: Rock Slide
+TM84: Poison Jab
+TM87: Swagger
+TM88: Sleep Talk
+TM90: Substitute
+TM91: Flash Cannon
+TM94: Rock Smash
+TM97: Dark Pulse
+TM98: Power-Up Punch
+TM100: Confide
+HM04: Strength
 
 == Ludicolo ==
 
@@ -539,10 +1064,85 @@ L? - Aeroblast
 
 == Lunatone ==
 
+L? - Magic Room
+L? - Rock Throw
+L? - Tackle
+L? - Harden
+L? - Confusion
+L5 - Rock Throw
+L9 - Hypnosis
+L13 - Rock Polish
+L17 - Psywave
+L21 - Embargo
+L25 - Rock Slide
+L29 - Cosmic Power
+L33 - Psychic
+L37 - Heal Block
+L41 - Stone Edge
+L45 - Future Sight
+L49 - Explosion
+L50 - Moonblast
+L53 - Magic Room
+TM - Psyshock
+TM - Calm Mind
+TM - Toxic
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Light Screen
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Smack Down
+TM - Earthquake
+TM - Return
 TM - Psychic
+TM - Shadow Ball
+TM - Double Team
+TM - Reflect
+TM - Sandstorm
+TM - Rock Tomb
+TM - Facade
+TM - Rest
+TM - Round
+TM - Charge Beam
+TM - Acrobatics
+TM - Embargo
+TM - Explosion
+TM - Giga Impact
+TM - Rock Polish
+TM - Flash
+TM - Stone Edge
+TM - Gyro Ball
+TM - Psych Up
+TM - Bulldoze
+TM - Rock Slide
+TM - Dream Eater
+TM - Grass Knot
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Trick Room
+TM - Confide
 
 == Luvdisc ==
 
+Start - Tackle
+L4 - Charm
+L7 - Water Gun
+L9 - Agility
+L14 - Take Down
+L17 - Lucky Chant
+L22 - Water Pulse
+L27 - Attract
+L31 - Flail
+L37 - Sweet Kiss
+L40 - Hydro Pump
+L46 - Aqua Ring
+L50 - Captivate
+L55 - Safeguard
 Egg - Supersonic
 Egg - Splash
 Egg - Mud Sport
@@ -552,6 +1152,28 @@ Egg - Aqua Ring
 Egg - Captivate
 Egg - Aqua Jet
 Egg - Heal Pulse
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Protect
+TM - Rain Dance
+TM - Safeguard
+TM - Frustration
+TM - Return
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Scald
+TM - Psych Up
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Confide
+TM - Surf
+TM - Waterfall
 
 == Luxio ==
 
