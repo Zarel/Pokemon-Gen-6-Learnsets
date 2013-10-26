@@ -2644,6 +2644,7 @@ Egg - Feint
 Egg - Last Resort
 Egg - Night Slash
 Egg - Flame Burst
+TM - Dazzling Gleam
 
 == Torkoal ==
 
