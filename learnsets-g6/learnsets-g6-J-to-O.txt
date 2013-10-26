@@ -2235,6 +2235,7 @@ TM - Echoed Voice
 TM - Acrobatics
 TM - Wild Charge
 TM - Confide
+Egg - Switcheroo
 
 == Noivern ==
 
