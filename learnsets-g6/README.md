@@ -12,6 +12,7 @@ written one of these ways):
 	L? - [Level-up move of unknown level]
 	L5 - [Level 5 level-up move]
 	TM - [TM or HM move]
+	Tutor - [Move Tutor move]
 	Egg - [Egg move]
 	Event - [Event move]
 
