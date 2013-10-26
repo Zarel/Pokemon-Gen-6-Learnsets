@@ -2026,6 +2026,7 @@ TM - Stone Edge
 TM - Round
 TM - Frost Breath
 TM - Confide
+Egg - Mist
 
 == Bibarel ==
 
@@ -3282,6 +3283,7 @@ TM - Power-Up Punch
 Egg - Quick Guard
 Egg - Curse
 Egg - Spikes
+Egg - Synthesis
 
 == Chikorita ==
 
