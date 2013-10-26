@@ -904,7 +904,7 @@ Start - Thunder Fang
 Start - Fire Fang
 Start - Wrap
 Start - Leer
-Start- Poison Sting
+Start - Poison Sting
 Start - Bite
 L4 - Poison Sting
 L9 - Bite

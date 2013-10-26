@@ -2816,7 +2816,7 @@ TM - Sleep Talk
 TM - Substitute
 TM - Trick Room
 TM - Rock Smash
-TM - Power Punch
+TM - Power-Up Punch
 TM - Dazzling Gleam
 TM - Confide
 HM - Cut

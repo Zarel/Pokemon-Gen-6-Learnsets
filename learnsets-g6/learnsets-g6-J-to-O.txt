@@ -412,7 +412,7 @@ TM - Rock Smash
 TM - Snarl
 TM - Dark Pulse
 TM - Power-Up Punch
-TM -Confide
+TM - Confide
 TM - Cut
 TM - Strength
 
@@ -736,8 +736,8 @@ Egg - Bug Bite
 
 (TODO)
 Start - Wring Out
-Start- Power Whip
-Start- Lick
+Start - Power Whip
+Start - Lick
 L5 - Supersonic
 L9 - Defense Curl
 L13 - Knock Off
@@ -826,7 +826,7 @@ L? - Assist
 L? - Sand Attack
 L? - Fury Swipes
 L? - Pursuit
-L?- Torment
+L? - Torment
 L? - Fake Out
 L? - Hone Claws
 L? - Assurance
@@ -870,7 +870,7 @@ Start - Rototiller
 Start - Switcheroo
 L? - Growl
 L? - Tackle
-L? - Odor slueth
+L? - Odor Sleuth
 L? - Headbutt
 L23 - Mud Sport
 L29 - Fury Swipes
@@ -1003,50 +1003,50 @@ L51 - Heal Pulse
 L55 - Close Combat
 L60 - Dragon Pulse
 L65 - Extreme Speed
-TM01: Hone Claws
-TM04: Calm Mind
-TM05: Roar
-TM06: Toxic
-TM08: Bulk Up
-TM10: Hidden Power
-TM11: Sunny Day
-TM15: Hyper Beam
-TM17: Protect
-TM18: Rain Dance
-TM21: Frustration
-TM26: Earthquake
-TM27: Return
-TM28: Dig
-TM29: Psychic
-TM30: Shadow Ball
-TM31: Brick Break
-TM32: Double Team
-TM39: Rock Tomb
-TM42: Facade
-TM44: Rest
-TM45: Attract
-TM47: Low Sweep
-TM48: Round
-TM52: Focus Blast
-TM56: Fling
-TM65: Shadow Claw
-TM66: Payback
-TM67: Retaliate
-TM68: Giga Impact
-TM71: Stone Edge
-TM75: Swords Dance
-TM78: Bulldoze
-TM80: Rock Slide
-TM84: Poison Jab
-TM87: Swagger
-TM88: Sleep Talk
-TM90: Substitute
-TM91: Flash Cannon
-TM94: Rock Smash
-TM97: Dark Pulse
-TM98: Power-Up Punch
-TM100: Confide
-HM04: Strength
+TM01 - Hone Claws
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM65 - Shadow Claw
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Ludicolo ==
 

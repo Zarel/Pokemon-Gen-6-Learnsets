@@ -990,7 +990,7 @@ Egg - Double Hit
 == Plusle ==
 
 Start - Nuzzle
-Start- Entrainment
+Start - Entrainment
 Start - Play Nice
 Start - Growl
 L3 - Thunder Wave
@@ -1217,7 +1217,7 @@ TM - Hidden Power
 TM - Sunny Day
 TM - Taunt
 TM - Protect
-TM - Frustation
+TM - Frustration
 TM - Thunderbolt
 TM - Thunder
 TM - Earthquake
