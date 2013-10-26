@@ -121,6 +121,9 @@ TM - Retaliate
 TM - Bulldoze
 TM - Confide
 TM - Power-Up Punch
+Egg - Storm Throw
+Egg - Quick Guard
+Egg - Foul Play
 
 == Pangoro ==
 
@@ -1320,6 +1323,8 @@ TM - Flame Charge
 TM - Round
 TM - Incinerate
 TM - Confide
+Egg - Destiny Bond
+Egg - Disable
 
 == Pupitar ==
 
