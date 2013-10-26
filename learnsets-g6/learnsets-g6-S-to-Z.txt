@@ -2593,7 +2593,7 @@ Egg - Mach Punch
 Egg - Foresight
 Egg - Detect
 Egg - Endure
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Force Palm
 Egg - Drain Punch
 Egg - Wide Guard
@@ -2616,6 +2616,7 @@ Egg - Water Pulse
 
 == Togepi ==
 
+TM - Dazzling Gleam
 Egg - Peck
 Egg - Mirror Move
 Egg - Foresight
