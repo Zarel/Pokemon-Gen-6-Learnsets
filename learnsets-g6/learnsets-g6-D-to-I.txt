@@ -4598,6 +4598,7 @@ Egg - Megahorn
 Egg - Pursuit
 Egg - Focus Punch
 Egg - Revenge
+Egg - Rock Blast
 
 == Herdier ==
 
