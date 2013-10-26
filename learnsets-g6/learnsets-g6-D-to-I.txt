@@ -72,6 +72,8 @@ TM - Retaliate
 TM - Volt Switch
 TM - Wild Charge
 TM - Confide
+Egg - Helping Hand
+Egg - Covet
 
 == Deerling ==
 
@@ -1662,6 +1664,8 @@ TM - Psyshock
 TM - Round
 TM - Echoed Voice
 TM - Confide
+Egg - Trick
+Egg - Yawn
 
 == Excadrill ==
 
@@ -1958,6 +1962,8 @@ TM - Echoed Voice
 TM - Incinerate
 TM - Confide
 TM - Power-Up Punch
+Egg - Wish
+Egg - Hypnosis
 
 == Feraligatr ==
 
@@ -2148,6 +2154,8 @@ TM - Round
 TM - Echoed Voice
 TM - Dazzling Gleam
 TM - Confide
+Egg - Copycat
+Egg - Captivate
 
 == Flareon ==
 
@@ -2531,6 +2539,8 @@ TM - Acrobatics
 TM - Confide
 TM - Power-Up Punch
 Egg - Toxic Spikes
+Egg - Water Sport
+Egg - Camouflage
 
 == Frogadier ==
 
@@ -3618,6 +3628,8 @@ TM - Sludge Wave
 TM - Round
 TM - Infestation
 TM - Confide
+Egg - Poison Tail
+Egg - Iron Tail
 
 == Gorebyss ==
 
@@ -4393,6 +4405,9 @@ TM - Acrobatics
 TM - Retaliate
 TM - Confide
 TM - Power-Up Punch
+Egg - Quick Guard
+Egg - Baton Pass
+Egg - Entrainment
 
 == Haxorus ==
 
@@ -4550,6 +4565,9 @@ TM - Bulldoze
 TM - Dragon Tail
 TM - Wild Charge
 TM - Confide
+Egg - Camouflage
+Egg - Agility
+Egg - Glare
 
 == Heracross ==
 
@@ -5251,6 +5269,13 @@ TM - Trick Room
 TM - Round
 TM - Retaliate
 TM - Confide
+Egg - Calm Mind
+Egg - Taunt
+Egg - Confide
+Egg - Embargo
+Egg - Dark Pulse
+Egg - Destiny Bond
+Egg - Camouflage
 
 == Ivysaur ==
 
