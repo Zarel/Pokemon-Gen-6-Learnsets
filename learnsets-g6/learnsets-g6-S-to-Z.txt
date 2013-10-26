@@ -2902,6 +2902,11 @@ TM - Round
 TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
+Egg - Fire Fang
+Egg - Dragon Dance
+Egg - Ice Fang
+Egg - Thunder Fang
+Egg - Poison Fang
 
 == Tyrogue ==
 
@@ -2965,6 +2970,11 @@ TM - Round
 TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
+Egg - Fire Fang
+Egg - Dragon Dance
+Egg - Ice Fang
+Egg - Thunder Fang
+Egg - Poison Fang
 
 == Umbreon ==
 
