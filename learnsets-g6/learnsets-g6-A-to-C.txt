@@ -203,6 +203,8 @@ Egg - Hex
 
 == Accelgor ==
 
+(Smogon Research incomplete)
+
 Start - Final Gambit
 Start - Power Swap
 Start - Leech Life
@@ -509,24 +511,46 @@ L42 - Calm Mind
 L46 - Psychic
 L48 - Future Sight
 L50 - Trick
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Taunt
-TM - Protect
-TM - Frustration
-TM - Return
-TM - Torment
-TM - Facade
-TM - Attract
-TM - Thief
-TM - Energy Ball
-TM - Fling
-TM - Flash
-TM - Thunder Wave
-TM - Grass Knot
-TM - Trick Room
-TM - Dazzling Gleam
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM63 - Embargo
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Alomomola ==
 
@@ -874,20 +898,36 @@ L? - Metal Claw
 L25 - Protect
 L31 - Ancient Power
 L37 - Fury Cutter
-TM - Hone Claws
-TM - Toxic
-TM - Protect
-TM - Return
-TM - Brick Break
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Facade
-TM - Attract
-TM - False Swipe
-TM - Substitute
-TM - Rock Smash
-TM - Confide 
-TM - Cut
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM54 - False Swipe
+TM69 - Rock Polish
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
 Egg - Sand Attack
 Egg - Screech
 Egg - Curse
@@ -1012,6 +1052,41 @@ L25 - Quick Guard
 L28 - Acrobatics
 L31 - Dragon Breath
 L35 - Crunch
+TM01 Hone Claws
+TM02 Dragon Claw
+TM05 Roar
+TM06 Toxic
+TM10 Hidden Power
+TM12 Taunt
+TM17 Protect
+TM19 Roost
+TM21 Frustration
+TM23 Smack Down
+TM26 Earthquake
+TM27 Return
+TM28 Dig
+TM37 Sandstorm
+TM39 Rock Tomb
+TM40 Aerial Ace
+TM41 Torment
+TM42 Facade
+TM44 Rest
+TM45 Attract
+TM48 Round
+TM51 Steel Wing
+TM62 Acrobatics
+TM65 Shadow Claw
+TM69 Rock Polish
+TM71 Stone Edge
+TM78 Bulldoze
+TM80 Rock Slide
+TM87 Swagger
+TM88 Sleep Talk
+TM89 U-turn
+TM90 Substitute
+TM94 Rock Smash
+TM100 Confide
+HM01 Cut
 Egg - Bite
 Egg - Steel Wing
 Egg - Knock Off
@@ -1022,7 +1097,7 @@ Egg - Head Smash
 
 == Archeops ==
 
-(TODO)
+(Smogon Research incomplete)
 
 == Ariados ==
 
@@ -1561,24 +1636,39 @@ L35 - Rain Dance
 L42 - Superpower
 L46 - Hydro Pump
 L50 - Play Rough
-TM - Toxic
-TM - Hidden Power
-TM - Ice Beam
-TM - Blizzard
-TM - Light Screen
-TM - Protect
-TM - Frustration
-TM - Return
-TM - Dig
-TM - Brick Break
-TM - Facade
-TM - Scald
-TM - Grass Knot
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Surf
-TM - Strength
-TM - Waterfall
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM68 - Giga Impact
+TM78 - Bulldoze
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Azurill ==
 
