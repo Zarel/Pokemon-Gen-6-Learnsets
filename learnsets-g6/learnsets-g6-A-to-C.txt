@@ -3481,7 +3481,6 @@ L? - Flail
 L? - Muddy Water
 L? - Water Sport
 L? - Smack Down
-L? - Shell Smash
 L30 - Crabhammer
 L34 - Water Pulse
 TM - Swords Dance
@@ -3526,7 +3525,6 @@ L? - Crabhammer
 L? - Flail
 L? - Water Sport
 L? - Water Pulse
-L? - Shell Smash
 L? - Heal Pulse
 L42 - Smack Down
 L47 - Aqua Jet
