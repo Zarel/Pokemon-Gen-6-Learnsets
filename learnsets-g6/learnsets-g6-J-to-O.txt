@@ -1377,25 +1377,26 @@ Egg - Chip Away
 
 == Malamar ==
 
-L? - Tackle
-L? - Psybeam
-L? - Peck
-L? - Hypnosis
-L? - Light Screen
-L? - Reflect
-L? - Constrict
-L? - Psywave
-L? - Slash
-L? - Reversal
-L? - Swagger
-L? - Superpower
-L? - Pluck
-L? - Payback
-L? - Night Slash
-L? - Switcheroo
-L? - Psycho Cut
-L? - Foul Play
-L? - Topsy-turvy
+L1 - Superpower
+L1 - Reversal
+L1 - Tackle
+L1 - Peck
+L1 - Constrict
+L4 - Reflect
+L8 - Foul Play
+L12 - Swagger
+L13 - Psywave
+L15 - Topsy-turvy
+L18 - Hypnosis
+L21 - Psybeam
+L23 - Switcheroo
+L27 - Payback
+L31 - Light Screen
+L35 - Pluck
+L39 - Psycho Cut
+L43 - Slash
+L46 - Night Slash
+L48 - Superpower
 TM - Cut
 TM - Flamethrower
 TM - Hyper Beam
@@ -1633,25 +1634,89 @@ TM - Thunderbolt
 
 == Meowstic ==
 
-L? - Scratch
-L? - Leer
-L? - Psybeam
-L? - Confusion
-L? - Psychic
-L? - Light Screen
-L? - Reflect
-L? - Charm
-L? - Mean Look
-L? - Fake Out
-L? - Helping Hand
-L? - Role Play
-L? - Imprison
-L? - Covet
-L? - Miracle Eye
-L? - Sucker Punch
-L? - Psyshock
-L? - Quick Guard
-L? - Misty Terrain
+L1 - Quick Guard
+L1 - Mean Look
+L1 - Helping Hand
+L1 - Scratch
+L1 - Leer
+L5 - Covet
+L9 - Confusion
+L13 - Light Screen
+L17 - Psybeam
+L19 - Fake Out
+L25 - Psyshock
+L28 - Charm
+L31 - Miracle Eye
+L35 - Reflect
+L40 - Psychic
+L43 - Role Play
+L45 - Imprison
+L48 - Sucker Punch
+L50 - Misty Terrain
+L53 - Quick Guard
+TM - Cut
+TM - Hyper Beam
+TM - Thunderbolt
+TM - Thunder Wave
+TM - Dig
+TM - Toxic
+TM - Psychic
+TM - Double Team
+TM - Light Screen
+TM - Reflect
+TM - Dream Eater
+TM - Flash
+TM - Rest
+TM - Substitute
+TM - Protect
+TM - Swagger
+TM - Attract
+TM - Sleep Talk
+TM - Return
+TM - Frustration
+TM - Safeguard
+TM - Hidden Power
+TM - Rain Dance
+TM - Sunny Day
+TM - Psych Up
+TM - Shadow Ball
+TM - Torment
+TM - Facade
+TM - Calm Mind
+TM - Payback
+TM - Dark Pulse
+TM - Energy Ball
+TM - Giga Impact
+TM - Trick Room
+TM - Charge Beam
+TM - Psyshock
+TM - Round
+TM - Echoed Voice
+TM - Confide
+TM - Power-Up Punch
+
+== Meowstic-F ==
+
+L1 - Stored Power
+L1 - Me First
+L1 - Magical Leaf
+L1 - Scratch
+L1 - Leer
+L5 - Covet
+L9 - Confusion
+L13 - Light Screen
+L17 - Psybeam
+L19 - Fake Out
+L25 - Psyshock
+L28 - Charge Beam
+L31 - Shadow Ball
+L35 - Extrasensory
+L40 - Psychic
+L43 - Role Play
+L45 - Signal Beam
+L48 - Sucker Punch
+L50 - Future Sight
+L53 - Stored Power
 TM - Cut
 TM - Hyper Beam
 TM - Thunderbolt
@@ -2186,22 +2251,22 @@ Egg - Final Gambit
 
 == Noibat ==
 
-L? - Razor Wind
-L? - Gust
-L? - Wing Attack
-L? - Whirlwind
-L? - Tackle
-L? - Bite
-L? - Supersonic
-L? - Agility
-L? - Screech
-L? - Leech Life
-L? - Super Fang
-L? - Air Cutter
-L? - Roost
-L? - Tailwind
-L? - Air Slash
-L? - Hurricane
+L1 - Screech
+L1 - Supersonic
+L1 - Tackle
+L5 - Leech Life
+L11 - Gust
+L13 - Bite
+L16 - Wing Attack
+L18 - Agility
+L23 - Air Cutter
+L27 - Roost
+L31 - Razor Wind
+L35 - Tailwind
+L40 - Whirlwind
+L43 - Super Fang
+L48 - Air Slash
+L58 - Hurricane
 TM - Cut
 TM - Fly
 TM - Toxic
@@ -2239,25 +2304,28 @@ Egg - Switcheroo
 
 == Noivern ==
 
-L? - Razor Wind
-L? - Gust
-L? - Wing Attack
-L? - Whirlwind
-L? - Tackle
-L? - Bite
-L? - Supersonic
-L? - Agility
-L? - Screech
-L? - Leech Life
-L? - Super Fang
-L? - Moonlight
-L? - Air Cutter
-L? - Roost
-L? - Tailwind
-L? - Air Slash
-L? - Dragon Pulse
-L? - Hurricane
-L? - Boomburst
+L1 - Moonlight
+L1 - Hurricane
+L1 - Dragon Pulse
+L1 - Boomburst
+L1 - Screech
+L1 - Supersonic
+L1 - Tackle
+L5 - Leech Life
+L11 - Gust
+L13 - Bite
+L16 - Wing Attack
+L18 - Agility
+L23 - Air Cutter
+L27 - Roost
+L31 - Razor Wind
+L35 - Tailwind
+L40 - Whirlwind
+L43 - Super Fang
+L53 - Air Slash
+L62 - Hurricane
+L70 - Dragon Pulse
+L75 - Boomburst
 TM - Cut
 TM - Fly
 TM - Flamethrower
