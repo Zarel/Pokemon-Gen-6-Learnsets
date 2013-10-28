@@ -86,8 +86,8 @@ for (var i=0; i<input.length; i++) {
 	if (typeString.substr(0,2) in {tm:1,hm:1}) type = '6M';
 	else if (typeString === 'tutor') type = '6T';
 	else if (typeString === 'egg') type = '6E';
-	else if (typeString === 'moverelearner' || typeString === 'relearn' || typeString === 'mr' || typeString === 'l?' || typeString === '?') type = '6L0';
-	else if (typeString === 'start' || typeString === 'n/a' || typeString === 'unknown') type = '6L0';
+	else if (typeString === 'moverelearner' || typeString === 'relearn' || typeString === 'mr' || typeString === 'l?' || typeString === '?') type = '6L1';
+	else if (typeString === 'start' || typeString === 'n/a' || typeString === 'unknown') type = '6L1';
 	else if (typeString.substr(0,5) === 'level') {
 		level = typeString.substr(5);
 	}
@@ -102,8 +102,8 @@ for (var i=0; i<input.length; i++) {
 	}
 	if (!type && !level) level = typeString;
 	if (level) {
-		if (level.charAt(0) in {'<':1,'>':1,'?':1}) type = '6L0';
-		else if (/^[0-9]{1,3}$/.test(level)) type = '6L'+parseInt(level, 10);
+		if (level.charAt(0) in {'<':1,'>':1,'?':1}) type = '6L1';
+		else if (/^[0-9]{1,3}$/.test(level)) type = '6L'+(parseInt(level, 10)||1);
 	}
 	if (!type) console.log("Source '"+parts[0]+"' in '"+line+"' not formatted correctly for "+species);
 	if (type) {
