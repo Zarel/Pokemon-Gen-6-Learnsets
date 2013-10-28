@@ -423,7 +423,51 @@ Egg - Brave Bird
 
 == Donphan ==
 
-(Smogon Research incomplete)
+L? - Fire Fang
+L? - Thunder Fang
+L? - Horn Attack
+L? - Growl
+L? - Defense Curl
+L? - Bulldoze
+L? - Rapid Spin
+L? - Knock Off
+L? - Magnitude
+L? - Fury Attack
+L? - Assurance
+L? - Rollout
+L? - Natural Gift
+L? - Slam
+L? - Endure
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Doublade ==
 
@@ -2477,7 +2521,7 @@ Egg - Gastro Acid
 
 == Frillish ==
 
-(Smogon Research incomplete)
+(Unreleased)
 
 Egg - Mist
 Egg - Recover
@@ -3289,14 +3333,21 @@ Egg - Last Resort
 
 (Smogon Research incomplete)
 
-L? - Poison Sting
-L? - Harden
-L? - Knock Off
-L? - Sand-Attack
-L? - Feint Attack
-L? - Fury Cutter
-L? - Quick Attack
-L? - Acrobatics
+Start - Poison Sting
+L4 - Sand Attack
+L7 - Harden
+L10 - Knock Off
+L13 - Quick Attack
+L16 - Fury Cutter
+L19 - Feint Attack
+L22 - Acrobatics
+L27 - Slash
+L30 - U-turn
+L35 - Screech
+L40 - X-Scissor
+L45 - Sky Uppercut
+L50 - Swords Dance
+L55 - Guillotine
 Egg - Razor Wind
 Egg - Wing Attack
 Egg - Double-Edge
@@ -3331,6 +3382,54 @@ L40 - X-Scissor
 L45 - Sky Uppercut
 L50 - Swords Dance
 L55 - Guillotine
+TM01 - Hone Claws
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM51 - Steel Wing
+TM54 - False Swipe
+TM56 - Fling
+TM66 - Payback
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Gloom ==
 
@@ -4411,9 +4510,63 @@ Egg - Entrainment
 
 == Haxorus ==
 
-(Smogon Research incomplete)
-
+L? - Outrage
+L? - Scratch
+L? - Leer
+L? - Assurance
+L? - Dual Chop
+L? - Scary Face
+L? - False Swipe
+L? - Taunt
+L? - Dragon Pulse
+L? - Slash
+L? - Dragon Dance
+L? - Dragon Rage
+L? - Dragon Claw
 L58 - Guillotine
+TM01 - Hone Claws
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM54 - False Swipe
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM66 - Payback
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM82 - Dragon Tail
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
 
 == Heatmor ==
 
@@ -4654,10 +4807,14 @@ Egg - Sand Tomb
 
 == Hippowdon ==
 
-(Smogon Research incomplete)
-
+L? - Ice Fang
+L? - Fire Fang
+L? - Thunder Fang
 L? - Protect
 L? - Yawn
+L40 - Earthquake
+L50 - Double-Edge
+L60 - Fissure
 TM - Roar
 TM - Toxic
 TM - Hidden Power

@@ -1,6 +1,6 @@
 == Jellicent ==
 
-(TODO)
+(Unreleased)
 
 == Jigglypuff ==
 
@@ -12,18 +12,53 @@
 
 == Jolteon ==
 
-(TODO)
-TM - Return
-TM - Protect
-TM - Rock Smash
-TM - Frustration
-TM - Flash
-TM - Attract
-TM - Thunderbolt
-TM - Toxic
-TM - Facade
-TM - Dig
-TM - Confide
+Start - Helping Hand
+Start - Tackle
+Start - Tail Whip
+L5 - Sand Attack
+L9 - Thunder Shock
+L13 - Quick Attack
+L17 - Double Kick
+L20 - Thunder Fang
+L25 - Pin Missile
+L29 - Agility
+L33 - Thunder Wave
+L37 - Discharge
+L41 - Last Resort
+L45 - Thunder
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM57 - Charge Beam
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Joltik ==
 
@@ -422,15 +457,15 @@ TM - Surf
 
 == Kyurem ==
 
-(TODO)
+(Unreleased)
 
 == Kyurem-Black ==
 
-(TODO)
+(Unreleased)
 
 == Kyurem-White ==
 
-(TODO)
+(Unreleased)
 
 == Lairon ==
 
@@ -553,6 +588,42 @@ Egg - Avalanche
 
 == Larvesta ==
 
+Start - Ember
+Start - String Shot
+Lv10 - Leech Life
+Lv20 - Take Down
+Lv30 - Flame Charge
+Lv40 - Bug Bite
+Lv50 - Double-Edge
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM48 - Round
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM76 - Struggle Bug
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
 Egg - String Shot
 Egg - Harden
 Egg - Foresight
@@ -563,6 +634,55 @@ Egg - Zen Headbutt
 
 == Larvitar ==
 
+L1 - Bite
+L1 - Leer
+L5 - Sandstorm
+L10 - Screech
+L14 - Chip Away
+L19 - Rock Slide
+L23 - Scary Face
+L28 - Thrash
+L32 - Dark Pulse
+L37 - Payback
+L41 - Crunch
+L46 - Earthquake
+L50 - Stone Edge
+L55 - Hyper Beam
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM66 - Payback
+TM67 - Retaliate
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
 Egg - Stomp
 Egg - Focus Energy
 Egg - Curse
@@ -982,7 +1102,6 @@ Egg - Tickle
 
 == Lucario ==
 
-(TODO)
 L? - Extremespeed
 L? - Dragon Pulse
 L? - Foresight
@@ -1317,12 +1436,66 @@ L? - Splash
 
 == Magnemite ==
 
-L? - Tackle
-TM - Thunderbolt
+Start - Tackle
+L04 - Supersonic
+L07 - Thunder Shock
+L11 - Sonic Boom
+L15 - Thunder Wave
+L18 - Magnet Bomb
+L21 - Spark
+L25 - Mirror Shot
+L29 - Metal Sound
+L32 - Electro Ball
+L35 - Flash Cannon
+L39 - Screech
+L43 - Discharge
+L46 - Lock-On
+L49 - Magnet Rise
+L53 - Gyro Ball
+L57 - Zap Cannon
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM57 - Charge Beam
+TM64 - Explosion
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM93 - Wild Charge
+TM100 - Confide
 
 == Magneton ==
 
-L? - Tackle
+L? - Zap Cannon
+L? - Tri Attack
+L? - Electric Terrain
+L34 - Electro Ball
+L39 - Flash Cannon
+L40 - Metal Sound
+L45 - Screech
+L51 - Discharge
+L56 - Lock-On
+L62 - Magnet Rise
+L67 - Gyro Ball
+L73 - Zap Cannon
 TM - Hyper Beam
 TM - Thunderbolt
 TM - Thunder Wave
@@ -1356,7 +1529,48 @@ TM - Confide
 
 == Magnezone ==
 
-TM - Thunderbolt
+L? - Magnetic Flux
+L? - Mirror Coat
+L? - Barrier
+L? - Electric Terrain
+L34 - Electro Ball
+L39 - Flash Cannon
+L45 - Screech
+L51 - Discharge
+L56 - Lock-On
+L62 - Magnet Rise
+L67 - Gyro Ball
+L73 - Zap Cannon
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM57 - Charge Beam
+TM64 - Explosion
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM93 - Wild Charge
+TM100 - Confide
 
 == Makuhita ==
 
@@ -1439,9 +1653,45 @@ TM - Confide
 
 == Mamoswine ==
 
+(Smogon Research incomplete)
+
 (TODO)
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Manaphy ==
+
+(Unreleased)
 
 TM - Surf
 
@@ -1587,10 +1837,70 @@ TM - Power-Up Punch
 
 == Mawile ==
 
-L? - Growl
-L? - Taunt
-L? - Fairy Wind
-L? - Play Rough
+Start - Iron Head
+Start - Taunt
+Start - Growl
+Start - Fairy Wind
+Start - Astonish
+L6 - Fake Tears
+L11 - Bite
+L16 - Sweet Scent
+L21 - Vice Grip
+L26 - Feint Attack
+L31 - Baton Pass
+L36 - Crunch
+L41 - Iron Defense
+L46 - Sucker Punch
+L50 - Stockpile
+L50 - Spit Up
+L50 - Swallow
+L60 - Play Rough
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM54 - False Swipe
+TM56 - Fling
+TM57 - Charge Beam
+TM59 - Incinerate
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM77 - Psych Up
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Egg - Slam
 Egg - Ancient Power
 Egg - Poison Fang
@@ -1780,11 +2090,61 @@ TM - U-turn
 
 == Metagross ==
 
-TM - Earthquake
+(Smogon Research incomplete)
+
+L45 - Hammer Arm
+L53 - Iron Defense
+L62 - Hyper Beam
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM68 - Giga Impact
+TM70 - Flash
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM86 - Grass Knot
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Metang ==
 
-TM - Earthquake
+(Smogon Research incomplete)
+
+L20 - Confusion
+L20 - Metal Claw
+L23 - Pursuit
+L26 - Miracle Eye
+L29 - Zen Headbutt
+L32 - Bullet Punch
+L35 - Scary Face
+L38 - Agility
+L41 - Psychic
+L44 - Meteor Mash
 
 == Metapod ==
 
@@ -2239,7 +2599,48 @@ Egg - Final Gambit
 
 == Ninetales ==
 
-(TODO)
+L? - Flamethrower
+L? - Quick Attack
+L? - Confuse Ray
+L? - Safeguard
+L? - Ember
+L? - Imprison
+L? - Nasty Plot
+L? - Quick Attack
+TM03 - Psyshock
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM50 - Overheat
+TM52 - Energy Ball
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM66 - Payback
+TM68 - Giga Impact
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Ninjask ==
 

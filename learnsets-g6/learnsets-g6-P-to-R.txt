@@ -909,7 +909,42 @@ TM - Confide
 
 == Piloswine ==
 
-(TODO)
+L? - Ice Fang
+L? - Fury Attack
+L? - Take Down
+L? - Mist
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Pineco ==
 
@@ -927,6 +962,12 @@ Egg - Stealth Rock
 
 == Pinsir ==
 
+Lv<25 - Harden
+Lv<25 - Revenge
+Lv<25 - Brick Break
+Lv<25 - Vital Throw
+Lv<30 - Submission
+Lv<30 - X-Scissor
 TM - Swords Dance
 TM - Cut
 TM - Hyper Beam
@@ -1079,8 +1120,11 @@ TM - Power-Up Punch
 TM - Surf
 TM - Strength
 TM - Waterfall 
+TM - Toxic
 
 == Poliwag ==
+
+(Smogon Research incomplete)
 
 Start - Water Sport
 L5 - watergun
@@ -1111,11 +1155,49 @@ Egg - Water Pulse
 
 == Poliwhirl ==
 
-(TODO)
+L37 - Mud shot
+L35 - Belly Drum
+L43 - Wake Up Slap
+L48 - Hydro Pump
+L53 - Mud Bomb
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM31 - Brick Break
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM55 - Scald
+TM56 - Fling
+TM78 - Bulldoze
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Poliwrath ==
 
-(TODO)
+(Smogon Research incomplete)
+
+L32 - Dynamic Punch
+L43 - Mind Reader
+L53 - Circle Throw
 
 == Ponyta ==
 
@@ -1328,55 +1410,47 @@ Egg - Disable
 
 == Pupitar ==
 
-Start - Bite
-Start - Leer
-L5 - Sandstorm
-L10 - Screech
-L14 - Chip Away
-L19 - Rock Slide
-L23 - Scary Face
-L28 - Thrash
 L34 - Dark Pulse
 L41 - Payback
 L47 - Crunch
 L54 - Earthquake
 L60 - Stone Edge
 L67 - Hyper Beam
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Smack Down
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Brick Break
-TM - Double Team
-TM - Sandstorm
-TM - Rock Tomb
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Payback
-TM - Retaliate
-TM - Rock Polish
-TM - Stone Edge
-TM - Bulldoze
-TM - Rock Slide
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Snarl
-TM - Dark Pulse
-TM - Power-Up Punch
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM66 - Payback
+TM67 - Retaliate
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
 
 == Purrloin ==
 
@@ -1863,6 +1937,7 @@ Egg - Acid Spray
 == Reuniclus ==
 
 L? - Skill Swap
+L41 - Dizzy Punch
 TM - Psyshock
 TM - Calm Mind
 TM - Toxic
@@ -2244,27 +2319,65 @@ TM - Cut
 
 == Rotom ==
 
-TM - Thunderbolt
+Start - Astonish
+Start - Thunder Wave
+Start - Thunder Shock
+Start - Confuse Ray
+L8 - Uproar
+L15 - Double Team
+L22 - Shock Wave
+L29 - Ominous Wind
+L36 - Substitute
+L43 - Electro Ball
+L50 - Hex
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM70 - Flash
+TM72 - Volt Switch
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Rotom-Fan ==
 
-TM - Thunderbolt
+TM - Air Slash
 
 == Rotom-Frost ==
 
-TM - Thunderbolt
+TM - Blizzard
 
 == Rotom-Heat ==
 
-TM - Thunderbolt
+TM - Overheat
 
 == Rotom-Mow ==
 
-TM - Thunderbolt
+TM - Leaf Storm
 
 == Rotom-Wash ==
 
-TM - Thunderbolt
+TM - Hydro Pump
 
 == Rufflet ==
 
