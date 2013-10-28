@@ -1660,7 +1660,49 @@ TM - Calm Mind
 
 == Espeon ==
 
-(Smogon Research incomplete)
+L? - Growl
+L? - Tackle
+L? - Tail Whip
+L? - Sand Attack
+L? - Confusion
+L? - Future Sight
+L? - Psych Up
+L? - Morning Sun
+L? - Psybeam
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM01 - Cut
 
 == Espurr ==
 
@@ -2513,7 +2555,55 @@ Egg - Gastro Acid
 
 == Forretress ==
 
-(Smogon Research incomplete)
+L? - Heavy Slam
+L? - Zap Cannon
+L? - Magnet Rise
+L? - Toxic Spikes
+L? - Tackle
+L? - Protect
+L? - Self-Destruct
+L? - Bug Bite
+L? - Take Down
+L? - Rapid Spin
+L? - Bide
+L? - Natural Gift
+L? - Spikes
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM64 - Explosion
+TM66 - Payback
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM72 - Volt Switch
+TM74 - Gyro Ball
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Fraxure ==
 
