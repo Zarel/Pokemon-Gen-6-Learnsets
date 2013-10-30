@@ -128,11 +128,10 @@ for (var speciesid in Learnsets) {
 		if (LearnsetsG6[speciesid].learnset[moveid].length) continue;
 		var sources = learnset[moveid];
 		for (var i=sources.length-1; i>=0; i--) {
-			if (sources[i].substr(0,2) !== '5L' && (sources[i].substr(0,2) !== '5M' || moveid in {allyswitch:1,telekinesis:1,workup:1,pluck:1})) continue;
-			if (sources[i].charAt(1) === 'L') {
+			if (sources[i].substr(0,2) === '5L') {
 				LearnsetsG6[speciesid].learnset[moveid] = ['6L0'];
 				Learnsets[speciesid].learnset[moveid].push('6L0');
-			} else if (sources[i].charAt(1) === 'M') {
+			} else if ((sources[i] === '5M' && !(moveid in {allyswitch:1,telekinesis:1,workup:1,pluck:1})) || (sources[i] === '5T' && moveid === 'roost')) {
 				LearnsetsG6[speciesid].learnset[moveid] = ['6M'];
 				Learnsets[speciesid].learnset[moveid].push('6M');
 			}
