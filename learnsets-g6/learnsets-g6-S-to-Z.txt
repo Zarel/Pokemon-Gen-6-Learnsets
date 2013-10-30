@@ -2751,7 +2751,7 @@ L? - Psych Up
 L? - Helping Hand
 L? - Skill Swap
 L? - Last Resort
-L? - Draining Kiss
+L20 - Draining Kiss
 L? - Fairy Wind
 L? - Moonblast
 L? - Disarming Voice
