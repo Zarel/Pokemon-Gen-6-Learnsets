@@ -135,7 +135,6 @@ for (var speciesid in Learnsets) {
 				LearnsetsG6[speciesid].learnset[moveid] = ['6M'];
 				Learnsets[speciesid].learnset[moveid].push('6M');
 			}
-			break;
 		}
 	}
 }
