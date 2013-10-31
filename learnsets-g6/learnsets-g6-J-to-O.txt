@@ -1098,7 +1098,57 @@ Egg - Tickle
 
 == Loudred ==
 
-(TODO)
+Start - Pound
+L5 - Uproar
+L11 - Astonish
+L15 - Howl
+L20 - Bite
+L23 - Supersonic
+L29 - Stomp
+L37 - Screech
+L51 - Synchronoise
+L57 - Rest
+L57 - Sleep Talk
+L65 - Hyper Voice
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solarbeam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM56 - Fling
+TM59 - Incinerate
+TM67 - Retaliate
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Lucario ==
 

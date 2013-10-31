@@ -1869,6 +1869,18 @@ HM04 - Strength
 
 == Exploud ==
 
+Start - Boomburst
+Start - Ice Fang
+Start - Fire Fang
+Start - Thunder Fang
+Start - Pound
+L5 - Uproar
+L11 - Astonish
+L15 - Howl
+L20 - Bite
+L23 - Supersonic
+L29 - Stomp
+L37 - Screech
 L40 - Crunch
 L45 - Roar
 L55 - Synchronoise

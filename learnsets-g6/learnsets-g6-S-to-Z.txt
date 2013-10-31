@@ -4170,6 +4170,45 @@ TM100 - Confide
 
 == Whismur ==
 
+Start - Pound
+L5 - Uproar
+L11 - Astonish
+L15 - Howl
+L21 - Supersonic
+L25 - Stomp
+L31 - Screech
+L35 - Roar
+L41 - Synchronoise
+L45 - Rest
+L45 - Sleep Talk
+L50 - Hyper Voice
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM56 - Fling
+TM59 - Incinerate
+TM67 - Retaliate
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Egg - Take Down
 Egg - SmokeScreen
 Egg - Snore
