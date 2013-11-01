@@ -547,6 +547,7 @@ TM - Round
 TM - Scald
 TM - Dragon Tail
 TM - Confide
+Tutor - Draco Meteor
 
 == Dragonair ==
 
