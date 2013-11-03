@@ -1883,7 +1883,54 @@ TM - Power-Up Punch
 
 == Masquerain ==
 
-(TODO)
+Start - Quiver Dance
+Start - Bug Buzz
+Start - Whirlwind
+Start - Ominous Wind
+Start - Bubble
+L7 - Quick Attack
+L13 - Sweet Scent
+L19 - Water Sport
+L22 - Gust
+L26 - Scary Face
+L33 - Stun Spore
+L40 - Silver Wind
+L47 - Air Slash
+L54 - Whirlwind
+L61 - Bug Buzz
+L68 - Quiver Dance
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM55 - Scald
+TM68 - Giga Impact
+TM70 - Flash
+TM76 - Struggle Bug
+TM77 - Psych Up
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
 
 == Mawile ==
 

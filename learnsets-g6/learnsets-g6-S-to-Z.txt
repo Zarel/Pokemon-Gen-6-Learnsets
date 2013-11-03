@@ -2626,6 +2626,42 @@ Egg - Natural Gift
 
 == Surskit ==
 
+Start - Bubble
+L7 - Quick Attack
+L13 - Sweet Scent
+L19 - Water Sport
+L25 - Bubble Beam
+L31 - Agility
+L37 - Mist
+L37 - Haze
+L43 - Baton Pass
+L46 - Sticky Web
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM55 - Scald
+TM70 - Flash
+TM76 - Struggle Bug
+TM77 - Psych Up
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Egg - Hydro Pump
 Egg - Psybeam
 Egg - Mind Reader
