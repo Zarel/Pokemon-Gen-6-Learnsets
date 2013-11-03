@@ -2332,6 +2332,9 @@ TM - Confide
 TM - Surf
 TM - Strength
 TM - Waterfall
+Egg - Aura Sphere
+Egg - Dragon Pulse
+Egg - Flash Cannon
 
 == Blaziken ==
 
