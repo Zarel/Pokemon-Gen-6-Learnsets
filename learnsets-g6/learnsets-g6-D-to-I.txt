@@ -89,6 +89,7 @@ Egg - Worry Seed
 
 == Deino ==
 
+Tutor - Draco Meteor
 Egg - Screech
 Egg - Astonish
 Egg - Assurance
@@ -236,6 +237,8 @@ L? - Aurora Beam
 == Dialga ==
 
 (Unreleased)
+
+Tutor - Draco Meteor
 
 == Diggersby ==
 
@@ -597,6 +600,7 @@ TM - Substitute
 TM - Confide
 TM - Surf
 TM - Waterfall
+Tutor - Draco Meteor
 
 == Dragonite ==
 
@@ -673,6 +677,7 @@ TM - Fly
 TM - Surf
 TM - Strength
 TM - Waterfall
+Tutor - Draco Meteor
 
 == Drapion ==
 
@@ -782,6 +787,7 @@ TM - Substitute
 TM - Confide
 TM - Surf
 TM - Waterfall
+Tutor - Draco Meteor
 Egg - Supersonic
 Egg - Mist
 Egg - Haze
@@ -1001,6 +1007,7 @@ TM - Confide
 TM - Cut
 TM - Surf
 TM - Strength
+Tutor - Draco Meteor
 Egg - Glare
 Egg - Feint Attack
 Egg - Pursuit
@@ -2516,8 +2523,14 @@ TM - Confide
 
 == Flygon ==
 
-(Smogon Research incomplete)
-
+L? - Sonicboom
+L? - Sand Attack
+L? - Feint Attack
+L? - Sand Tomb
+L? - Supersonic
+L? - Screech
+L49 - Hyper Beam
+L55 - Dragon Claw
 TM01 - Hone Claws
 TM02 - Dragon Claw
 TM06 - Toxic
@@ -2555,6 +2568,7 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
+Tutor - Draco Meteor
 HM02 - Fly
 HM04 - Strength
 
@@ -2663,6 +2677,8 @@ HM04 - Strength
 == Fraxure ==
 
 (Smogon Research incomplete)
+
+Tutor - Draco Meteor
 
 == Frillish ==
 
@@ -3133,6 +3149,7 @@ TM - Sleep Talk
 TM - Substitute
 TM - Rock Smash
 TM - Confide
+Tutor - Draco Meteor
 HM - Cut
 HM - Surf
 HM - Strength
@@ -3393,6 +3410,7 @@ TM - Flamethrower
 TM - Facade
 TM - Attract
 TM - Confide
+Tutor - Draco Meteor
 Egg - Body Slam
 Egg - Thrash
 Egg - Double-Edge
@@ -3435,6 +3453,8 @@ Egg - Secret Power
 == Giratina ==
 
 (Unreleased)
+
+Tutor - Draco Meteor
 
 == Glaceon ==
 
@@ -3835,6 +3855,7 @@ TM - Bulldoze
 TM - Dragon Tail
 TM - Infestation
 TM - Confide
+Tutor - Draco Meteor
 
 == Goomy ==
 
@@ -3870,6 +3891,7 @@ TM - Sludge Wave
 TM - Round
 TM - Infestation
 TM - Confide
+Tutor - Draco Meteor
 Egg - Poison Tail
 Egg - Iron Tail
 
@@ -4707,6 +4729,7 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
+Tutor - Draco Meteor
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
@@ -5401,6 +5424,7 @@ TM100 - Confide
 HM02 - Fly
 HM03 - Surf
 HM04 - Strength
+Tutor - Draco Meteor
 
 == Hypno ==
 

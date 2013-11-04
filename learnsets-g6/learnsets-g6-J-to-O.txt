@@ -564,41 +564,49 @@ TM - Surf
 
 == Kingdra ==
 
-Start - Yawn
-L? - Water Gun
-L? - Smokescreen
-L? - Leer
-L? - Bubble
-L? - Focus Energy
-L? - Bubble Beam
-L? - Agility
-L? - Twister
-L? - Brine
-TM06 - Toxic
-TM07 - Hail
-TM10 - Hidden Power
-TM13 - Ice Beam
-TM14 - Blizzard
-TM15 - Hyper Beam
-TM17 - Protect
-TM18 - Rain Dance
-TM21 - Frustration
-TM27 - Return
-TM32 - Double Team
-TM42 - Facade
-TM44 - Rest
-TM45 - Attract
-TM48 - Round
-TM55 - Scald
-TM60 - Quash
-TM68 - Giga Impact
-TM87 - Swagger
-TM88 - Sleep Talk
-TM90 - Substitute
-TM91 - Flash Cannon
-TM100 - Confide
-HM03 - Surf
-HM05 - Waterfall
+L1 - Dragon Pulse
+L1 - Yawn
+L1 - Bubble
+L1 - Smokescreen
+L1 - Leer
+L1 - Water Gun
+L4 - Smokescreen
+L8 - Leer
+L11 - Water Gun
+L14 - Focus Energy
+L18 - Bubblebeam
+L23 - Agility
+L26 - Twister
+L30 - Brine
+L40 - Hydro Pump
+L48 - Dragon Dance
+L57 - Dragon Pulse
+TM - Toxic
+TM - Hail
+TM - Hidden Power
+TM - Ice Beam
+TM - Blizzard
+TM - Hyper Beam
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Return
+TM - Double Team
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Scald
+TM - Quash
+TM - Giga Impact
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Flash Cannon
+TM - Confide
+TM - Surf
+TM - Waterfall
+Tutor - Draco Meteor
 
 == Kingler ==
 
@@ -838,6 +846,8 @@ TM - Surf
 
 (Unreleased)
 
+Tutor - Draco Meteor
+
 == Kyurem-Black ==
 
 (Unreleased)
@@ -848,19 +858,55 @@ TM - Surf
 
 == Lairon ==
 
-L? - Tackle
-L? - Harden
-L? - Mud-Slap
-L? - Headbutt
-L? - Metal Claw
-L? - Iron Defense
-L? - Roar
-L? - Take Down
-L? - Iron Head
-L? - Protect
-L? - Metal Sound
-L? - Iron Tail
-L? - Autotomize
+L1 - Tackle
+L1 - Harden
+L1 - Mud-Slap
+L1 - Headbutt
+L4 - Mud-Slap
+L8 - Headbutt
+L11 - Metal Claw
+L15 - Iron Defense
+L18 - Roar
+L22 - Take Down
+L25 - Iron Head
+L29 - Protect
+L34 - Metal Sound
+L40 - Iron Tail
+L45 - Autotomize
+L51 - Heavy Slam
+L56 - Double-Edge
+L62 - Metal Burst
+TM - Hone Claws
+TM - Roar
+TM - Toxic
+TM - Hidden Power
+TM - Sunny Day
+TM - Protect
+TM - Rain Dance
+TM - Frustration
+TM - Earthquake
+TM - Return
+TM - Dig
+TM - Double Team
+TM - Sandstorm
+TM - Rock Tomb
+TM - Aerial Ace
+TM - Facade
+TM - Rest
+TM - Attract
+TM - Round
+TM - Shadow Claw
+TM - Rock Polish
+TM - Stone Edge
+TM - Bulldoze
+TM - Rock Slide
+TM - Swagger
+TM - Sleep Talk
+TM - Substitute
+TM - Rock Smash
+TM - Confide
+TM -  Cut
+TM -  Strength
 
 == Lampent ==
 
@@ -1137,11 +1183,15 @@ Egg - Stealth Rock
 
 == Latias ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Latios ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Leafeon ==
 
@@ -3323,6 +3373,7 @@ TM - Echoed Voice
 TM - Acrobatics
 TM - Wild Charge
 TM - Confide
+Tutor - Draco Meteor
 Egg - Switcheroo
 
 == Noivern ==

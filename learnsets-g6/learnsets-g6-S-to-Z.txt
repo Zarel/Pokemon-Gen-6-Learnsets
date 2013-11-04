@@ -1651,6 +1651,7 @@ TM - Sludge Wave
 TM - Round
 TM - Infestation
 TM - Confide
+Tutor - Draco Meteor
 
 == Slowbro =
 
@@ -3408,6 +3409,38 @@ HM04 - Strength
 
 == Trapinch ==
 
+L? - Bide
+L? - Mud Slap
+L? - Rock Slide
+L? - Bulldoze
+L29 - Dig
+L34 - Crunch
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 Egg - Gust
 Egg - Quick Attack
 Egg - Focus Energy
@@ -3680,11 +3713,6 @@ TM - Round
 TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
-Egg - Fire Fang
-Egg - Dragon Dance
-Egg - Ice Fang
-Egg - Thunder Fang
-Egg - Poison Fang
 Tutor - Draco Meteor
 
 == Tyrogue ==
@@ -3749,12 +3777,12 @@ TM - Round
 TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
+Tutor - Draco Meteor
 Egg - Fire Fang
 Egg - Dragon Dance
 Egg - Ice Fang
 Egg - Thunder Fang
 Egg - Poison Fang
-Tutor - Draco Meteor
 
 == Umbreon ==
 
@@ -3939,7 +3967,39 @@ TM - Roost
 
 == Vibrava ==
 
-(TODO)
+L35 - Dragon Breath
+L39 - Earth Power
+L44 - Sandstorm
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM51 - Steel Wing
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM02 - Fly
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Victini ==
@@ -4643,7 +4703,9 @@ TM - Thunderbolt
 
 == Zekrom ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Zigzagoon ==
 
@@ -4739,6 +4801,7 @@ Egg - Defog
 == Zweilous ==
 
 (TODO)
+
 Tutor - Draco Meteor
 
 == Zygarde ==

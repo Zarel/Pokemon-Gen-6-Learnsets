@@ -677,6 +677,7 @@ TM - Rock Smash
 TM - Dazzling Gleam
 TM - Confide
 TM - Fly
+Tutor - Draco Meteor
 
 == Amaura ==
 
@@ -1046,6 +1047,8 @@ TM - Strength
 == Arceus ==
 
 (Unreleased)
+
+Tutor - Draco Meteor
 
 == Archen ==
 
@@ -1604,6 +1607,7 @@ TM - Rock Smash
 TM - Confide
 TM - Cut
 TM - Strength
+Tutor - Draco Meteor
 Egg - Razor Wind
 Egg - Counter
 Egg - Harden
@@ -1614,7 +1618,6 @@ Egg - Iron Tail
 Egg - Endeavor
 Egg - Night Slash
 Egg - Dragon Pulse
-Tutor - Draco Meteor
 
 == Azelf ==
 
@@ -1728,10 +1731,37 @@ L? - Leer
 L5 - Bite
 L20 - Focus Energy
 L25 - Ember
-TM - Hone Claws
-TM - Protect
-TM - Return
-TM - Cut
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
+Tutor - Draco Meteor
 Egg - Thrash
 Egg - Hydro Pump
 Egg - Dragon Rage

@@ -58,7 +58,9 @@ Egg - Bestow
 
 == Palkia ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Palpitoad ==
 
@@ -1826,7 +1828,9 @@ Egg - Final Gambit
 
 == Rayquaza ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Regice ==
 
@@ -1906,7 +1910,6 @@ Egg - Zen Headbutt
 
 == Remoraid ==
 
-
 Start - Water Gun
 L6 - Lock-On
 L10 - Psybeam
@@ -1932,7 +1935,9 @@ Egg - Acid Spray
 
 == Reshiram ==
 
-(TODO)
+(Unreleased)
+
+Tutor - Draco Meteor
 
 == Reuniclus ==
 
