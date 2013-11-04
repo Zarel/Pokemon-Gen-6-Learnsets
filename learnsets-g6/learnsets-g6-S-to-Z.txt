@@ -1618,7 +1618,6 @@ Egg - After You
 
 Start - Tackle
 Start - Bubble
-Start - Draco Meteor
 Lv5 - Absorb
 Lv9 - Protect
 Lv13 - Bide
