@@ -2469,6 +2469,9 @@ Egg - Muddy Water
 Egg - Brine
 Egg - Aqua Ring
 Egg - Aqua Jet
+Egg - Aura Sphere
+Egg - Dragon Pulse
+Egg - Flash Cannon
 
 == Stantler ==
 
