@@ -2257,11 +2257,18 @@ HM04 - Strength
 
 == Flabebe ==
 
-L? - Fairy Wind
-L? - Tackle
-L? - Vine Whip
+L1 - Tackle
+L1 - Vine Whip
+L6 - Fairy Wind
 L10 - Lucky Chant
 L15 - Razor Leaf
+L20 - Wish
+L22 - Magical Leaf
+L24 - Grassy Terrain
+L28 - Petal Blizzard
+L33 - Aromatherapy
+L37 - Misty Terrain
+L41 - Moonblast
 TM - SolarBeam
 TM - Toxic
 TM - Psychic
