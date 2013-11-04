@@ -486,7 +486,7 @@ HM01 - Cut
 == Kecleon ==
 
 L1 - Tail Whip
-L1  Astonish
+L1 - Astonish
 L1 - Lick
 L1 - Scratch
 L4 - Bind
@@ -782,7 +782,7 @@ TM - Strength
 == Krookodile ==
 
 L1 - Outrage
-L1 - Leet
+L1 - Leer
 L1 - Bite
 L1 - Rage
 L48 - Sandstorm
