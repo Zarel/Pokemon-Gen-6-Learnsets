@@ -14,8 +14,6 @@ string = function(str) {
 }
 require("sugar");
 fs = require("fs");
-fs.exists = require("path").exists;
-fs.existsSync = require("path").existsSync;
 
 var Tools = require('./tools.js');
 var Learnsets = Tools.data.Learnsets;
