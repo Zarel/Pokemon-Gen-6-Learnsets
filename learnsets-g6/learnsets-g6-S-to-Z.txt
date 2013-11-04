@@ -1173,7 +1173,7 @@ HM04 - Strength
 
 == Shuppet ==
 
-L1 - Knock Off
+Start - Knock Off
 L4 - Screech
 L7 - Night Shade
 L10 - Spite
@@ -2447,14 +2447,46 @@ Egg - Disable
 
 == Squirtle ==
 
-L? - Tackle
-L? - Tail Whip
-L? - Bite
-L? - Water Gun
-L? - Withdraw
-L? - Bubble
-L? - Rapid Spin
-L? - Water Pulse
+Start - Tackle
+Start - Tail Whip
+L7 - Water Gun
+L10 - Withdraw
+L13 - Bubble
+L16 - Bite
+L28 - Aqua Tail
+L31 - Skull Bash
+L34 - Iron Defense
+L37 - Rain Dance
+L40 - Hydro Pump
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM56 - Fling
+TM74 - Gyro Ball
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Egg - Mist
 Egg - Haze
 Egg - Flail
@@ -3258,7 +3290,15 @@ HM02 - Fly
 
 == Torchic ==
 
-L? - Scratch
+Start - Scratch
+Start - Growl
+L7 - Focus Energy
+L10 - Ember
+L16 - Peck
+L19 - Sand Attack
+L25 - Fire Spin
+L28 - Quick Attack
+L34 - Slash
 Egg - Low Kick
 Egg - Counter
 Egg - Agility
@@ -3266,7 +3306,7 @@ Egg - Curse
 Egg - Reversal
 Egg - Endure
 Egg - Baton Pass
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - FeatherDance
 Egg - Crush Claw
 Egg - Feint
@@ -4139,7 +4179,57 @@ Egg - Soak
 
 == Wartortle ==
 
-(TODO)
+Start - Tackle
+Start - Tail Whip
+L7 - Water Gun
+L10 - Withdraw
+L13 - Bubble
+L16 - Bite
+L20 - Rapid Spin
+L24 - Protect
+L28 - Water Pulse
+L32 - Aqua Tail
+L36 - Skull Bash
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM68 - Giga Impact
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Watchog ==
 
@@ -4273,6 +4363,7 @@ Egg - Water Sport
 Egg - Roost
 Egg - Brine
 Egg - Aqua Ring
+Egg - Wide Guard
 
 == Wobbuffet ==
 

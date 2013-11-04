@@ -157,6 +157,7 @@ Egg - Ice Ball
 Egg - Ice Shard
 Egg - Bestow
 Egg - Freeze-Dry
+Egg - Destiny Bond
 
 == Delphox ==
 
@@ -1503,6 +1504,34 @@ L41 - Discharge
 L44 - Charge
 L49 - Wild Charge
 L52 - Thunder
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM35 - Flamethrower
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM95 - Snarl
+TM100 - Confide
+HM04 - Strength
 Egg - Headbutt
 Egg - Swift
 Egg - Curse
@@ -1516,6 +1545,7 @@ Egg - Fire Fang
 Egg - Discharge
 Egg - Flame Burst
 Egg - Electro Ball
+Egg - Eerie Impulse
 
 == Electrode ==
 
@@ -2179,6 +2209,11 @@ Egg - Aqua Tail
 
 == Flaaffy ==
 
+Start - Tackle
+Start - Growl
+L4 - Thunder Wave
+L8 - Thunder Shock
+L11 - Cotton Spore
 L16 - Charge
 L20 - Take Down
 L25 - Electro Ball
@@ -3102,13 +3137,11 @@ Start - Stored Power
 Start - Misty Terrain
 Start - Healing Wish
 Start - Growl
-Start - Confusion
-Start - Double Team
-Start - Teleport
+Start - Wish
 L6 - Confusion
 L10 - Double Team
 L12 - Teleport
-L17 - Wish
+L17 - Lucky Chant
 L22 - Magical Leaf
 L25 - Heal Pulse
 L33 - Calm Mind
@@ -4827,13 +4860,13 @@ Egg - Glare
 
 == Heracross ==
 
+Start - Arm Thrust
+Start - Bullet Seed
+Start - Night Slash
 Start - Tackle
 Start - Leer
 Start - Endure
 Start - Horn Attack
-L? - Arm Thrust
-L? - Bullet Seed
-L? - Night Slash
 L7 - Fury Attack
 L10 - Aerial Ace
 L16 - Chip Away
@@ -5176,10 +5209,16 @@ Egg - Clear Smog
 
 == Houndoom ==
 
-L? - Inferno
-L? - Nasty Plot
-L? - Thunder Fang
-L? - Foul Play
+Start - Inferno
+Start - Nasty Plot
+Start - Thunder Fang
+Start - Leer
+Start - Ember
+L4 - Howl
+L8 - Smog
+L13 - Roar
+L16 - Bite
+L20 - Odor Sleuth
 L26 - Beat Up
 L30 - Fire Fang
 L35 - Feint Attack
@@ -5282,6 +5321,7 @@ Egg - Sucker Punch
 Egg - Nasty Plot
 Egg - Thunder Fang
 Egg - Fire Fang
+Egg - Destiny Bond
 
 == Huntail ==
 

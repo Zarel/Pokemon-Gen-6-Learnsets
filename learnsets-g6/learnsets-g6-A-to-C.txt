@@ -292,6 +292,11 @@ TM - Confide
 
 == Aerodactyl ==
 
+L? - Iron Head
+L? - Ice Fang
+L? - Fire Fang
+L? - Thunder Fang
+L? - Wing Attack
 L? - Bite
 L? - Scary Face
 L? - Roar
@@ -356,6 +361,7 @@ Egg - Pursuit
 Egg - Roost
 Egg - Tailwind
 Egg - Assurance
+Egg - Wide Guard
 
 == Aggron ==
 
@@ -1743,8 +1749,59 @@ TM - Psychic
 
 == Banette ==
 
+Start - Knock Off
+L4 - Screech
+L7 - Night Shade
+L10 - Spite
+L13 - Will-O-Wisp
+L16 - Shadow Sneak
+L22 - Feint Attack
+L26 - Hex
+L30 - Shadow Ball
+L34 - Sucker Punch
 L40 - Embargo
 L46 - Snatch
+L52 - Grudge
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM65 - Shadow Claw
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM83 - Infestation
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Barbaracle ==
 
@@ -3191,18 +3248,19 @@ Egg - Seismic Toss
 
 == Charizard ==
 
-L? - Scratch
-L? - Growl
-L? - Ember
-L? - Smokescreen
-L? - Dragon Rage
-L? - Heat Wave
-L? - Air Slash
-L? - Shadow Claw
-L? - Dragon Claw
-L? - Flame Burst
-L? - Fire Fang
-L? - Scary Face
+Start - Flare Blitz
+Start - Heat Wave
+Start - Dragon Claw
+Start - Shadow Claw
+Start - Air Slash
+Start - Growl
+Start - Scratch
+L7 - Ember
+L10 - Smokescreen
+L16 - Dragon Rage
+L21 - Scary Face
+L28 - Fire Fang
+L32 - Flame Burst
 L36 - Wing Attack
 L41 - Slash
 L47 - Flamethrower
@@ -3260,14 +3318,11 @@ TM - Confide
 
 == Charmander ==
 
-L? - Growl
-L? - Scratch
+Start - Growl
+Start - Scratch
 L7 - Ember
 L10 - Smokescreen
 L16 - Dragon Rage
-L21 - Scary Face
-L28 - Fire Fang
-L32 - Flame Burst
 TM - Rock Tomb
 TM - Rest
 TM - Swords Dance
@@ -3290,9 +3345,18 @@ Egg - Dragon Rush
 
 == Charmeleon ==
 
+Start - Growl
+Start - Scratch
+L7 - Ember
+L10 - Smokescreen
+L16 - Dragon Rage
 L21 - Scary Face
 L28 - Fire Fang
 L32 - Flame Burst
+L39 - Slash
+L43 - Flamethrower
+L50 - Fire Spin
+L54 - Inferno
 TM - Rock Tomb
 TM - Rest
 TM - Swords Dance
