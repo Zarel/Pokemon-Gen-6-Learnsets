@@ -66,13 +66,13 @@ HM01 - Cut
 
 == Salamence ==
 
-L? - Double-Edge
-L? - Fire Fang
-L? - Thunder Fang
-L? - Rage
-L? - Bite
-L? - Leer
-L? - Headbutt
+L1 - Double-Edge
+L1 - Fire Fang
+L1 - Thunder Fang
+L1 - Rage
+L1 - Bite
+L1 - Leer
+L1 - Headbutt
 L5 - Bite
 L10 - Leer
 L16 - Headbutt
@@ -121,6 +121,7 @@ TM100 - Confide
 HM01 - Cut
 HM02 - Fly
 HM04 - Strength
+Tutor - Draco Meteor
 
 == Samurott ==
 
@@ -581,7 +582,6 @@ HM04 - Strength
 
 == Scraggy ==
 
-
 Start - Low Kick
 Start - Leer
 L5 - Sand Attack
@@ -905,22 +905,23 @@ TM - Substitute
 == Shelgon ==
 
 (TODO)
+Tutor - Draco Meteor
 
 == Shellder ==
 
-Level 1 - Tackle
-Level 1 - Rock Blast
-Level 4 - Withdraw
-Level 8 - Supersonic
-Level 13 - Icicle Spear
-Level 16 - Protect
-Level 20 - Leer
-Level 25 - Clamp
-Level 28 - Ice Shard
-Level 32 - Razor Shell
-Level 49 - Iron Defense
-Level 52 - Ice Beam
-Level 56 - Shell Smash
+L1 - Tackle
+L1 - Rock Blast
+L4 - Withdraw
+L8 - Supersonic
+L13 - Icicle Spear
+L16 - Protect
+L20 - Leer
+L25 - Clamp
+L28 - Ice Shard
+L32 - Razor Shell
+L49 - Iron Defense
+L52 - Ice Beam
+L56 - Shell Smash
 Egg - Take Down
 Egg - Twineedle
 Egg - BubbleBeam
@@ -3684,6 +3685,7 @@ Egg - Dragon Dance
 Egg - Ice Fang
 Egg - Thunder Fang
 Egg - Poison Fang
+Tutor - Draco Meteor
 
 == Tyrogue ==
 
@@ -3752,6 +3754,7 @@ Egg - Dragon Dance
 Egg - Ice Fang
 Egg - Thunder Fang
 Egg - Poison Fang
+Tutor - Draco Meteor
 
 == Umbreon ==
 
@@ -3937,6 +3940,7 @@ TM - Roost
 == Vibrava ==
 
 (TODO)
+Tutor - Draco Meteor
 
 == Victini ==
 
@@ -4735,6 +4739,7 @@ Egg - Defog
 == Zweilous ==
 
 (TODO)
+Tutor - Draco Meteor
 
 == Zygarde ==
 
@@ -4786,4 +4791,5 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+Tutor - Draco Meteor
 
