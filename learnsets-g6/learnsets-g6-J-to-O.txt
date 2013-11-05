@@ -1070,6 +1070,7 @@ Egg - Tickle
 Egg - Dragon Dance
 Egg - Dragon Pulse
 Egg - Avalanche
+Egg - Freeze Dry
 
 == Larvesta ==
 
