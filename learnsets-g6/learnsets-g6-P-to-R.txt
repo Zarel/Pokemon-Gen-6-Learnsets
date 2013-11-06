@@ -64,7 +64,36 @@ Tutor - Draco Meteor
 
 == Palpitoad ==
 
-(TODO)
+L28 - Muddy Water
+L33 - Rain Dance
+L37 - Flail
+L42 - Echoed Voice
+L47 - Hydro Pump
+L51 - Hyper Voice
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Façade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM55 - Scald
+TM78 - Bulldoze
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM03 - Surf
 
 == Pancham ==
 
@@ -496,6 +525,44 @@ TM - Confide
 == Patrat ==
 
 Start - Tackle
+L3 - Leer
+L6 - Bite
+L8 - Bide
+L11 - Detect
+L13 - Sand Attack
+L16 - Crunch
+L18 - Hypnosis
+L21 - Superfang
+L23 - After you
+L26 - Work Up
+L28 - Hyper Fang
+L31 - Mean Look
+L33 - Baton Pass
+L36 - Slam
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM67 - Retaliate
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM01 - Cut
 Egg - Screech
 Egg - Flail
 Egg - Foresight
@@ -506,12 +573,20 @@ Egg - Assurance
 
 == Pawniard ==
 
-L? - Scary Face
-L? - Metal Claw
-L? - Slash
-L? - Assurance
+L1 - Scratch
+L6 - Leer
+L9 - Fury Cutter
+L14 - Torment
+L17 - Feint Attack
+L22 - Scary Face
+L25 - Metal Claw
+L30 - Slash
+L35 - Assurance
 L38 - Metal Sound
 L41 - Embargo
+L46 - Iron Defense
+L49 - Night Slash
+L54 - Iron Head
 TM - Hone Claws
 TM - Toxic
 TM - Hidden Power
@@ -564,7 +639,62 @@ Egg - Stealth Rock
 
 == Pelipper ==
 
-(TODO)
+L? - Hydro Pump
+L? - Tailwind
+L? - Soak
+L? - Payback
+L? - Water Sport
+L? - Growl
+L? - Water Gun
+L? - Supersonic
+L? - Wing Attack
+L? - Mist
+L? - Water Pulse
+L? - Quick Attack
+L25 - Protect
+L28 - Roost
+L34 - Brine
+L39 - Stockpile
+L39 - Swallow
+L39 - Spit Up
+L46 - Fling
+L52 - Tailwind
+L58 - Hydro Pump
+L63 - Hurricane
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM55 - Scald
+TM56 - Fling
+TM58 - Sky Drop
+TM66 - Payback
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
+HM03 - Surf
+
+
 
 == Persian ==
 
@@ -754,6 +884,8 @@ Egg - Bestow
 Start - Hurricane
 L37 - Wing Attack
 L44 - Roost
+L50 - Tailwind
+L56 - Mirror Move
 TM - Toxic
 TM - Hidden Power
 TM - Sunny Day
@@ -784,6 +916,8 @@ TM - Fly
 L22 - Twister
 L27 - Feather Dance
 L32 - Agility
+L37 - Wing Attack
+L42 - Roost
 TM - Toxic
 TM - Hidden Power
 TM - Sunny Day
@@ -809,11 +943,20 @@ TM - Fly
 
 == Pidgey ==
 
-Start - Tackle
+L1 - Tackle
 L5 - Sand Attack
 L9 - Gust
 L13 - Quick Attack
 L17 - Whirlwind
+L21 - Twister
+L25 - Featherdance
+L29 - Agility
+L33 - Wing Attack
+L37 - Roost
+L41 - Tailwind
+L45 - Mirror Move
+L49 - Air Slash
+L53 - Hurricane
 TM - Fly
 TM - Toxic
 TM - Double Team
@@ -911,10 +1054,24 @@ TM - Confide
 
 == Piloswine ==
 
+L? - Ancient Power
+L? - Peck
+L? - Tackle
+L? - Odor Sleuth
+L? - Mud Sport
+L? - Powder Snow
+L? - Mud-Slap
+L? - Endure
+L? - Mud Bomb
+L? - Icy Wind
 L? - Ice Fang
-L? - Fury Attack
 L? - Take Down
-L? - Mist
+L33 - Fury Attack
+L37 - Mist
+L41 - Thrash
+L46 - Earthquake
+L52 - Blizzard
+L58 - Amnesia
 TM05 - Roar
 TM06 - Toxic
 TM07 - Hail
@@ -964,12 +1121,21 @@ Egg - Stealth Rock
 
 == Pinsir ==
 
-Lv<25 - Harden
-Lv<25 - Revenge
-Lv<25 - Brick Break
-Lv<25 - Vital Throw
-Lv<30 - Submission
-Lv<30 - X-Scissor
+L1 - Vice Grip
+L1 - Focus Energy
+L4 - Bind
+L8 - Seismic Toss
+L11 - Harden
+L15 - Revenge
+L18 - Brick Break
+L22 - Vital Throw
+L26 - Submission
+L29 - X-Scissor
+L33 - Storm Throw
+L36 - Thrash
+L40 - Swords Dance
+L43 - Superpower
+L47 - Guillotine
 TM - Swords Dance
 TM - Cut
 TM - Hyper Beam
@@ -1141,6 +1307,30 @@ L31 - Belly Drum
 L35 - Wake-up Slap
 L38 - Hydro Pump
 L41 - Mud Bomb
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM55 - Scald
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Egg - Mist
 Egg - BubbleBeam
 Egg - Haze
