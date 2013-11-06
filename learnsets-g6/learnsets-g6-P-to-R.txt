@@ -80,7 +80,7 @@ TM27 - Return
 TM32 - Double Team
 TM34 - Sludge Wave
 TM36 - Sludge Bomb
-TM42 - Façade
+TM42 - Facade
 TM44 - Rest
 TM45 - Attract
 TM48 - Round
