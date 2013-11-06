@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head>
+
+	<title>Convert</title>
+
+	<style>
+
+body, html {
+	height: 90%;
+}
+
+textarea {
+	width: 40%;
+	height: 80%;
+}
+
+	</style>
+
+</head><body>
+
+	<textarea id="in" onchange="change()"></textarea>
+	<textarea id="out"></textarea>
+
+	<script>
+
+function change() {
+	var input = document.getElementById('in').value;
+	var output = input.split('\n').map(function(row) {
+		var cols = row.split('\t');
+		if (cols[0] === '—') return 'Start - '+cols[1];
+		if (/^[0-9]+$/.test(cols[0])) return 'L'+parseInt(cols[0],10)+' - '+cols[1];
+		return '';
+	}).filter(function(row) {
+		return row;
+	}).join('\n')+'\n';
+	document.getElementById('out').value = output;
+}
+
+	</script>
+
+</body></html>
