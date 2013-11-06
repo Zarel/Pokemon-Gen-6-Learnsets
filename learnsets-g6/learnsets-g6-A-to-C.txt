@@ -200,6 +200,7 @@ Egg - Punishment
 Egg - Sucker Punch
 Egg - Zen Headbutt
 Egg - Hex
+Egg - Rough Play
 
 == Accelgor ==
 
@@ -742,6 +743,9 @@ TM - Bulldoze
 TM - Frost Breath
 TM - Dragon Tail
 TM - Confide
+Egg - Discharge
+Egg - Mirror Coat
+Egg - Haze
 
 == Ambipom ==
 
@@ -943,6 +947,7 @@ Egg - Knock Off
 Egg - Iron Defense
 Egg - Water Pulse
 Egg - Cross Poison
+Egg - Aqua Jet
 
 == Arbok ==
 
@@ -1103,6 +1108,7 @@ Egg - Dragon Pulse
 Egg - Earth Power
 Egg - Defog
 Egg - Head Smash
+Egg - Switcheroo
 
 == Archeops ==
 
@@ -1427,6 +1433,7 @@ Egg - Yawn
 Egg - Healing Wish
 Egg - Lucky Chant
 Egg - Bestow
+Egg - Drainng Kiss
 
 == Aurorus ==
 
@@ -2155,6 +2162,7 @@ Egg - Natural Gift
 Egg - Worry Seed
 Egg - Power Whip
 Egg - Clear Smog
+Egg - Belch
 
 == Bergmite ==
 
@@ -2204,6 +2212,7 @@ TM - Round
 TM - Frost Breath
 TM - Confide
 Egg - Mist
+Egg - Mirror Coat
 
 == Bibarel ==
 
@@ -2327,6 +2336,10 @@ TM - Bulldoze
 TM - Infestation
 TM - Confide
 TM - Power-Up Punch
+Egg - Tickle
+Egg - Switcheroo
+Egg - Water Sport
+Egg - Helping Hand
 
 == Bisharp ==
 
@@ -2903,6 +2916,9 @@ TM - Bulldoze
 TM - Wild Charge
 TM - Confide
 TM - Power-Up Punch
+Egg - Defense Curl
+Egg - Roll Out
+Egg - Spikes
 
 == Burmy ==
 
@@ -3163,6 +3179,7 @@ Egg - Hydro Pump
 Egg - Swift
 Egg - Ancient Power
 Egg - Brine
+Egg - Destiny Bond
 
 == Cascoon ==
 
@@ -3839,6 +3856,8 @@ TM - Round
 TM - Scald
 TM - Confide
 Egg - Crabhammer
+Egg - Helping Hand
+Egg - Enttertainment
 
 == Clawitzer ==
 
@@ -4035,6 +4054,7 @@ Egg - Tickle
 Egg - Covet
 Egg - Stored Power
 Egg - Heal Pulse
+Egg - Misty Terrain
 
 == Cloyster ==
 
@@ -4206,6 +4226,8 @@ Egg - Mud Sport
 Egg - Dragon Dance
 Egg - Trump Card
 Egg - Chip Away
+Egg - Aqua Jet
+Egg - Switcheroo
 
 == Corsola ==
 
@@ -4511,6 +4533,7 @@ Egg - Endure
 Egg - Ancient Power
 Egg - Iron Head
 Egg - Chip Away
+Egg - Rough Play
 
 == Cyndaquil ==
 
