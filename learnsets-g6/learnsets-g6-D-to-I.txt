@@ -74,6 +74,7 @@ TM - Wild Charge
 TM - Confide
 Egg - Helping Hand
 Egg - Covet
+Egg - Eerie Impulse
 
 == Deerling ==
 
@@ -174,6 +175,7 @@ Egg - Ice Shard
 Egg - Bestow
 Egg - Freeze-Dry
 Egg - Destiny Bond
+Egg - Spikes
 
 == Delphox ==
 
@@ -1082,6 +1084,7 @@ Egg - Air Cutter
 Egg - Brine
 Egg - Lucky Chant
 Egg - Me First
+Egg - Mud Sport
 
 == Dugtrio ==
 
@@ -1805,6 +1808,8 @@ TM - Echoed Voice
 TM - Confide
 Egg - Trick
 Egg - Yawn
+Egg - Assist
+Egg - Barrier
 
 == Excadrill ==
 
@@ -1879,6 +1884,7 @@ Egg - Natural Gift
 Egg - Lucky Chant
 Egg - Power Swap
 Egg - Leaf Storm
+Egg - Grassy Terrain
 
 == Exeggutor ==
 
@@ -2115,6 +2121,8 @@ TM - Confide
 TM - Power-Up Punch
 Egg - Wish
 Egg - Hypnosis
+Egg - Heat Wave
+Egg - Magic Coat
 
 == Feraligatr ==
 
@@ -2459,6 +2467,7 @@ TM - Flame Charge
 TM - Round
 TM - Acrobatics
 TM - Confide
+Egg - Quick Guard
 
 == Floatzel ==
 
@@ -2771,6 +2780,8 @@ TM - Power-Up Punch
 Egg - Toxic Spikes
 Egg - Water Sport
 Egg - Camouflage
+Egg - Mud Sport
+Egg - Mind Reader
 
 == Frogadier ==
 
@@ -2882,6 +2893,10 @@ TM - Retaliate
 TM - Wild Charge
 TM - Snarl
 TM - Confide
+Egg - Mimic
+Egg - Captivate
+Egg - Refresh
+Egg - Work Up
 
 == Furret ==
 
@@ -3919,6 +3934,9 @@ TM - Confide
 Tutor - Draco Meteor
 Egg - Poison Tail
 Egg - Iron Tail
+Egg - Curse
+Egg - Acid Armor
+Egg - Counter
 
 == Gorebyss ==
 
@@ -4697,6 +4715,8 @@ TM - Power-Up Punch
 Egg - Quick Guard
 Egg - Baton Pass
 Egg - Entrainment
+Egg - Me First
+Egg - Ally Switch
 
 == Haxorus ==
 
@@ -4802,6 +4822,7 @@ Egg - Heat Wave
 Egg - Tickle
 Egg - Sucker Punch
 Egg - Night Slash
+Egg - Belch
 
 == Heatran ==
 
@@ -4912,6 +4933,7 @@ TM - Confide
 Egg - Camouflage
 Egg - Agility
 Egg - Glare
+
 
 == Heracross ==
 
@@ -5508,6 +5530,7 @@ Egg - Gravity
 Egg - Punishment
 Egg - Last Resort
 Egg - Captivate
+Egg - Misty Terrain
 
 == Illumise ==
 
@@ -5633,6 +5656,7 @@ Egg - Embargo
 Egg - Dark Pulse
 Egg - Destiny Bond
 Egg - Camouflage
+Egg - Power Split
 
 == Ivysaur ==
 
