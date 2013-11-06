@@ -89,6 +89,21 @@ Egg - Worry Seed
 
 == Deino ==
 
+Start - Tackle
+Start - Dragon Rage
+L4 - Focus Energy
+L9 - Bite
+L12 - Headbutt
+L17 - Dragon Breath
+L20 - Roar
+L25 - Crunch
+L28 - Slam
+L32 - Dragon Pulse
+L38 - Work Up
+L42 - Dragon Rush
+
+(TM moves missing)
+
 Tutor - Draco Meteor
 Egg - Screech
 Egg - Astonish
@@ -2356,11 +2371,21 @@ TM - Confide
 
 == Fletchinder ==
 
+Start - Tackle
+Start - Growl
+L6 - Quick Attack
+L10 - Peck
+L13 - Agility
+L16 - Flail
 L17 - Ember
 L25 - Roost
 L27 - Razor Wind
 L31 - Natural Gift
 L39 - Flame Charge
+L42 - Acrobatics
+L46 - Me First
+L51 - Tailwind
+L55 - Steel Wing
 TM - Swords Dance
 TM - Fly
 TM - Flamethrower
@@ -5359,22 +5384,22 @@ Egg - Destiny Bond
 
 == Hydreigon ==
 
-L? - Outrage
-L? - Hyper Voice
-L? - Tri Attack
-L? - Dragon Rage
-L? - Focus Energy
-L? - Bite
-L? - Headbutt
-L? - Dragon Breath
-L? - Roar
-L? - Crunch
-L? - Slam
-L? - Dragon Pulse
-L? - Work Up
-L? - Dragon Rush
-L? - Body Slam
-L? - Scary Face
+Start - Outrage
+Start - Hyper Voice
+Start - Tri Attack
+Start - Dragon Rage
+L4 - Focus Energy
+L9 - Bite
+L12 - Headbutt
+L17 - Dragon Breath
+L20 - Roar
+L25 - Crunch
+L28 - Slam
+L32 - Dragon Pulse
+L38 - Work Up
+L42 - Dragon Rush
+L48 - Body Slam
+L55 - Scary Face
 L68 - Hyper Voice
 TM05 - Roar
 TM06 - Toxic

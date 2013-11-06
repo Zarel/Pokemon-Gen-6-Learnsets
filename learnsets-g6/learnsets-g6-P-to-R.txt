@@ -1121,8 +1121,8 @@ Egg - Stealth Rock
 
 == Pinsir ==
 
-L1 - Vice Grip
-L1 - Focus Energy
+Start - Vice Grip
+Start - Focus Energy
 L4 - Bind
 L8 - Seismic Toss
 L11 - Harden
@@ -1602,6 +1602,14 @@ Egg - Disable
 
 == Pupitar ==
 
+Start - Bite
+Start - Leer
+L5 - Sandstorm
+L10 - Screech
+L14 - Chip Away
+L19 - Rock Slide
+L23 - Scary Face
+L28 - Thrash
 L34 - Dark Pulse
 L41 - Payback
 L47 - Crunch

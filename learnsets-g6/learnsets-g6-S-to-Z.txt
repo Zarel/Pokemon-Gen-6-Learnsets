@@ -2731,7 +2731,7 @@ L? - Belch
 
 == Swampert ==
 
-(TODO)
+(Unreleased)
 
 == Swanna ==
 
@@ -2813,21 +2813,21 @@ Egg - Copycat
 
 == Sylveon ==
 
-L? - Sand Attack
-L? - Tackle
-L? - Tail Whip
-L? - Quick Attack
-L? - Light Screen
-L? - Swift
-L? - Psych Up
-L? - Helping Hand
-L? - Skill Swap
-L? - Last Resort
+Start - Disarming Voice
+Start - Tail Whip
+Start - Tackle
+Start - Helping Hand
+L5 - Sand Attack
+L9 - Fairy Wind
+L13 - Quick Attack
+L17 - Swift
 L20 - Draining Kiss
-L? - Fairy Wind
-L? - Moonblast
-L? - Disarming Voice
-L? - Misty Terrain
+L25 - Skill Swap
+L29 - Misty Terrain
+L33 - Light Screen
+L37 - Moonblast
+L41 - Last Resort
+L45 - Psych Up
 TM - Cut
 TM - Hyper Beam
 TM - Dig
@@ -2876,23 +2876,24 @@ Egg - Defog
 
 == Talonflame ==
 
-L? - Razor Wind
-L? - Tackle
-L? - Growl
-L? - Ember
-L? - Peck
-L? - Agility
-L? - Quick Attack
-L? - Flail
-L? - Steel Wing
-L? - Roost
-L? - Natural Gift
-L? - Tailwind
-L? - Me First
-L? - Flare Blitz
-L? - Brave Bird
-L? - Flame Charge
-L? - Acrobatics
+Start - Brave Bird
+Start - Flare Blitz
+Start - Tackle
+Start - Growl
+L6 - Quick Attack
+L10 - Peck
+L13 - Agility
+L16 - Flail
+L17 - Ember
+L25 - Roost
+L27 - Razor Wind
+L31 - Natural Gift
+L39 - Flame Charge
+L44 - Acrobatics
+L49 - Me First
+L55 - Tailwind
+L60 - Steel Wing
+L64 - Brave Bird
 TM - Swords Dance
 TM - Fly
 TM - Flamethrower
@@ -3596,12 +3597,24 @@ L? - Spark
 
 == Tyranitar ==
 
-L? - Fire Fang
-L? - Thunder Fang
-L? - Ice Fang
-L63 - Stone Edge
-L73 - Hyper Beam
-L82 - Giga Impact
+Start - Fire Fang
+Start - Thunder Fang
+Start - Ice Fang
+Start - Bite
+Start - Leer
+L5 - Sandstorm
+L10 - Screech
+L14 - Chip Away
+L19 - Rock Slide
+L23 - Scary Face
+L28 - Thrash
+Lv34 - Dark Pulse
+Lv41 - Payback
+Lv47 - Crunch
+Lv54 - Earthquake
+Lv63 - Stone Edge
+Lv73 - Hyper Beam
+Lv82 - Giga Impact
 TM01 - Hone Claws
 TM02 - Dragon Claw
 TM05 - Roar
@@ -4799,8 +4812,47 @@ Egg - Defog
 
 == Zweilous ==
 
-(TODO)
-
+Start - Dragon Rage
+L4 - Focus Energy
+L9 - Bite
+L12 - Headbutt
+L17 - Dragon Breath
+L20 - Roar
+L25 - Crunch
+L28 - Slam
+L32 - Dragon Pulse
+L38 - Work Up
+L42 - Dragon Rush
+L48 - Body Slam
+L55 - Scary Face
+L64 - Hyper Voice
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM59 - Incinerate
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Zygarde ==
