@@ -114,7 +114,7 @@ TM73 - Thunder Wave
 TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
-TM93 - Wild Charge
+TM93 - Wild Chargek
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
@@ -685,6 +685,8 @@ TM - Psyshock
 TM - Round
 TM - Dazzling Gleam
 TM - Confide
+Egg - Iron Defense
+Egg - Lock On
 
 == Klink ==
 
@@ -1426,6 +1428,7 @@ Egg - smellingsalts
 Egg - Muddy Water
 Egg - Hammer Arm
 Egg - Zen Headbutt
+Egg - Belch
 
 == Liepard ==
 
@@ -1554,6 +1557,10 @@ TM - Bulldoze
 TM - Wild Charge
 TM - Snarl
 TM - Confide
+Egg - Yawn
+Egg - Entrainment
+Egg - Snatch
+Egg - Fire Spin
 
 == Litwick ==
 
@@ -2393,6 +2400,8 @@ Egg - Flatter
 Egg - Charge
 Egg - Odor Sleuth
 Egg - After You
+Egg - Eerie Impulse
+Egg - Electric Terrain
 
 == Marill ==
 
@@ -2408,6 +2417,7 @@ Egg - Refresh
 Egg - Muddy Water
 Egg - Water Sport
 Egg - Aqua Jet
+Egg - Camouflage
 
 == Marowak ==
 
@@ -2586,6 +2596,8 @@ Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
 Egg - Captivate
+Egg - Seismic Toss
+Egg - Misty Terrain
 
 == Medicham ==
 
@@ -2606,6 +2618,7 @@ Egg - Guard Swap
 Egg - Drain Punch
 Egg - Bullet Punch
 Egg - Psycho Cut
+Egg - Quick Guard
 
 == Meganium ==
 
@@ -3174,6 +3187,7 @@ Egg - Baton Pass
 Egg - Helping Hand
 Egg - Magic Coat
 Egg - Secret Power
+Egg - Healing Wish
 
 == Murkrow ==
 
@@ -3234,6 +3248,7 @@ Egg - Iron Tail
 Egg - Beat Up
 Egg - Poison Tail
 Egg - Chip Away
+Egg - Venom Drench
 
 == Nidoran-M ==
 
@@ -3250,6 +3265,7 @@ Egg - Poison Tail
 Egg - Sucker Punch
 Egg - Head Smash
 Egg - Chip Away
+Egg - Venom Drench
 
 == Nidorina ==
 
@@ -3375,6 +3391,7 @@ TM - Acrobatics
 TM - Wild Charge
 TM - Confide
 Tutor - Draco Meteor
+Egg - Switcheroo
 Egg - Switcheroo
 
 == Noivern ==
