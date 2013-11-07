@@ -2953,6 +2953,54 @@ TM - Confide
 
 == Tangela ==
 
+Start - Ingrain
+Start - Constrict
+L4 - Sleep Powder
+L7 - Vine Whip
+L10 - Absorb
+L14 - Poison Powder
+L17 - Bind
+L20 - Growth
+L23 - Mega Drain
+L27 - Knock Off
+L30 - Stun Spore
+L33 - Natural Gift
+L36 - Giga Drain
+L38 - Ancient Power
+L41 - Slam
+L44 - Tickle
+L46 - Wring Out
+L48 - Grassy Terrain
+L50 - Power Whip
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM77 - Psych Up
+TM83 - Infestation
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
 Egg - Mega Drain
 Egg - Leech Seed
 Egg - Confusion
@@ -2968,7 +3016,68 @@ Egg - Rage Powder
 
 == Tangrowth ==
 
-(TODO)
+Start - Block
+Start - Ingrain
+Start - Constrict
+L4 - Sleep Powder
+L7 - Vine Whip
+L10 - Absorb
+L14 - Poison Powder
+L17 - Bind
+L20 - Growth
+L23 - Mega Drain
+L27 - Knock Off
+L30 - Stun Spore
+L33 - Natural Gift
+L36 - Giga Drain
+L40 - Ancient Power
+L43 - Slam
+L46 - Tickle
+L49 - Wring Out
+L50 - Grassy Terrain
+L53 - Power Whip
+L56 - Block
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM36 - Sludge Bomb
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM56 - Fling
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM83 - Infestation
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Tauros ==
 
