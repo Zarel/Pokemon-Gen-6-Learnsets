@@ -114,7 +114,7 @@ TM73 - Thunder Wave
 TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
-TM93 - Wild Chargek
+TM93 - Wild Charge
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength

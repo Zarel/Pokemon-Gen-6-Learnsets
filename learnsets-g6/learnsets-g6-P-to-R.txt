@@ -737,7 +737,7 @@ Egg - Endeavor
 Egg - Ice Shard
 Egg - Head Smash
 Egg - Heavy Slam
-Egg - Rough Play
+Egg - Play Rough
 
 == Phantump ==
 
@@ -1431,7 +1431,7 @@ Egg - Sucker Punch
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
-Egg - Rough Play
+Egg - Play Rough
 
 == Porygon ==
 

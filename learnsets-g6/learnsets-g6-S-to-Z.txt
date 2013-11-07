@@ -2638,7 +2638,7 @@ Egg - Astonish
 Egg - Punishment
 Egg - Flame Burst
 Egg - Foul Play
-Egg - Rough Play
+Egg - Play Rough
 
 == Sudowoodo ==
 
@@ -2988,7 +2988,7 @@ Egg - Fake Tears
 Egg - Close Combat
 Egg - Night Slash
 Egg - Chip Away
-Egg - Rough Play
+Egg - Play Rough
 
 == Tentacool ==
 
