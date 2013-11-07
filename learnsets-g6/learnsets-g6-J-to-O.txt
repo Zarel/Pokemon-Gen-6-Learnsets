@@ -1424,7 +1424,7 @@ Egg - Curse
 Egg - Belly Drum
 Egg - Sleep Talk
 Egg - Magnitude
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Muddy Water
 Egg - Hammer Arm
 Egg - Zen Headbutt
@@ -1941,7 +1941,7 @@ Egg - Rolling Kick
 Egg - Counter
 Egg - Meditate
 Egg - Encore
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Knock Off
 Egg - Tickle
 Egg - Close Combat
@@ -2307,7 +2307,7 @@ Egg - Sleep Talk
 Egg - Encore
 Egg - Beat Up
 Egg - Focus Punch
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Revenge
 Egg - Close Combat
 
@@ -3021,10 +3021,11 @@ Egg - Low Kick
 Egg - Endure
 Egg - Baton Pass
 Egg - Vital Throw
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Knock Off
 Egg - Feint
 Egg - Me First
+Egg - Ally Switch
 
 == Mienshao ==
 
@@ -3175,6 +3176,7 @@ Egg - Pursuit
 Egg - Natural Gift
 Egg - Zen Headbutt
 Egg - After You
+Egg - Belch
 
 == Munna ==
 
@@ -3549,6 +3551,7 @@ Egg - Muddy Water
 Egg - Water Pulse
 Egg - Wring Out
 Egg - Toxic Spikes
+Egg - Reflect Type
 
 == Omastar ==
 

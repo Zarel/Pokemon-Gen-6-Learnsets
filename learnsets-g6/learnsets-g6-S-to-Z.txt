@@ -2372,7 +2372,7 @@ Egg - Baton Pass
 Egg - Encore
 Egg - Rapid Spin
 Egg - Fake Out
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Trick
 Egg - Role Play
 Egg - Wish
@@ -2380,6 +2380,7 @@ Egg - Assist
 Egg - Fake Tears
 Egg - Water Pulse
 Egg - Psycho Cut
+Egg - Psycho Shift
 
 == Spiritomb ==
 
@@ -2623,6 +2624,7 @@ Egg - Astonish
 Egg - Shock Wave
 Egg - Earth Power
 Egg - Eerie Impulse
+Egg - Reflect Type
 
 == Stunky ==
 
@@ -4478,6 +4480,8 @@ Egg - Fake Tears
 Egg - Roost
 Egg - Synchronoise
 Egg - Stored Power
+Egg - Psycho Shift
+Egg - Venom Drench
 
 == Wooper ==
 
@@ -4832,6 +4836,7 @@ Egg - Brave Bird
 Egg - Nasty Plot
 Egg - Zen Headbutt
 Egg - Defog
+Egg - Venom Drench
 
 == Zweilous ==
 

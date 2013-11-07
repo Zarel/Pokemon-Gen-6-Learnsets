@@ -777,6 +777,8 @@ Tutor - Draco Meteor
 
 Start - Wrap
 Start - Leer
+Start - Thunder Wave
+Start - Twister
 L5 - Thunder Wave
 L11 - Twister
 L15 - Dragon Rage
@@ -830,6 +832,8 @@ Start - Thunder Punch
 Start - Roost
 Start - Wrap
 Start - Leer
+Start - Thunder Wave
+Start - Twister
 L5 - Thunder Wave
 L11 - Twister
 L15 - Dragon Rage
@@ -6409,6 +6413,7 @@ Egg - Mud-Slap
 Egg - Destiny Bond
 Egg - Pain Split
 Egg - Gunk Shot
+Egg - Venom Drench
 
 == Gurdurr ==
 

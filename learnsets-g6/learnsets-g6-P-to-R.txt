@@ -295,6 +295,7 @@ Egg - Covet
 Egg - Aqua Ring
 Egg - Aqua Tail
 Egg - Nasty Plot
+Egg - Disarming Voice
 
 == Pansage ==
 
@@ -363,6 +364,7 @@ Egg - Covet
 Egg - Magical Leaf
 Egg - Nasty Plot
 Egg - Leaf Storm
+Egg - Disarming Voice
 
 == Pansear ==
 
@@ -423,6 +425,7 @@ Egg - Astonish
 Egg - Tickle
 Egg - Covet
 Egg - Nasty Plot
+Egg - Disarming Voice
 
 == Paras ==
 

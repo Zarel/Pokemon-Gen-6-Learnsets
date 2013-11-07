@@ -104,6 +104,8 @@ Egg - Skill Swap
 Egg - Power Trick
 Egg - Guard Swap
 Egg - Guard Split
+Egg - Ally Switch
+Egg - Psycho Shift
 
 == Absol ==
 
@@ -3870,7 +3872,7 @@ Egg - Acid
 Egg - Low Kick
 Egg - Counter
 Egg - Dynamic Punch
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Teeter Dance
 Egg - GrassWhistle
 Egg - Block
@@ -3879,6 +3881,7 @@ Egg - Worry Seed
 Egg - Seed Bomb
 Egg - Switcheroo
 Egg - Nasty Plot
+Egg - Belch
 
 == Cacturne ==
 
@@ -4385,6 +4388,8 @@ Start - Shadow Claw
 Start - Air Slash
 Start - Scratch
 Start - Growl
+Start - Ember
+Start - Smokescreen
 L7 - Ember
 L10 - Smokescreen
 L17 - Dragon Rage
@@ -5965,7 +5970,7 @@ Egg - Meditate
 Egg - Dynamic Punch
 Egg - Cross Chop
 Egg - Fake Out
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Wake-Up Slap
 Egg - Feint
 Egg - Acupressure
