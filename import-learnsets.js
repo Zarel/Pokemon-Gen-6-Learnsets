@@ -2,16 +2,6 @@
 // FROM: text in learnsets-g6 
 // TO: PS data/learnsets.js
 
-toId = function(text) {
-        if (text && text.id) text = text.id;
-        else if (text && text.userid) text = text.userid;
-
-        return string(text).toLowerCase().replace(/[^a-z0-9]+/g, '');
-};
-string = function(str) {
-        if (typeof str === 'string' || typeof str === 'number') return ''+str;
-        return '';
-}
 require("sugar");
 fs = require("fs");
 

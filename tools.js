@@ -1,3 +1,15 @@
+global.toId = function(text) {
+        if (text && text.id) text = text.id;
+        else if (text && text.userid) text = text.userid;
+
+        return string(text).toLowerCase().replace(/[^a-z0-9]+/g, '');
+};
+global.string = function(str) {
+        if (typeof str === 'string' || typeof str === 'number') return ''+str;
+        return '';
+};
+var fs = require("fs");
+
 /**
  * Tools
  * Pokemon Showdown - http://pokemonshowdown.com/
