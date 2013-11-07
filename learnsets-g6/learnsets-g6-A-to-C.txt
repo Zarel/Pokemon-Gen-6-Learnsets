@@ -3882,6 +3882,7 @@ Egg - Seed Bomb
 Egg - Switcheroo
 Egg - Nasty Plot
 Egg - Belch
+Egg - Fell Stinger
 
 == Cacturne ==
 

@@ -730,6 +730,7 @@ TM - Bide
 
 == Kricketune ==
 
+L? - Fell Stinger
 TM - Protect
 
 == Krokorok ==
