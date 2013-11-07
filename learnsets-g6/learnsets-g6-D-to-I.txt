@@ -2,8 +2,6 @@
 
 (Unreleased)
 
-TM - Dark Pulse
-
 == Darmanitan ==
 
 (Unreleased)
@@ -40,44 +38,87 @@ L39 - Entrainment
 L42 - Play Rough
 L45 - Thunder
 L50 - Discharge
-TM - Cut
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Aerial Ace
-TM - U-turn
-TM - Fling
-TM - Giga Impact
-TM - Grass Knot
-TM - Charge Beam
-TM - Round
-TM - Retaliate
-TM - Volt Switch
-TM - Wild Charge
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
+HM01 - Cut
 Egg - Helping Hand
 Egg - Covet
 Egg - Eerie Impulse
 
 == Deerling ==
 
+Start - Tackle
+Start - Camouflage
+L4 - Growl
+L7 - Sand Attack
+L10 - Double Kick
+L13 - Leech Seed
+L16 - Feint Attack
+L20 - Take Down
+L24 - Jump Kick
+L28 - Aromatherapy
+L32 - Energy Ball
+L36 - Charm
+L41 - Nature Power
+L46 - Double-Edge
+L51 - Solar Beam
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM67 - Retaliate
+TM70 - Flash
+TM73 - Thunder Wave
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM96 - Nature Power
+TM100 - Confide
 Egg - Agility
 Egg - Sleep Talk
 Egg - Baton Pass
@@ -102,9 +143,37 @@ L28 - Slam
 L32 - Dragon Pulse
 L38 - Work Up
 L42 - Dragon Rush
-
-(TM moves missing)
-
+L48 - Body Slam
+L50 - Scary Face
+L58 - Hyper Voice
+L62 - Outrage
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM59 - Incinerate
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM04 - Strength
 Tutor - Draco Meteor
 Egg - Screech
 Egg - Astonish
@@ -119,49 +188,78 @@ Egg - Double Hit
 
 == Delcatty ==
 
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Solar Beam
-TM - Thunderbolt
-TM - Thunder
-TM - Return
-TM - Dig
-TM - Shadow Ball
-TM - Double Team
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Echoed Voice
-TM - Charge Beam
-TM - Payback
-TM - Retaliate
-TM - Giga Impact
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Wild Charge
-TM - Rock Smash
-TM - Confide
-TM - Strength
+Start - Fake Out
+Start - Attract
+Start - Sing
+Start - Double Slap
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM57 - Charge Beam
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Delibird ==
 
 Start - Present
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM79 - Frost Breath
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM98 - Power-Up Punch
+TM100 - Confide
+HM02 - Fly
 Egg - Ice Punch
 Egg - Aurora Beam
 Egg - Quick Attack
@@ -183,78 +281,131 @@ Start - Future Sight
 Start - Role Play
 Start - Switcheroo
 Start - Shadow Ball
+Start - Scratch
+Start - Tail Whip
+L5 - Ember
+L11 - Howl
+L14 - Flame Charge
+L18 - Psybeam
+L22 - Fire Spin
+L27 - Lucky Chant
+L30 - Light Screen
+L34 - Psyshock
 L36 - Mystical Fire
 L42 - Flamethrower
 L47 - Will-O-Wisp
 L51 - Psychic
 L55 - Sunny Day
-L58 - Magic Room
+L56 - Magic Room
 L61 - Fire Blast
 L69 - Future Sight
 L75 - Mystical Fire
-TM - Cut
-TM - Flamethrower
-TM - Hyper Beam
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Fire Blast
-TM - Dream Eater
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Shadow Ball
-TM - Will-O-Wisp
-TM - Facade
-TM - Overheat
-TM - Calm Mind
-TM - Embargo
-TM - Giga Impact
-TM - Trick Room
-TM - Grass Knot
-TM - Psyshock
-TM - Flame Charge
-TM - Round
-TM - Echoed Voice
-TM - Incinerate
-TM - Confide
-TM - Power-Up Punch
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM68 - Giga Impact
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+Tutor - Blast Burn
+Tutor - Fire Pledge
 
 == Deoxys ==
 
 (Unreleased)
 
-TM - Psychic
-
 == Dewgong ==
 
-(Smogon Research incomplete)
-L? - Ice Shard
-L? - Rest
-L? - Aqua Ring
-L? - Aurora Beam
+Start - Headbutt
+Start - Growl
+Start - Signal Beam
+Start - Icy Wind
+L3 - Growl
+L7 - Signal Beam
+L11 - Icy Wind
+L13 - Encore
+L17 - Ice Shard
+L21 - Rest
+L23 - Aqua Ring
+L27 - Aurora Beam
+L31 - Aqua Jet
+L33 - Brine
+L34 - Sheer Cold
+L39 - Take Down
+L45 - Dive
+L49 - Aqua Tail
+L55 - Ice Beam
+L61 - Safeguard
+L65 - Hail
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM56 - Fling
+TM68 - Giga Impact
+TM79 - Frost Breath
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 
 == Dewott ==
 
 (Unreleased)
+Tutor - Water Pledge
 
 == Dialga ==
 
 (Unreleased)
-
 Tutor - Draco Meteor
 
 == Diggersby ==
@@ -263,6 +414,14 @@ Start - Hammer Arm
 Start - Rototiller
 Start - Bulldoze
 Start - Swords Dance
+Start - Tackle
+Start - Agility
+Start - Leer
+L7 - Quick Attack
+L13 - Mud-Slap
+L15 - Take Down
+L18 - Mud Shot
+L20 - Double Kick
 L26 - Odor Sleuth
 L31 - Flail
 L37 - Dig
@@ -271,54 +430,54 @@ L48 - Super Fang
 L53 - Facade
 L57 - Earthquake
 L60 - Hammer Arm
-TM - Swords Dance
-TM - Cut
-TM - Surf
-TM - Hyper Beam
-TM - Strength
-TM - Earthquake
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Sludge Bomb
-TM - Sandstorm
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rock Smash
-TM - Torment
-TM - Facade
-TM - Nature Power
-TM - Brick Break
-TM - Rock Tomb
-TM - Bulk Up
-TM - U-turn
-TM - Payback
-TM - Fling
-TM - Giga Impact
-TM - Stone Edge
-TM - Grass Knot
-TM - Smack Down
-TM - Round
-TM - Bulldoze
-TM - Wild Charge
-TM - Confide
-TM - Power-Up Punch
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM66 - Payback
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
 
 == Diglett ==
 
 Start - Scratch
 Start - Sand Attack
-L04 - Growl
-L07 - Astonish
+L4 - Growl
+L7 - Astonish
 L12 - Mud-Slap
 L15 - Magnitude
 L18 - Bulldoze
@@ -378,59 +537,85 @@ Start - Transform
 
 == Dodrio ==
 
-(Smogon Research incomplete)
-(TMs tentatively copied from Doduo)
-TM - Fly
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Sunny Day
-TM - Facade
-TM - Aerial Ace
-TM - Roost
-TM - Round
-TM - Echoed Voice
-TM - Confide
+Start - Pluck
+Start - Peck
+Start - Growl
+Start - Quick Attack
+Start - Rage
+L5 - Quick Attack
+L10 - Rage
+L14 - Fury Attack
+L19 - Pursuit
+L23 - Uproar
+L28 - Acupressure
+L34 - Tri Attack
+L41 - Agility
+L47 - Drill Peck
+L54 - Endeavor
+L60 - Thrash
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM66 - Payback
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 
 == Doduo ==
 
-L? - Peck
-L? - Growl
-L? - Quick Attack
-L? - Rage
+Start - Peck
+Start - Growl
+L5 - Quick Attack
+L10 - Rage
 L14 - Fury Attack
 L19 - Pursuit
-TM - Fly
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Sunny Day
-TM - Facade
-TM - Aerial Ace
-TM - Roost
-TM - Round
-TM - Echoed Voice
-TM - Confide
+L23 - Uproar
+L28 - Acupressure
+L32 - Double Hit
+L37 - Agility
+L41 - Drill Peck
+L46 - Endeavor
+L50 - Thrash
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 Egg - Supersonic
 Egg - Quick Attack
 Egg - Haze
@@ -444,21 +629,22 @@ Egg - Brave Bird
 
 == Donphan ==
 
-L? - Fire Fang
-L? - Thunder Fang
-L? - Horn Attack
-L? - Growl
-L? - Defense Curl
-L? - Bulldoze
-L? - Rapid Spin
-L? - Knock Off
-L? - Magnitude
-L? - Fury Attack
-L? - Assurance
-L? - Rollout
-L? - Natural Gift
-L? - Slam
-L? - Endure
+Start - Fire Fang
+Start - Thunder Fang
+Start - Horn Attack
+Start - Growl
+Start - Defense Curl
+Start - Bulldoze
+L6 - Rapid Spin
+L10 - Knock Off
+L15 - Rollout
+L19 - Magnitude
+L24 - Slam
+L25 - Fury Attack
+L31 - Assurance
+L39 - Scary Face
+L46 - Earthquake
+L54 - Giga Impact
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -492,82 +678,99 @@ HM04 - Strength
 
 == Doublade ==
 
-L? - Swords Dance
-L? - Tackle
-L? - Slash
-L? - Fury Cutter
-L? - Pursuit
-L? - Metal Sound
-L? - Aerial Ace
-L? - Iron Defense
-L? - Night Slash
-L? - Shadow Sneak
-L? - Autotomize
-L? - Retaliate
+Start - Tackle
+Start - Swords Dance
+L5 - Fury Cutter
+L8 - Metal Sound
+L13 - Pursuit
+L18 - Autotomize
+L20 - Shadow Sneak
+L22 - Aerial Ace
+L26 - Retaliate
+L29 - Slash
+L32 - Iron Defense
+L36 - Night Slash
 L41 - Power Trick
 L45 - Iron Head
 L51 - Sacred Sword
-TM - Swords Dance
-TM - Cut
-TM - Toxic
-TM - Double Team
-TM - Reflect
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - False Swipe
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Brick Break
-TM - Aerial Ace
-TM - Gyro Ball
-TM - Shadow Claw
-TM - Flash Cannon
-TM - Retaliate
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM54 - False Swipe
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM74 - Gyro Ball
+TM75 - Swords Dance
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
 
 == Dragalge ==
 
-Start - Twister
 Start - Dragon Tail
+Start - Twister
+Start - Tackle
+Start - Smokescreen
+Start - Water Gun
+L5 - Feint Attack
+L9 - Tail Whip
+L12 - Bubble
+L15 - Acid
+L19 - Camouflage
+L23 - Poison Tail
+L25 - Water Pulse
+L28 - Double Team
+L32 - Toxic
+L35 - Aqua Tail
+L38 - Sludge Bomb
+L42 - Hydro Pump
 L53 - Dragon Pulse
 L59 - Dragon Tail
-TM - Surf
-TM - Hyper Beam
-TM - Thunderbolt
-TM - Thunder
-TM - Double Team
-TM - Waterfall
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Shadow Ball
-TM - Hail
-TM - Facade
-TM - Focus Blast
-TM - Giga Impact
-TM - Venoshock
-TM - Sludge Wave
-TM - Round
-TM - Scald
-TM - Dragon Tail
-TM - Confide
+L67 - Twister
+TM06 - Toxic
+TM07 - Hail
+TM09 - Venoshock
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM55 - Scald
+TM68 - Giga Impact
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Tutor - Draco Meteor
 
 == Dragonair ==
@@ -586,47 +789,47 @@ L53 - Safeguard
 L61 - Dragon Dance
 L67 - Outrage
 L75 - Hyper Beam
-TM - Toxic
-TM - Hail
-TM - Hidden Power
-TM - Sunny Day
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Return
-TM - Double Team
-TM - Flamethrower
-TM - Fire Blast
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Incinerate
-TM - Thunder Wave
-TM - Dragon Tail
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
-TM - Surf
-TM - Waterfall
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM59 - Incinerate
+TM73 - Thunder Wave
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Tutor - Draco Meteor
 
 == Dragonite ==
 
-Start - Wrap
-Start - Leer
 Start - Hurricane
 Start - Fire Punch
 Start - Thunder Punch
 Start - Roost
+Start - Wrap
+Start - Leer
 L5 - Thunder Wave
 L11 - Twister
 L15 - Dragon Rage
@@ -641,121 +844,132 @@ L61 - Dragon Dance
 L67 - Outrage
 L75 - Hyper Beam
 L81 - Hurricane
-TM - Hone Claws
-TM - Dragon Claw
-TM - Roar
-TM - Toxic
-TM - Hail
-TM - Hidden Power
-TM - Sunny Day
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Roost
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Earthquake
-TM - Return
-TM - Brick Break
-TM - Double Team
-TM - Flamethrower
-TM - Sandstorm
-TM - Fire Blast
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Steel Wing
-TM - Focus Blast
-TM - Fling
-TM - Sky Drop
-TM - Incinerate
-TM - Giga Impact
-TM - Stone Edge
-TM - Thunder Wave
-TM - Bulldoze
-TM - Rock Slide
-TM - Dragon Tail
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Confide
-TM - Cut
-TM - Fly
-TM - Surf
-TM - Strength
-TM - Waterfall
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM51 - Steel Wing
+TM52 - Focus Blast
+TM56 - Fling
+TM58 - Sky Drop
+TM59 - Incinerate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Draco Meteor
 
 == Drapion ==
 
-L? - Thunder Fang
-L? - Ice Fang
-L? - Fire Fang
-L? - Bite
-L? - Poison Sting
-L? - Leer
-L? - Knock Off
-L? - Pin Missile
-L? - Acupressure
-L? - Night Slash
-L? - Scary Face
-TM - Hone Claws
-TM - Roar
-TM - Toxic
-TM - Venoshock
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Hyper Beam
-TM - Protect
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Shadow Ball
-TM - Brick Break
-TM - Double Team
-TM - Sludge Bomb
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - False Swipe
-TM - Fling
-TM - Payback
-TM - Retaliate
-TM - Giga Impact
-TM - Flash
-TM - Swords Dance
-TM - Struggle Bug
-TM - Bulldoze
-TM - Rock Slide
-TM - X-Scissor
-TM - Infestation
-TM - Poison Jab
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Snarl
-TM - Dark Pulse
-TM - Confide
-TM - Cut
-TM - Strength
+Start - Thunder Fang
+Start - Ice Fang
+Start - Fire Fang
+Start - Bite
+Start - Poison Sting
+Start - Leer
+Start - Knock Off
+L5 - Knock Off
+L9 - Pin Missile
+L13 - Acupressure
+L16 - Pursuit
+L20 - Bug Bite
+L23 - Poison Fang
+L27 - Venoshock
+L30 - Hone Claws
+L34 - Toxic Spikes
+L38 - Night Slash
+L43 - Scary Face
+L49 - Crunch
+L53 - Fell Stinger
+L57 - Cross Poison
+TM01 - Hone Claws
+TM05 - Roar
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM54 - False Swipe
+TM56 - Fling
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM83 - Infestation
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Dratini ==
 
@@ -773,37 +987,37 @@ L45 - Safeguard
 L51 - Dragon Dance
 L55 - Outrage
 L61 - Hyper Beam
-TM - Toxic
-TM - Hail
-TM - Hidden Power
-TM - Sunny Day
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Return
-TM - Double Team
-TM - Flamethrower
-TM - Fire Blast
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Incinerate
-TM - Thunder Wave
-TM - Dragon Tail
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
-TM - Surf
-TM - Waterfall
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM59 - Incinerate
+TM73 - Thunder Wave
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Tutor - Draco Meteor
 Egg - Supersonic
 Egg - Mist
@@ -820,6 +1034,17 @@ Egg - Aqua Jet
 == Drifblim ==
 
 Start - Phantom Force
+Start - Constrict
+Start - Minimize
+Start - Astonish
+Start - Gust
+L4 - Astonish
+L8 - Gust
+L13 - Focus Energy
+L16 - Payback
+L20 - Ominous Wind
+L25 - Stockpile
+L27 - Hex
 L34 - Swallow
 L34 - Spit Up
 L40 - Shadow Ball
@@ -827,43 +1052,43 @@ L46 - Amnesia
 L52 - Baton Pass
 L60 - Explosion
 L65 - Phantom Force
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Charge Beam
-TM - Will-O-Wisp
-TM - Acrobatics
-TM - Embargo
-TM - Explosion
-TM - Payback
-TM - Giga Impact
-TM - Flash
-TM - Thunder Wave
-TM - Gyro Ball
-TM - Psych Up
-TM - Dream Eater
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
-TM - Cut
-TM - Fly
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM63 - Embargo
+TM64 - Explosion
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
 
 == Drifloon ==
 
@@ -882,40 +1107,40 @@ L36 - Shadow Ball
 L40 - Amnesia
 L44 - Baton Pass
 L50 - Explosion
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Charge Beam
-TM - Will-O-Wisp
-TM - Acrobatics
-TM - Embargo
-TM - Explosion
-TM - Payback
-TM - Flash
-TM - Thunder Wave
-TM - Gyro Ball
-TM - Psych Up
-TM - Dream Eater
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
-TM - Cut
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM63 - Embargo
+TM64 - Explosion
+TM66 - Payback
+TM70 - Flash
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM01 - Cut
 Egg - Body Slam
 Egg - Disable
 Egg - Hypnosis
@@ -928,10 +1153,53 @@ Egg - Clear Smog
 
 == Drilbur ==
 
-(Smogon Research incomplete)
-
 Start - Scratch
 Start - Mud Sport
+L5 - Rapid Spin
+L8 - Mud-Slap
+L12 - Fury Swipes
+L15 - Metal Claw
+L19 - Dig
+L22 - Hone Claws
+L26 - Slash
+L29 - Rock Slide
+L33 - Earthquake
+L36 - Swords Dance
+L40 - Sandstorm
+L43 - Drill Run
+L47 - Fissure
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM65 - Shadow Claw
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Submission
 Egg - Skull Bash
 Egg - Rapid Spin
@@ -943,8 +1211,60 @@ Egg - Rock Climb
 
 == Drowzee ==
 
-(Smogon Research incomplete)
-
+Start - Pound
+Start - Hypnosis
+L5 - Disable
+L9 - Confusion
+L13 - Headbutt
+L17 - Poison Gas
+L21 - Meditate
+L25 - Psybeam
+L29 - Headbutt
+L33 - Psych Up
+L37 - Synchronoise
+L41 - Zen Headbutt
+L45 - Swagger
+L49 - Psychic
+L53 - Nasty Plot
+L57 - Psyshock
+L61 - Future Sight
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM56 - Fling
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
 Egg - Fire Punch
 Egg - Ice Punch
 Egg - Thunder Punch
@@ -976,54 +1296,54 @@ L45 - Dragon Tail
 L49 - Rock Climb
 L55 - Superpower
 L62 - Outrage
-TM - Hone Claws
-TM - Dragon Claw
-TM - Roar
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Smack Down
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Double Team
-TM - Flamethrower
-TM - Sludge Bomb
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Focus Blast
-TM - Fling
-TM - Charge Beam
-TM - Incinerate
-TM - Shadow Claw
-TM - Payback
-TM - Retaliate
-TM - Giga Impact
-TM - Bulldoze
-TM - Rock Slide
-TM - Dragon Tail
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Flash Cannon
-TM - Rock Smash
-TM - Snarl
-TM - Dark Pulse
-TM - Power-Up Punch
-TM - Confide
-TM - Cut
-TM - Surf
-TM - Strength
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
 Tutor - Draco Meteor
 Egg - Glare
 Egg - Feint Attack
@@ -1040,9 +1360,9 @@ Egg - Fire Fang
 == Ducklett ==
 
 Start - Water Gun
-L03 - Water Sport
-L06 - Defog
-L09 - Wing Attack
+L3 - Water Sport
+L6 - Defog
+L9 - Wing Attack
 L13 - Water Pulse
 L15 - Aerial Ace
 L19 - Bubble Beam
@@ -1054,29 +1374,29 @@ L34 - Rain Dance
 L37 - Tailwind
 L41 - Brave Bird
 L46 - Hurricane
-TM - Toxic
-TM - Hail
-TM - Hidden Power
-TM - Ice Beam
-TM - Protect
-TM - Rain Dance
-TM - Roost
-TM - Frustration
-TM - Return
-TM - Double Team
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Steel Wing
-TM - Scald
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
-TM - Fly
-TM - Surf
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM51 - Steel Wing
+TM55 - Scald
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
+HM03 - Surf
 Egg - Gust
 Egg - Mirror Move
 Egg - Steel Wing
@@ -1091,6 +1411,15 @@ Egg - Mud Sport
 Start - Rototiller
 Start - Night Slash
 Start - Tri Attack
+Start - Scratch
+Start - Sand Attack
+Start - Growl
+L4 - Growl
+L7 - Astonish
+L12 - Mud-Slap
+L15 - Magnitude
+L18 - Bulldoze
+L23 - Sucker Punch
 L26 - Sand Tomb
 L28 - Mud Bomb
 L33 - Earth Power
@@ -1136,7 +1465,7 @@ HM01 - Cut
 
 Start - Rage
 Start - Defense Curl
-Start - Rollout
+L4 - Rollout
 L7 - Spite
 L10 - Pursuit
 L13 - Screech
@@ -1152,25 +1481,49 @@ L40 - Endure
 L43 - Drill Run
 L46 - Endeavor
 L49 - Flail
-TM - Toxic
-TM - Protect
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Dig
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Charge Beam
-TM - Thunder Wave
-TM - Gyro Ball
-TM - Bulldoze
-TM - Poison Jab
-TM - Rock Smash
-TM - Confide
-TM - Strength
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM59 - Incinerate
+TM67 - Retaliate
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 Egg - Headbutt
 Egg - Bite
 Egg - Agility
@@ -1187,16 +1540,26 @@ Egg - Hex
 
 == Duosion ==
 
-L? - Psywave
-L? - Reflect
-L? - Rollout
-L? - Snatch
-L? - Hidden Power
-L? - Light Screen
-L? - Charm
-L? - Recover
-L? - Psyshock
-L? - Endeavor
+Start - Psywave
+Start - Reflect
+Start - Rollout
+Start - Snatch
+L3 - Reflect
+L7 - Rollout
+L10 - Snatch
+L14 - Hidden Power
+L16 - Light Screen
+L19 - Charm
+L24 - Recover
+L25 - Psyshock
+L28 - Endeavor
+L31 - Future Sight
+L34 - Pain Split
+L39 - Psychic
+L43 - Skill Swap
+L50 - Heal Block
+L53 - Wonder Room
+TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1231,16 +1594,15 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM91 - Flash Cannon
 TM92 - Trick Room
-TM94 - Rock Smash
 TM100 - Confide
 
 == Durant ==
 
+Start - Guillotine
 Start - Iron Defense
 Start - Metal Sound
 Start - Vice Grip
 Start - Sand Attack
-L? - Guillotine
 L6 - Fury Cutter
 L11 - Bite
 L16 - Agility
@@ -1254,40 +1616,40 @@ L51 - X-Scissor
 L56 - Iron Defense
 L61 - Guillotine
 L66 - Metal Sound
-TM - Hone Claws
-TM - Toxic
-TM - Hidden Power
-TM - Protect
-TM - Frustration
-TM - Return
-TM - Dig
-TM - Double Team
-TM - Sandstorm
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Energy Ball
-TM - False Swipe
-TM - Shadow Claw
-TM - Retaliate
-TM - Giga Impact
-TM - Rock Polish
-TM - Stone Edge
-TM - Thunder Wave
-TM - Struggle Bug
-TM - Rock Slide
-TM - X-Scissor
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Flash Cannon
-TM - Rock Smash
-TM - Confide
-TM - Cut
-TM - Strength
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM54 - False Swipe
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM76 - Struggle Bug
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Screech
 Egg - Feint Attack
 Egg - Endure
@@ -1297,16 +1659,194 @@ Egg - Rock Climb
 
 == Dusclops ==
 
-(Smogon Research incomplete)
+Start - Fire Punch
+Start - Ice Punch
+Start - Thunder Punch
+Start - Gravity
+Start - Bind
+Start - Leer
+Start - Night Shade
+Start - Disable
+L6 - Disable
+L9 - Foresight
+L14 - Astonish
+L17 - Confuse Ray
+L22 - Shadow Sneak
+L25 - Pursuit
+L30 - Curse
+L33 - Will-O-Wisp
+L37 - Shadow Punch
+L42 - Hex
+L49 - Mean Look
+L58 - Payback
+L61 - Future Sight
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM83 - Infestation
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Dusknoir ==
 
-(Smogon Research incomplete)
+Start - Fire Punch
+Start - Ice Punch
+Start - Thunder Punch
+Start - Gravity
+Start - Bind
+Start - Leer
+Start - Night Shade
+Start - Disable
+L6 - Disable
+L9 - Foresight
+L14 - Astonish
+L17 - Confuse Ray
+L22 - Shadow Sneak
+L25 - Pursuit
+L30 - Curse
+L33 - Will-O-Wisp
+L37 - Shadow Punch
+L42 - Hex
+L49 - Mean Look
+L58 - Payback
+L61 - Future Sight
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM83 - Infestation
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Duskull ==
 
-(Smogon Research incomplete)
-
+Start - Leer
+Start - Night Shade
+L6 - Disable
+L9 - Foresight
+L14 - Astonish
+L17 - Confuse Ray
+L22 - Shadow Sneak
+L25 - Pursuit
+L30 - Curse
+L33 - Will-O-Wisp
+L38 - Hex
+L41 - Mean Look
+L46 - Payback
+L49 - Future Sight
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM66 - Payback
+TM70 - Flash
+TM77 - Psych Up
+TM83 - Infestation
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide
 Egg - Feint Attack
 Egg - Destiny Bond
 Egg - Pain Split
@@ -1330,48 +1870,91 @@ L34 - Silver Wind
 L38 - Toxic
 L41 - Bug Buzz
 L45 - Quiver Dance
-TM - Toxic
-TM - Venoshock
-TM - Hidden Power
-TM - Hyper Beam
-TM - Light Screen
-TM - Roost
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Sludge Bomb
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Energy Ball
-TM - Acrobatics
-TM - Giga Impact
-TM - Flash
-TM - Struggle Bug
-TM - Infestation
-TM - Swagger
-TM - Sleep Talk
-TM - U-turn
-TM - Substitute
-TM - Confide
-TM - Aerial Ace
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM62 - Acrobatics
+TM68 - Giga Impact
+TM70 - Flash
+TM76 - Struggle Bug
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
 
 == Dwebble ==
 
-L? - Sand Attack
-L? - Withdraw
-L? - Feint Attack
-L? - Rock Blast
+Start - Fury Cutter
+L5 - Rock Blast
+L7 - Withdraw
+L11 - Sand Attack
+L13 - Feint Attack
 L17 - Smack Down
 L19 - Rock Polish
 L23 - Bug Bite
 L24 - Stealth Rock
 L29 - Rock Slide
+L31 - Slash
+L35 - X-Scissor
+L37 - Shell Smash
+L41 - Flail
+L43 - Rock Wrecker
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM65 - Shadow Claw
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Counter
 Egg - Curse
 Egg - Spikes
@@ -1385,13 +1968,9 @@ Egg - Night Slash
 
 (Unreleased)
 
-TM - Thunderbolt
-
 == Eelektross ==
 
 (Unreleased)
-
-TM - Thunderbolt
 
 == Eevee ==
 
@@ -1399,39 +1978,39 @@ Start - Helping Hand
 Start - Growl
 Start - Tackle
 Start - Tail Whip
-L? - Quick Attack
 L5 - Sand Attack
 L9 - Baby-Doll Eyes
 L10 - Swift
+L13 - Quick Attack
 L17 - Bite
 L20 - Refresh
 L23 - Covet
 L25 - Take Down
 L29 - Charm
 L33 - Baton Pass
-L37 - Double Edge
+L37 - Double-Edge
 L41 - Last Resort
 L45 - Trump Card
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Shadow Ball
-TM - Facade
-TM - Round
-TM - Echoed Voice
-TM - Retaliate
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM67 - Retaliate
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Egg - Curse
 Egg - Flail
 Egg - Detect
@@ -1455,6 +2034,47 @@ L9 - Bite
 L12 - Glare
 L17 - Screech
 L20 - Acid
+L25 - Stockpile
+L25 - Swallow
+L25 - Spit Up
+L28 - Acid Spray
+L33 - Mud Bomb
+L36 - Gastro Acid
+L38 - Belch
+L41 - Haze
+L44 - Coil
+L49 - Gunk Shot
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM66 - Payback
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM83 - Infestation
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM97 - Dark Pulse
+TM100 - Confide
+HM04 - Strength
 Egg - Slam
 Egg - Disable
 Egg - Spite
@@ -1470,48 +2090,121 @@ Egg - Switcheroo
 
 == Electabuzz ==
 
-L? - Thunder Wave
-L? - Electro Ball
-L? - Light Screen
-L? - ThunderPunch
-TM - Hyper Beam
-TM - Strength
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Brick Break
-TM - Fling
-TM - Focus Blast
-TM - Giga Impact
-TM - Charge Beam
-TM - Low Sweep
-TM - Round
-TM - Volt Switch
-TM - Wild Charge
-TM - Confide
-TM - Power-Up Punch
+Start - Quick Attack
+Start - Leer
+Start - Thunder Shock
+L5 - Thunder Shock
+L8 - Low Kick
+L12 - Swift
+L15 - Shock Wave
+L19 - Thunder Wave
+L22 - Electro Ball
+L26 - Light Screen
+L29 - Thunder Punch
+L36 - Discharge
+L42 - Screech
+L49 - Thunderbolt
+L55 - Thunder
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM31 - Brick Break
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Electivire ==
 
-(Smogon Research incomplete)
+Start - Electric Terrain
+Start - Ion Deluge
+Start - Fire Punch
+Start - Quick Attack
+Start - Leer
+Start - Thunder Shock
+Start - Low Kick
+L5 - Thunder Shock
+L8 - Low Kick
+L12 - Swift
+L15 - Shock Wave
+L19 - Thunder Wave
+L22 - Electro Ball
+L26 - Light Screen
+L29 - Thunder Punch
+L36 - Discharge
+L42 - Screech
+L49 - Thunderbolt
+L55 - Thunder
+L62 - Giga Impact
+L65 - Electric Terrain
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Electrike ==
 
@@ -1574,56 +2267,100 @@ Egg - Eerie Impulse
 
 == Electrode ==
 
-L? - Magnetic Flux
-L? - Charge
-L? - Tackle
-L? - Sonic Boom
-L? - Spark
-L? - Eerie Impulse
-L? - Rollout
-L? - Screech
-L? - Charge Beam
-L? - Light Screen
-L? - Electro Ball
+Start - Magnetic Flux
+Start - Charge
+Start - Tackle
+Start - Sonic Boom
+Start - Spark
+L5 - Tackle
+L8 - Eerie Impulse
+L12 - Spark
+L15 - Rollout
+L19 - Screech
+L22 - Charge Beam
+L26 - Light Screen
+L29 - Electro Ball
 L35 - Self-Destruct
 L40 - Swift
 L46 - Magnet Rise
 L51 - Gyro Ball
 L57 - Explosion
 L62 - Mirror Coat
-TM - Hyper Beam
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Toxic
-TM - Double Team
-TM - Flash
-TM - Explosion
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Torment
-TM - Facade
-TM - Taunt
-TM - Gyro Ball
-TM - Giga Impact
-TM - Charge Beam
-TM - Round
-TM - Volt Switch
-TM - Wild Charge
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM64 - Explosion
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
 
 == Elekid ==
 
-(Smogon Research incomplete)
-
+Start - Quick Attack
+Start - Leer
+L5 - Thunder Shock
+L8 - Low Kick
+L12 - Swift
+L15 - Shock Wave
+L19 - Thunder Wave
+L22 - Electro Ball
+L26 - Light Screen
+L29 - Thunder Punch
+L33 - Discharge
+L36 - Screech
+L40 - Thunderbolt
+L43 - Thunder
+TM06 - Toxic
+TM10 - Hidden Power
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM31 - Brick Break
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
 Egg - Karate Chop
 Egg - Fire Punch
 Egg - Ice Punch
@@ -1652,41 +2389,57 @@ Egg - Nasty Plot
 == Emboar ==
 
 (Unreleased)
+Tutor - Blast Burn
+Tutor - Fire Pledge
 
 == Emolga ==
 
-L? - Spark
-L? - Nuzzle
-L? - Pursuit
-L? - Double Team
-L? - Volt Switch
-L? - Aerial Ace
+Start - Thunder Shock
+L4 - Quick Attack
+L7 - Tail Whip
+L10 - Charge
+L13 - Spark
+L15 - Nuzzle
+L16 - Pursuit
+L19 - Double Team
 L22 - Shock Wave
-L38 - Acrobatics
-TM - Toxic
-TM - Hidden Power
-TM - Taunt
-TM - Protect
-TM - Rain Dance
-TM - Roost
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Double Team
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Fling
-TM - Charge Beam
-TM - Acrobatics
-TM - Flash
-TM - Thunder Wave
-TM - Sleep Talk
-TM - U-turn
-TM - Substitute
-TM - Wild Charge
-TM - Cut
+L26 - Electro Ball
+L30 - Acrobatics
+L34 - Light Screen
+L38 - Encore
+L42 - Volt Switch
+L46 - Agility
+L50 - Discharge
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM57 - Charge Beam
+TM62 - Acrobatics
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
+HM01 - Cut
 Egg - Charm
 Egg - Baton Pass
 Egg - Iron Tail
@@ -1700,31 +2453,81 @@ Egg - Air Slash
 == Empoleon ==
 
 (Unreleased)
-
-TM - Psychic
-TM - Surf
+Tutor - Hydro Cannon
+Tutor - Water Pledge
 
 == Entei ==
 
 (Unreleased)
 
-TM - Calm Mind
-
 == Escavalier ==
 
-(Smogon Research incomplete)
+Start - Double-Edge
+Start - Fell Stinger
+Start - Peck
+Start - Leer
+Start - Quick Guard
+Start - Twineedle
+L4 - Leer
+L8 - Quick Guard
+L13 - Twineedle
+L16 - Fury Attack
+L20 - Headbutt
+L25 - False Swipe
+L28 - Bug Buzz
+L32 - Slash
+L37 - Iron Head
+L40 - Iron Defense
+L44 - X-Scissor
+L49 - Reversal
+L52 - Swords Dance
+L56 - Giga Impact
+L60 - Fell Stinger
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM54 - False Swipe
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM81 - X-Scissor
+TM83 - Infestation
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
 
 == Espeon ==
 
-L? - Growl
-L? - Tackle
-L? - Tail Whip
-L? - Sand Attack
-L? - Confusion
-L? - Future Sight
-L? - Psych Up
-L? - Morning Sun
-L? - Psybeam
+Start - Helping Hand
+Start - Tackle
+Start - Tail Whip
+L5 - Sand Attack
+L9 - Confusion
+L13 - Quick Attack
+L17 - Swift
+L20 - Psybeam
+L25 - Future Sight
+L29 - Psych Up
+L33 - Morning Sun
+L37 - Psychic
+L41 - Last Resort
+L45 - Power Swap
 TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
@@ -1771,41 +2574,41 @@ L17 - Psybeam
 L19 - Fake Out
 L22 - Disarming Voice
 L25 - Psyshock
-TM - Cut
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Reflect
-TM - Dream Eater
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Torment
-TM - Facade
-TM - Calm Mind
-TM - Payback
-TM - Dark Pulse
-TM - Energy Ball
-TM - Trick Room
-TM - Charge Beam
-TM - Psyshock
-TM - Round
-TM - Echoed Voice
-TM - Confide
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM33 - Reflect
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM66 - Payback
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
 Egg - Trick
 Egg - Yawn
 Egg - Assist
@@ -1813,13 +2616,60 @@ Egg - Barrier
 
 == Excadrill ==
 
-(Smogon Research incomplete)
-
 Start - Rototiller
-L? - Dig
-L? - Hone Claws
-L? - Slash
-L? - Rock Slide
+Start - Scratch
+Start - Mud Sport
+Start - Rapid Spin
+Start - Mud-Slap
+L5 - Rapid Spin
+L8 - Mud-Slap
+L12 - Fury Swipes
+L15 - Metal Claw
+L19 - Dig
+L22 - Hone Claws
+L26 - Slash
+L29 - Rock Slide
+L31 - Horn Drill
+L36 - Earthquake
+L42 - Swords Dance
+L49 - Sandstorm
+L55 - Drill Run
+L62 - Fissure
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Exeggcute ==
 
@@ -1835,42 +2685,42 @@ L23 - Sleep Powder
 L27 - Confusion
 L33 - Worry Seed
 L37 - Natural Gift
-L43 - Solarbeam
+L43 - Solar Beam
 L47 - Extrasensory
 L50 - Bestow
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Light Screen
-TM - Protect
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Psychic
-TM - Double Team
-TM - Reflect
-TM - Sludge Bomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Energy Ball
-TM - Explosion
-TM - Flash
-TM - Swords Dance
-TM - Psych Up
-TM - Rock Slide
-TM - Infestation
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Trick Room
-TM - Nature Power
-TM - Confide
-TM - Strength
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM33 - Reflect
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM64 - Explosion
+TM70 - Flash
+TM75 - Swords Dance
+TM77 - Psych Up
+TM80 - Rock Slide
+TM83 - Infestation
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM96 - Nature Power
+TM100 - Confide
+HM04 - Strength
 Egg - Curse
 Egg - Giga Drain
 Egg - Synthesis
@@ -1888,7 +2738,15 @@ Egg - Grassy Terrain
 
 == Exeggutor ==
 
-(Smogon Research incomplete)
+Start - Seed Bomb
+Start - Barrage
+Start - Hypnosis
+Start - Confusion
+Start - Stomp
+L17 - Psyshock
+L27 - Egg Bomb
+L37 - Wood Hammer
+L47 - Leaf Storm
 TM03 - Psyshock
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1933,6 +2791,9 @@ Start - Ice Fang
 Start - Fire Fang
 Start - Thunder Fang
 Start - Pound
+Start - Uproar
+Start - Astonish
+Start - Howl
 L5 - Uproar
 L11 - Astonish
 L15 - Howl
@@ -1947,6 +2808,7 @@ L55 - Rest
 L63 - Sleep Talk
 L71 - Hyper Voice
 L79 - Hyper Beam
+L85 - Boomburst
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1993,6 +2855,8 @@ HM04 - Strength
 
 == Farfetch'd ==
 
+Start - Brave Bird
+Start - Poison Jab
 Start - Peck
 Start - Sand Attack
 Start - Leer
@@ -2010,29 +2874,34 @@ L43 - Feint
 L45 - False Swipe
 L49 - Air Slash
 L55 - Brave Bird
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Roost
-TM - Frustration
-TM - Double Team
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Steel Wing
-TM - Acrobatics
-TM - Retaliate
-TM - Swords Dance
-TM - Psych Up
-TM - Poison Jab
-TM - Swagger
-TM - Sleep Talk
-TM - U-turn
-TM - Substitute
-TM - Confide
-TM - Fly 
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM51 - Steel Wing
+TM54 - False Swipe
+TM62 - Acrobatics
+TM67 - Retaliate
+TM75 - Swords Dance
+TM77 - Psych Up
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
 Egg - Gust
 Egg - Quick Attack
 Egg - Mirror Move
@@ -2084,41 +2953,42 @@ L41 - Psychic
 L43 - Sunny Day
 L46 - Magic Room
 L48 - Fire Blast
-TM - Cut
-TM - Flamethrower
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Fire Blast
-TM - Dream Eater
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Will-O-Wisp
-TM - Facade
-TM - Overheat
-TM - Embargo
-TM - Grass Knot
-TM - Psyshock
-TM - Flame Charge
-TM - Round
-TM - Echoed Voice
-TM - Incinerate
-TM - Confide
-TM - Power-Up Punch
+TM03 - Psyshock
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+Tutor - Fire Pledge
 Egg - Wish
 Egg - Hypnosis
 Egg - Heat Wave
@@ -2127,19 +2997,26 @@ Egg - Magic Coat
 == Feraligatr ==
 
 (Unreleased)
+Tutor - Hydro Cannon
+Tutor - Water Pledge
 
 == Ferroseed ==
 
-L? - Harden
-L? - Rollout
-L? - Curse
-L? - Metal Claw
+Start - Tackle
+Start - Harden
+L6 - Rollout
+L9 - Curse
+L14 - Metal Claw
 L18 - Pin Missile
 L21 - Gyro Ball
 L26 - Iron Defense
 L30 - Mirror Shot
 L35 - Ingrain
 L38 - Self-Destruct
+L43 - Iron Head
+L47 - Payback
+L52 - Flash Cannon
+L55 - Explosion
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -2179,7 +3056,24 @@ Egg - Stealth Rock
 
 == Ferrothorn ==
 
-(Smogon Research incomplete)
+Start - Rock Climb
+Start - Tackle
+Start - Harden
+Start - Rollout
+Start - Curse
+L6 - Rollout
+L9 - Curse
+L14 - Metal Claw
+L18 - Pin Missile
+L21 - Gyro Ball
+L26 - Iron Defense
+L30 - Mirror Shot
+L35 - Ingrain
+L38 - Self-Destruct
+L40 - Power Whip
+L46 - Iron Head
+L53 - Payback
+L61 - Flash Cannon
 L67 - Explosion
 TM01 - Hone Claws
 TM06 - Toxic
@@ -2241,6 +3135,8 @@ Egg - Aqua Tail
 
 Start - Tackle
 Start - Growl
+Start - Thunder Wave
+Start - Thunder Shock
 L4 - Thunder Wave
 L8 - Thunder Shock
 L11 - Cotton Spore
@@ -2287,8 +3183,8 @@ HM04 - Strength
 
 == Flabebe ==
 
-L1 - Tackle
-L1 - Vine Whip
+Start - Tackle
+Start - Vine Whip
 L6 - Fairy Wind
 L10 - Lucky Chant
 L15 - Razor Leaf
@@ -2299,39 +3195,40 @@ L28 - Petal Blizzard
 L33 - Aromatherapy
 L37 - Misty Terrain
 L41 - Moonblast
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Nature Power
-TM - Calm Mind
-TM - Energy Ball
-TM - Grass Knot
-TM - Round
-TM - Echoed Voice
-TM - Dazzling Gleam
-TM - Confide
+L45 - Petal Dance
+L48 - Solar Beam
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM70 - Flash
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
 Egg - Copycat
 Egg - Captivate
 
 == Flareon ==
 
 Start - Helping Hand
-Start - Growl
 Start - Tackle
 Start - Tail Whip
 L5 - Sand Attack
@@ -2345,37 +3242,37 @@ L33 - Smog
 L37 - Lava Plume
 L41 - Last Resort
 L45 - Flare Blitz
-TM - Roar
-TM - Flamethrower
-TM - Hyper Beam
-TM - Strength
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Fire Blast
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Shadow Ball
-TM - Rock Smash
-TM - Will-O-Wisp
-TM - Facade
-TM - Overheat
-TM - Giga Impact
-TM - Flame Charge
-TM - Round
-TM - Echoed Voice
-TM - Incinerate
-TM - Retaliate
-TM - Confide
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM67 - Retaliate
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Fletchinder ==
 
@@ -2389,41 +3286,41 @@ L17 - Ember
 L25 - Roost
 L27 - Razor Wind
 L31 - Natural Gift
-L39 - Flame Charge
+L38 - Flame Charge
 L42 - Acrobatics
 L46 - Me First
 L51 - Tailwind
 L55 - Steel Wing
-TM - Swords Dance
-TM - Fly
-TM - Flamethrower
-TM - Toxic
-TM - Double Team
-TM - Fire Blast
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Sunny Day
-TM - Will-O-Wisp
-TM - Facade
-TM - Taunt
-TM - Overheat
-TM - Aerial Ace
-TM - Roost
-TM - U-turn
-TM - Flame Charge
-TM - Round
-TM - Incinerate
-TM - Acrobatics
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM50 - Overheat
+TM51 - Steel Wing
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM75 - Swords Dance
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 
 == Fletchling ==
 
@@ -2441,37 +3338,91 @@ L39 - Acrobatics
 L41 - Me First
 L45 - Tailwind
 L48 - Steel Wing
-TM - Swords Dance
-TM - Fly
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Sunny Day
-TM - Facade
-TM - Taunt
-TM - Overheat
-TM - Aerial Ace
-TM - Roost
-TM - U-turn
-TM - Flame Charge
-TM - Round
-TM - Acrobatics
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM50 - Overheat
+TM51 - Steel Wing
+TM62 - Acrobatics
+TM75 - Swords Dance
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 Egg - Quick Guard
 
 == Floatzel ==
 
-(Smogon Research incomplete)
+Start - Ice Fang
+Start - Crunch
+Start - Sonic Boom
+Start - Growl
+Start - Water Sport
+Start - Quick Attack
+L4 - Growl
+L7 - Water Sport
+L11 - Quick Attack
+L15 - Water Gun
+L18 - Pursuit
+L21 - Swift
+L24 - Aqua Jet
+L29 - Double Hit
+L35 - Whirlpool
+L41 - Razor Wind
+L46 - Aqua Tail
+L51 - Agility
+L57 - Hydro Pump
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM52 - Focus Blast
+TM55 - Scald
+TM66 - Payback
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Floette ==
 
@@ -2484,85 +3435,96 @@ L43 - Misty Terrain
 L44 - Rest
 L46 - Moonblast
 L88 - Sleep Talk
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Nature Power
-TM - Calm Mind
-TM - Energy Ball
-TM - Grass Knot
-TM - Round
-TM - Echoed Voice
-TM - Dazzling Gleam
-TM - Confide
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM70 - Flash
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Florges ==
 
-L? - Petal Dance
-L? - Wish
-L? - Aromatherapy
-L? - Magical Leaf
-L? - Lucky Chant
-L? - Grass Knot
-L? - Petal Blizzard
-L? - Moonblast
-L? - Disarming Voice
-L? - Flower Shield
-L? - Grassy Terrain
-L? - Misty Terrain
-TM - Hyper Beam
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Nature Power
-TM - Calm Mind
-TM - Energy Ball
-TM - Giga Impact
-TM - Grass Knot
-TM - Round
-TM - Echoed Voice
-TM - Dazzling Gleam
-TM - Confide
+Start - Disarming Voice
+Start - Lucky Chant
+Start - Wish
+Start - Magical Leaf
+Start - Flower Shield
+Start - Grass Knot
+Start - Grassy Terrain
+Start - Misty Terrain
+Start - Petal Blizzard
+Start - Moonblast
+Start - Petal Dance
+Start - Aromatherapy
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM70 - Flash
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Flygon ==
 
-L? - Sonicboom
-L? - Sand Attack
-L? - Feint Attack
-L? - Sand Tomb
-L? - Supersonic
-L? - Screech
+Start - Sonic Boom
+Start - Sand Attack
+Start - Feint Attack
+Start - Sand Tomb
+L4 - Sand Attack
+L7 - Feint Attack
+L10 - Sand Tomb
+L13 - Mud-Slap
+L17 - Bide
+L21 - Bulldoze
+L25 - Rock Slide
+L29 - Supersonic
+L34 - Screech
+L35 - Dragon Breath
+L39 - Earth Power
+L44 - Sandstorm
+L45 - Dragon Tail
 L49 - Hyper Beam
 L55 - Dragon Claw
 TM01 - Hone Claws
@@ -2595,6 +3557,7 @@ TM71 - Stone Edge
 TM76 - Struggle Bug
 TM78 - Bulldoze
 TM80 - Rock Slide
+TM82 - Dragon Tail
 TM87 - Swagger
 TM88 - Sleep Talk
 TM89 - U-turn
@@ -2602,9 +3565,9 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
-Tutor - Draco Meteor
 HM02 - Fly
 HM04 - Strength
+Tutor - Draco Meteor
 
 == Foongus ==
 
@@ -2623,30 +3586,30 @@ L39 - Clear Smog
 L43 - Solar Beam
 L45 - Rage Powder
 L50 - Spore
-TM - Toxic
-TM - Venoshock
-TM - Hidden Power
-TM - Sunny Day
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Double Team
-TM - Sludge Bomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Energy Ball
-TM - Payback
-TM - Flash
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Nature Power
-TM - Confide
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM66 - Payback
+TM70 - Flash
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM100 - Confide
 Egg - Body Slam
 Egg - Growth
 Egg - PoisonPowder
@@ -2658,19 +3621,29 @@ Egg - Gastro Acid
 
 == Forretress ==
 
-L? - Heavy Slam
-L? - Zap Cannon
-L? - Magnet Rise
-L? - Toxic Spikes
-L? - Tackle
-L? - Protect
-L? - Self-Destruct
-L? - Bug Bite
-L? - Take Down
-L? - Rapid Spin
-L? - Bide
-L? - Natural Gift
-L? - Spikes
+Start - Heavy Slam
+Start - Zap Cannon
+Start - Magnet Rise
+Start - Toxic Spikes
+Start - Tackle
+Start - Protect
+Start - Self-Destruct
+Start - Bug Bite
+L12 - Take Down
+L17 - Rapid Spin
+L20 - Bide
+L23 - Natural Gift
+L28 - Spikes
+L31 - Mirror Shot
+L32 - Autotomize
+L36 - Payback
+L42 - Explosion
+L46 - Iron Defense
+L50 - Gyro Ball
+L56 - Double-Edge
+L60 - Magnet Rise
+L64 - Zap Cannon
+L70 - Heavy Slam
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -2710,8 +3683,61 @@ HM04 - Strength
 
 == Fraxure ==
 
-(Smogon Research incomplete)
-
+Start - Scratch
+Start - Leer
+Start - Assurance
+Start - Dragon Rage
+L4 - Leer
+L7 - Assurance
+L10 - Dragon Rage
+L13 - Dual Chop
+L16 - Scary Face
+L20 - Slash
+L24 - False Swipe
+L28 - Dragon Claw
+L32 - Dragon Dance
+L36 - Taunt
+L42 - Dragon Pulse
+L48 - Swords Dance
+L54 - Guillotine
+L60 - Outrage
+L66 - Giga Impact
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM54 - False Swipe
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM66 - Payback
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM81 - X-Scissor
+TM82 - Dragon Tail
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Frillish ==
@@ -2734,49 +3760,50 @@ L8 - Quick Attack
 L10 - Lick
 L14 - Water Pulse
 L18 - Smokescreen
-L21 - round
+L21 - Round
 L25 - Fling
 L29 - Smack Down
-L35 - substitute
-L39 - bounce
+L35 - Substitute
+L39 - Bounce
 L43 - Double Team
 L48 - Hydro Pump
-TM - Cut
-TM - Surf
-TM - Ice Beam
-TM - Blizzard
-TM - Strength
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Waterfall
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Taunt
-TM - Rock Tomb
-TM - Aerial Ace
-TM - U-turn
-TM - Fling
-TM - Grass Knot
-TM - Smack Down
-TM - Round
-TM - Echoed Voice
-TM - Scald
-TM - Acrobatics
-TM - Confide
-TM - Power-Up Punch
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM55 - Scald
+TM56 - Fling
+TM62 - Acrobatics
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
+Tutor - Water Pledge
 Egg - Toxic Spikes
 Egg - Water Sport
 Egg - Camouflage
@@ -2785,59 +3812,68 @@ Egg - Mind Reader
 
 == Frogadier ==
 
-L20 - Smoke Screen
+Start - Pound
+Start - Growl
+L5 - Bubble
+L8 - Quick Attack
+L10 - Lick
+L14 - Water Pulse
+L20 - Smokescreen
 L23 - Round
 L28 - Fling
 L33 - Smack Down
 L38 - Substitute
 L44 - Bounce
-L48 - Double Team 
-TM - Cut
-TM - Surf
-TM - Ice Beam
-TM - Blizzard
-TM - Strength
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Waterfall
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Taunt
-TM - Rock Tomb
-TM - Aerial Ace
-TM - U-turn
-TM - Fling
-TM - Dark Pulse
-TM - Grass Knot
-TM - Smack Down
-TM - Round
-TM - Echoed Voice
-TM - Scald
-TM - Acrobatics
-TM - Confide
-TM - Power-Up Punch
-Egg - Toxic Spikes
+L48 - Double Team
+L55 - Hydro Pump
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM55 - Scald
+TM56 - Fling
+TM62 - Acrobatics
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
+Tutor - Water Pledge
 
 == Froslass ==
 
-(Smogon Research incomplete)
-
 Start - Destiny Bond
+Start - Powder Snow
+Start - Leer
 Start - Double Team
 Start - Astonish
+L4 - Double Team
+L10 - Astonish
 L13 - Icy Wind
 L19 - Confuse Ray
 L22 - Ominous Wind
@@ -2846,12 +3882,49 @@ L31 - Captivate
 L37 - Ice Shard
 L40 - Hail
 L51 - Blizzard
+L59 - Destiny Bond
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM79 - Frost Breath
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 
 == Furfrou ==
 
 Start - Tackle
 Start - Growl
-L8 - Sand Attack
+L5 - Sand Attack
 L9 - Baby-Doll Eyes
 L12 - Headbutt
 L15 - Tail Whip
@@ -2862,37 +3935,37 @@ L35 - Take Down
 L38 - Charm
 L42 - Sucker Punch
 L48 - Cotton Guard
-TM - Roar
-TM - Surf
-TM - Thunder Wave
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Flash
-TM - Rest
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Facade
-TM - U-turn
-TM - Dark Pulse
-TM - Giga Impact
-TM - Grass Knot
-TM - Charge Beam
-TM - Round
-TM - Echoed Voice
-TM - Retaliate
-TM - Wild Charge
-TM - Snarl
-TM - Confide
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM57 - Charge Beam
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM100 - Confide
+HM03 - Surf
 Egg - Mimic
 Egg - Captivate
 Egg - Refresh
@@ -2900,8 +3973,22 @@ Egg - Work Up
 
 == Furret ==
 
-(Smogon Research incomplete)
-
+Start - Scratch
+Start - Foresight
+Start - Defense Curl
+Start - Quick Attack
+L4 - Defense Curl
+L7 - Quick Attack
+L13 - Fury Swipes
+L17 - Helping Hand
+L21 - Follow Me
+L28 - Slam
+L32 - Rest
+L36 - Sucker Punch
+L42 - Amnesia
+L46 - Baton Pass
+L50 - Me First
+L56 - Hyper Voice
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -2948,7 +4035,7 @@ HM04 - Strength
 == Gabite ==
 
 Start - Tackle
-Start -  Sand Attack
+Start - Sand Attack
 L3 - Sand Attack
 L7 - Dragon Rage
 L13 - Sandstorm
@@ -2959,40 +4046,40 @@ L28 - Slash
 L33 - Dragon Claw
 L40 - Dig
 L49 - Dragon Rush
-TM - Hone Claws
-TM -  Dragon Claw
-TM - Roar
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Double Team
-TM - Flamethrower
-TM - Sandstorm
-TM - Fire Blast
-TM -  Rock Tomb
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Incinerate
-TM - Shadow Claw
-TM - Stone Edge
-TM - Bulldoze
-TM - Rock Slide
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Confide
-HM - Cut
-HM - Strength
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Gallade ==
@@ -3010,7 +4097,7 @@ L10 - Double Team
 L12 - Teleport
 L17 - Fury Cutter
 L22 - Slash
-L25 -  Heal Pulse
+L25 - Heal Pulse
 L31 - Swords Dance
 L36 - Psycho Cut
 L39 - Helping Hand
@@ -3019,84 +4106,141 @@ L50 - False Swipe
 L53 - Protect
 L59 - Close Combat
 L64 - Stored Power
-TM - Psyshock
-TM - Calm Mind
-TM - Toxic
-TM - Bulk Up
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Hyper Beam
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Earthquake
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Brick Break
-TM - Double Team
-TM - Reflect
-TM - Rock Tomb 
-TM - Aerial Ace
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Low Sweep
-TM - Round
-TM - Echoed Voice
-TM - Focus Blast
-TM - False Swipe
-TM - Fling
-TM - Charge Beam
-TM - Will-O-Wisp
-TM - Retaliate
-TM - Giga Impact
-TM - Flash
-TM - Stone Edge
-TM - Thunder Wave
-TM - Swords Dance
-TM - Psych Up
-TM - Bulldoze
-TM - Rock Slide
-TM - X-Scissor
-TM - Poison Jab
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Trick Room
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Dazzling Gleam
-TM - Confide
-HM - Cut
-HM - Strength
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM49 - Echoed Voice
+TM52 - Focus Blast
+TM54 - False Swipe
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM75 - Swords Dance
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Galvantula ==
 
-(Smogon Research incomplete)
-
 Start - Sticky Web
+Start - String Shot
+Start - Leech Life
+Start - Spider Web
+Start - Thunder Wave
+L4 - Thunder Wave
+L7 - Screech
+L12 - Fury Cutter
+L15 - Electroweb
+L18 - Bug Bite
+L23 - Gastro Acid
+L26 - Slash
+L29 - Electro Ball
+L34 - Signal Beam
 L40 - Agility
 L46 - Sucker Punch
 L54 - Discharge
 L60 - Bug Buzz
+L65 - Sticky Web
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM76 - Struggle Bug
+TM81 - X-Scissor
+TM83 - Infestation
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
+HM01 - Cut
 
 == Garbodor ==
 
-L? - Stockpile
-L? - Swallow
-L? - Body Slam
-L? - Sludge Bomb
-L? - Clear Smog
-L? - Toxic
-L? - Amnesia
+Start - Pound
+Start - Poison Gas
+Start - Recycle
+Start - Toxic Spikes
+L3 - Recycle
+L7 - Toxic Spikes
+L12 - Acid Spray
+L14 - Double Slap
+L18 - Sludge
+L23 - Stockpile
+L23 - Swallow
+L25 - Body Slam
+L29 - Sludge Bomb
+L34 - Clear Smog
+L39 - Toxic
+L46 - Amnesia
 L49 - Belch
+L54 - Gunk Shot
+L59 - Explosion
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -3136,7 +4280,7 @@ TM100 - Confide
 Start - Fire Fang
 Start - Tackle
 Start - Sand Attack
-start - Dragon Rage
+Start - Dragon Rage
 Start - Sandstorm
 L3 - Sand Attack
 L7 - Dragon Rage
@@ -3149,50 +4293,50 @@ L33 - Dragon Claw
 L40 - Dig
 L48 - Crunch
 L55 - Dragon Rush
-TM - Hone Claws
-TM - Dragon Claw
-TM - Roar
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Brick Break
-TM - Double Team
-TM - Flamethrower
-TM - Sandstorm
-TM - Fire Blast
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - False Swipe
-TM - Fling
-TM - Incinerate
-TM - Shadow Claw
-TM - Giga Impact
-TM - Stone Edge
-TM - Swords Dance
-TM - Bulldoze
-TM - Rock Slide
-TM - Dragon Tail
-TM - Poison Jab
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Confide
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM54 - False Swipe
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
 Tutor - Draco Meteor
-HM - Cut
-HM - Surf
-HM - Strength
 
 == Gardevoir ==
 
@@ -3201,63 +4345,66 @@ Start - Stored Power
 Start - Misty Terrain
 Start - Healing Wish
 Start - Growl
-Start - Wish
+Start - Confusion
+Start - Double Team
+Start - Teleport
 L6 - Confusion
 L10 - Double Team
 L12 - Teleport
-L17 - Lucky Chant
+L17 - Wish
 L22 - Magical Leaf
 L25 - Heal Pulse
 L33 - Calm Mind
 L40 - Psychic
 L45 - Imprison
 L53 - Future Sight
-L60 - Captivate 
+L60 - Captivate
 L65 - Hypnosis
 L73 - Dream Eater
 L80 - Stored Power
 L85 - Moonblast
-TM - Psyshock
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Hyper Beam
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Reflect
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Echoed Voice
-TM - Focus Blast
-TM - Energy Ball
-TM - Fling
-TM - Charge Beam
-TM - Will-O-Wisp
-TM - Giga Impact
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Trick Room
-TM - Confide
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Gastly ==
 
@@ -3326,31 +4473,73 @@ Egg - Clear Smog
 
 == Gastrodon ==
 
-(Smogon Research incomplete)
-
-L? - Mud Bomb
-L? - Hidden Power
-L? - Rain Dance
-L? - Body Slam
+Start - Mud-Slap
+Start - Mud Sport
+Start - Harden
+Start - Water Pulse
+L2 - Mud Sport
+L4 - Harden
+L7 - Water Pulse
+L11 - Mud Bomb
+L16 - Hidden Power
+L22 - Rain Dance
+L29 - Body Slam
+L41 - Muddy Water
+L54 - Recover
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM68 - Giga Impact
+TM70 - Flash
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Genesect ==
 
 (Unreleased)
 
-TM - Ice Beam
-
 == Gengar ==
 
-L? - Hypnosis
-L? - Lick
-L? - Spite
-L? - Mean Look
-L? - Curse
-L? - Night Shade
-L? - Confuse Ray
-L? - Sucker Punch
-L? - Shadow Punch
-L? - Payback
+Start - Hypnosis
+Start - Lick
+Start - Spite
+L5 - Spite
+L8 - Mean Look
+L12 - Curse
+L15 - Night Shade
+L19 - Confuse Ray
+L22 - Sucker Punch
+L25 - Shadow Punch
+L28 - Payback
 L33 - Shadow Ball
 L39 - Dream Eater
 L44 - Dark Pulse
@@ -3358,7 +4547,7 @@ L50 - Destiny Bond
 L55 - Hex
 L61 - Nightmare
 TM06 - Toxic
-TM07 - Venoshock
+TM09 - Venoshock
 TM10 - Hidden Power
 TM11 - Sunny Day
 TM12 - Taunt
@@ -3406,10 +4595,57 @@ HM04 - Strength
 
 == Geodude ==
 
-L? - Rollout
-L? - Magnitude
-L? - Rock Blast
-L? - Rock Throw
+Start - Tackle
+Start - Defense Curl
+L4 - Mud Sport
+L8 - Rock Polish
+L11 - Rock Throw
+L15 - Magnitude
+L18 - Rollout
+L22 - Rock Blast
+L25 - Smack Down
+L29 - Self-Destruct
+L32 - Bulldoze
+L36 - Stealth Rock
+L39 - Earthquake
+L43 - Explosion
+L46 - Double-Edge
+L50 - Stone Edge
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM59 - Incinerate
+TM64 - Explosion
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Egg - Mega Punch
 Egg - Curse
 Egg - Flail
@@ -3432,24 +4668,40 @@ L25 - Slash
 L27 - Dragon Claw
 L31 - Dig
 L37 - Dragon Rush
-TM - Return
-TM - Protect
-TM - Rock Smash
-TM - Shadow Claw
-TM - Rest
-TM - Sleep Talk
-TM - Frustration
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Cut
-TM - Strength
-TM - Hone Claws
-TM - Toxic
-TM - Hidden Power
-TM - Flamethrower
-TM - Facade
-TM - Attract
-TM - Confide
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Draco Meteor
 Egg - Body Slam
 Egg - Thrash
@@ -3467,15 +4719,112 @@ Egg - Iron Head
 
 == Gigalith ==
 
-(Smogon Research incomplete)
-
-L? - Sandstorm
-L? - Stone Edge
+Start - Tackle
+Start - Harden
+Start - Sand Attack
+Start - Headbutt
+L4 - Harden
+L7 - Sand Attack
+L10 - Headbutt
+L14 - Rock Blast
+L17 - Mud-Slap
+L20 - Iron Defense
+L23 - Smack Down
+L25 - Power Gem
+L30 - Rock Slide
+L36 - Stealth Rock
+L42 - Sandstorm
+L48 - Stone Edge
+L55 - Explosion
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM64 - Explosion
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM04 - Strength
 
 == Girafarig ==
 
-(Smogon Research incomplete)
-
+Start - Power Swap
+Start - Guard Swap
+Start - Astonish
+Start - Tackle
+Start - Growl
+Start - Confusion
+L5 - Odor Sleuth
+L10 - Stomp
+L14 - Agility
+L19 - Psybeam
+L23 - Baton Pass
+L28 - Assurance
+L32 - Double Hit
+L37 - Psychic
+L41 - Zen Headbutt
+L46 - Crunch
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM67 - Retaliate
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM04 - Strength
 Egg - Razor Wind
 Egg - Double Kick
 Egg - Take Down
@@ -3498,24 +4847,101 @@ Tutor - Draco Meteor
 
 == Glaceon ==
 
-(Smogon Research incomplete)
-
-L? - Helping Hand
-L? - Tackle
-L? - Tail Whip
-L? - Sand Attack
-L? - Icy Wind
-L? - Ice Fang
+Start - Helping Hand
+Start - Tackle
+Start - Tail Whip
+L5 - Sand Attack
+L9 - Icy Wind
+L13 - Quick Attack
+L17 - Bite
+L20 - Ice Fang
 L25 - Ice Shard
 L29 - Barrier
 L33 - Mirror Coat
 L37 - Hail
 L41 - Last Resort
 L45 - Blizzard
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM67 - Retaliate
+TM68 - Giga Impact
+TM79 - Frost Breath
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Glalie ==
 
-(Smogon Research incomplete)
+Start - Sheer Cold
+Start - Powder Snow
+Start - Leer
+Start - Double Team
+Start - Bite
+L4 - Double Team
+L10 - Bite
+L13 - Icy Wind
+L19 - Headbutt
+L22 - Protect
+L28 - Ice Fang
+L31 - Crunch
+L37 - Ice Beam
+L40 - Hail
+L51 - Blizzard
+L59 - Sheer Cold
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM64 - Explosion
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM79 - Frost Breath
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Glameow ==
 
@@ -3534,8 +4960,6 @@ Egg - Last Resort
 
 == Gligar ==
 
-(Smogon Research incomplete)
-
 Start - Poison Sting
 L4 - Sand Attack
 L7 - Harden
@@ -3551,6 +4975,53 @@ L40 - X-Scissor
 L45 - Sky Uppercut
 L50 - Swords Dance
 L55 - Guillotine
+TM01 - Hone Claws
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM51 - Steel Wing
+TM54 - False Swipe
+TM56 - Fling
+TM62 - Acrobatics
+TM66 - Payback
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Razor Wind
 Egg - Wing Attack
 Egg - Double-Edge
@@ -3568,9 +5039,14 @@ Egg - Cross Poison
 
 == Gliscor ==
 
-(Smogon Research incomplete)
-
-Start - Poison Sting
+Start - Guillotine
+Start - Thunder Fang
+Start - Ice Fang
+Start - Fire Fang
+Start - Poison Jab
+Start - Sand Attack
+Start - Harden
+Start - Knock Off
 L4 - Sand Attack
 L7 - Harden
 L10 - Knock Off
@@ -3578,7 +5054,7 @@ L13 - Quick Attack
 L16 - Fury Cutter
 L19 - Feint Attack
 L22 - Acrobatics
-L27 - Slash
+L27 - Night Slash
 L30 - U-turn
 L35 - Screech
 L40 - X-Scissor
@@ -3614,6 +5090,7 @@ TM48 - Round
 TM51 - Steel Wing
 TM54 - False Swipe
 TM56 - Fling
+TM62 - Acrobatics
 TM66 - Payback
 TM68 - Giga Impact
 TM69 - Rock Polish
@@ -3636,76 +5113,196 @@ HM04 - Strength
 
 == Gloom ==
 
-(Smogon Research incomplete)
-
-L? - Mega Drain
-L? - Lucky Chant
+Start - Absorb
+Start - Sweet Scent
+Start - Acid
+L5 - Sweet Scent
+L9 - Acid
+L13 - Poison Powder
+L15 - Stun Spore
+L17 - Sleep Powder
+L23 - Mega Drain
+L29 - Lucky Chant
+L35 - Natural Gift
 L41 - Moonlight
+L47 - Giga Drain
+L50 - Petal Blizzard
+L53 - Petal Dance
+L56 - Grassy Terrain
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM70 - Flash
+TM75 - Swords Dance
+TM83 - Infestation
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM01 - Cut
 
 == Gogoat ==
 
-L32 - Bulk Up
+Start - Aerial Ace
+Start - Tackle
+Start - Growth
+L7 - Vine Whip
+L9 - Tail Whip
+L12 - Leech Seed
+L13 - Razor Leaf
+L16 - Worry Seed
+L20 - Synthesis
+L22 - Take Down
+L26 - Bulldoze
+L30 - Seed Bomb
+L34 - Bulk Up
 L40 - Double-Edge
 L47 - Horn Leech
 L55 - Leaf Blade
 L58 - Milk Drink
 L60 - Earthquake
 L65 - Aerial Ace
-TM - Roar
-TM - Surf
-TM - Hyper Beam
-TM - Strength
-TM - SolarBeam
-TM - Earthquake
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Facade
-TM - Nature Power
-TM - Brick Break
-TM - Aerial Ace
-TM - Bulk Up
-TM - Payback
-TM - Energy Ball
-TM - Giga Impact
-TM - Grass Knot
-TM - Round
-TM - Retaliate
-TM - Bulldoze
-TM - Wild Charge
-TM - Confide
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
 
 == Golbat ==
 
-(Smogon Research incomplete)
-
-L? - Confuse Ray
-L? - Acrobatics
+Start - Screech
+Start - Leech Life
+Start - Supersonic
+Start - Astonish
+L4 - Supersonic
+L8 - Astonish
+L12 - Bite
+L15 - Wing Attack
+L19 - Confuse Ray
+L24 - Swift
+L28 - Air Cutter
+L33 - Acrobatics
+L38 - Mean Look
+L42 - Poison Fang
+L47 - Haze
+L52 - Air Slash
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM36 - Sludge Bomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM51 - Steel Wing
+TM62 - Acrobatics
+TM66 - Payback
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 
 == Goldeen ==
 
-(Smogon Research incomplete)
-
-L? - Peck
-L? - Tail Whip
-L? - Water Sport
-L? - Supersonic
-L? - Horn Attack
-L? - Water Pulse
-L? - Flail
+Start - Peck
+Start - Tail Whip
+Start - Water Sport
+L7 - Supersonic
+L11 - Horn Attack
+L17 - Water Pulse
+L21 - Flail
+L27 - Aqua Ring
+L31 - Fury Attack
+L37 - Waterfall
+L41 - Horn Drill
+L47 - Agility
+L50 - Soak
+L57 - Megahorn
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Egg - Body Slam
 Egg - Hydro Pump
 Egg - Psybeam
@@ -3720,23 +5317,127 @@ Egg - Aqua Tail
 
 == Golduck ==
 
-(Smogon Research incomplete)
+Start - Aqua Jet
+Start - Water Sport
+Start - Scratch
+Start - Tail Whip
+Start - Water Gun
+L4 - Tail Whip
+L8 - Water Gun
+L11 - Disable
+L15 - Confusion
+L18 - Water Pulse
+L22 - Fury Swipes
+L25 - Screech
+L29 - Zen Headbutt
+L32 - Aqua Tail
+L38 - Soak
+L43 - Psych Up
+L49 - Amnesia
+L54 - Hydro Pump
+L60 - Wonder Room
+TM01 - Hone Claws
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM31 - Brick Break
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Golem ==
 
-(Smogon Research incomplete)
-
-L? - Heavy Slam
-L? - Tackle
-L? - Defense Curl
-L? - Mud Sport
-L? - Rock Polish
-L? - Steamroller
-L? - Magnitude
-L? - Rock Throw
-L? - Rock Blast
-L? - Self Destruct
-L? - Stealth Rock
+Start - Heavy Slam
+Start - Tackle
+Start - Defense Curl
+Start - Mud Sport
+Start - Rock Polish
+L4 - Mud Sport
+L8 - Rock Polish
+L11 - Rock Throw
+L15 - Magnitude
+L18 - Steamroller
+L22 - Rock Blast
+L27 - Smack Down
+L31 - Self-Destruct
+L36 - Bulldoze
+L42 - Stealth Rock
+L47 - Earthquake
+L53 - Explosion
+L58 - Double-Edge
+L64 - Stone Edge
+L69 - Heavy Slam
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM64 - Explosion
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Golett ==
 
@@ -3755,182 +5456,196 @@ L40 - Curse
 L45 - Earthquake
 L50 - Hammer Arm
 L55 - Focus Punch
-TM - Toxic
-TM - Hidden Power
-TM - Ice Beam
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Brick Break
-TM - Double Team
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Thief
-TM - Low Sweep
-TM - Round
-TM - Focus Blast
-TM - Fling
-TM - Rock Polish
-TM - Flash
-TM - Gyro Ball
-TM - Bulldoze
-TM - Rock Slide
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Confide
-TM - Strength
+TM06 - Toxic
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM69 - Rock Polish
+TM70 - Flash
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Golurk ==
 
 Start - Phantom Force
 Start - Focus Punch
+Start - Pound
+Start - Astonish
+Start - Defense Curl
+Start - Mud-Slap
+L5 - Mud-Slap
+L9 - Rollout
+L13 - Shadow Punch
+L17 - Iron Defense
+L21 - Mega Punch
+L25 - Magnitude
+L30 - Dynamic Punch
+L35 - Night Shade
+L40 - Curse
 L43 - Heavy Slam
 L50 - Earthquake
 L60 - Hammer Arm
 L70 - Focus Punch
 L75 - Phantom Force
-TM - Toxic
-TM - Hidden Power
-TM - Ice Beam
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Solar Beam
-TM - Thunderbolt
-TM - Earthquake
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Brick Break
-TM - Double Team
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Thief
-TM - Low Sweep
-TM - Round
-TM - Focus Blast
-TM - Fling
-TM - Charge Beam
-TM - Giga Impact
-TM - Rock Polish
-TM - Flash
-TM - Stone Edge
-TM - Gyro Ball
-TM - Bulldoze
-TM - Rock Slide
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Flash Cannon
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Confide
-TM - Fly
-TM - Strength
+TM06 - Toxic
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM70 - Flash
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM02 - Fly
+HM04 - Strength
 
 == Goodra ==
 
-L? - Tackle
-L? - Body Slam
-L? - Absorb
-L? - Bide
-L? - Bubble
-L? - Flail
-L? - Protect
-L? - Outrage
-L? - Dragon Breath
-L? - Rain Dance
-L? - Muddy Water
-L? - Feint
-L? - Aqua Tail
-L? - Dragon Pulse
-L? - Power Whip
-TM - Flamethrower
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Strength
-TM - Thunderbolt
-TM - Thunder
-TM - Earthquake
-TM - Toxic
-TM - Double Team
-TM - Fire Blast
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Hail
-TM - Facade
-TM - Focus Blast
-TM - Giga Impact
-TM - Sludge Wave
-TM - Round
-TM - Incinerate
-TM - Bulldoze
-TM - Dragon Tail
-TM - Infestation
-TM - Confide
+Start - Outrage
+Start - Feint
+Start - Tackle
+Start - Bubble
+L5 - Absorb
+L9 - Protect
+L13 - Bide
+L18 - Dragon Breath
+L25 - Rain Dance
+L28 - Flail
+L32 - Body Slam
+L38 - Muddy Water
+L47 - Dragon Pulse
+L50 - Aqua Tail
+L55 - Power Whip
+L63 - Outrage
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM34 - Sludge Wave
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM59 - Incinerate
+TM68 - Giga Impact
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Goomy ==
 
-L? - Tackle
-L? - Body Slam
-L? - Absorb
-L? - Bide
-L? - Bubble
-L? - Flail
-L? - Protect
-L? - Dragon Breath
-L? - Rain Dance
-L? - Muddy Water
-L? - Dragon Pulse
-TM - Thunderbolt
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Facade
-TM - Sludge Wave
-TM - Round
-TM - Infestation
-TM - Confide
+Start - Tackle
+Start - Bubble
+L5 - Absorb
+L9 - Protect
+L13 - Bide
+L18 - Dragon Breath
+L25 - Rain Dance
+L28 - Flail
+L32 - Body Slam
+L38 - Muddy Water
+L42 - Dragon Pulse
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM80 - Rock Slide
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Tutor - Draco Meteor
 Egg - Poison Tail
 Egg - Iron Tail
@@ -3940,14 +5655,53 @@ Egg - Counter
 
 == Gorebyss ==
 
-(Smogon Research incomplete)
+Start - Whirlpool
+L6 - Confusion
+L10 - Agility
+L15 - Water Pulse
+L19 - Amnesia
+L24 - Aqua Ring
+L28 - Captivate
+L33 - Baton Pass
+L37 - Dive
+L42 - Psychic
+L46 - Aqua Tail
+L50 - Hydro Pump
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM68 - Giga Impact
+TM77 - Psych Up
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 
 == Gothita ==
 
 Start - Pound
 L3 - Confusion
 L7 - Tickle
-L9 - Play Nice
+L8 - Play Nice
 L10 - Fake Tears
 L14 - Double Slap
 L16 - Psybeam
@@ -3961,45 +5715,45 @@ L37 - Psychic
 L40 - Telekinesis
 L46 - Charm
 L48 - Magic Room
-TM - Psyshock
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Taunt
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Reflect
-TM - Rock Tomb
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Energy Ball
-TM - Fling
-TM - Charge Beam
-TM - Embargo
-TM - Payback
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Rock Slide
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Trick Room
-TM - Confide
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM63 - Embargo
+TM66 - Payback
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM100 - Confide
 Egg - Mean Look
 Egg - Mirror Coat
 Egg - Uproar
@@ -4010,9 +5764,11 @@ Egg - Captivate
 == Gothitelle ==
 
 Start - Pound
+Start - Confusion
+Start - Tickle
+Start - Play Nice
 L3 - Confusion
 L7 - Tickle
-L9 - Play Nice
 L10 - Fake Tears
 L14 - Double Slap
 L16 - Psybeam
@@ -4026,56 +5782,59 @@ L39 - Psychic
 L45 - Telekinesis
 L54 - Charm
 L59 - Magic Room
-TM - Psyshock
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Taunt
-TM - Hyper Beam
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Brick Break
-TM - Double Team
-TM - Reflect
-TM - Rock Tomb
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Low Sweep
-TM - Round
-TM - Energy Ball
-TM - Fling
-TM - Charge Beam
-TM - Embargo
-TM - Payback
-TM - Giga Impact
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Rock Slide
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Power-Up Punch
-TM - Confide
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM98 - Power-Up Punch
+TM100 - Confide
 
 == Gothorita ==
 
 Start - Pound
+Start - Confusion
+Start - Tickle
+Start - Play Nice
 L3 - Confusion
 L7 - Tickle
-L9 - Play Nice
 L10 - Fake Tears
 L14 - Double Slap
 L16 - Psybeam
@@ -4089,149 +5848,254 @@ L39 - Psychic
 L43 - Telekinesis
 L50 - Charm
 L53 - Magic Room
-TM - Psyshock
-TM - Calm Mind
-TM - Toxic
-TM - Hidden Power
-TM - Taunt
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Thunderbolt
-TM - Return
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Reflect
-TM - Rock Tomb
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Round
-TM - Energy Ball
-TM - Fling
-TM - Charge Beam
-TM - Embargo
-TM - Payback
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Rock Slide
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Confide
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM63 - Embargo
+TM66 - Payback
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM100 - Confide
 
 == Gourgeist ==
 
+Start - Explosion
+Start - Phantom Force
 Start - Trick
 Start - Astonish
 Start - Confuse Ray
-Start - Explosion
-Start - Phantom Force
 L4 - Scary Face
 L6 - Trick-or-Treat
 L11 - Worry Seed
 L16 - Razor Leaf
 L20 - Leech Seed
+L23 - Trick-or-Treat
 L26 - Bullet Seed
 L30 - Shadow Sneak
 L36 - Shadow Ball
+L40 - Trick-or-Treat
 L42 - Pain Split
 L48 - Seed Bomb
 L57 - Phantom Force
-L70 - Shadow Ball 
-TM - Flamethrower
-TM - Hyper Beam
-TM - SolarBeam
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Fire Blast
-TM - Dream Eater
-TM - Flash
-TM - Explosion
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Sludge Bomb
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Sunny Day
-TM - Shadow Ball
-TM - Rock Smash
-TM - Will-O-Wisp
-TM - Facade
-TM - Nature Power
-TM - Gyro Ball
-TM - Dark Pulse
-TM - Focus Blast
-TM - Energy Ball
-TM - Giga Impact
-TM - Trick Room
-TM - Grass Knot
-TM - Charge Beam
-TM - Flame Charge
-TM - Round
-TM - Incinerate
-TM - Confide
+L63 - Trick-or-Treat
+L70 - Shadow Ball
+L75 - Explosion
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM64 - Explosion
+TM68 - Giga Impact
+TM70 - Flash
+TM74 - Gyro Ball
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM96 - Nature Power
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Granbull ==
 
 Start - Outrage
-L? - Fire Fang
-L? - Ice Fang
-L? - Thunder Fang
+Start - Ice Fang
+Start - Fire Fang
+Start - Thunder Fang
+Start - Tackle
+Start - Scary Face
+Start - Tail Whip
+Start - Charm
+L7 - Bite
+L13 - Lick
+L19 - Headbutt
 L27 - Roar
 L35 - Rage
 L43 - Play Rough
-TM - Protect
-TM - Return
-TM - Dig
-TM - Rock Tomb
-TM - Rest
-TM - Thief
-TM - Payback
-TM - Thunder Wave
-TM - Sleep Talk
-TM - Rock Smash
-TM - Strength
-TM - Attract
-TM - Bulldoze
-TM - Power-Up Punch
+L51 - Payback
+L59 - Crunch
+L67 - Outrage
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM50 - Overheat
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM04 - Strength
 
 == Graveler ==
 
-(Smogon Research incomplete)
+Start - Tackle
+Start - Defense Curl
+Start - Mud Sport
+Start - Rock Polish
+L4 - Mud Sport
+L8 - Rock Polish
+L11 - Rock Throw
+L15 - Magnitude
+L18 - Rollout
+L22 - Rock Blast
+L27 - Smack Down
+L31 - Self-Destruct
+L36 - Bulldoze
+L42 - Stealth Rock
+L47 - Earthquake
+L53 - Explosion
+L58 - Double-Edge
+L64 - Stone Edge
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM59 - Incinerate
+TM64 - Explosion
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Greninja ==
 
-L? - Pound
-L? - Growl
-L? - Quick Attack
-L? - SmokeScreen
-L? - Lick
-L? - Bubble
-L? - Feint Attack
-L? - Spikes
-L? - Role Play
-L? - Water Pulse
-L? - Shadow Sneak
-L? - Mat Block
+Start - Night Slash
+Start - Role Play
+Start - Mat Block
+Start - Pound
+Start - Growl
+L5 - Bubble
+L8 - Quick Attack
+L10 - Lick
+L14 - Water Pulse
+L20 - Smokescreen
+L23 - Shadow Sneak
+L28 - Spikes
+L33 - Feint Attack
 L36 - Water Shuriken
 L43 - Substitute
 L49 - Extrasensory
@@ -4239,51 +6103,105 @@ L52 - Double Team
 L56 - Haze
 L60 - Hydro Pump
 L70 - Night Slash
-TM - Cut
-TM - Surf
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Strength
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Waterfall
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Taunt
-TM - Rock Tomb
-TM - Aerial Ace
-TM - U-turn
-TM - Fling
-TM - Dark Pulse
-TM - Giga Impact
-TM - Grass Knot
-TM - Smack Down
-TM - Round
-TM - Echoed Voice
-TM - Scald
-TM - Acrobatics
-TM - Confide
-TM - Power-Up Punch
-Egg - Toxic Spikes
+L75 - Water Shuriken
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM55 - Scald
+TM56 - Fling
+TM62 - Acrobatics
+TM68 - Giga Impact
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
+Tutor - Hydro Cannon
+Tutor - Water Pledge
 
 == Grimer ==
 
-(Smogon Research incomplete)
-
+Start - Pound
+Start - Poison Gas
+L4 - Harden
+L7 - Mud-Slap
+L12 - Disable
+L15 - Sludge
+L18 - Minimize
+L21 - Mud Bomb
+L26 - Sludge Bomb
+L29 - Fling
+L32 - Screech
+L37 - Sludge Wave
+L40 - Acid Armor
+L43 - Gunk Shot
+L46 - Belch
+L48 - Memento
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM34 - Sludge Wave
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM59 - Incinerate
+TM64 - Explosion
+TM66 - Payback
+TM80 - Rock Slide
+TM83 - Infestation
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Egg - Haze
 Egg - Lick
 Egg - Curse
@@ -4300,16 +6218,16 @@ Egg - Acid Spray
 == Grotle ==
 
 (Unreleased)
+Tutor - Grass Pledge
 
 == Groudon ==
 
 (Unreleased)
 
-TM - Earthquake
-
 == Grovyle ==
 
 (Unreleased)
+Tutor - Grass Pledge
 
 == Growlithe ==
 
@@ -4331,25 +6249,37 @@ L39 - Crunch
 L41 - Heat Wave
 L43 - Outrage
 L45 - Flare Blitz
-TM - Toxic
-TM - Hidden Power
-TM - Protect
-TM - Frustration
-TM - Return
-TM - Dig
-TM - Fire Blast
-TM - Aerial Ace
-TM - Facade
-TM - Flame Charge
-TM - Rest
-TM - Attract
-TM - Thief
-TM - Will-o-wisp
-TM - Bulldoze
-TM - Sleep Talk
-TM - Rock Smash
-TM - Confide
-TM - Strength
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM67 - Retaliate
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM100 - Confide
+HM04 - Strength
 Egg - Double Kick
 Egg - Body Slam
 Egg - Thrash
@@ -4366,6 +6296,24 @@ Egg - Flare Blitz
 
 == Grumpig ==
 
+Start - Splash
+Start - Psywave
+Start - Odor Sleuth
+Start - Psybeam
+L7 - Psywave
+L10 - Odor Sleuth
+L14 - Psybeam
+L15 - Psych Up
+L18 - Confuse Ray
+L21 - Magic Coat
+L26 - Zen Headbutt
+L29 - Rest
+L29 - Snore
+L35 - Power Gem
+L42 - Psyshock
+L46 - Payback
+L52 - Psychic
+L60 - Bounce
 TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
@@ -4390,6 +6338,7 @@ TM45 - Attract
 TM46 - Thief
 TM48 - Round
 TM52 - Focus Blast
+TM53 - Energy Ball
 TM56 - Fling
 TM57 - Charge Beam
 TM66 - Payback
@@ -4411,39 +6360,48 @@ TM100 - Confide
 
 Start - Pound
 L6 - Yawn
-L10 - Poison Gas
+L9 - Poison Gas
 L14 - Sludge
 L17 - Amnesia
 L23 - Encore
+L28 - Toxic
+L34 - Acid Spray
+L39 - Stockpile
+L39 - Spit Up
+L39 - Swallow
 L40 - Belch
-TM - Toxic
-TM - Venoshock
-TM - Hidden Power
-TM - Sunny Day
-TM - Ice Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Shadow Ball
-TM - Double Team
-TM - Sludge Wave
-TM - Sludge Bomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Explosion
-TM - Infestation
-TM - Dream Eater
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Confide
-TM - Strength
+L44 - Sludge Bomb
+L49 - Gastro Acid
+L54 - Wring Out
+L59 - Gunk Shot
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM64 - Explosion
+TM83 - Infestation
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Egg - Smog
 Egg - Acid Armor
 Egg - Curse
@@ -4462,7 +6420,7 @@ L4 - Focus Energy
 L8 - Bide
 L12 - Low Kick
 L16 - Rock Throw
-L20 - Wake-up Slap
+L20 - Wake-Up Slap
 L24 - Chip Away
 L29 - Bulk Up
 L33 - Rock Slide
@@ -4472,40 +6430,40 @@ L45 - Hammer Arm
 L49 - Stone Edge
 L53 - Focus Punch
 L57 - Superpower
-TM - Toxic
-TM - Bulk Up
-TM - Hidden Power
-TM - Sunny Day
-TM - Taunt
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Smack Down
-TM - Return
-TM - Dig
-TM - Brick Break
-TM - Double Team
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Low Sweep
-TM - Round
-TM - Focus Blast
-TM - Fling
-TM - Payback
-TM - Retaliate
-TM - Stone Edge
-TM - Rock Slide
-TM - Poison Jab
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Confide
-HM - Strength
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM66 - Payback
+TM67 - Retaliate
+TM71 - Stone Edge
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Gyarados ==
 
@@ -4520,52 +6478,87 @@ L38 - Rain Dance
 L41 - Hydro Pump
 L44 - Dragon Dance
 L47 - Hyper Beam
-TM - Roar
-TM - Toxic
-TM - Hail
-TM - Hidden Power
-TM - Taunt
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Thunderbolt
-TM - Thunder
-TM - Earthquake
-TM - Return
-TM - Double Team
-TM - Flamethrower
-TM - Sandstorm
-TM - Fire Blast
-TM - Torment
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Scald
-TM - Incinerate
-TM - Payback
-TM - Giga Impact
-TM - Stone Edge
-TM - Thunder Wave
-TM - Bulldoze
-TM - Dragon Tail
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Dark Pulse
-TM - Confide
-HM - Surf
-HM - Strength
-HM - Waterfall
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM59 - Incinerate
+TM66 - Payback
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM78 - Bulldoze
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Happiny ==
 
-(Smogon Research incomplete)
-
+Start - Pound
+Start - Charm
+L5 - Copycat
+L9 - Refresh
+L12 - Sweet Kiss
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM56 - Fling
+TM59 - Incinerate
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Egg - Counter
 Egg - Metronome
 Egg - Endure
@@ -4581,32 +6574,83 @@ Egg - Seismic Toss
 
 == Hariyama ==
 
-(Smogon Research incomplete)
-
-L? - Fake Out
-L? - Whirlwind
-L? - Knock Off
-L? - Smelling Salts
+Start - Brine
+Start - Tackle
+Start - Focus Energy
+Start - Sand Attack
+Start - Arm Thrust
+L4 - Sand Attack
+L7 - Arm Thrust
+L10 - Vital Throw
+L13 - Fake Out
+L16 - Whirlwind
+L19 - Knock Off
+L22 - Smelling Salts
 L27 - Belly Drum
 L32 - Force Palm
+L37 - Seismic Toss
+L42 - Wake-Up Slap
+L47 - Endure
+L52 - Close Combat
+L57 - Reversal
+L62 - Heavy Slam
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
 TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
 TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
 TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
 TM94 - Rock Smash
 TM98 - Power-Up Punch
+TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 
 == Haunter ==
 
-L? - Sucker Punch
-L? - Shadow Punch
-L? - Payback
-L? - Shadow Ball
-L? - Dream Eater
-L? - Dark Pulse
-L? - Destiny Bond
-L? - Hex
+Start - Hypnosis
+Start - Lick
+Start - Spite
+L5 - Spite
+L8 - Mean Look
+L12 - Curse
+L15 - Night Shade
+L19 - Confuse Ray
+L22 - Sucker Punch
+L25 - Shadow Punch
+L28 - Payback
+L33 - Shadow Ball
+L39 - Dream Eater
+L44 - Dark Pulse
+L50 - Destiny Bond
+L55 - Hex
+L61 - Nightmare
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -4651,7 +6695,6 @@ TM100 - Confide
 Start - Detect
 Start - Tackle
 Start - Hone Claws
-L? - Swords Dance
 L4 - Karate Chop
 L8 - Wing Attack
 L12 - Roost
@@ -4661,57 +6704,58 @@ L24 - Fling
 L28 - Flying Press
 L32 - Bounce
 L36 - Endeavor
-L40 - FeatherDance
+L40 - Feather Dance
 L44 - High Jump Kick
 L48 - Sky Attack
 L55 - Sky Drop
-TM - Swords Dance
-TM - Cut
-TM - Fly
-TM - Strength
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - False Swipe
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Torment
-TM - Facade
-TM - Taunt
-TM - Brick Break
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Bulk Up
-TM - Roost
-TM - U-turn
-TM - Payback
-TM - Fling
-TM - Poison Jab
-TM - X-Scissor
-TM - Focus Blast
-TM - Giga Impact
-TM - Stone Edge
-TM - Grass Knot
-TM - Hone Claws
-TM - Low Sweep
-TM - Round
-TM - Sky Drop
-TM - Acrobatics
-TM - Retaliate
-TM - Confide
-TM - Power-Up Punch
+L60 - Swords Dance
+TM01 - Hone Claws
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM51 - Steel Wing
+TM52 - Focus Blast
+TM54 - False Swipe
+TM56 - Fling
+TM58 - Sky Drop
+TM62 - Acrobatics
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM04 - Strength
 Egg - Quick Guard
 Egg - Baton Pass
 Egg - Entrainment
@@ -4720,21 +6764,28 @@ Egg - Ally Switch
 
 == Haxorus ==
 
-L? - Outrage
-L? - Scratch
-L? - Leer
-L? - Assurance
-L? - Dual Chop
-L? - Scary Face
-L? - False Swipe
-L? - Taunt
-L? - Dragon Pulse
-L? - Slash
-L? - Dragon Dance
-L? - Dragon Rage
-L? - Dragon Claw
+Start - Outrage
+Start - Scratch
+Start - Leer
+Start - Assurance
+Start - Dragon Rage
+L4 - Leer
+L7 - Assurance
+L10 - Dragon Rage
+L13 - Dual Chop
+L16 - Scary Face
+L20 - Slash
+L24 - False Swipe
+L28 - Dragon Claw
+L32 - Dragon Dance
+L36 - Taunt
+L42 - Dragon Pulse
+L50 - Swords Dance
 L58 - Guillotine
+L66 - Outrage
+L74 - Giga Impact
 TM01 - Hone Claws
+TM02 - Dragon Claw
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -4774,13 +6825,14 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
-Tutor - Draco Meteor
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
+Tutor - Draco Meteor
 
 == Heatmor ==
 
+Start - Inferno
 Start - Hone Claws
 Start - Tackle
 Start - Incinerate
@@ -4795,23 +6847,44 @@ L36 - Bug Bite
 L41 - Slash
 L44 - Amnesia
 L47 - Flamethrower
-TM - Hone Claws
-TM - Toxic
-TM - Sunny Day
-TM - Protect
-TM - Rain Dance
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Fire Blast
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Attract
-TM - Shadow Claw
-TM - Infestation
-TM - Rock Smash
-TM - Power-Up Punch
-TM - Cut 
+L50 - Stockpile
+L50 - Spit Up
+L50 - Swallow
+L61 - Inferno
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
 Egg - Body Slam
 Egg - Wrap
 Egg - Curse
@@ -4828,56 +6901,54 @@ Egg - Belch
 
 (Unreleased)
 
-TM - Flamethrower
-
 == Heliolisk ==
 
-Start - Razor Wind
-Start - Thunder
-Start - Quick Attack
-Start - Charge
-Start - Parabolic Charge
 Start - Eerie Impulse
 Start - Electrify
-TM - Cut
-TM - Surf
-TM - Hyper Beam
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Light Screen
-TM - Flash
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sandstorm
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Psych Up
-TM - Facade
-TM - Rock Tomb
-TM - U-turn
-TM - Dark Pulse
-TM - Focus Blast
-TM - Giga Impact
-TM - Grass Knot
-TM - Charge Beam
-TM - Low Sweep
-TM - Round
-TM - Volt Switch
-TM - Bulldoze
-TM - Dragon Tail
-TM - Wild Charge
-TM - Confide
+Start - Razor Wind
+Start - Quick Attack
+Start - Thunder
+Start - Charge
+Start - Parabolic Charge
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
 
 == Helioptile ==
 
@@ -4885,55 +6956,54 @@ Start - Pound
 Start - Tail Whip
 L6 - Thunder Shock
 L11 - Charge
-L13 - Mud Slap
+L13 - Mud-Slap
 L17 - Quick Attack
-L21 - Razor Wind
+L22 - Razor Wind
 L25 - Parabolic Charge
 L31 - Thunder Wave
 L35 - Bulldoze
 L40 - Volt Switch
-l45 - Electrify
+L45 - Electrify
 L49 - Thunderbolt
-TM - Cut
-TM - Surf
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Dig
-TM - Toxic
-TM - Double Team
-TM - Light Screen
-TM - Flash
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - Sandstorm
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Psych Up
-TM - Facade
-TM - Rock Tomb
-TM - U-turn
-TM - Dark Pulse
-TM - Grass Knot
-TM - Charge Beam
-TM - Low Sweep
-TM - Round
-TM - Volt Switch
-TM - Bulldoze
-TM - Dragon Tail
-TM - Wild Charge
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM57 - Charge Beam
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM93 - Wild Charge
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
 Egg - Camouflage
 Egg - Agility
 Egg - Glare
-
 
 == Heracross ==
 
@@ -4942,8 +7012,8 @@ Start - Bullet Seed
 Start - Night Slash
 Start - Tackle
 Start - Leer
-Start - Endure
 Start - Horn Attack
+Start - Endure
 L7 - Fury Attack
 L10 - Aerial Ace
 L16 - Chip Away
@@ -4955,6 +7025,46 @@ L34 - Close Combat
 L37 - Feint
 L43 - Reversal
 L46 - Megahorn
+TM06 - Toxic
+TM08 - Bulk Up
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM52 - Focus Blast
+TM54 - False Swipe
+TM56 - Fling
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Double-Edge
 Egg - Seismic Toss
 Egg - Harden
@@ -4968,7 +7078,51 @@ Egg - Rock Blast
 
 == Herdier ==
 
-(Smogon Research incomplete)
+Start - Leer
+Start - Tackle
+L5 - Odor Sleuth
+L8 - Bite
+L12 - Helping Hand
+L15 - Take Down
+L20 - Work Up
+L24 - Crunch
+L29 - Roar
+L33 - Retaliate
+L38 - Reversal
+L42 - Last Resort
+L47 - Giga Impact
+L52 - Play Rough
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM73 - Thunder Wave
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM100 - Confide
+HM03 - Surf
+HM04 - Strength
 
 == Hippopotas ==
 
@@ -4983,30 +7137,30 @@ L31 - Crunch
 L37 - Earthquake
 L44 - Double-Edge
 L50 - Fissure
-TM - Roar
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Protect
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Double Team
-TM - Sandstorm
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Bulldoze
-TM - Rock Slide
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Confide
-TM - Strength
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 Egg - Whirlwind
 Egg - Body Slam
 Egg - Curse
@@ -5020,111 +7174,75 @@ Egg - Sand Tomb
 
 == Hippowdon ==
 
-L? - Ice Fang
-L? - Fire Fang
-L? - Thunder Fang
-L? - Protect
-L? - Yawn
+Start - Ice Fang
+Start - Fire Fang
+Start - Thunder Fang
+Start - Tackle
+Start - Sand Attack
+Start - Bite
+Start - Yawn
+L7 - Bite
+L13 - Yawn
+L19 - Take Down
+L19 - Dig
+L25 - Sand Tomb
+L31 - Crunch
 L40 - Earthquake
 L50 - Double-Edge
 L60 - Fissure
-TM - Roar
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Hyper Beam
-TM - Protect
-TM - Frustration
-TM - Earthquake
-TM - Return
-TM - Dig
-TM - Double Team
-TM - Sandstorm
-TM - Rock Tomb
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Giga Impact
-TM - Stone Edge
-TM - Bulldoze
-TM - Rock Slide
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Rock Smash
-TM - Confide
-TM - Strength
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM04 - Strength
 
 == Hitmonchan ==
 
 (Smogon Research incomplete)
 
-L? - Close Combat
-L? - Counter
+Start - Close Combat
+Start - Counter
+Start - Focus Punch
+Start - Revenge
+Start - Comet Punch
+L6 - Agility
+L11 - Pursuit
+L16 - Mach Punch
+L16 - Bullet Punch
 L21 - Feint
 L26 - Vacuum Wave
 L31 - Quick Guard
-L36 - Fire Punch
-L36 - Ice Punch
 L36 - Thunder Punch
+L36 - Ice Punch
+L36 - Fire Punch
 L41 - Sky Uppercut
-
-== Hitmonlee ==
-
-L? - Revenge
-L? - Double Kick
-L? - Meditate
-L? - Rolling Kick
-L? - Jump Kick
-L? - Brick Break
-L? - Focus Energy
-L? - Feint
-L? - Mind Reader
-L? - Foresight
-L? - Wide Guard
-L53 - Mega Kick
-L57 - Close Combat
-L61 - Reversal
-TM - Strength
-TM - Earthquake
-TM - Toxic
-TM - Double Team
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Rock Smash
-TM - Facade
-TM - Brick Break
-TM - Rock Tomb
-TM - Bulk Up
-TM - Fling
-TM - Poison Jab
-TM - Focus Blast
-TM - Stone Edge
-TM - Low Sweep
-TM - Round
-TM - Retaliate
-TM - Bulldoze
-TM - Confide
-TM - Power-Up Punch
-
-== Hitmontop ==
-
-L? - Tackle
-L? - Helping Hand
-L? - Fake Out
-L? - Foresight
+L46 - Mega Punch
+L50 - Detect
+L56 - Focus Punch
+L61 - Counter
+L66 - Close Combat
 TM06 - Toxic
 TM08 - Bulk Up
 TM10 - Hidden Power
@@ -5136,6 +7254,116 @@ TM26 - Earthquake
 TM27 - Return
 TM31 - Brick Break
 TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM67 - Retaliate
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
+
+== Hitmonlee ==
+
+Start - Reversal
+Start - Close Combat
+Start - Mega Kick
+Start - Revenge
+Start - Double Kick
+L5 - Meditate
+L9 - Rolling Kick
+L13 - Jump Kick
+L17 - Brick Break
+L21 - Focus Energy
+L25 - Feint
+L29 - High Jump Kick
+L33 - Mind Reader
+L37 - Foresight
+L41 - Wide Guard
+L45 - Blaze Kick
+L49 - Endure
+L53 - Mega Kick
+L57 - Close Combat
+L61 - Reversal
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM67 - Retaliate
+TM71 - Stone Edge
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
+
+== Hitmontop ==
+
+Start - Endeavor
+Start - Close Combat
+Start - Revenge
+Start - Rolling Kick
+L6 - Focus Energy
+L10 - Pursuit
+L15 - Quick Attack
+L19 - Triple Kick
+L24 - Rapid Spin
+L28 - Counter
+L33 - Feint
+L37 - Agility
+L42 - Gyro Ball
+L46 - Wide Guard
+L46 - Quick Guard
+L50 - Detect
+L55 - Close Combat
+L60 - Endeavor
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM40 - Aerial Ace
 TM42 - Facade
 TM44 - Rest
 TM45 - Attract
@@ -5143,6 +7371,8 @@ TM46 - Thief
 TM47 - Low Sweep
 TM48 - Round
 TM67 - Retaliate
+TM71 - Stone Edge
+TM74 - Gyro Ball
 TM78 - Bulldoze
 TM80 - Rock Slide
 TM87 - Swagger
@@ -5156,7 +7386,6 @@ HM04 - Strength
 
 Start - Tackle
 Start - Swords Dance
-Start - Metal Sound
 L5 - Fury Cutter
 L8 - Metal Sound
 L13 - Pursuit
@@ -5164,65 +7393,142 @@ L18 - Autotomize
 L20 - Shadow Sneak
 L22 - Aerial Ace
 L26 - Retaliate
+L29 - Slash
 L32 - Iron Defense
 L35 - Night Slash
 L39 - Power Trick
 L42 - Iron Head
 L47 - Sacred Sword
-TM - Cut
-TM - Toxic
-TM - Double Team
-TM - Reflect
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Protect
-TM - False Swipe
-TM - Swagger
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Rock Smash
-TM - Facade
-TM - Brick Break
-TM - Aerial Ace
-TM - Gyro Ball
-TM - Shadow Claw
-TM - Flash Cannon
-TM - Retaliate
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM54 - False Swipe
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM74 - Gyro Ball
+TM75 - Swords Dance
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
 
 == Ho-Oh ==
 
 (Unreleased)
 
-L? - Recover
-L? - Sacred Fire
-L? - Brave Bird
-
 == Honchkrow ==
 
-(Smogon Research incomplete)
-
-L? - Astonish
-L? - Haze
-L? - Wing Attack
-L? - Pursuit
-L21 - Night Shade
-L25 - Assurance
-L31 - Taunt
-L35 - Feint Attack
-L41 - Mean Look
+Start - Night Slash
+Start - Sucker Punch
+Start - Astonish
+Start - Pursuit
+Start - Haze
+Start - Wing Attack
+L25 - Swagger
+L35 - Nasty Plot
 L45 - Foul Play
-L50 - Tailwind
+L55 - Night Slash
+L65 - Quash
+L75 - Dark Pulse
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM51 - Steel Wing
+TM59 - Incinerate
+TM60 - Quash
+TM63 - Embargo
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM95 - Snarl
+TM97 - Dark Pulse
+TM100 - Confide
+HM02 - Fly
 
 == Hoothoot ==
 
-(Smogon Research incomplete)
-
+Start - Tackle
+Start - Growl
+Start - Foresight
+L5 - Hypnosis
+L9 - Peck
+L13 - Uproar
+L17 - Reflect
+L21 - Confusion
+L25 - Echoed Voice
+L29 - Take Down
+L33 - Air Slash
+L37 - Zen Headbutt
+L41 - Synchronoise
+L45 - Extrasensory
+L49 - Psycho Shift
+L53 - Roost
+L57 - Dream Eater
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
 Egg - Wing Attack
 Egg - Whirlwind
 Egg - Supersonic
@@ -5255,6 +7561,33 @@ L40 - Worry Seed
 L43 - Giga Drain
 L46 - Bounce
 L49 - Memento
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM62 - Acrobatics
+TM70 - Flash
+TM75 - Swords Dance
+TM77 - Psych Up
+TM83 - Infestation
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM99 - Dazzling Gleam
+TM100 - Confide
 Egg - Double-Edge
 Egg - Confusion
 Egg - Amnesia
@@ -5268,8 +7601,40 @@ Egg - Cotton Guard
 
 == Horsea ==
 
+Start - Bubble
+L4 - Smokescreen
+L8 - Leer
+L11 - Water Gun
+L14 - Focus Energy
+L18 - Bubble Beam
+L23 - Agility
 L26 - Twister
 L30 - Brine
+L35 - Hydro Pump
+L38 - Dragon Dance
+L42 - Dragon Pulse
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Egg - Razor Wind
 Egg - Disable
 Egg - Aurora Beam
@@ -5291,6 +7656,8 @@ Start - Nasty Plot
 Start - Thunder Fang
 Start - Leer
 Start - Ember
+Start - Howl
+Start - Smog
 L4 - Howl
 L8 - Smog
 L13 - Roar
@@ -5300,8 +7667,11 @@ L26 - Beat Up
 L30 - Fire Fang
 L35 - Feint Attack
 L41 - Embargo
+L45 - Foul Play
 L50 - Flamethrower
 L56 - Crunch
+L60 - Nasty Plot
+L65 - Inferno
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -5350,6 +7720,15 @@ L8 - Smog
 L13 - Roar
 L16 - Bite
 L20 - Odor Sleuth
+L25 - Beat Up
+L28 - Fire Fang
+L32 - Feint Attack
+L37 - Embargo
+L40 - Foul Play
+L44 - Flamethrower
+L49 - Crunch
+L52 - Nasty Plot
+L56 - Inferno
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -5402,7 +7781,43 @@ Egg - Destiny Bond
 
 == Huntail ==
 
-(Smogon Research incomplete)
+Start - Whirlpool
+L6 - Bite
+L10 - Screech
+L15 - Water Pulse
+L19 - Scary Face
+L24 - Ice Fang
+L28 - Brine
+L33 - Baton Pass
+L37 - Dive
+L42 - Crunch
+L46 - Aqua Tail
+L50 - Hydro Pump
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM68 - Giga Impact
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 
 == Hydreigon ==
 
@@ -5410,6 +7825,8 @@ Start - Outrage
 Start - Hyper Voice
 Start - Tri Attack
 Start - Dragon Rage
+Start - Focus Energy
+Start - Bite
 L4 - Focus Energy
 L9 - Bite
 L12 - Headbutt
@@ -5423,6 +7840,7 @@ L42 - Dragon Rush
 L48 - Body Slam
 L55 - Scary Face
 L68 - Hyper Voice
+L79 - Outrage
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
@@ -5475,7 +7893,69 @@ Tutor - Draco Meteor
 
 == Hypno ==
 
-(Smogon Research incomplete)
+Start - Future Sight
+Start - Nasty Plot
+Start - Nightmare
+Start - Switcheroo
+Start - Pound
+Start - Hypnosis
+Start - Disable
+Start - Confusion
+L5 - Disable
+L9 - Confusion
+L13 - Headbutt
+L17 - Poison Gas
+L21 - Meditate
+L25 - Psybeam
+L29 - Headbutt
+L33 - Psych Up
+L37 - Synchronoise
+L41 - Zen Headbutt
+L45 - Swagger
+L49 - Psychic
+L53 - Nasty Plot
+L57 - Psyshock
+L61 - Future Sight
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Igglybuff ==
 
@@ -5485,40 +7965,40 @@ L5 - Defense Curl
 L9 - Pound
 L13 - Sweet Kiss
 L17 - Copycat
-TM - Toxic
-TM - Hidden Power
-TM - Sunny Day
-TM - Light Screen
-TM - Protect
-TM - Rain Dance
-TM - Safeguard
-TM - Frustration
-TM - Solar Beam
-TM - Return
-TM - Dig
-TM - Psychic
-TM - Shadow Ball
-TM - Double Team
-TM - Reflect
-TM - Flamethrower
-TM - Fire Blast
-TM - Facade
-TM - Rest
-TM - Attract
-TM - Round
-TM - Echoed Voice
-TM - Fling
-TM - Incinerate
-TM - Flash
-TM - Thunder Wave
-TM - Psych Up
-TM - Dream Eater
-TM - Grass Knot
-TM - Swagger
-TM - Sleep Talk
-TM - Substitute
-TM - Wild Charge
-TM - Confide
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM56 - Fling
+TM59 - Incinerate
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM100 - Confide
 Egg - Feint Attack
 Egg - Perish Song
 Egg - Sleep Talk
@@ -5594,6 +8074,8 @@ Egg - Captivate
 == Infernape ==
 
 (Unreleased)
+Tutor - Blast Burn
+Tutor - Fire Pledge
 
 == Inkay ==
 
@@ -5612,43 +8094,45 @@ L27 - Payback
 L31 - Light Screen
 L35 - Pluck
 L39 - Psycho Cut
-L44 - Slash
+L43 - Slash
 L46 - Night Slash
 L48 - Superpower
-TM - Cut
-TM - Flamethrower
-TM - Thunderbolt
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Flash
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Torment
-TM - Facade
-TM - Taunt
-TM - Aerial Ace
-TM - Calm Mind
-TM - Payback
-TM - Embargo
-TM - Fling
-TM - Dark Pulse
-TM - Trick Room
-TM - Round
-TM - Retaliate
-TM - Confide
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM56 - Fling
+TM63 - Embargo
+TM66 - Payback
+TM67 - Retaliate
+TM70 - Flash
+TM77 - Psych Up
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
 Egg - Calm Mind
 Egg - Taunt
 Egg - Confide
@@ -5660,10 +8144,22 @@ Egg - Power Split
 
 == Ivysaur ==
 
+Start - Tackle
+Start - Growl
+Start - Leech Seed
+L3 - Growl
+L7 - Leech Seed
+L9 - Vine Whip
+L13 - Poison Powder
+L13 - Sleep Powder
+L15 - Take Down
 L20 - Razor Leaf
 L23 - Sweet Scent
 L28 - Growth
 L31 - Double-Edge
+L36 - Worry Seed
+L39 - Synthesis
+L44 - Solar Beam
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -5693,3 +8189,4 @@ TM96 - Nature Power
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Tutor - Grass Pledge
