@@ -27,7 +27,7 @@ function change() {
 	var input = document.getElementById('in').value;
 	var output = input.split('\n').map(function(row) {
 		var cols = row.split('\t');
-		if (cols[0] === '—') return 'Start - '+cols[1];
+		if (cols[0] === '\u2014') return 'Start - '+cols[1];
 		if (/^[0-9]+$/.test(cols[0])) return 'L'+parseInt(cols[0],10)+' - '+cols[1];
 		return '';
 	}).filter(function(row) {
