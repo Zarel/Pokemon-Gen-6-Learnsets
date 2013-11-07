@@ -185,7 +185,6 @@ TM - Dark Pulse
 TM - Confide
 TM - Cut
 TM - Strength
-Egg - Play Rough
 Egg - Double-Edge
 Egg - Curse
 Egg - Feint Attack
@@ -200,7 +199,7 @@ Egg - Punishment
 Egg - Sucker Punch
 Egg - Zen Headbutt
 Egg - Hex
-Egg - Rough Play
+Egg - Play Rough
 
 == Accelgor ==
 
@@ -1433,7 +1432,7 @@ Egg - Yawn
 Egg - Healing Wish
 Egg - Lucky Chant
 Egg - Bestow
-Egg - Drainng Kiss
+Egg - Draining Kiss
 
 == Aurorus ==
 
@@ -3857,7 +3856,7 @@ TM - Scald
 TM - Confide
 Egg - Crabhammer
 Egg - Helping Hand
-Egg - Enttertainment
+Egg - Entrainment
 
 == Clawitzer ==
 
@@ -4533,7 +4532,7 @@ Egg - Endure
 Egg - Ancient Power
 Egg - Iron Head
 Egg - Chip Away
-Egg - Rough Play
+Egg - Play Rough
 
 == Cyndaquil ==
 
