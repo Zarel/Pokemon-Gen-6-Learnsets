@@ -648,6 +648,7 @@ TM97 - Dark Pulse
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
+Egg - Quick Guard
 
 == Scyther ==
 
@@ -757,6 +758,8 @@ Egg - Swallow
 Egg - Signal Beam
 Egg - Icicle Spear
 Egg - Water Pulse
+Egg - Entrainment
+Egg - Belch
 
 == Seismitoad ==
 
@@ -952,6 +955,7 @@ Egg - Yawn
 Egg - Brine
 Egg - Trump Card
 Egg - Clear Smog
+Egg - Acid Armor
 
 == Shelmet ==
 
@@ -1401,6 +1405,8 @@ TM96 - Nature Power
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
+Egg - Rollout
+Egg - Defense Curl
 
 == Skiploom ==
 
@@ -1591,6 +1597,8 @@ TM - Confide
 Egg - Toxic Spikes
 Egg - Haze
 Egg - Venom Drench
+Egg - Play Rough
+Egg - Acid Armor
 
 == Skuntank ==
 
@@ -1864,8 +1872,9 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM92 - Trick Room
 TM100 - Confide
-Hm03 - Surf
+HM03 - Surf
 HM04 - Strength
+Egg - Belch
 
 == Slugma ==
 
@@ -2146,6 +2155,7 @@ Egg - Charm
 Egg - Pursuit
 Egg - Natural Gift
 Egg - After You
+Egg - Belch
 
 == Snorunt ==
 
@@ -2352,6 +2362,7 @@ Egg - Toxic Spikes
 Egg - Night Slash
 Egg - Rage Powder
 Egg - Electroweb
+Egg - Megahorn
 
 == Spinda ==
 
@@ -2443,6 +2454,8 @@ TM91 - Flash Cannon
 TM92 - Trick Room
 TM99 - Dazzling Gleam
 TM100 - Confide
+Egg - Refresh
+Egg - Wish
 Egg - Captivate
 Egg - Disable
 
@@ -2609,6 +2622,7 @@ Egg - Yawn
 Egg - Astonish
 Egg - Shock Wave
 Egg - Earth Power
+Egg - Eerie Impulse
 
 == Stunky ==
 
@@ -2624,6 +2638,7 @@ Egg - Astonish
 Egg - Punishment
 Egg - Flame Burst
 Egg - Foul Play
+Egg - Rough Play
 
 == Sudowoodo ==
 
@@ -2707,6 +2722,8 @@ Egg - Signal Beam
 Egg - Mud Shot
 Egg - Bug Bite
 Egg - Aqua Jet
+Egg - Power Split
+Egg - Fell Stinger
 
 == Swablu ==
 
@@ -2755,6 +2772,7 @@ Egg - Mud Shot
 Egg - Avalanche
 Egg - Stealth Rock
 Egg - Icicle Crash
+Egg - Freeze-Dry
 
 == Swirlix ==
 
@@ -2806,6 +2824,7 @@ TM - Confide
 Egg - Yawn
 Egg - After You
 Egg - Copycat
+Egg - Belly Drum
 
 == Swoobat ==
 
@@ -2969,6 +2988,7 @@ Egg - Fake Tears
 Egg - Close Combat
 Egg - Night Slash
 Egg - Chip Away
+Egg - Rough Play
 
 == Tentacool ==
 
@@ -3109,6 +3129,7 @@ Egg - Smelling Salts
 Egg - Force Palm
 Egg - Drain Punch
 Egg - Wide Guard
+Egg - Cross Chop
 
 == Tirtouga ==
 
@@ -3795,6 +3816,7 @@ Egg - Dragon Dance
 Egg - Ice Fang
 Egg - Thunder Fang
 Egg - Poison Fang
+Egg - Curse
 
 == Umbreon ==
 
@@ -4473,6 +4495,7 @@ Egg - Swallow
 Egg - Mud Sport
 Egg - Acid Spray
 Egg - After You
+Egg - Eerie Impulse
 
 == Wormadam ==
 
