@@ -3822,6 +3822,7 @@ Egg - Focus Punch
 Egg - Smelling Salts
 Egg - Revenge
 Egg - Close Combat
+Egg - Night Slash
 
 == Mantine ==
 

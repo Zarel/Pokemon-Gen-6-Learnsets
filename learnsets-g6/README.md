@@ -10,8 +10,9 @@ written one of these ways):
 
 	Start - [Start move]
 	L? - [Level-up move of unknown level]
-	L5 - [Level 5 level-up move]
-	TM - [TM or HM move]
+	L[number] - [Level-up move]
+	TM[number] - [TM move]
+	HM[number] - [HM move]
 	Tutor - [Move Tutor move]
 	Egg - [Egg move]
 	Event - [Event move]
