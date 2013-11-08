@@ -2245,6 +2245,7 @@ HM04 - Strength
 == Bayleef ==
 
 (Unreleased)
+Tutor - Grass Pledge
 
 == Beartic ==
 

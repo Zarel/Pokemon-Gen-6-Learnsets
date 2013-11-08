@@ -7431,6 +7431,8 @@ TM96 - Nature Power
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Tutor - Frenzy Plant
+Tutor - Grass Pledge
 
 == Vespiquen ==
 
@@ -8186,6 +8188,7 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
+Tutor - Water Pledge
 
 == Watchog ==
 
