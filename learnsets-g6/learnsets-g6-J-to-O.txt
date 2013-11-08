@@ -923,6 +923,7 @@ TM90 - Substitute
 TM91 - Flash Cannon
 TM99 - Dazzling Gleam
 TM100 - Confide
+HM01 - Cut
 Egg - Iron Defense
 Egg - Lock On
 
