@@ -4403,6 +4403,7 @@ Egg - Shock Wave
 Egg - Earth Power
 Egg - Eerie Impulse
 Egg - Reflect Type
+Egg - Me First
 
 == Stunky ==
 
