@@ -3108,6 +3108,8 @@ Egg - Dynamic Punch
 Egg - Iron Tail
 Egg - Cross Chop
 Egg - Flare Blitz
+Egg - Power Swap
+Egg - Belch
 
 == Magcargo ==
 

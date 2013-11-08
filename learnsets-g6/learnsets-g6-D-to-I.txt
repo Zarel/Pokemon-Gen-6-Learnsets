@@ -2921,6 +2921,7 @@ Egg - Leaf Blade
 Egg - Roost
 Egg - Trump Card
 Egg - Night Slash
+Egg - Simple Beam
 
 == Feebas ==
 
@@ -8146,6 +8147,7 @@ Egg - Dark Pulse
 Egg - Destiny Bond
 Egg - Camouflage
 Egg - Power Split
+Egg - Simple Beam
 
 == Ivysaur ==
 

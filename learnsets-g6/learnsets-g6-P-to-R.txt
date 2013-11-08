@@ -1958,6 +1958,7 @@ Egg - Refresh
 Egg - Secret Power
 Egg - Mud Bomb
 Egg - Synchronoise
+Egg - Simple Beam
 
 == Pumpkaboo ==
 
