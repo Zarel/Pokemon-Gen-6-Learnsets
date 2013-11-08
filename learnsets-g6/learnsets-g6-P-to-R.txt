@@ -136,6 +136,7 @@ TM32 - Double Team
 TM36 - Sludge Bomb
 TM39 - Rock Tomb
 TM40 - Aerial Ace
+TM41 - Torment
 TM42 - Facade
 TM44 - Rest
 TM45 - Attract

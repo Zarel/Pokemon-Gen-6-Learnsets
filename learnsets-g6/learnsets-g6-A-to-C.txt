@@ -4041,8 +4041,8 @@ TM32 - Double Team
 TM33 - Reflect
 TM37 - Sandstorm
 TM39 - Rock Tomb
+TM42 - Facade
 TM44 - Rest
-TM45 - Attract
 TM48 - Round
 TM64 - Explosion
 TM69 - Rock Polish

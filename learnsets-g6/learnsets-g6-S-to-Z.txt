@@ -5161,6 +5161,7 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM99 - Dazzling Gleam
 TM100 - Confide
+HM01 - Cut
 
 == Taillow ==
 
