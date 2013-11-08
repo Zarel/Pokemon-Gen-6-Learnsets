@@ -1688,6 +1688,7 @@ Egg - Flame Wheel
 Egg - Charm
 Egg - Morning Sun
 Egg - Captivate
+Egg - Ally Switch
 
 == Poochyena ==
 
