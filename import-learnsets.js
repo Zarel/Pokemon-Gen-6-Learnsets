@@ -110,7 +110,7 @@ for (var i=0; i<input.length; i++) {
 
 // Fill out gen 5 level-up and TM data for fallback
 for (var speciesid in Learnsets) {
-	if (!Learnsets[speciesid] || !Learnsets[speciesid].learnset) continue;
+	if (!Tools.getTemplate(speciesid).isUnreleased) continue;
 	var learnset = Learnsets[speciesid].learnset;
 	for (var moveid in learnset) {
 		if (LearnsetsG6[speciesid].learnset[moveid].length) continue;
