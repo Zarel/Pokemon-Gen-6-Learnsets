@@ -4476,6 +4476,7 @@ Egg - Perish Song
 Egg - Grudge
 Egg - Astonish
 Egg - Clear Smog
+Egg - Reflect Type
 
 == Gastrodon ==
 

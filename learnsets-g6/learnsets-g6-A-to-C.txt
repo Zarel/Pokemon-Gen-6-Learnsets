@@ -2519,6 +2519,7 @@ Egg - Worry Seed
 Egg - Power Whip
 Egg - Clear Smog
 Egg - Belch
+Egg - Acid Spray
 
 == Bergmite ==
 
