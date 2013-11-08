@@ -1,5 +1,5 @@
 // import learnsets
-// FROM: text in learnsets-g6 
+// FROM: text in learnsets-g6
 // TO: PS data/learnsets.js
 
 require("sugar");
@@ -68,7 +68,7 @@ for (var i=0; i<input.length; i++) {
 		continue;
 	}
 	var typeString = parts[0].toLowerCase().replace(/ /g,'').replace('.','');
- 
+
 	var type = '';
 	var level = '';
 	if (typeString.substr(0,2) in {tm:1,hm:1}) type = '6M';
@@ -128,7 +128,7 @@ for (var speciesid in Learnsets) {
 }
 
 var output = 'exports.BattleLearnsets = {\n';
- 
+
 for (var speciesid in Learnsets) {
 	var learnset = Learnsets[speciesid].learnset;
 	output += '	'+speciesid+':{learnset:{';
@@ -137,16 +137,16 @@ for (var speciesid in Learnsets) {
 	}).join(',');
 	output += '}},\n';
 }
- 
+
 output = output.substr(0, output.length-2)+'\n';
- 
+
 output += '};';
 
 fs.writeFileSync('data/learnsets.js', output);
 
 
 output = 'exports.BattleLearnsets = {\n';
- 
+
 for (var speciesid in LearnsetsG6) {
 	var learnset = LearnsetsG6[speciesid].learnset;
 	output += '	'+speciesid+':{learnset:{';
@@ -155,9 +155,9 @@ for (var speciesid in LearnsetsG6) {
 	}).join(',');
 	output += '}},\n';
 }
- 
+
 output = output.substr(0, output.length-2)+'\n';
- 
+
 output += '};';
 
 fs.writeFileSync('data/learnsets-g6.js', output);
