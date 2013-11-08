@@ -2682,13 +2682,11 @@ TM52 - Focus Blast
 TM55 - Scald
 TM56 - Fling
 TM59 - Incinerate
-TM60 - Quash
 TM68 - Giga Impact
 TM70 - Flash
 TM73 - Thunder Wave
 TM77 - Psych Up
 TM78 - Bulldoze
-TM82 - Dragon Tail
 TM85 - Dream Eater
 TM86 - Grass Knot
 TM87 - Swagger
