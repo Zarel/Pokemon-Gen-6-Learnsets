@@ -7916,6 +7916,7 @@ Egg - Mean Look
 Egg - Knock Off
 Egg - Fake Tears
 Egg - Roost
+Egg - Foul Play
 
 == Vulpix ==
 
@@ -8718,6 +8719,7 @@ Egg - Synchronoise
 Egg - Stored Power
 Egg - Psycho Shift
 Egg - Venom Drench
+Egg - Captivate
 
 == Wooper ==
 
