@@ -2139,6 +2139,7 @@ Egg - Yawn
 Egg - Fake Tears
 Egg - Covet
 Egg - Foul Play
+Egg - Copycat
 
 == Purugly ==
 
