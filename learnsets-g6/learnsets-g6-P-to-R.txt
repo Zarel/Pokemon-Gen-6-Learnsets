@@ -2139,6 +2139,7 @@ Egg - Yawn
 Egg - Fake Tears
 Egg - Covet
 Egg - Foul Play
+Egg - Copycat
 
 == Purugly ==
 
@@ -2335,13 +2336,13 @@ Tutor - Grass Pledge
 Start - Fell Stinger
 Start - Hydro Pump
 Start - Destiny Bond
-Start - Bubble
+Start - Water Gun
 Start - Spikes
 Start - Tackle
 Start - Poison Sting
 L9 - Harden
 L9 - Minimize
-L13 - Water Gun
+L13 - Bubble
 L17 - Rollout
 L21 - Toxic Spikes
 L25 - Stockpile
