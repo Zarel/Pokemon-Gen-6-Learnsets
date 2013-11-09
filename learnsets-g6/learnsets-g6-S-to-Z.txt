@@ -8526,7 +8526,7 @@ TM100 - Confide
 Egg - Take Down
 Egg - SmokeScreen
 Egg - Snore
-Egg - smellingsalts
+Egg - Smelling Salts
 Egg - Endeavor
 Egg - Fake Tears
 Egg - Extrasensory
