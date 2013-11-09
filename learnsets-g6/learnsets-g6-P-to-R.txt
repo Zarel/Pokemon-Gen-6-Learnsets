@@ -47,7 +47,7 @@ Egg - Tail Whip
 Egg - Bite
 Egg - Defense Curl
 Egg - Flail
-Egg - Rollout
+Egg - Roll Out
 Egg - Iron Tail
 Egg - Flatter
 Egg - Follow Me
@@ -365,7 +365,7 @@ HM01 - Cut
 Egg - Low Kick
 Egg - Role Play
 Egg - Astonish
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Tickle
 Egg - Bullet Seed
 Egg - Covet
@@ -783,7 +783,7 @@ Egg - Endure
 Egg - Charm
 Egg - Sweet Scent
 Egg - Ingrain
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Healing Wish
 Egg - Natural Gift
 Egg - Worry Seed
@@ -796,7 +796,7 @@ Start - Growl
 Start - Defense Curl
 L6 - Flail
 L10 - Take Down
-L15 - Rollout
+L15 - Roll Out
 L19 - Natural Gift
 L24 - Slam
 L28 - Endure
@@ -935,7 +935,7 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
-Egg - DoubleSlap
+Egg - Double Slap
 Egg - Thunder Punch
 Egg - Bide
 Egg - Flail
@@ -1379,7 +1379,7 @@ Egg - Flail
 Egg - Mud-Slap
 Egg - Icy Wind
 Egg - Yawn
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Mud Sport
 Egg - Aqua Ring
 Egg - Double Hit
@@ -1526,7 +1526,7 @@ TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
 Egg - Mist
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Haze
 Egg - Splash
 Egg - Mind Reader
@@ -1855,7 +1855,7 @@ L36 - Sandstorm
 L39 - Discharge
 L43 - Earth Power
 L46 - Stone Edge
-L50 - Lock-On
+L50 - Lock On
 L50 - Zap Cannon
 TM06 - Toxic
 TM10 - Hidden Power
@@ -2270,7 +2270,7 @@ Tutor - Fire Pledge
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Rollout
+L8 - Roll Out
 L11 - Bite
 L15 - Leech Seed
 L20 - Pin Missile
@@ -2342,7 +2342,7 @@ Start - Poison Sting
 L9 - Harden
 L9 - Minimize
 L13 - Water Gun
-L17 - Rollout
+L17 - Roll Out
 L21 - Toxic Spikes
 L25 - Stockpile
 L25 - Spit Up
@@ -2387,7 +2387,7 @@ TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
 Egg - Supersonic
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Haze
 Egg - Flail
 Egg - Astonish
@@ -2733,7 +2733,7 @@ Egg - Zen Headbutt
 == Remoraid ==
 
 Start - Water Gun
-L6 - Lock-On
+L6 - Lock On
 L10 - Psybeam
 L14 - Aurora Beam
 L18 - Bubble Beam
@@ -2800,10 +2800,10 @@ Tutor - Draco Meteor
 
 Start - Psywave
 Start - Reflect
-Start - Rollout
+Start - Roll Out
 Start - Snatch
 L3 - Reflect
-L7 - Rollout
+L7 - Roll Out
 L10 - Snatch
 L14 - Hidden Power
 L16 - Light Screen
@@ -3186,7 +3186,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Take Down
 Egg - Curse
-Egg - Lock-On
+Egg - Lock On
 Egg - Magnitude
 Egg - Rock Tomb
 Egg - Gravity
@@ -3249,7 +3249,7 @@ Egg - Cotton Spore
 Egg - Spikes
 Egg - Giga Drain
 Egg - Synthesis
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Natural Gift
 Egg - Seed Bomb
 Egg - Leaf Storm

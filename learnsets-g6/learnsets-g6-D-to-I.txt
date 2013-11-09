@@ -125,7 +125,7 @@ Egg - Baton Pass
 Egg - Synthesis
 Egg - Fake Tears
 Egg - Odor Sleuth
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Natural Gift
 Egg - Worry Seed
 
@@ -637,7 +637,7 @@ Start - Defense Curl
 Start - Bulldoze
 L6 - Rapid Spin
 L10 - Knock Off
-L15 - Rollout
+L15 - Roll Out
 L19 - Magnitude
 L24 - Slam
 L25 - Fury Attack
@@ -1469,7 +1469,7 @@ HM01 - Cut
 
 Start - Rage
 Start - Defense Curl
-L4 - Rollout
+L4 - Roll Out
 L7 - Spite
 L10 - Pursuit
 L13 - Screech
@@ -1546,10 +1546,10 @@ Egg - Hex
 
 Start - Psywave
 Start - Reflect
-Start - Rollout
+Start - Roll Out
 Start - Snatch
 L3 - Reflect
-L7 - Rollout
+L7 - Roll Out
 L10 - Snatch
 L14 - Hidden Power
 L16 - Light Screen
@@ -2279,7 +2279,7 @@ Start - Spark
 L5 - Tackle
 L8 - Eerie Impulse
 L12 - Spark
-L15 - Rollout
+L15 - Roll Out
 L19 - Screech
 L22 - Charge Beam
 L26 - Light Screen
@@ -2916,7 +2916,7 @@ Egg - Mud-Slap
 Egg - Foresight
 Egg - Steel Wing
 Egg - Revenge
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Covet
 Egg - Leaf Blade
 Egg - Roost
@@ -3010,7 +3010,7 @@ Tutor - Water Pledge
 
 Start - Tackle
 Start - Harden
-L6 - Rollout
+L6 - Roll Out
 L9 - Curse
 L14 - Metal Claw
 L18 - Pin Missile
@@ -3066,9 +3066,9 @@ Egg - Acid Spray
 Start - Rock Climb
 Start - Tackle
 Start - Harden
-Start - Rollout
+Start - Roll Out
 Start - Curse
-L6 - Rollout
+L6 - Roll Out
 L9 - Curse
 L14 - Metal Claw
 L18 - Pin Missile
@@ -3619,11 +3619,11 @@ TM96 - Nature Power
 TM100 - Confide
 Egg - Body Slam
 Egg - Growth
-Egg - PoisonPowder
+Egg - Poison Powder
 Egg - Stun Spore
 Egg - Defense Curl
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Gastro Acid
 
 == Forretress ==
@@ -4609,7 +4609,7 @@ L4 - Mud Sport
 L8 - Rock Polish
 L11 - Rock Throw
 L15 - Magnitude
-L18 - Rollout
+L18 - Roll Out
 L22 - Rock Blast
 L25 - Smack Down
 L29 - Self-Destruct
@@ -5453,7 +5453,7 @@ Start - Pound
 Start - Astonish
 Start - Defense Curl
 L5 - Mud-Slap
-L9 - Rollout
+L9 - Roll Out
 L13 - Shadow Punch
 L17 - Iron Defense
 L21 - Mega Punch
@@ -5508,7 +5508,7 @@ Start - Astonish
 Start - Defense Curl
 Start - Mud-Slap
 L5 - Mud-Slap
-L9 - Rollout
+L9 - Roll Out
 L13 - Shadow Punch
 L17 - Iron Defense
 L21 - Mega Punch
@@ -6043,7 +6043,7 @@ L4 - Mud Sport
 L8 - Rock Polish
 L11 - Rock Throw
 L15 - Magnitude
-L18 - Rollout
+L18 - Roll Out
 L22 - Rock Blast
 L27 - Smack Down
 L31 - Self-Destruct
@@ -7548,7 +7548,7 @@ Egg - Night Shade
 Egg - Mirror Move
 Egg - Sky Attack
 Egg - Feint Attack
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Defog
 
 == Hoppip ==

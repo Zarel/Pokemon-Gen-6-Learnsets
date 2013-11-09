@@ -217,7 +217,7 @@ Start - Scratch
 Start - Defense Curl
 L3 - Sand Attack
 L5 - Poison Sting
-L7 - Rollout
+L7 - Roll Out
 L9 - Rapid Spin
 L11 - Swift
 L14 - Fury Cutter
@@ -284,7 +284,7 @@ Start - Sand Attack
 Start - Poison Sting
 L3 - Sand Attack
 L5 - Poison Sting
-L7 - Rollout
+L7 - Roll Out
 L9 - Rapid Spin
 L11 - Swift
 L14 - Fury Cutter
@@ -527,7 +527,7 @@ HM04 - Strength
 
 Start - Megahorn
 Start - Defense Curl
-Start - Rollout
+Start - Roll Out
 Start - Poison Sting
 Start - Screech
 L5 - Poison Sting
@@ -586,15 +586,15 @@ HM04 - Strength
 Start - Low Kick
 Start - Leer
 Start - Sand Attack
-Start - Faint Attack
+Start - Feint Attack
 L5 - Sand Attack
-L9 - Faint Attack
+L9 - Feint Attack
 L12 - Headbutt
 L16 - Swagger
 L20 - Brick Break
 L23 - Payback
 L27 - Chip Away
-L31 - Hi Jump Kick
+L31 - High Jump Kick
 L34 - Scary Face
 L38 - Crunch
 L45 - Facade
@@ -1478,7 +1478,7 @@ TM100 - Confide
 HM03 - Surf
 Egg - Take Down
 Egg - Twineedle
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Screech
 Egg - Barrier
 Egg - Rapid Spin
@@ -1818,7 +1818,7 @@ Start - Sticky Web
 Start - Withdraw
 Start - Constrict
 Start - Bide
-Start - Rollout
+Start - Roll Out
 L5 - Encore
 L9 - Wrap
 L12 - Struggle Bug
@@ -2270,7 +2270,7 @@ TM96 - Nature Power
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
-Egg - Rollout
+Egg - Roll Out
 Egg - Defense Curl
 
 == Skiploom ==
@@ -2890,7 +2890,7 @@ TM100 - Confide
 Egg - Smokescreen
 Egg - Acid Armor
 Egg - Curse
-Egg - Rollout
+Egg - Roll Out
 Egg - Stockpile
 Egg - Spit Up
 Egg - Swallow
@@ -3131,7 +3131,7 @@ L25 - Body Slam
 L28 - Rest
 L28 - Snore
 L33 - Sleep Talk
-L36 - Rollout
+L36 - Roll Out
 L41 - Block
 L44 - Belly Drum
 L49 - Crunch
@@ -3232,7 +3232,7 @@ TM100 - Confide
 Egg - Disable
 Egg - Bide
 Egg - Spikes
-Egg - Rollout
+Egg - Roll Out
 Egg - Weather Ball
 Egg - Fake Tears
 Egg - Block
@@ -3373,7 +3373,7 @@ Egg - Fire Fang
 
 Start - Psywave
 L3 - Reflect
-L7 - Rollout
+L7 - Roll Out
 L10 - Snatch
 L14 - Hidden Power
 L16 - Light Screen
@@ -3545,7 +3545,7 @@ Egg - Scary Face
 Egg - Feint Attack
 Egg - Steel Wing
 Egg - Uproar
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Astonish
 
 == Spewpa ==
@@ -3599,7 +3599,7 @@ HM04 - Strength
 HM05 - Waterfall
 Egg - Fissure
 Egg - Curse
-Egg - Rollout
+Egg - Roll Out
 Egg - Sleep Talk
 Egg - Stockpile
 Egg - Spit Up
@@ -3656,7 +3656,7 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
 Egg - Twineedle
-Egg - SonicBoom
+Egg - Sonic Boom
 Egg - Disable
 Egg - Psybeam
 Egg - Baton Pass
@@ -3783,7 +3783,7 @@ TM90 - Substitute
 TM95 - Snarl
 TM97 - Dark Pulse
 TM100 - Confide
-Egg - SmokeScreen
+Egg - Smokescreen
 Egg - Nightmare
 Egg - Destiny Bond
 Egg - Pain Split
@@ -4530,10 +4530,10 @@ HM04 - Strength
 Egg - Headbutt
 Egg - Harden
 Egg - Defense Curl
-Egg - Selfdestruct
+Egg - Self-Destruct
 Egg - Curse
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Sand Tomb
 Egg - Stealth Rock
 
@@ -4643,7 +4643,7 @@ Egg - Morning Sun
 Egg - Nature Power
 Egg - Helping Hand
 Egg - Ingrain
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Natural Gift
 
 == Surskit ==
@@ -4747,7 +4747,7 @@ Egg - Rage
 Egg - Haze
 Egg - Steel Wing
 Egg - Pursuit
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Hyper Voice
 Egg - Roost
 Egg - Power Swap
@@ -5787,7 +5787,7 @@ Egg - Cross Chop
 Start - Bide
 Start - Withdraw
 Start - Water Gun
-L5 - Rollout
+L5 - Roll Out
 L8 - Bite
 L11 - Protect
 L15 - Aqua Jet
@@ -6079,7 +6079,7 @@ Egg - Reversal
 Egg - Endure
 Egg - Baton Pass
 Egg - Smelling Salts
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Crush Claw
 Egg - Feint
 Egg - Last Resort
@@ -6366,7 +6366,7 @@ Egg - Crunch
 Egg - Endeavor
 Egg - Mud Sport
 Egg - Crush Claw
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Bullet Seed
 Egg - Magical Leaf
 Egg - Natural Gift
@@ -6549,10 +6549,10 @@ TM97 - Dark Pulse
 TM100 - Confide
 Egg - Sand Attack
 Egg - Haze
-Egg - Selfdestruct
+Egg - Self-Destruct
 Egg - Curse
 Egg - Spikes
-Egg - Rollout
+Egg - Roll Out
 Egg - Mud Sport
 Egg - Rock Blast
 
@@ -7228,7 +7228,7 @@ HM05 - Waterfall
 == Venipede ==
 
 Start - Defense Curl
-Start - Rollout
+Start - Roll Out
 L5 - Poison Sting
 L8 - Screech
 L12 - Pursuit
@@ -7818,7 +7818,7 @@ L5 - Tackle
 L8 - Sonic Boom
 L10 - Eerie Impulse
 L12 - Spark
-L15 - Rollout
+L15 - Roll Out
 L19 - Screech
 L22 - Charge Beam
 L26 - Light Screen
@@ -7986,7 +7986,7 @@ Egg - Tail Slap
 Start - Splash
 L4 - Growl
 L7 - Water Gun
-L11 - Rollout
+L11 - Roll Out
 L14 - Whirlpool
 L17 - Astonish
 L21 - Water Pulse
@@ -8046,10 +8046,10 @@ Egg - Clear Smog
 Start - Splash
 Start - Growl
 Start - Water Gun
-Start - Rollout
+Start - Roll Out
 L4 - Growl
 L7 - Water Gun
-L11 - Rollout
+L11 - Roll Out
 L14 - Whirlpool
 L17 - Astonish
 L21 - Water Pulse
@@ -8388,7 +8388,7 @@ HM01 - Cut
 == Whirlipede ==
 
 Start - Defense Curl
-Start - Rollout
+Start - Roll Out
 Start - Poison Sting
 Start - Screech
 L5 - Poison Sting
@@ -8524,7 +8524,7 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
 Egg - Take Down
-Egg - SmokeScreen
+Egg - Smokescreen
 Egg - Snore
 Egg - Smelling Salts
 Egg - Endeavor

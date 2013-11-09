@@ -10,7 +10,7 @@ L7 - Pound
 L10 - Play Nice
 L13 - Disable
 L17 - Round
-L21 - Rollout
+L21 - Roll Out
 L25 - Double Slap
 L29 - Rest
 L33 - Body Slam
@@ -331,7 +331,7 @@ TM94 - Rock Smash
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Aurora Beam
 Egg - Screech
 Egg - Confuse Ray
@@ -848,7 +848,7 @@ L40 - Screech
 L44 - Discharge
 L48 - Metal Sound
 L52 - Shift Gear
-L56 - Lock-On
+L56 - Lock On
 L60 - Zap Cannon
 L64 - Hyper Beam
 TM06 - Toxic
@@ -941,7 +941,7 @@ L39 - Screech
 L42 - Discharge
 L45 - Metal Sound
 L48 - Shift Gear
-L50 - Lock-On
+L50 - Lock On
 L54 - Zap Cannon
 L57 - Hyper Beam
 TM06 - Toxic
@@ -984,7 +984,7 @@ L40 - Screech
 L44 - Discharge
 L48 - Metal Sound
 L54 - Shift Gear
-L60 - Lock-On
+L60 - Lock On
 L66 - Zap Cannon
 L72 - Hyper Beam
 L76 - Magnetic Flux
@@ -1489,7 +1489,7 @@ Egg - Tickle
 Egg - Dragon Dance
 Egg - Dragon Pulse
 Egg - Avalanche
-Egg - Freeze Dry
+Egg - Freeze-Dry
 
 == Larvesta ==
 
@@ -1852,7 +1852,7 @@ L17 - Wrap
 L21 - Stomp
 L25 - Disable
 L29 - Slam
-L33 - Rollout
+L33 - Roll Out
 L37 - Chip Away
 L41 - Me First
 L45 - Refresh
@@ -1920,7 +1920,7 @@ L17 - Wrap
 L21 - Stomp
 L25 - Disable
 L29 - Slam
-L33 - Rollout
+L33 - Roll Out
 L37 - Chip Away
 L41 - Me First
 L45 - Refresh
@@ -3306,7 +3306,7 @@ L32 - Electro Ball
 L35 - Flash Cannon
 L39 - Screech
 L43 - Discharge
-L46 - Lock-On
+L46 - Lock On
 L49 - Magnet Rise
 L53 - Gyro Ball
 L57 - Zap Cannon
@@ -3359,7 +3359,7 @@ L34 - Electro Ball
 L39 - Flash Cannon
 L45 - Screech
 L51 - Discharge
-L56 - Lock-On
+L56 - Lock On
 L62 - Magnet Rise
 L67 - Gyro Ball
 L73 - Zap Cannon
@@ -3415,7 +3415,7 @@ L34 - Electro Ball
 L39 - Flash Cannon
 L45 - Screech
 L51 - Discharge
-L56 - Lock-On
+L56 - Lock On
 L62 - Magnet Rise
 L67 - Gyro Ball
 L73 - Zap Cannon
@@ -3992,7 +3992,7 @@ TM96 - Nature Power
 TM100 - Confide
 Egg - Leech Seed
 Egg - Spikes
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Bullet Seed
 Egg - Bounce
 Egg - Worry Seed
@@ -4061,7 +4061,7 @@ L2 - Tail Whip
 L5 - Water Sport
 L7 - Water Gun
 L10 - Defense Curl
-L10 - Rollout
+L10 - Roll Out
 L13 - Bubble Beam
 L16 - Helping Hand
 L20 - Aqua Tail
@@ -5119,7 +5119,7 @@ L5 - Defense Curl
 L8 - Stomp
 L11 - Milk Drink
 L15 - Bide
-L19 - Rollout
+L19 - Roll Out
 L24 - Body Slam
 L29 - Zen Headbutt
 L35 - Captivate
@@ -5688,7 +5688,7 @@ L20 - Screech
 L25 - Body Slam
 L28 - Stockpile
 L33 - Swallow
-L36 - Rollout
+L36 - Roll Out
 L41 - Fling
 L44 - Belly Drum
 L49 - Natural Gift
@@ -5735,7 +5735,7 @@ HM04 - Strength
 Egg - Whirlwind
 Egg - Double-Edge
 Egg - Counter
-Egg - Selfdestruct
+Egg - Self-Destruct
 Egg - Lick
 Egg - Curse
 Egg - Charm
@@ -5798,7 +5798,7 @@ TM90 - Substitute
 TM92 - Trick Room
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - SonicBoom
+Egg - Sonic Boom
 Egg - Barrier
 Egg - Swift
 Egg - Curse
@@ -5870,7 +5870,7 @@ Egg - Mirror Move
 Egg - Sky Attack
 Egg - Feint Attack
 Egg - Perish Song
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Roost
 Egg - Assurance
 Egg - Psycho Shift
@@ -5979,7 +5979,7 @@ Egg - Feint Attack
 Egg - Steel Wing
 Egg - Skill Swap
 Egg - Refresh
-Egg - FeatherDance
+Egg - Feather Dance
 Egg - Roost
 Egg - Sucker Punch
 Egg - Zen Headbutt
@@ -6670,7 +6670,7 @@ L36 - Sandstorm
 L39 - Discharge
 L43 - Earth Power
 L46 - Stone Edge
-L50 - Lock-On
+L50 - Lock On
 L50 - Zap Cannon
 TM06 - Toxic
 TM10 - Hidden Power
@@ -6707,7 +6707,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Double-Edge
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Magnitude
 Egg - Block
 Egg - Stealth Rock
@@ -6765,7 +6765,7 @@ Egg - Body Slam
 Egg - Defense Curl
 Egg - Scary Face
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Ancient Power
 Egg - Stockpile
 Egg - Spit Up
@@ -6949,7 +6949,7 @@ Start - Constrict
 Start - Withdraw
 L7 - Bite
 L10 - Water Gun
-L16 - Rollout
+L16 - Roll Out
 L19 - Leer
 L25 - Mud Shot
 L28 - Brine
@@ -6990,7 +6990,7 @@ HM03 - Surf
 HM05 - Waterfall
 Egg - Slam
 Egg - Supersonic
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Aurora Beam
 Egg - Haze
 Egg - Bide
@@ -7011,7 +7011,7 @@ Start - Withdraw
 Start - Bite
 L7 - Bite
 L10 - Water Gun
-L16 - Rollout
+L16 - Roll Out
 L19 - Leer
 L25 - Mud Shot
 L28 - Brine
@@ -7116,7 +7116,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Defense Curl
 Egg - Flail
-Egg - Rollout
+Egg - Roll Out
 Egg - Block
 Egg - Rock Blast
 Egg - Rock Climb

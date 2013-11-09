@@ -504,7 +504,7 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
-Egg - DoubleSlap
+Egg - Double Slap
 Egg - Slam
 Egg - Counter
 Egg - Agility
@@ -1787,7 +1787,7 @@ L2 - Tail Whip
 L5 - Water Sport
 L7 - Water Gun
 L10 - Defense Curl
-L10 - Rollout
+L10 - Roll Out
 L13 - Bubble Beam
 L16 - Helping Hand
 L21 - Aqua Tail
@@ -2172,7 +2172,7 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 HM05 - Waterfall
-Egg - BubbleBeam
+Egg - Bubble Beam
 Egg - Agility
 Egg - Rage
 Egg - Swift
@@ -2576,7 +2576,7 @@ Start - Tackle
 Start - Growl
 L5 - Growl
 L9 - Defense Curl
-L13 - Rollout
+L13 - Roll Out
 L15 - Water Gun
 L18 - Headbutt
 L23 - Hyper Fang
@@ -2631,7 +2631,7 @@ HM05 - Waterfall
 Start - Tackle
 L5 - Growl
 L9 - Defense Curl
-L13 - Rollout
+L13 - Roll Out
 L17 - Headbutt
 L21 - Hyper Fang
 L25 - Yawn
@@ -2677,7 +2677,7 @@ Egg - Defense Curl
 Egg - Skull Bash
 Egg - Fury Swipes
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Sleep Talk
 Egg - Odor Sleuth
 Egg - Water Sport
@@ -3152,10 +3152,10 @@ L40 - Double-Edge
 Egg - Headbutt
 Egg - Harden
 Egg - Defense Curl
-Egg - Selfdestruct
+Egg - Self-Destruct
 Egg - Curse
 Egg - Endure
-Egg - Rollout
+Egg - Roll Out
 Egg - Sand Tomb
 Egg - Stealth Rock
 TM04 - Calm Mind
@@ -3539,7 +3539,7 @@ Egg - Cotton Spore
 Egg - Spikes
 Egg - Giga Drain
 Egg - Synthesis
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Extrasensory
 Egg - Natural Gift
 Egg - Seed Bomb
@@ -3590,7 +3590,7 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
-Egg - DoubleSlap
+Egg - Double Slap
 Egg - Headbutt
 Egg - Fury Swipes
 Egg - Slash
@@ -3660,7 +3660,7 @@ Egg - Endure
 Egg - Charm
 Egg - Nature Power
 Egg - Ingrain
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Magical Leaf
 Egg - Leaf Storm
 Egg - Power Whip
@@ -3863,7 +3863,7 @@ Egg - Counter
 Egg - Dynamic Punch
 Egg - Smelling Salts
 Egg - Teeter Dance
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Block
 Egg - Magical Leaf
 Egg - Worry Seed
@@ -4099,7 +4099,7 @@ Egg - Stun Spore
 Egg - Sleep Powder
 Egg - Giga Drain
 Egg - Synthesis
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Magical Leaf
 Egg - Worry Seed
 Egg - Rage Powder
@@ -4109,8 +4109,8 @@ Egg - Rage Powder
 Start - Bide
 Start - Withdraw
 Start - Water Gun
-Start - Rollout
-L5 - Rollout
+Start - Roll Out
+L5 - Roll Out
 L8 - Bite
 L11 - Protect
 L15 - Aqua Jet
@@ -4629,12 +4629,12 @@ Egg - Boomburst
 
 Egg - Razor Leaf
 Egg - Defense Curl
-Egg - Rollout
+Egg - Roll Out
 Egg - Sweet Scent
 Egg - Nature Power
 Egg - Weather Ball
 Egg - Aromatherapy
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Tickle
 Egg - Healing Wish
 Egg - Natural Gift
@@ -4649,7 +4649,7 @@ Start - Belly Drum
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Rollout
+L8 - Roll Out
 L11 - Bite
 L15 - Leech Seed
 L20 - Pin Missile
@@ -4724,7 +4724,7 @@ Tutor - Grass Pledge
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Rollout
+L8 - Roll Out
 L11 - Bite
 L15 - Leech Seed
 L18 - Pin Missile
@@ -4801,7 +4801,7 @@ Egg - Nature Power
 Egg - Ingrain
 Egg - Refresh
 Egg - Aromatherapy
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Wring Out
 Egg - Leaf Storm
 Egg - Heal Pulse
@@ -5690,7 +5690,7 @@ Egg - Encore
 Egg - Beat Up
 Egg - Memento
 Egg - Fake Tears
-Egg - GrassWhistle
+Egg - Grass Whistle
 Egg - Tickle
 Egg - Natural Gift
 Egg - Worry Seed
