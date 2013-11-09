@@ -4731,111 +4731,111 @@ L7 - Harden
 (Unreleased)
 
 L? - Transform
-TM - Swords Dance
-TM - Cut
-TM - Fly
-TM - Roar
-TM - Flamethrower
-TM - Surf
-TM - Ice Beam
-TM - Blizzard
-TM - Hyper Beam
-TM - Strength
-TM - SolarBeam
-TM - Thunderbolt
-TM - Thunder Wave
-TM - Thunder
-TM - Earthquake
-TM - Dig
-TM - Toxic
-TM - Psychic
-TM - Double Team
-TM - Light Screen
-TM - Reflect
-TM - Fire Blast
-TM - Waterfall
-TM - Dream Eater
-TM - Flash
-TM - Explosion
-TM - Rest
-TM - Rock Slide
-TM - Substitute
-TM - Thief
-TM - Protect
-TM - Sludge Bomb
-TM - Sandstorm
-TM - False Swipe
-TM - Swagger
-TM - Steel Wing
-TM - Attract
-TM - Sleep Talk
-TM - Return
-TM - Frustration
-TM - Safeguard
-TM - Hidden Power
-TM - Rain Dance
-TM - Sunny Day
-TM - Psych Up
-TM - Shadow Ball
-TM - Rock Smash
-TM - Hail
-TM - Torment
-TM - Will-O-Wisp
-TM - Facade
-TM - Nature Power
-TM - Taunt
-TM - Brick Break
-TM - Overheat
-TM - Rock Tomb
-TM - Aerial Ace
-TM - Dragon Claw
-TM - Bulk Up
-TM - Calm Mind
-TM - Roost
-TM - Gyro Ball
-TM - U-turn
-TM - Payback
-TM - Embargo
-TM - Fling
-TM - Rock Polish
-TM - Poison Jab
-TM - Dark Pulse
-TM - X-Scissor
-TM - Focus Blast
-TM - Energy Ball
-TM - Giga Impact
-TM - Shadow Claw
-TM - Flash Cannon
-TM - Trick Room
-TM - Stone Edge
-TM - Grass Knot
-TM - Charge Beam
-TM - Hone Claws
-TM - Psyshock
-TM - Venoshock
-TM - Smack Down
-TM - Sludge Wave
-TM - Flame Charge
-TM - Low Sweep
-TM - Round
-TM - Echoed Voice
-TM - Scald
-TM - Sky Drop
-TM - Incinerate
-TM - Quash
-TM - Acrobatics
-TM - Retaliate
-TM - Volt Switch
-TM - Struggle Bug
-TM - Bulldoze
-TM - Frost Breath
-TM - Dragon Tail
-TM - Wild Charge
-TM - Snarl
-TM - Dazzling Gleam
-TM - Infestation
-TM - Confide
-TM - Power-Up Punch
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM03 - Psyshock
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM08 - Bulk Up
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM34 - Sludge Wave
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM47 - Low Sweep
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM51 - Steel Wing
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM54 - False Swipe
+TM55 - Scald
+TM56 - Fling
+TM57 - Charge Beam
+TM58 - Sky Drop
+TM59 - Incinerate
+TM60 - Quash
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM63 - Embargo
+TM64 - Explosion
+TM65 - Shadow Claw
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM70 - Flash
+TM71 - Stone Edge
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM77 - Psych Up
+TM78 - Bulldoze
+TM79 - Frost Breath
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM82 - Dragon Tail
+TM83 - Infestation
+TM84 - Poison Jab
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM91 - Flash Cannon
+TM92 - Trick Room
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM96 - Nature Power
+TM97 - Dark Pulse
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 
 == Mewtwo ==
 
