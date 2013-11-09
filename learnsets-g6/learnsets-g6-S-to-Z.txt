@@ -7744,7 +7744,6 @@ Egg - Encore
 Egg - Trick
 Egg - Silver Wind
 Egg - Bug Buzz
-Egg - Play Nice
 
 == Volcarona ==
 
