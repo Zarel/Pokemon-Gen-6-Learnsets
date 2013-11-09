@@ -1777,8 +1777,6 @@ Egg - Dragon Pulse
 
 (Unreleased)
 
-TM - U-turn
-
 == Azumarill ==
 
 Start - Tackle
@@ -3756,17 +3754,6 @@ L15 - Bug Bite
 L20 - Hidden Power
 TM10 - Hidden Power
 TM17 - Protect
-TM - Toxic
-TM - Venoshock
-TM - Sunny Day
-TM - Protect
-TM - Rain Dance
-TM - Return
-TM - Flash
-TM - Attract
-TM - Flash
-TM - Struggle Bug
-TM - Infestation
 
 == Butterfree ==
 
@@ -5426,12 +5413,6 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
 HM03 - Surf
-TM - Toxic
-TM - Protect
-TM - Frustration
-TM - Return
-TM - Attract
-TM - Surf
 
 == Cobalion ==
 
