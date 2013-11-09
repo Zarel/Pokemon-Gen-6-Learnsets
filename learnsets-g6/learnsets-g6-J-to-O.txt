@@ -3053,6 +3053,7 @@ Egg - Close Combat
 Egg - Power Trick
 Egg - Bullet Punch
 Egg - Heavy Slam
+Egg - Quick Guard
 
 == Magby ==
 
@@ -4442,6 +4443,7 @@ Egg - Quick Guard
 == Meganium ==
 
 (Unreleased)
+L? - Petal Blizzard
 Tutor - Frenzy Plant
 Tutor - Grass Pledge
 

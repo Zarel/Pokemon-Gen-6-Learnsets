@@ -454,6 +454,8 @@ Start - String Shot
 L6 - Stun Spore
 L15 - Bug Bite
 Egg - Rage Powder
+Egg - Poison Powder
+Egg - Stun Spore
 
 == Sceptile ==
 
@@ -8036,6 +8038,7 @@ Egg - Tickle
 Egg - Aqua Ring
 Egg - Zen Headbutt
 Egg - Soak
+Egg - Clear Smog
 
 == Wailord ==
 
