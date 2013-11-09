@@ -10,7 +10,7 @@ L7 - Pound
 L10 - Play Nice
 L13 - Disable
 L17 - Round
-L21 - Roll Out
+L21 - Rollout
 L25 - Double Slap
 L29 - Rest
 L33 - Body Slam
@@ -1852,7 +1852,7 @@ L17 - Wrap
 L21 - Stomp
 L25 - Disable
 L29 - Slam
-L33 - Roll Out
+L33 - Rollout
 L37 - Chip Away
 L41 - Me First
 L45 - Refresh
@@ -1920,7 +1920,7 @@ L17 - Wrap
 L21 - Stomp
 L25 - Disable
 L29 - Slam
-L33 - Roll Out
+L33 - Rollout
 L37 - Chip Away
 L41 - Me First
 L45 - Refresh
@@ -4061,7 +4061,7 @@ L2 - Tail Whip
 L5 - Water Sport
 L7 - Water Gun
 L10 - Defense Curl
-L10 - Roll Out
+L10 - Rollout
 L13 - Bubble Beam
 L16 - Helping Hand
 L20 - Aqua Tail
@@ -5119,7 +5119,7 @@ L5 - Defense Curl
 L8 - Stomp
 L11 - Milk Drink
 L15 - Bide
-L19 - Roll Out
+L19 - Rollout
 L24 - Body Slam
 L29 - Zen Headbutt
 L35 - Captivate
@@ -5688,7 +5688,7 @@ L20 - Screech
 L25 - Body Slam
 L28 - Stockpile
 L33 - Swallow
-L36 - Roll Out
+L36 - Rollout
 L41 - Fling
 L44 - Belly Drum
 L49 - Natural Gift
@@ -6707,7 +6707,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Double-Edge
 Egg - Endure
-Egg - Roll Out
+Egg - Rollout
 Egg - Magnitude
 Egg - Block
 Egg - Stealth Rock
@@ -6765,7 +6765,7 @@ Egg - Body Slam
 Egg - Defense Curl
 Egg - Scary Face
 Egg - Endure
-Egg - Roll Out
+Egg - Rollout
 Egg - Ancient Power
 Egg - Stockpile
 Egg - Spit Up
@@ -6949,7 +6949,7 @@ Start - Constrict
 Start - Withdraw
 L7 - Bite
 L10 - Water Gun
-L16 - Roll Out
+L16 - Rollout
 L19 - Leer
 L25 - Mud Shot
 L28 - Brine
@@ -7011,7 +7011,7 @@ Start - Withdraw
 Start - Bite
 L7 - Bite
 L10 - Water Gun
-L16 - Roll Out
+L16 - Rollout
 L19 - Leer
 L25 - Mud Shot
 L28 - Brine
@@ -7116,7 +7116,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Defense Curl
 Egg - Flail
-Egg - Roll Out
+Egg - Rollout
 Egg - Block
 Egg - Rock Blast
 Egg - Rock Climb

@@ -47,7 +47,7 @@ Egg - Tail Whip
 Egg - Bite
 Egg - Defense Curl
 Egg - Flail
-Egg - Roll Out
+Egg - Rollout
 Egg - Iron Tail
 Egg - Flatter
 Egg - Follow Me
@@ -796,7 +796,7 @@ Start - Growl
 Start - Defense Curl
 L6 - Flail
 L10 - Take Down
-L15 - Roll Out
+L15 - Rollout
 L19 - Natural Gift
 L24 - Slam
 L28 - Endure
@@ -2270,7 +2270,7 @@ Tutor - Fire Pledge
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Roll Out
+L8 - Rollout
 L11 - Bite
 L15 - Leech Seed
 L20 - Pin Missile
@@ -2342,7 +2342,7 @@ Start - Poison Sting
 L9 - Harden
 L9 - Minimize
 L13 - Water Gun
-L17 - Roll Out
+L17 - Rollout
 L21 - Toxic Spikes
 L25 - Stockpile
 L25 - Spit Up
@@ -2800,10 +2800,10 @@ Tutor - Draco Meteor
 
 Start - Psywave
 Start - Reflect
-Start - Roll Out
+Start - Rollout
 Start - Snatch
 L3 - Reflect
-L7 - Roll Out
+L7 - Rollout
 L10 - Snatch
 L14 - Hidden Power
 L16 - Light Screen

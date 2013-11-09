@@ -217,7 +217,7 @@ Start - Scratch
 Start - Defense Curl
 L3 - Sand Attack
 L5 - Poison Sting
-L7 - Roll Out
+L7 - Rollout
 L9 - Rapid Spin
 L11 - Swift
 L14 - Fury Cutter
@@ -284,7 +284,7 @@ Start - Sand Attack
 Start - Poison Sting
 L3 - Sand Attack
 L5 - Poison Sting
-L7 - Roll Out
+L7 - Rollout
 L9 - Rapid Spin
 L11 - Swift
 L14 - Fury Cutter
@@ -527,7 +527,7 @@ HM04 - Strength
 
 Start - Megahorn
 Start - Defense Curl
-Start - Roll Out
+Start - Rollout
 Start - Poison Sting
 Start - Screech
 L5 - Poison Sting
@@ -1818,7 +1818,7 @@ Start - Sticky Web
 Start - Withdraw
 Start - Constrict
 Start - Bide
-Start - Roll Out
+Start - Rollout
 L5 - Encore
 L9 - Wrap
 L12 - Struggle Bug
@@ -2270,7 +2270,7 @@ TM96 - Nature Power
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
-Egg - Roll Out
+Egg - Rollout
 Egg - Defense Curl
 
 == Skiploom ==
@@ -2890,7 +2890,7 @@ TM100 - Confide
 Egg - Smokescreen
 Egg - Acid Armor
 Egg - Curse
-Egg - Roll Out
+Egg - Rollout
 Egg - Stockpile
 Egg - Spit Up
 Egg - Swallow
@@ -3131,7 +3131,7 @@ L25 - Body Slam
 L28 - Rest
 L28 - Snore
 L33 - Sleep Talk
-L36 - Roll Out
+L36 - Rollout
 L41 - Block
 L44 - Belly Drum
 L49 - Crunch
@@ -3232,7 +3232,7 @@ TM100 - Confide
 Egg - Disable
 Egg - Bide
 Egg - Spikes
-Egg - Roll Out
+Egg - Rollout
 Egg - Weather Ball
 Egg - Fake Tears
 Egg - Block
@@ -3373,7 +3373,7 @@ Egg - Fire Fang
 
 Start - Psywave
 L3 - Reflect
-L7 - Roll Out
+L7 - Rollout
 L10 - Snatch
 L14 - Hidden Power
 L16 - Light Screen
@@ -3599,7 +3599,7 @@ HM04 - Strength
 HM05 - Waterfall
 Egg - Fissure
 Egg - Curse
-Egg - Roll Out
+Egg - Rollout
 Egg - Sleep Talk
 Egg - Stockpile
 Egg - Spit Up
@@ -4533,7 +4533,7 @@ Egg - Defense Curl
 Egg - Self-Destruct
 Egg - Curse
 Egg - Endure
-Egg - Roll Out
+Egg - Rollout
 Egg - Sand Tomb
 Egg - Stealth Rock
 
@@ -5787,7 +5787,7 @@ Egg - Cross Chop
 Start - Bide
 Start - Withdraw
 Start - Water Gun
-L5 - Roll Out
+L5 - Rollout
 L8 - Bite
 L11 - Protect
 L15 - Aqua Jet
@@ -6552,7 +6552,7 @@ Egg - Haze
 Egg - Self-Destruct
 Egg - Curse
 Egg - Spikes
-Egg - Roll Out
+Egg - Rollout
 Egg - Mud Sport
 Egg - Rock Blast
 
@@ -7228,7 +7228,7 @@ HM05 - Waterfall
 == Venipede ==
 
 Start - Defense Curl
-Start - Roll Out
+Start - Rollout
 L5 - Poison Sting
 L8 - Screech
 L12 - Pursuit
@@ -7818,7 +7818,7 @@ L5 - Tackle
 L8 - Sonic Boom
 L10 - Eerie Impulse
 L12 - Spark
-L15 - Roll Out
+L15 - Rollout
 L19 - Screech
 L22 - Charge Beam
 L26 - Light Screen
@@ -7986,7 +7986,7 @@ Egg - Tail Slap
 Start - Splash
 L4 - Growl
 L7 - Water Gun
-L11 - Roll Out
+L11 - Rollout
 L14 - Whirlpool
 L17 - Astonish
 L21 - Water Pulse
@@ -8046,10 +8046,10 @@ Egg - Clear Smog
 Start - Splash
 Start - Growl
 Start - Water Gun
-Start - Roll Out
+Start - Rollout
 L4 - Growl
 L7 - Water Gun
-L11 - Roll Out
+L11 - Rollout
 L14 - Whirlpool
 L17 - Astonish
 L21 - Water Pulse
@@ -8388,7 +8388,7 @@ HM01 - Cut
 == Whirlipede ==
 
 Start - Defense Curl
-Start - Roll Out
+Start - Rollout
 Start - Poison Sting
 Start - Screech
 L5 - Poison Sting

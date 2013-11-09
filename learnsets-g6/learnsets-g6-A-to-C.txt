@@ -1787,7 +1787,7 @@ L2 - Tail Whip
 L5 - Water Sport
 L7 - Water Gun
 L10 - Defense Curl
-L10 - Roll Out
+L10 - Rollout
 L13 - Bubble Beam
 L16 - Helping Hand
 L21 - Aqua Tail
@@ -2576,7 +2576,7 @@ Start - Tackle
 Start - Growl
 L5 - Growl
 L9 - Defense Curl
-L13 - Roll Out
+L13 - Rollout
 L15 - Water Gun
 L18 - Headbutt
 L23 - Hyper Fang
@@ -2631,7 +2631,7 @@ HM05 - Waterfall
 Start - Tackle
 L5 - Growl
 L9 - Defense Curl
-L13 - Roll Out
+L13 - Rollout
 L17 - Headbutt
 L21 - Hyper Fang
 L25 - Yawn
@@ -2677,7 +2677,7 @@ Egg - Defense Curl
 Egg - Skull Bash
 Egg - Fury Swipes
 Egg - Endure
-Egg - Roll Out
+Egg - Rollout
 Egg - Sleep Talk
 Egg - Odor Sleuth
 Egg - Water Sport
@@ -3155,7 +3155,7 @@ Egg - Defense Curl
 Egg - Self-Destruct
 Egg - Curse
 Egg - Endure
-Egg - Roll Out
+Egg - Rollout
 Egg - Sand Tomb
 Egg - Stealth Rock
 TM04 - Calm Mind
@@ -3743,7 +3743,7 @@ HM01 - Cut
 HM03 - Surf
 HM04 - Strength
 Egg - Defense Curl
-Egg - Roll Out
+Egg - Rollout
 Egg - Spikes
 
 == Burmy ==
@@ -4109,8 +4109,8 @@ Egg - Rage Powder
 Start - Bide
 Start - Withdraw
 Start - Water Gun
-Start - Roll Out
-L5 - Roll Out
+Start - Rollout
+L5 - Rollout
 L8 - Bite
 L11 - Protect
 L15 - Aqua Jet
@@ -4629,7 +4629,7 @@ Egg - Boomburst
 
 Egg - Razor Leaf
 Egg - Defense Curl
-Egg - Roll Out
+Egg - Rollout
 Egg - Sweet Scent
 Egg - Nature Power
 Egg - Weather Ball
@@ -4649,7 +4649,7 @@ Start - Belly Drum
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Roll Out
+L8 - Rollout
 L11 - Bite
 L15 - Leech Seed
 L20 - Pin Missile
@@ -4724,7 +4724,7 @@ Tutor - Grass Pledge
 Start - Tackle
 Start - Growl
 L5 - Vine Whip
-L8 - Roll Out
+L8 - Rollout
 L11 - Bite
 L15 - Leech Seed
 L18 - Pin Missile
