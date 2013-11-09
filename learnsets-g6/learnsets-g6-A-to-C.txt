@@ -5681,6 +5681,7 @@ Egg - Icicle Spear
 Egg - Water Pulse
 Egg - Aqua Ring
 Egg - Head Smash
+Egg - Camouflage
 
 == Cottonee ==
 
