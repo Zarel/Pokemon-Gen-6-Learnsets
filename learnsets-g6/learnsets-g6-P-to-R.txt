@@ -674,6 +674,7 @@ Egg - Revenge
 Egg - Sucker Punch
 Egg - Psycho Cut
 Egg - Stealth Rock
+Egg - Quick Guard
 
 == Pelipper ==
 
@@ -1961,6 +1962,7 @@ Egg - Secret Power
 Egg - Mud Bomb
 Egg - Synchronoise
 Egg - Simple Beam
+Egg - Clear Smog
 
 == Pumpkaboo ==
 
