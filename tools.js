@@ -1,3 +1,4 @@
+require('sugar');
 global.toId = function(text) {
         if (text && text.id) text = text.id;
         else if (text && text.userid) text = text.userid;
