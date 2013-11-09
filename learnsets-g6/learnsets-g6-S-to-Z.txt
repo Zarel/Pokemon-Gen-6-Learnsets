@@ -5842,6 +5842,7 @@ Egg - Whirlpool
 Egg - Knock Off
 Egg - Iron Defense
 Egg - Water Pulse
+Egg - Guard Swap
 
 == Togekiss ==
 
@@ -8779,6 +8780,7 @@ Egg - Mud Sport
 Egg - Acid Spray
 Egg - After You
 Egg - Eerie Impulse
+Egg - Guard Swap
 
 == Wormadam ==
 
