@@ -2463,6 +2463,7 @@ Tutor - Water Pledge
 == Entei ==
 
 (Unreleased)
+L? - Sacred Fire
 
 == Escavalier ==
 
@@ -7433,6 +7434,8 @@ TM91 - Flash Cannon
 TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
+Egg - Metal Sound
+Egg - Shadow Sneak
 
 == Ho-Oh ==
 
@@ -7606,6 +7609,7 @@ Egg - Aromatherapy
 Egg - Worry Seed
 Egg - Seed Bomb
 Egg - Cotton Guard
+Egg - Grassy Terrain
 
 == Horsea ==
 
