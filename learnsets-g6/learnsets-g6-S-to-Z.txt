@@ -2630,7 +2630,7 @@ TM90 - Substitute
 TM100 - Confide
 Tutor - Draco Meteor
 
-== Slowbro =
+== Slowbro ==
 
 Start - Heal Pulse
 Start - Curse
