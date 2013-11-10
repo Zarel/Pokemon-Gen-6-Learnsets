@@ -275,6 +275,7 @@ Egg - Mud Shot
 Egg - Night Slash
 Egg - Rock Climb
 Egg - Chip Away
+Egg - Rototiller
 
 == Sandslash ==
 
