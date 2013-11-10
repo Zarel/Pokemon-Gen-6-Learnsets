@@ -517,6 +517,7 @@ Egg - Revenge
 Egg - Bounce
 Egg - Covet
 Egg - Switcheroo
+Egg - Quick Guard
 
 == Alakazam ==
 
@@ -5965,6 +5966,7 @@ Egg - Me First
 Egg - Drain Punch
 Egg - Vacuum Wave
 Egg - Bullet Punch
+Egg - Quick Guard
 
 == Crobat ==
 
