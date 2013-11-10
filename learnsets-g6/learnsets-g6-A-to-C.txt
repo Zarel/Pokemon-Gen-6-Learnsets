@@ -1875,6 +1875,7 @@ Egg - Tickle
 Egg - Muddy Water
 Egg - Water Sport
 Egg - Soak
+Egg - Copycat
 
 == Bagon ==
 
