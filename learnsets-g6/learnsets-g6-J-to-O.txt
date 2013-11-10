@@ -1839,6 +1839,7 @@ Egg - Silver Wind
 Egg - Bug Buzz
 Egg - Drain Punch
 Egg - Bug Bite
+Egg - Tailwind
 
 == Lickilicky ==
 
