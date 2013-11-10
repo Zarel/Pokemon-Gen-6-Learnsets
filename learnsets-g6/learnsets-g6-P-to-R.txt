@@ -3194,6 +3194,7 @@ Egg - Rock Tomb
 Egg - Gravity
 Egg - Autotomize
 Egg - Heavy Slam
+Egg - Rock Tomb
 
 == Roselia ==
 
