@@ -2453,6 +2453,7 @@ Egg - Covet
 Egg - Shock Wave
 Egg - Roost
 Egg - Air Slash
+Egg - Ion Deluge
 
 == Empoleon ==
 
