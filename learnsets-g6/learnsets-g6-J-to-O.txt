@@ -5876,6 +5876,7 @@ Egg - Roost
 Egg - Assurance
 Egg - Psycho Shift
 Egg - Brave Bird
+Egg - Flatter
 
 == Musharna ==
 
