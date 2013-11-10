@@ -167,6 +167,7 @@ TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
 HM01 - Cut
+Egg - Camouflage
 
 == Jumpluff ==
 
