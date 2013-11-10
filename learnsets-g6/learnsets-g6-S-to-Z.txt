@@ -782,6 +782,7 @@ Egg - Silver Wind
 Egg - Night Slash
 Egg - Bug Buzz
 Egg - Defog
+Egg - Quick Guard
 
 == Seadra ==
 
@@ -1149,6 +1150,7 @@ Egg - Assist
 Egg - Covet
 Egg - Natural Gift
 Egg - Last Resort
+Egg - Captivate
 
 == Serperior ==
 
