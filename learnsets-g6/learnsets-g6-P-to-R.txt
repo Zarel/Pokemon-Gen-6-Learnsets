@@ -55,6 +55,7 @@ Egg - Charge
 Egg - Fake Tears
 Egg - Covet
 Egg - Bestow
+Egg - Ion Deluge
 
 == Palkia ==
 
