@@ -5769,6 +5769,7 @@ Egg - Uproar
 Egg - Miracle Eye
 Egg - Dark Pulse
 Egg - Captivate
+Egg - Heal Pulse
 
 == Gothitelle ==
 
