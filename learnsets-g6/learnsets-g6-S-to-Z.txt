@@ -9320,6 +9320,7 @@ Egg - Feint
 Egg - Night Slash
 Egg - Double Hit
 Egg - Final Gambit
+Egg - Quick Guard
 
 == Zapdos ==
 
