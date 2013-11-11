@@ -2194,6 +2194,7 @@ Egg - Howl
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
+Egg - After You
 
 == Linoone ==
 
