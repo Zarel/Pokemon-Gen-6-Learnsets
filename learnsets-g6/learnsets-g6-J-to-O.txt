@@ -5988,6 +5988,7 @@ Egg - Roost
 Egg - Sucker Punch
 Egg - Zen Headbutt
 Egg - Synchronoise
+Egg - Simple Beam
 
 == Nidoking ==
 
