@@ -4001,6 +4001,7 @@ Egg - Bounce
 Egg - Worry Seed
 Egg - Seed Bomb
 Egg - Wood Hammer
+Egg - Grassy Terrain
 
 == Mareep ==
 
