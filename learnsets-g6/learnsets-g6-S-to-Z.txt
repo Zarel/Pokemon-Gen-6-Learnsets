@@ -210,6 +210,7 @@ Egg - Uproar
 Egg - Thunder Fang
 Egg - Fire Fang
 Egg - Rock Climb
+Egg - Me First
 
 == Sandshrew ==
 
@@ -3371,6 +3372,7 @@ Egg - Close Combat
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
+Egg - Fake Tears
 
 == Solosis ==
 
