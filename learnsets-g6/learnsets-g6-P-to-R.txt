@@ -2509,6 +2509,7 @@ Egg - Skill Swap
 Egg - Grudge
 Egg - Shadow Sneak
 Egg - Synchronoise
+Egg - Misty Terrain
 
 == Rampardos ==
 
