@@ -8025,6 +8025,7 @@ Egg - Punishment
 Egg - Last Resort
 Egg - Captivate
 Egg - Misty Terrain
+Egg - Heal Pulse
 
 == Illumise ==
 
