@@ -3737,6 +3737,7 @@ Egg - Fake Tears
 Egg - Water Pulse
 Egg - Psycho Cut
 Egg - Psycho Shift
+Egg - Guard Split
 
 == Spiritomb ==
 
