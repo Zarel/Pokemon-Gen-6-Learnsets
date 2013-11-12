@@ -3947,6 +3947,7 @@ Egg - Mud Sport
 Egg - Signal Beam
 Egg - Water Sport
 Egg - Wide Guard
+Egg - Tailwind
 
 == Maractus ==
 
