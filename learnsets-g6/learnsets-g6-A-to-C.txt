@@ -3605,6 +3605,7 @@ Egg - Aqua Ring
 Egg - Aqua Tail
 Egg - Switcheroo
 Egg - Tail Slap
+Egg - Soak
 
 == Bulbasaur ==
 
