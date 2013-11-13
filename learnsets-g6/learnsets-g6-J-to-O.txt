@@ -6782,6 +6782,7 @@ Egg - Yawn
 Egg - Howl
 Egg - Mud Bomb
 Egg - Iron Head
+Egg - Growth
 
 == Nuzleaf ==
 
