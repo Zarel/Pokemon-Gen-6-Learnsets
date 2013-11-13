@@ -3191,7 +3191,6 @@ Egg - Take Down
 Egg - Curse
 Egg - Lock On
 Egg - Magnitude
-Egg - Rock Tomb
 Egg - Gravity
 Egg - Autotomize
 Egg - Heavy Slam
