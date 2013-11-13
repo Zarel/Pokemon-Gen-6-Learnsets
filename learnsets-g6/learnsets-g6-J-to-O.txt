@@ -668,6 +668,7 @@ Egg - Skill Swap
 Egg - Snatch
 Egg - Nasty Plot
 Egg - Foul Play
+Egg - Camouflage
 
 == Keldeo ==
 
