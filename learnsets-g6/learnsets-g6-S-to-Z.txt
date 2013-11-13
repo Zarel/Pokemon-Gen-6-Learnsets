@@ -2397,6 +2397,7 @@ Egg - Mud Bomb
 Egg - Zen Headbutt
 Egg - Captivate
 Egg - Simple Beam
+Egg - Cosmic Power
 
 == Skorupi ==
 
@@ -5215,6 +5216,7 @@ Egg - Refresh
 Egg - Roost
 Egg - Brave Bird
 Egg - Defog
+Egg - Boomburst
 
 == Talonflame ==
 
@@ -8539,6 +8541,7 @@ Egg - Fake Tears
 Egg - Extrasensory
 Egg - Hammer Arm
 Egg - Circle Throw
+Egg - Disarming Voice
 
 == Wigglytuff ==
 
@@ -8649,6 +8652,7 @@ Egg - Roost
 Egg - Brine
 Egg - Aqua Ring
 Egg - Wide Guard
+Egg - Soak
 
 == Wobbuffet ==
 
