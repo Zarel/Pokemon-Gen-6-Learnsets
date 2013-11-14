@@ -6162,6 +6162,7 @@ Egg - Yawn
 Egg - Eruption
 Egg - Flame Burst
 Egg - Clear Smog
+Egg - Superpower
 
 == Tornadus ==
 
