@@ -3006,6 +3006,7 @@ Egg - Fire Fang
 Egg - Rock Climb
 Egg - Metal Burst
 Egg - Rototiller
+Egg - Guard Split
 
 == Rhyperior ==
 
