@@ -3257,6 +3257,7 @@ Egg - Grass Whistle
 Egg - Natural Gift
 Egg - Seed Bomb
 Egg - Leaf Storm
+Egg - Bullet Seed
 
 == Roserade ==
 
