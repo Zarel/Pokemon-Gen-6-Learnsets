@@ -1655,6 +1655,7 @@ Egg - Scary Face
 Egg - Rock Blast
 Egg - Stealth Rock
 Egg - Wide Guard
+Egg - Guard Split
 
 == Shiftry ==
 
