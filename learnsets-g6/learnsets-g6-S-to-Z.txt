@@ -8396,6 +8396,7 @@ HM01 - Cut
 == Whimsicott ==
 
 (Unreleased)
+L? - Moonblast
 
 == Whirlipede ==
 
