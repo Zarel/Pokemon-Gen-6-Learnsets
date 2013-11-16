@@ -3616,6 +3616,7 @@ Egg - Signal Beam
 Egg - Water Sport
 Egg - Water Pulse
 Egg - Aqua Ring
+Egg - Belly Drum
 
 == Spinarak ==
 
