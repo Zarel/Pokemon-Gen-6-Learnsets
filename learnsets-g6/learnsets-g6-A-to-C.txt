@@ -1451,6 +1451,7 @@ Egg - Dragon Rush
 Egg - Iron Head
 Egg - Stealth Rock
 Egg - Head Smash
+Egg - Reversal
 
 == Articuno ==
 
