@@ -3861,6 +3861,7 @@ Egg - Skill Swap
 Egg - Extrasensory
 Egg - Lucky Chant
 Egg - Zen Headbutt
+Egg - Simple Beam
 
 == Spritzee ==
 
