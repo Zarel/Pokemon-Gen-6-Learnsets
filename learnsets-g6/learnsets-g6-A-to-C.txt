@@ -3089,6 +3089,7 @@ Egg - Screech
 Egg - Endure
 Egg - Shock Wave
 Egg - Me First
+Egg - Snatch
 
 == Boldore ==
 
