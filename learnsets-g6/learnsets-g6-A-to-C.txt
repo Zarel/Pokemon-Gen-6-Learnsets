@@ -4790,6 +4790,9 @@ Egg - Quick Guard
 Egg - Curse
 Egg - Spikes
 Egg - Synthesis
+Egg - Belly Drum
+Egg - Rollout
+Egg - Defense Curl
 
 == Chikorita ==
 
