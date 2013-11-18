@@ -6634,6 +6634,7 @@ Egg - Mud Sport
 Egg - Water Pulse
 Egg - Earth Power
 Egg - Mud Bomb
+Egg - After You
 
 == Tynamo ==
 
