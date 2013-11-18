@@ -6203,6 +6203,7 @@ Egg - Yawn
 Egg - Assurance
 Egg - Night Slash
 Egg - Avalanche
+Egg - Play Rough
 
 == Cubone ==
 
