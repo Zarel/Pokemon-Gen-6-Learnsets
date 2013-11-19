@@ -3437,6 +3437,7 @@ Egg - Trick
 Egg - Imprison
 Egg - Secret Power
 Egg - Astonish
+Egg - Helping Hand
 
 == Solrock ==
 
