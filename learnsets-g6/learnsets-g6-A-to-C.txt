@@ -5136,6 +5136,8 @@ HM05 - Waterfall
 Egg - Crabhammer
 Egg - Helping Hand
 Egg - Entrainment
+Egg - Endure
+Egg - Aqua Jet
 
 == Clawitzer ==
 
