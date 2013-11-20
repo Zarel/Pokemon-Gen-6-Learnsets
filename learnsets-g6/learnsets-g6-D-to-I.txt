@@ -3818,6 +3818,7 @@ Egg - Water Sport
 Egg - Camouflage
 Egg - Mud Sport
 Egg - Mind Reader
+Egg - Bestow
 
 == Frogadier ==
 
