@@ -4348,6 +4348,10 @@ HM01 - Cut
 HM03 - Surf
 HM04 - Strength
 Tutor - Draco Meteor
+Event 2 - Draco Meteor
+Event 2 - Dragon Claw
+Event 2 - Dig
+Event 2 - Crunch
 
 == Gardevoir ==
 
