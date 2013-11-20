@@ -6098,6 +6098,10 @@ Egg - Feint
 Egg - Last Resort
 Egg - Night Slash
 Egg - Flame Burst
+Event 2 - Scratch
+Event 2 - Growl
+Event 2 - Focus Energy
+Event 2 - Ember
 
 == Torkoal ==
 
