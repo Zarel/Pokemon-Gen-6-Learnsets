@@ -2277,6 +2277,7 @@ HM03 - Surf
 HM04 - Strength
 Egg - Rollout
 Egg - Defense Curl
+Egg - Milk Drink
 
 == Skiploom ==
 
