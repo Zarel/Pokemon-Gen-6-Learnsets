@@ -3979,6 +3979,7 @@ Egg - Mimic
 Egg - Captivate
 Egg - Refresh
 Egg - Work Up
+Egg - Role Play
 
 == Furret ==
 
