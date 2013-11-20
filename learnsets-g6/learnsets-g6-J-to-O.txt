@@ -350,6 +350,7 @@ Egg - Giga Drain
 Egg - Rapid Spin
 Egg - Knock Off
 Egg - Mud Shot
+Egg - Take Down
 
 == Kabutops ==
 
