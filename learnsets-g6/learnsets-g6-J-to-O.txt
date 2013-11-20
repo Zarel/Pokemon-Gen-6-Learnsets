@@ -167,6 +167,13 @@ TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
 HM01 - Cut
+Egg - Cross Poison
+Egg - Disable
+Egg - Feint Attack
+Egg - Pin Missile
+Egg - Poison Sting
+Egg - Pursuit
+Egg - Rock Climb
 Egg - Camouflage
 
 == Jumpluff ==
