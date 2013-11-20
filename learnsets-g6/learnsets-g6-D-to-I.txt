@@ -7023,6 +7023,7 @@ HM03 - Surf
 Egg - Camouflage
 Egg - Agility
 Egg - Glare
+Egg - Electric Terrain
 
 == Heracross ==
 
