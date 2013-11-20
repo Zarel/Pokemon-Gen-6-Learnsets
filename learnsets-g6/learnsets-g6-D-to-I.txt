@@ -5663,6 +5663,7 @@ Egg - Iron Tail
 Egg - Curse
 Egg - Acid Armor
 Egg - Counter
+Egg - Endure
 
 == Gorebyss ==
 
