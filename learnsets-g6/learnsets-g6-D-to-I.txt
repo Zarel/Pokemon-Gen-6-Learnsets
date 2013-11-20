@@ -3233,6 +3233,7 @@ TM99 - Dazzling Gleam
 TM100 - Confide
 Egg - Copycat
 Egg - Captivate
+Egg - Camouflage
 
 == Flareon ==
 
