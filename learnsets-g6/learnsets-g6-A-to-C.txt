@@ -4010,7 +4010,7 @@ L8 - Sharpen
 L12 - Smack Down
 L18 - Reflect
 L21 - Stealth Rock
-L27 - Guard Swap
+L27 - Guard Split
 L31 - Ancient Power
 L35 - Flail
 L40 - Skill Swap
