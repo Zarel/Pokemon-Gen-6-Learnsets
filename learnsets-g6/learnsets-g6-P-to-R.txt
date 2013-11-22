@@ -168,6 +168,7 @@ Egg - Foul Play
 Egg - Quick Guard
 Egg - Me First
 Egg - Storm Throw
+Egg - Quash
 
 == Pangoro ==
 
