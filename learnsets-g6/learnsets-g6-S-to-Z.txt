@@ -2015,6 +2015,7 @@ Egg - Skill Swap
 Egg - Roost
 Egg - Psycho Shift
 Egg - Stored Power
+Egg - Future Sight
 
 == Silcoon ==
 
@@ -4135,6 +4136,7 @@ Egg - Revenge
 Egg - Feather Dance
 Egg - Astonish
 Egg - Roost
+Egg - Mirror Move
 
 == Starmie ==
 
