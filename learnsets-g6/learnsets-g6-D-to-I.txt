@@ -3374,6 +3374,7 @@ TM90 - Substitute
 TM100 - Confide
 HM02 - Fly
 Egg - Quick Guard
+Egg - Tailwind
 
 == Floatzel ==
 
