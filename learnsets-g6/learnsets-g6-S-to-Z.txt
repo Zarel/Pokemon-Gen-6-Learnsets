@@ -4659,6 +4659,7 @@ Egg - Helping Hand
 Egg - Ingrain
 Egg - Grass Whistle
 Egg - Natural Gift
+Egg - Grassy Terrain
 
 == Surskit ==
 
