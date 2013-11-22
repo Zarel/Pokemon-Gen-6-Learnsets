@@ -5196,6 +5196,7 @@ Egg - Hammer Arm
 Egg - Natural Gift
 Egg - Punishment
 Egg - Heart Stamp
+Egg - Belch
 
 == Mime Jr. ==
 
