@@ -8157,11 +8157,6 @@ TM92 - Trick Room
 TM97 - Dark Pulse
 TM100 - Confide
 HM01 - Cut
-Egg - Calm Mind
-Egg - Taunt
-Egg - Confide
-Egg - Embargo
-Egg - Dark Pulse
 Egg - Destiny Bond
 Egg - Camouflage
 Egg - Power Split
