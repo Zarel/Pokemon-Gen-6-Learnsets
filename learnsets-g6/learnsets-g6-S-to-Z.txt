@@ -8006,6 +8006,7 @@ Egg - Power Swap
 Egg - Flare Blitz
 Egg - Hex
 Egg - Tail Slap
+Egg - Captivate
 
 == Wailmer ==
 
