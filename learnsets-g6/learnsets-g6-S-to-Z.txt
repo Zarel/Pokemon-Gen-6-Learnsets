@@ -6890,6 +6890,7 @@ Egg - Ice Fang
 Egg - Thunder Fang
 Egg - Poison Fang
 Egg - Curse
+Egg - Rock Polish
 
 == Umbreon ==
 
