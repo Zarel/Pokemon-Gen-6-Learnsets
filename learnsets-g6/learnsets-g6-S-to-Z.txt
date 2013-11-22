@@ -1767,6 +1767,8 @@ Egg - Night Slash
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
+Egg - Fake Tears
+Egg - Eerie Impulse
 
 == Shroomish ==
 
