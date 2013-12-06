@@ -47,6 +47,8 @@ input = input.split('\n');
 var speciesid = '';
 var species = '';
 
+var lastType = '';
+var lastTypeCount = 0;
 for (var i=0; i<input.length; i++) {
 	var line = input[i];
 	line = line.trim();
@@ -55,6 +57,8 @@ for (var i=0; i<input.length; i++) {
 	if (line.charAt(0) === '=') {
 		speciesid = Tools.getTemplate(line).id;
 		species = line;
+		lastType = '';
+		lastTypeCount = 0;
 		continue;
 	}
 	var parts = line.split(' - ');
@@ -100,9 +104,21 @@ for (var i=0; i<input.length; i++) {
 			Learnsets[speciesid] = '';
 			continue;
 		}
+		if (type !== '6L1') {
+			lastTypeCount = 0;
+		} else if (lastType === type) {
+			lastTypeCount++;
+		} else {
+			lastTypeCount = 0;
+		}
+		lastType = type;
 		if (!Learnsets[speciesid].learnset[move.id]) Learnsets[speciesid].learnset[move.id] = [type];
 		else Learnsets[speciesid].learnset[move.id].push(type);
 
+		if (type.substr(0,2) === '6L') {
+			type = '6L'+Number(type.substr(2)).pad(3);
+			if (type === '6L001') type += String.fromCharCode(97+lastTypeCount);
+		}
 		if (!LearnsetsG6[speciesid].learnset[move.id]) LearnsetsG6[speciesid].learnset[move.id] = [type];
 		else LearnsetsG6[speciesid].learnset[move.id].push(type);
 	}
@@ -117,7 +133,7 @@ for (var speciesid in Learnsets) {
 		var sources = learnset[moveid];
 		for (var i=sources.length-1; i>=0; i--) {
 			if (sources[i].substr(0,2) === '5L') {
-				LearnsetsG6[speciesid].learnset[moveid] = ['6L0'];
+				LearnsetsG6[speciesid].learnset[moveid] = ['6L000'];
 				Learnsets[speciesid].learnset[moveid].push('6L0');
 			} else if ((sources[i] === '5M' && !(moveid in {allyswitch:1,telekinesis:1,workup:1,pluck:1})) || (sources[i] === '5T' && moveid in {roost:1, sleeptalk:1})) {
 				LearnsetsG6[speciesid].learnset[moveid] = ['6M'];
