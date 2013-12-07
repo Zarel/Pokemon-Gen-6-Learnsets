@@ -11,6 +11,8 @@ global.string = function(str) {
 };
 var fs = require("fs");
 
+fs.existsSync = require('path').existsSync;
+
 /**
  * Tools
  * Pokemon Showdown - http://pokemonshowdown.com/

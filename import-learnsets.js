@@ -80,6 +80,11 @@ for (var i=0; i<input.length; i++) {
 	else if (typeString === 'egg') type = '6E';
 	else if (typeString === 'moverelearner' || typeString === 'relearn' || typeString === 'mr' || typeString === 'l?' || typeString === '?') type = '6L0';
 	else if (typeString === 'start') type = '6L1';
+	else if (typeString.substr(0,5) === 'event') {
+		var eventNum = parseInt(typeString.substr(5), 10);
+		if (!eventNum) console.log("Source '"+parts[0]+"' in '"+line+"' requires event number for "+species);
+		type = '6S'+eventNum;
+	}
 	else if (typeString.substr(0,5) === 'level') {
 		level = typeString.substr(5);
 	}
