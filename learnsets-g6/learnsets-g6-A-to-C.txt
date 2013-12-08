@@ -4896,6 +4896,7 @@ Egg - Future Sight
 Egg - Wish
 Egg - Skill Swap
 Egg - Stored Power
+Egg - Recover
 
 == Chinchou ==
 
