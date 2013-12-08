@@ -73,6 +73,7 @@ HM01 - Cut
 Egg - Helping Hand
 Egg - Covet
 Egg - Eerie Impulse
+Egg - Natural Gift
 
 == Deerling ==
 
