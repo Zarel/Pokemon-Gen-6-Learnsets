@@ -6180,6 +6180,7 @@ Egg - Superpower
 == Tornadus ==
 
 (Unreleased)
+L? - Aeroblast
 
 == Torterra ==
 
