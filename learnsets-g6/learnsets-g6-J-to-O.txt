@@ -601,6 +601,7 @@ Egg - Megahorn
 Egg - Pursuit
 Egg - Knock Off
 Egg - Bug Bite
+Egg - Drill Run
 
 == Kecleon ==
 
