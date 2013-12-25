@@ -5433,7 +5433,55 @@ HM03 - Surf
 
 == Cofagrigus ==
 
-(Unreleased)
+Start - Astonish
+Start - Protect
+L5 - Disable
+L9 - Haze
+L13 - Night Shade
+L17 - Hex
+L21 - Will-O-Wisp
+L25 - Ominous Wind
+L29 - Curse
+L33 - Power Split
+L33 - Guard Split
+L34 - Scary Face
+L39 - Shadow Ball
+L45 - Grudge
+L51 - Mean Look
+L57 - Destiny Bond
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM61 - Will-O-Wisp
+TM63 - Embargo
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM83 - Infestation
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Combee ==
 
