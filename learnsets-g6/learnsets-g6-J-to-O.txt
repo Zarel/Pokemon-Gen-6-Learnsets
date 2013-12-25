@@ -938,6 +938,7 @@ HM01 - Cut
 Egg - Iron Defense
 Egg - Lock On
 Egg - Thief
+Egg - Switcheroo
 
 == Klink ==
 
