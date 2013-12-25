@@ -504,6 +504,7 @@ Egg - Natural Gift
 Egg - Cross Poison
 Egg - Bug Bite
 Egg - Fell Stinger
+Egg - Wide Guard
 
 == Parasect ==
 
@@ -3308,6 +3309,7 @@ Egg - Gravity
 Egg - Autotomize
 Egg - Heavy Slam
 Egg - Rock Tomb
+Egg - Wide Guard
 
 == Roselia ==
 

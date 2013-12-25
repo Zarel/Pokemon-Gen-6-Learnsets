@@ -6884,6 +6884,7 @@ Egg - Rollout
 Egg - Magnitude
 Egg - Block
 Egg - Stealth Rock
+Egg - Wide Guard
 
 == Numel ==
 

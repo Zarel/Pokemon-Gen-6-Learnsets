@@ -1968,6 +1968,7 @@ Egg - Sand Tomb
 Egg - Iron Defense
 Egg - Block
 Egg - Night Slash
+Egg - Wide Guard
 
 == Eelektrik ==
 
@@ -4673,6 +4674,7 @@ Egg - Block
 Egg - Hammer Arm
 Egg - Rock Climb
 Egg - Autotomize
+Egg - Wide Guard
 
 == Gible ==
 
@@ -7534,6 +7536,7 @@ TM100 - Confide
 HM01 - Cut
 Egg - Metal Sound
 Egg - Shadow Sneak
+Egg - Wide Guard
 
 == Ho-Oh ==
 
