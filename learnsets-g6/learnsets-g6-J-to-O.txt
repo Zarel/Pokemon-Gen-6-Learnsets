@@ -4563,9 +4563,9 @@ Egg - Quick Guard
 
 == Meganium ==
 
+Start - Petal Blizzard
 Start - Tackle
 Start - Growl
-Start - Petal Blizzard
 Start - Razor Leaf
 Start - Poison Powder
 L6 - Razor Leaf
