@@ -5428,6 +5428,20 @@ HM05 - Waterfall
 == Claydol ==
 
 Start - Teleport
+Start - Confusion
+Start - Harden
+Start - Rapid Spin
+L4 - Rapid Spin
+L7 - Mud Slap
+L10 - Rock Tomb
+L13 - Psybeam
+L17 - Power Trick
+L21 - Ancient Power
+L25 - Self Destruct
+L28 - Extrasensory
+L31 - Cosmic Power
+L34 - Guard Split
+L34 - Power Split
 L40 - Earth Power
 L47 - Sandstorm
 L54 - Heal Block
