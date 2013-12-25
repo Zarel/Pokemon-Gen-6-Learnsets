@@ -1937,7 +1937,64 @@ Egg - Fire Fang
 
 == Baltoy ==
 
-(Unreleased)
+Start Confusion
+Start Harden
+L4 - Rapid Spin
+L7 - Mud Slap
+L10 - Rock Tomb
+L13 - Psybeam
+L17 - Power Trick
+L21 - Ancient Power
+L25 - Self Destruct
+L28 - Extrasensory
+L31 - Cosmic Power
+L34 - Guard Split
+L34 - Power Split
+L37 - Earth Power
+L41 - Sandstorm
+L45 - Heal Block
+L49 - Explosion
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM57 - Charge Beam
+TM64 - Explosion
+TM69 - Rock Polish
+TM70 - Flash
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Banette ==
 
@@ -4224,52 +4281,8 @@ L7 - Harden
 
 == Castform ==
 
-Start - Tackle
-L10 - Water Gun
-L10 - Ember
-L10 - Powder Snow
-L15 - Headbutt
-L20 - Rain Dance
-L20 - Sunny Day
-L20 - Hail
-L30 - Weather Ball
-L40 - Hydro Pump
-L40 - Fire Blast
-L40 - Blizzard
-TM06 - Toxic
-TM07 - Hail
-TM10 - Hidden Power
-TM11 - Sunny Day
-TM13 - Ice Beam
-TM14 - Blizzard
-TM17 - Protect
-TM18 - Rain Dance
-TM21 - Frustration
-TM22 - Solar Beam
-TM24 - Thunderbolt
-TM25 - Thunder
-TM27 - Return
-TM30 - Shadow Ball
-TM32 - Double Team
-TM35 - Flamethrower
-TM37 - Sandstorm
-TM38 - Fire Blast
-TM42 - Facade
-TM44 - Rest
-TM45 - Attract
-TM46 - Thief
-TM48 - Round
-TM53 - Energy Ball
-TM55 - Scald
-TM59 - Incinerate
-TM67 - Retaliate
-TM70 - Flash
-TM73 - Thunder Wave
-TM77 - Psych Up
-TM87 - Swagger
-TM88 - Sleep Talk
-TM90 - Substitute
-TM100 - Confide
+(Unreleased)
+
 Egg - Disable
 Egg - Amnesia
 Egg - Future Sight
@@ -4277,7 +4290,6 @@ Egg - Lucky Chant
 Egg - Ominous Wind
 Egg - Clear Smog
 Egg - Hex
-Egg - Cosmic Power
 
 == Caterpie ==
 
@@ -4942,7 +4954,6 @@ Egg - Wish
 Egg - Skill Swap
 Egg - Stored Power
 Egg - Recover
-Egg - Cosmic Power
 
 == Chinchou ==
 
@@ -5054,7 +5065,6 @@ Egg - Future Sight
 Egg - Wish
 Egg - Skill Swap
 Egg - Stored Power
-Egg - Cosmic Power
 
 == Cinccino ==
 
@@ -5245,8 +5255,56 @@ HM05 - Waterfall
 
 == Claydol ==
 
-(Unreleased)
-
+L40 - Earth Power
+L47 - Sandstorm
+L54 - Heal Block
+L61 - Explosion
+TM03 -  Psyshock
+TM04 -  Calm Mind
+TM06 -  Toxic
+TM10 -  Hidden Power
+TM11 -  Sunny Day
+TM13 -  Ice Beam
+TM15 -  Hyper Beam
+TM16 -  Light Screen
+TM17 -  Protect
+TM18 -  Rain Dance
+TM20 -  Safeguard
+TM21 -  Frustration
+TM22 -  Solar Beam
+TM23 -  Smack Down
+TM26 -  Earthquake
+TM27 -  Return
+TM28 -  Dig
+TM29 -  Psychic
+TM30 -  Shadow Ball
+TM32 -  Double Team
+TM33 -  Reflect
+TM37 -  Sandstorm
+TM39 -  Rock Tomb
+TM42 -  Facade
+TM44 -  Rest
+TM48 -  Round
+TM57 -  Charge Beam
+TM64 -  Explosion
+TM68 -  Giga Impact
+TM69 -  Rock Polish
+TM70 -  Flash
+TM71 -  Stone Edge
+TM74 -  Gyro Ball
+TM77 -  Psych Up
+TM78 -  Bulldoze
+TM80 -  Rock Slide
+TM85 -  Dream Eater
+TM86 -  Grass Knot
+TM87 -  Swagger
+TM88 -  Sleep Talk
+TM90 -  Substitute
+TM92 -  Trick Room
+TM94 -  Rock Smash
+TM99 -  Dazzling Gleam
+TM100 -  Confide
+HM04 -  Strength
 == Clefable ==
 
 Start - Disarming Voice
