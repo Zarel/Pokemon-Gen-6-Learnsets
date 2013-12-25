@@ -3,14 +3,33 @@ var fs = require("fs");
 
 var index = [];
 
-index = index.concat(Object.keys(Tools.data.Pokedex).map(function(x){return x+' pokemon'}))
-index = index.concat(Object.keys(Tools.data.Movedex).map(function(x){return x+' move'}))
-index = index.concat(Object.keys(Tools.data.Items).map(function(x){return x+' item'}))
-index = index.concat(Object.keys(Tools.data.Abilities).map(function(x){return x+' ability'}))
-index = index.concat(Object.keys(Tools.data.TypeChart).map(function(x){return toId(x)+' type'}))
-index = index.concat(['physical', 'special', 'status'].map(function(x){return toId(x)+' category'}))
+index = index.concat(Object.keys(Tools.data.Pokedex).map(function(x){return x+' pokemon'}));
+index = index.concat(Object.keys(Tools.data.Movedex).map(function(x){return x+' move'}));
+index = index.concat(Object.keys(Tools.data.Items).map(function(x){return x+' item'}));
+index = index.concat(Object.keys(Tools.data.Abilities).map(function(x){return x+' ability'}));
+index = index.concat(Object.keys(Tools.data.TypeChart).map(function(x){return toId(x)+' type'}));
+index = index.concat(['physical', 'special', 'status'].map(function(x){return toId(x)+' category'}));
+index = index.concat(['monster', 'water1', 'bug', 'flying', 'field', 'fairy', 'grass', 'humanlike', 'water3', 'mineral', 'amorphous', 'water2', 'ditto', 'dragon', 'undiscovered'].map(function(x){return toId(x)+' egggroup'}));
 
 index.sort();
+
+
+// manually rearrange
+index[index.indexOf('grass type')] = 'grass egggroup';
+index[index.indexOf('grass egggroup')] = 'grass type';
+
+index[index.indexOf('fairy type')] = 'fairy egggroup';
+index[index.indexOf('fairy egggroup')] = 'fairy type';
+
+index[index.indexOf('flying type')] = 'flying egggroup';
+index[index.indexOf('flying egggroup')] = 'flying type';
+
+index[index.indexOf('dragon type')] = 'dragon egggroup';
+index[index.indexOf('dragon egggroup')] = 'dragon type';
+
+index[index.indexOf('bug type')] = 'bug egggroup';
+index[index.indexOf('bug egggroup')] = 'bug type';
+
 
 BattleSearchIndex = index.map(function(x){return x.split(' ')[0]});
 BattleSearchIndexType = index.map(function(x){return x.split(' ')[1]});
