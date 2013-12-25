@@ -8414,43 +8414,43 @@ Start - Growth
 Start - Leech Seed
 Start - Mega Drain
 Start - Cotton Spore
-L10 Gust
-L28 Tailwind
-L46 Hurricane
-L50 Moonblast
-TM06 Toxic
-TM10 Hidden Power
-TM11 Sunny Day
-TM12 Taunt
-TM15 Hyper Beam
-TM16 Light Screen
-TM17 Protect
-TM20 Safeguard
-TM21 Frustration
-TM22 Solar Beam
-TM27 Return
-TM29 Psychic
-TM30 Shadow Ball
-TM32 Double Team
-TM42 Facade
-TM44 Rest
-TM45 Attract
-TM46 Thief
-TM48 Round
-TM53 Energy Ball
-TM56 Fling
-TM68 Giga Impact
-TM70 Flash
-TM85 Dream Eater
-TM86 Grass Knot
-TM87 Swagger
-TM88 Sleep Talk
-TM89 U-turn
-TM90 Substitute
-TM92 Trick Room
-TM96 Nature Power
-TM99 Dazzling Gleam
-TM100 Confide 
+L10 - Gust
+L28 - Tailwind
+L46 - Hurricane
+L50 - Moonblast
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM68 - Giga Impact
+TM70 - Flash
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM92 - Trick Room
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide 
 
 == Whirlipede ==
 
