@@ -6183,7 +6183,57 @@ Egg - Superpower
 
 == Torterra ==
 
-(Unreleased)
+Start - Wood Hammer
+Start - Tackle
+L5 - Withdraw
+L9 - Absorb
+L13 - Razor Leaf
+L17 - Curse
+L22 - Bite
+L27 - Mega Drain
+L32 - Earthquake
+L33 - Leech Seed
+L39 - Synthesis
+L45 - Crunch
+L51 - Giga Drain
+L57 - Leaf Storm
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM70 - Flash
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength 
 Tutor - Frenzy Plant
 Tutor - Grass Pledge
 
@@ -6581,7 +6631,45 @@ Egg - Rock Blast
 
 == Turtwig ==
 
-(Unreleased)
+Start - Tackle
+L5 - Withdraw
+L9 - Absorb
+L13 - Razor Leaf
+L17 - Curse
+L21 - Bite
+L25 - Mega Drain
+L29 - Leech Seed
+L33 - Synthesis
+L37 - Crunch
+L41 - Giga Drain
+L45 - Leaf Storm
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM70 - Flash
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Grass Pledge
 Egg - Body Slam
 Egg - Thrash
