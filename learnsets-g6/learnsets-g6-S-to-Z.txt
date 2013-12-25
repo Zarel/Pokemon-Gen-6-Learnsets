@@ -6687,6 +6687,7 @@ Egg - Worry Seed
 Egg - Seed Bomb
 Egg - Earth Power
 Egg - Wide Guard
+Egg - Grassy Terrain
 
 == Tympole ==
 
