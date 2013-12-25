@@ -2440,7 +2440,63 @@ HM05 - Waterfall
 
 == Lopunny ==
 
-(Unreleased)
+Start - Defense Curl
+Start - Splash
+Start - Pound
+Start - Foresight
+Start - Healing Wish
+Start - Bounce
+Start - Rototiller
+Start - Mirror Coat
+Start - Magic Coat
+L6 - Endure
+L13 - Return
+L16 - Quick Attack
+L23 - Jump Kick
+L26 - Baton Pass
+L33 - Agility
+L36 - Dizzy Punch
+L43 - After You
+L46 - Charm
+L53 - Entrainment
+L56 - Bounce
+L63 - Healing Wish
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM67 - Retaliate
+TM68 - Giga Impact
+TM73 - Thunder Wave
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Lotad ==
 
