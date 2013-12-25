@@ -3248,6 +3248,7 @@ Egg - Fake Tears
 Egg - Block
 Egg - Avalanche
 Egg - Hex
+Egg - Switcheroo
 
 == Snover ==
 
