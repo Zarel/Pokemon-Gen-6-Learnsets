@@ -8406,7 +8406,57 @@ HM01 - Cut
 
 == Weezing ==
 
-(Unreleased)
+Start - Poison Gas
+Start - Tackle
+L4 - Smog
+L7 - Smokescreen
+L12 - Assurance
+L15 - Clear Smog
+L18 - Sludge
+L23 - Self-Destruct
+L26 - Haze
+L29 - Double Hit
+L34 - Sludge Bomb
+L40 - Explosion
+L46 - Destiny Bond
+L50 - Belch
+L54 - Memento
+TM06 - Toxic
+TM09 - Venoshock
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM64 - Explosion
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM74 - Gyro Ball
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM97 - Dark Pulse
+TM100 - Confide
 
 == Whimsicott ==
 
