@@ -4224,8 +4224,52 @@ L7 - Harden
 
 == Castform ==
 
-(Unreleased)
-
+Start - Tackle
+L10 - Water Gun
+L10 - Ember
+L10 - Powder Snow
+L15 - Headbutt
+L20 - Rain Dance
+L20 - Sunny Day
+L20 - Hail
+L30 - Weather Ball
+L40 - Hydro Pump
+L40 - Fire Blast
+L40 - Blizzard
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM55 - Scald
+TM59 - Incinerate
+TM67 - Retaliate
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
 Egg - Disable
 Egg - Amnesia
 Egg - Future Sight
@@ -4233,6 +4277,7 @@ Egg - Lucky Chant
 Egg - Ominous Wind
 Egg - Clear Smog
 Egg - Hex
+Egg - Cosmic Power
 
 == Caterpie ==
 
@@ -4897,6 +4942,7 @@ Egg - Wish
 Egg - Skill Swap
 Egg - Stored Power
 Egg - Recover
+Egg - Cosmic Power
 
 == Chinchou ==
 
@@ -5008,6 +5054,7 @@ Egg - Future Sight
 Egg - Wish
 Egg - Skill Swap
 Egg - Stored Power
+Egg - Cosmic Power
 
 == Cinccino ==
 
