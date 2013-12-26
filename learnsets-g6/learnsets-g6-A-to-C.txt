@@ -4423,6 +4423,7 @@ Egg - Ominous Wind
 Egg - Clear Smog
 Egg - Hex
 Egg - Cosmic Power
+Egg - Guard Swap
 
 == Caterpie ==
 
