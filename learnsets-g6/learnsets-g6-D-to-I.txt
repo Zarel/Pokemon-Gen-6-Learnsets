@@ -7538,6 +7538,7 @@ HM01 - Cut
 Egg - Metal Sound
 Egg - Shadow Sneak
 Egg - Wide Guard
+Egg - Destiny Bond
 
 == Ho-Oh ==
 
