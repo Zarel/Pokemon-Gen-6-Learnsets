@@ -3835,6 +3835,7 @@ Egg - Copycat
 Egg - Switcheroo
 Egg - Double Hit
 Egg - Circle Throw
+Egg - Mud Sport
 
 == Bunnelby ==
 
