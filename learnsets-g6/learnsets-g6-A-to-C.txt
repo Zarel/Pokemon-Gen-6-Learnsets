@@ -4022,6 +4022,7 @@ Egg - Switcheroo
 Egg - Nasty Plot
 Egg - Belch
 Egg - Fell Stinger
+Egg - Rototiller
 
 == Cacturne ==
 
