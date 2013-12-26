@@ -3130,6 +3130,7 @@ Egg - Mirror Coat
 Egg - Magical Leaf
 Egg - Natural Gift
 Egg - Captivate
+Egg - Grassy Terrain
 
 == Snorlax ==
 
