@@ -7347,6 +7347,7 @@ Egg - Rock Blast
 Egg - Rock Climb
 Egg - Stealth Rock
 Egg - Heavy Slam
+Egg - Rototiller
 
 == Oshawott ==
 
