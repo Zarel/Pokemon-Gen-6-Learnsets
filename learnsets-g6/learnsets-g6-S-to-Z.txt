@@ -2909,6 +2909,7 @@ Egg - Heat Wave
 Egg - Memento
 Egg - Earth Power
 Egg - Inferno
+Egg - Guard Swap
 
 == Slurpuff ==
 
