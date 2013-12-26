@@ -5827,6 +5827,7 @@ Egg - Ice Ball
 Egg - Avalanche
 Egg - Mud Bomb
 Egg - Wide Guard
+Egg - Barrier
 
 == Muk ==
 
