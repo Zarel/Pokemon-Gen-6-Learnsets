@@ -2489,15 +2489,15 @@ HM05 - Waterfall
 
 == Lopunny ==
 
-Start - Defense Curl
-Start - Splash
-Start - Pound
-Start - Foresight
 Start - Healing Wish
 Start - Bounce
 Start - Rototiller
 Start - Mirror Coat
 Start - Magic Coat
+Start - Defense Curl
+Start - Splash
+Start - Pound
+Start - Foresight
 L6 - Endure
 L13 - Return
 L16 - Quick Attack
