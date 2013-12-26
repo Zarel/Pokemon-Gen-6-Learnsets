@@ -765,6 +765,7 @@ TM100 - Confide
 Egg - Discharge
 Egg - Mirror Coat
 Egg - Haze
+Egg - Barrier
 
 == Ambipom ==
 
@@ -2672,6 +2673,7 @@ HM04 - Strength
 Egg - Mist
 Egg - Mirror Coat
 Egg - Recover
+Egg - Barrier
 
 == Bibarel ==
 
