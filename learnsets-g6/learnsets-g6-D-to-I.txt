@@ -6870,6 +6870,7 @@ Egg - Entrainment
 Egg - Me First
 Egg - Ally Switch
 Egg - Agility
+Egg - Mud Sport
 
 == Haxorus ==
 
