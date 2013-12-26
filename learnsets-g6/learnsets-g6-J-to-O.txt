@@ -2435,6 +2435,7 @@ Egg - Endure
 Egg - Heat Wave
 Egg - Captivate
 Egg - Clear Smog
+Egg - Power Split
 
 == Lombre ==
 
