@@ -505,6 +505,7 @@ Egg - Cross Poison
 Egg - Bug Bite
 Egg - Fell Stinger
 Egg - Wide Guard
+Egg - Rototiller
 
 == Parasect ==
 
