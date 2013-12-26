@@ -5046,6 +5046,7 @@ Egg - Grass Whistle
 Egg - Wring Out
 Egg - Leaf Storm
 Egg - Heal Pulse
+Egg - Grassy Terrain
 
 == Chimchar ==
 
