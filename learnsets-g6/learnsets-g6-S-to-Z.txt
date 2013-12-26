@@ -6448,6 +6448,7 @@ Egg - Magical Leaf
 Egg - Natural Gift
 Egg - Worry Seed
 Egg - Leaf Storm
+Egg - Grassy Terrain
 
 == Trevenant ==
 
