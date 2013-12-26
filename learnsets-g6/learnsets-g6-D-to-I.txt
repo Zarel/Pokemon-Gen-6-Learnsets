@@ -1969,6 +1969,7 @@ Egg - Iron Defense
 Egg - Block
 Egg - Night Slash
 Egg - Wide Guard
+Egg - Rototiller
 
 == Eelektrik ==
 
