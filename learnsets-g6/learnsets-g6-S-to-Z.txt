@@ -76,6 +76,7 @@ Egg - Metal Burst
 Egg - Sucker Punch
 Egg - Nasty Plot
 Egg - Captivate
+Egg - Imprison
 
 == Salamence ==
 
