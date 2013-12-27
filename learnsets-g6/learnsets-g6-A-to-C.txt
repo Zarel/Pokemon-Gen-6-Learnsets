@@ -4427,6 +4427,7 @@ Egg - Clear Smog
 Egg - Hex
 Egg - Cosmic Power
 Egg - Guard Swap
+Egg - Reflect Type
 
 == Caterpie ==
 
