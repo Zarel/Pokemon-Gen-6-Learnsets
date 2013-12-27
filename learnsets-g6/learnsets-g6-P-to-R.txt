@@ -961,7 +961,43 @@ Egg - Venom Drench
 
 == Phione ==
 
-(Unreleased)
+Start - Bubble
+Start - Water Sport
+L9 - Charm
+L16 - Supersonic
+L24 - Bubble Beam
+L31 - Acid Armor
+L39 - Whirlpool
+L46 - Water Pulse
+L54 - Aqua Ring
+L61 - Dive
+L69 - Rain Dance
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM55 - Scald
+TM56 - Fling
+TM77 - Psych Up
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall 
 
 == Pichu ==
 
