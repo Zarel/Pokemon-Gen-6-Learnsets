@@ -9328,6 +9328,7 @@ Egg - Imprison
 Egg - Fake Tears
 Egg - Heal Block
 Egg - Nasty Plot
+Egg - Toxic Spikes
 
 == Yanma ==
 
