@@ -1090,6 +1090,7 @@ Egg - Stockpile
 Egg - Spit Up
 Egg - Swallow
 Egg - Grudge
+Egg - Toxic Spikes
 
 == Krabby ==
 
