@@ -5606,6 +5606,7 @@ Egg - Nasty Plot
 Egg - Shadow Sneak
 Egg - Ominous Wind
 Egg - Wonder Room
+Egg - Me First
 
 == Mismagius ==
 
