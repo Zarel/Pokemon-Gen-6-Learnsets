@@ -4880,12 +4880,82 @@ Egg - Boomburst
 
 == Cherrim ==
 
-(Unreleased)
+Start - Morning Sun
+Start - Tackle
+L7 - Growth
+L10 - Leech Seed
+L13 - Helping Hand
+L19 - Magical Leaf
+L22 - Sunny Day
+L25 - Petal Dance
+L30 - Worry Seed
+L35 - Take Down
+L43 - Solar Beam
+L48 - Lucky Chant
+L50 - Petal Blizzard
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Cherubi ==
 
-(Unreleased)
-
+Start - Morning Sun
+Start - Tackle
+L7 - Growth
+L10 - Leech Seed
+L13 - Helping Hand
+L19 - Magical Leaf
+L22 - Sunny Day
+L28 - Worry Seed
+L31 - Take Down
+L37 - Solar Beam
+L40 - Lucky Chant
+L47 - Petal Blizzard
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM70 - Flash
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
 Egg - Razor Leaf
 Egg - Defense Curl
 Egg - Rollout
@@ -4899,6 +4969,7 @@ Egg - Healing Wish
 Egg - Natural Gift
 Egg - Seed Bomb
 Egg - Heal Pulse
+Egg - Flower Shield
 
 == Chesnaught ==
 
