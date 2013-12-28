@@ -3897,6 +3897,7 @@ Egg - Double Hit
 Egg - Circle Throw
 Egg - Mud Sport
 Egg - Cosmic Power
+Egg - Teeter Dance
 
 == Bunnelby ==
 
