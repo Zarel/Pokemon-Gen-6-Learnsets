@@ -2382,8 +2382,61 @@ Egg - Feint
 
 == Elgyem ==
 
-(Unreleased)
-
+Start - Confusion
+L4 - Growl
+L8 - Heal Block
+L11 - Miracle Eye
+L15 - Psybeam
+L18 - Headbutt
+L22 - Hidden Power
+L25 - Imprison
+L29 - Simple Beam
+L32 - Zen Headbutt
+L36 - Psych Up
+L39 - Psychic
+L43 - Calm Mind
+L46 - Recover
+L50 - Guard Split
+L50 - Power Split
+L53 - Synchronoise
+L56 - Wonder Room
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM63 - Embargo
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide
 Egg - Disable
 Egg - Teleport
 Egg - Barrier
@@ -2392,6 +2445,7 @@ Egg - Astonish
 Egg - Power Swap
 Egg - Guard Swap
 Egg - Nasty Plot
+Egg - Ally Switch
 
 == Emboar ==
 
