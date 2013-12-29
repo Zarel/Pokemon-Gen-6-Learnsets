@@ -1861,6 +1861,7 @@ Egg - Imprison
 Egg - Grudge
 Egg - Dark Pulse
 Egg - Ominous Wind
+Egg - Haze
 
 == Dustox ==
 
