@@ -3813,6 +3813,7 @@ Tutor - Draco Meteor
 
 (Unreleased)
 
+TM99 - Dazzling Gleam
 Egg - Mist
 Egg - Recover
 Egg - Confuse Ray
