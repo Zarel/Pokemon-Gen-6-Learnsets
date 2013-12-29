@@ -3353,8 +3353,53 @@ TM100 - Confide
 
 == Bouffalant ==
 
-(Unreleased)
-
+Start - Pursuit
+Start - Leer
+L6 - Rage
+L11 - Fury Attack
+L16 - Horn Attack
+L21 - Scary Face
+L26 - Revenge
+L31 - Head Charge
+L36 - Focus Energy
+L41 - Megahorn
+L46 - Reversal
+L50 - Thrash
+L56 - Swords Dance
+L61 - Giga Impact
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength 
 Egg - Stomp
 Egg - Headbutt
 Egg - Skull Bash
@@ -3363,6 +3408,7 @@ Egg - Mud-Slap
 Egg - Mud Shot
 Egg - Rock Climb
 Egg - Iron Head
+Egg - Belch
 
 == Braixen ==
 
@@ -6227,6 +6273,7 @@ Egg - Tickle
 Egg - Natural Gift
 Egg - Worry Seed
 Egg - Switcheroo
+Egg - Captivate
 
 == Cradily ==
 
