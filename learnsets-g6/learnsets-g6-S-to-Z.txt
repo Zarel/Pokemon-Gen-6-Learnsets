@@ -144,7 +144,62 @@ Tutor - Draco Meteor
 
 == Samurott ==
 
-(Unreleased)
+Start - Megahorn
+Start - Tackle
+Start - Tail Whip
+Start - Water Gun
+Start - Water Sport
+L5 - Tail Whip
+L7 - Water Gun
+L11 - Water Sport
+L13 - Focus Energy
+L17 - Razor Shell
+L20 - Fury Cutter
+L25 - Water Pulse
+L28 - Revenge
+L33 - Aqua Jet
+L36 - Slash
+L38 - Encore
+L45 - Aqua Tail
+L50 - Retaliate
+L57 - Swords Dance
+L62 - Hydro Pump 
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM54 - False Swipe
+TM55 - Scald
+TM56 - Fling
+TM67 - Retaliate
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM81 - X-Scissor
+TM82 - Dragon Tail
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Hydro Cannon
 Tutor - Water Pledge
 
