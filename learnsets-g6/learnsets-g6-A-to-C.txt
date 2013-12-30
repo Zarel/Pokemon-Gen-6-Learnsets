@@ -5228,8 +5228,58 @@ Egg - Grassy Terrain
 
 == Chimchar ==
 
-(Unreleased)
-
+Start - Scratch
+Start - Leer
+L7 - Ember
+L9 - Taunt
+L15 - Fury Swipes
+L17 - Flame Wheel
+L23 - Nasty Plot
+L25 - Torment
+L31 - Facade
+L33 - Fire Spin
+L39 - Acrobatics
+L41 - Slack Off
+L47 - Flamethrower
+TM01 - Hone Claws
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM17 - Protect
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM50 - Overheat
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM65 - Shadow Claw
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Fire Pledge
 Egg - Fire Punch
 Egg - Thunder Punch
@@ -6843,7 +6893,47 @@ Egg - Play Rough
 
 == Cyndaquil ==
 
-(Unreleased)
+Start - Tackle
+Start - Leer
+L6 - Smokescreen
+L10 - Ember
+L13 - Quick Attack
+L19 - Flame Wheel
+L22 - Defense Curl
+L28 - Flame Charge
+L31 - Swift
+L37 - Lava Plume
+L40 - Flamethrower
+L46 - Inferno
+L49 - Rollout
+L55 - Double-Edge
+L58 - Eruption
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
 Tutor - Fire Pledge
 Egg - Double Kick
 Egg - Thrash
