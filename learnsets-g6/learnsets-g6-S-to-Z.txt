@@ -6862,7 +6862,68 @@ TM73 - Thunder Wave
 
 == Typhlosion ==
 
-(Unreleased)
+Start - Eruption
+Start - Double-Edge
+Start - Gyro Ball
+Start - Tackle
+Start - Leer
+Start - Smokescreen
+Start - Ember
+L6 - Smokescreen
+L10 - Ember
+L13 - Quick Attack
+L20 - Flame Wheel
+L24 - Defense Curl
+L31 - Swift
+L35 - Flame Charge
+L43 - Lava Plume
+L48 - Flamethrower
+L56 - Inferno
+L61 - Rollout
+L69 - Double-Edge
+L74 - Eruption
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM50 - Overheat
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Blast Burn
 Tutor - Fire Pledge
 
