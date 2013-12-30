@@ -8652,6 +8652,7 @@ Egg - Destiny Bond
 Egg - Camouflage
 Egg - Power Split
 Egg - Simple Beam
+Egg - Flatter
 
 == Ivysaur ==
 
