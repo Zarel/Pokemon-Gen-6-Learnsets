@@ -4048,8 +4048,61 @@ Egg - Flash Cannon
 
 == Stantler ==
 
-(Unreleased)
-
+Start - Me First
+Start - Tackle
+L3 - Leer
+L7 - Astonish
+L10 - Hypnosis
+L13 - Stomp
+L16 - Sand Attack
+L21 - Take Down
+L23 - Confuse Ray
+L27 - Calm Mind
+L33 - Role Play
+L38 - Zen Headbutt
+L43 - Jump Kick
+L49 - Imprison
+L50 - Captivate
+L55 - Me First 
+TM03 - Psyshock
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM93 - Wild Charge
+TM100 - Confide
 Egg - Double Kick
 Egg - Thrash
 Egg - Bite
