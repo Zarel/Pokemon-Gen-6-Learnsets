@@ -6745,7 +6745,12 @@ Egg - After You
 
 == Tynamo ==
 
-(Unreleased)
+Start - Tackle
+Start - Thunder Wave
+Start - Spark
+Start - Charge Beam
+TM57 - Charge Beam
+TM73 - Thunder Wave
 
 == Typhlosion ==
 
