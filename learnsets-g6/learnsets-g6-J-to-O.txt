@@ -1,6 +1,60 @@
 == Jellicent ==
 
-(Unreleased)
+Start - Water Spout
+Start - Wring Out
+Start - Bubble
+Start - Water Sport
+Start - Absorb
+Start - Night Shade
+L5 - Absorb
+L9 - Night Shade
+L13 - Bubble Beam
+L17 - Recover
+L22 - Water Pulse
+L27 - Ominous Wind
+L32 - Brine
+L37 - Rain Dance
+L45 - Hex
+L53 - Hydro Pump
+L61 - Wring Out
+L69 - Water Spout
+TM06 - Toxic
+TM07 - Hail
+HM10 - Hidden Power
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM34 - Sludge Wave
+TM36 - Sludge Bomb
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM55 - Scald
+TM61 - Will-O-Wisp
+TM68 - Giga Impact
+TM70 - Flash
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall 
 
 == Jigglypuff ==
 
