@@ -1210,13 +1210,62 @@ Egg - Chip Away
 
 == Kricketot ==
 
-(Unreleased)
+Start - Growl
+Start - Bide
+L6 - Struggle Bug
+L16 - Bug Bite
+TM76 - Struggle Bug
 
 == Kricketune ==
 
-(Unreleased)
-
-L? - Fell Stinger
+Start - Growl
+Start - Bide
+L10 - Fury Cutter
+L14 - Leech Life
+L18 - Sing
+L22 - Focus Energy
+L26 - Slash
+L30 - X-Scissor
+L34 - Screech
+L36 - Fell Stinger
+L38 - Taunt
+L42 - Night Slash
+L44 - Sticky Web
+L46 - Bug Buzz
+L50 - Perish Song 
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM54 - False Swipe
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM76 - Struggle Bug
+TM81 - X-Scissor
+TM83 - Infestation
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Krokorok ==
 
