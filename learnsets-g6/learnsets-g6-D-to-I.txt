@@ -8588,7 +8588,76 @@ Egg - Captivate
 
 == Infernape ==
 
-(Unreleased)
+Start - Flare Blitz
+Start - Punishment
+Start - Scratch
+Start - Leer
+Start - Ember
+Start - Taunt
+L7 - Ember
+L9 - Taunt
+L14 - Mach Punch
+L16 - Fury Swipes
+L19 - Flame Wheel
+L26 - Feint
+L29 - Torment
+L36 - Close Combat
+L42 - Fire Spin
+L52 - Acrobatics
+L58 - Calm Mind
+L68 - Flare Blitz
+TM01 - Hone Claws
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM50 - Overheat
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM62 - Acrobatics
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Blast Burn
 Tutor - Fire Pledge
 
