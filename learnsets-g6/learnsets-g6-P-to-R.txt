@@ -2414,7 +2414,53 @@ HM05 - Waterfall
 
 == Quilava ==
 
-(Unreleased)
+Start - Tackle
+Start - Leer
+Start - Smokescreen
+L6 - Smokescreen
+L10 - Ember
+L13 - Quick Attack
+L20 - Flame Wheel
+L24 - Defense Curl
+L31 - Swift
+L35 - Flame Charge
+L42 - Lava Plume
+L46 - Flamethrower
+L53 - Inferno
+L57 - Rollout
+L64 - Double-Edge
+L68 - Eruption
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM21 - Frustration
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM40 - Aerial Ace
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM50 - Overheat
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
+
 Tutor - Fire Pledge
 
 == Quilladin ==
