@@ -3318,7 +3318,67 @@ Egg - Magic Coat
 
 == Feraligatr ==
 
-(Unreleased)
+Start - Scratch
+Start - Leer
+Start - Water Gun
+Start - Rage
+L6 - Water Gun
+L8 - Rage
+L13 - Bite
+L15 - Scary Face
+L21 - Ice Fang
+L24 - Flail
+L30 - Agility
+L32 - Crunch
+L37 - Chip Away
+L45 - Slash
+L50 - Screech
+L58 - Thrash
+L63 - Aqua Tail
+L71 - Superpower
+L76 - Hydro Pump 
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Hydro Cannon
 Tutor - Water Pledge
 
