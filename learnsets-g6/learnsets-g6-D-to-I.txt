@@ -6939,7 +6939,57 @@ Tutor - Grass Pledge
 
 == Grovyle ==
 
-(Unreleased)
+Start - Pound
+Start - Leer
+Start - Absorb
+Start - Quick Attack
+L6 - Absorb
+L11 - Quick Attack
+L16 - Fury Cutter
+L17 - Pursuit
+L23 - Screech
+L29 - Leaf Blade
+L35 - Agility
+L41 - Slam
+L47 - Detect
+L53 - False Swipe
+L59 - Leaf Storm
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM53 - Energy Ball
+TM54 - False Swipe
+TM56 - Fling
+TM62 - Acrobatics
+TM70 - Flash
+TM75 - Swords Dance
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Grass Pledge
 
 == Growlithe ==
