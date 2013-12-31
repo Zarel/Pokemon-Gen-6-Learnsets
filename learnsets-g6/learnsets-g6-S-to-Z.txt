@@ -517,7 +517,67 @@ Egg - Stun Spore
 
 == Sceptile ==
 
-(Unreleased)
+Start - Leaf Storm
+Start - Night Slash
+Start - Pound
+Start - Leer
+Start - Absorb
+Start - Quick Attack
+L6 - Absorb
+L11 - Quick Attack
+L16 - X-Scissor
+L17 - Pursuit
+L23 - Screech
+L29 - Leaf Blade
+L35 - Agility
+L43 - Slam
+L51 - Detect
+L59 - False Swipe
+L67 - Leaf Storm
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solarbeam
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM54 - False Swipe
+TM56 - Fling
+TM62 - Acrobatics
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Frenzy Plant
 Tutor - Grass Pledge
 
@@ -6636,7 +6696,51 @@ Egg - Bug Bite
 
 == Treecko ==
 
-(Unreleased)
+Start - Pound
+Start - Leer
+L6 - Absorb
+L11 - Quick Attack
+L16 - Pursuit
+L21 - Screech
+L26 - Mega Drain
+L31 - Agility
+L36 - Slam
+L41 - Detect
+L46 - Giga Drain
+L50 - Energy Ball
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solarbeam
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM62 - Acrobatics
+TM70 - Flash
+TM75 - Swords Dance
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Grass Pledge
 Egg - Razor Wind
 Egg - Double Kick
