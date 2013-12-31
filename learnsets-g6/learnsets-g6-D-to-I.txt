@@ -8,7 +8,7 @@ Start - Tackle
 Start - Rollout
 Start - Incinerate
 Start - Rage
-L3 - Rolloutemboar
+L3 - Rollout
 L6 - Incinerate
 L9 - Rage
 L11 - Fire Fang
@@ -3367,8 +3367,31 @@ Egg - Simple Beam
 
 == Feebas ==
 
-(Unreleased)
-
+Start - Splash
+L15 - Tackle
+L30 - Flail
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 Egg - Mist
 Egg - Hypnosis
 Egg - Confuse Ray
