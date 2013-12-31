@@ -8,7 +8,7 @@ Start - Tackle
 Start - Rollout
 Start - Incinerate
 Start - Rage
-L3 - Rollout
+L3 - Rolloutemboar
 L6 - Incinerate
 L9 - Rage
 L11 - Fire Fang
@@ -2707,7 +2707,73 @@ Egg - Cosmic Power
 
 == Emboar ==
 
-(Unreleased)
+Start - Hammer Arm
+Start - Tackle
+Start - Tail Whip
+Start - Ember
+Start - Odor Sleuth
+L3 - Tail Whip
+L7 - Ember
+L9 - Odor Sleuth
+L13 - Defense Curl
+L15 - Flame Charge
+L17 - Arm Thrust
+L20 - Smog
+L23 - Rollout
+L28 - Take Down
+L31 - Heat Crash
+L38 - Assurance
+L43 - Flamethrower
+L50 - Head Smash
+L55 - Roar
+L62 - Flare Blitz
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM84 - Poison Jab
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 Tutor - Blast Burn
 Tutor - Fire Pledge
 
@@ -2772,7 +2838,66 @@ Egg - Ion Deluge
 
 == Empoleon ==
 
-(Unreleased)
+Start - Tackle
+Start - Growl
+Start - Bubble
+L4 - Growl
+L8 - Bubble
+L11 - Swords Dance
+L15 - Peck
+L16 - Metal Claw
+L19 - Bubble Beam
+L24 - Swagger
+L28 - Fury Attack
+L33 - Brine
+L36 - Aqua Jet
+L39 - Whirlpool
+L46 - Mist
+L52 - Drill Peck
+L59 - Hydro Pump
+TM01 - Hone Claws
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM55 - Scald
+TM56 - Fling
+TM60 - Quash
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Hydro Cannon
 Tutor - Water Pledge
 
