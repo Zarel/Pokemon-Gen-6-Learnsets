@@ -5479,7 +5479,48 @@ HM04 - Strength
 
 == Milotic ==
 
-(Unreleased)
+Start - Water Gun
+Start - Wrap
+L5 - Water Sport
+L9 - Refresh
+L13 - Water Pulse
+L17 - Twister
+L21 - Recover
+L25 - Captivate
+L29 - Aqua Tail
+L33 - Rain Dance
+L37 - Hydro Pump
+L41 - Attract
+L45 - Safeguard
+L49 - Aqua Ring 
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM55 - Scald
+TM68 - Giga Impact
+TM77 - Psych Up
+TM78 - Bulldoze
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM100 - Confide
+HM03 - Surf
+HM05 - Waterfall
 
 == Miltank ==
 
