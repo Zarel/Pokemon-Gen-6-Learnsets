@@ -1952,15 +1952,166 @@ Egg - Play Rough
 
 == Porygon ==
 
-(Unreleased)
+Start - Conversion 2
+Start - Tackle
+Start - Conversion
+Start - Sharpen
+L7 - Psybeam
+L12 - Agility
+L18 - Recover
+L23 - Magnet Rise
+L29 - Signal Beam
+L34 - Recycle
+L40 - Discharge
+L45 - Lock-On
+L50 - Tri Attack
+L56 - Magic Coat
+L62 - Zap Cannon
+TM03 - Psyshock
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM100 - Confide
+
 
 == Porygon2 ==
 
-(Unreleased)
+Start - Zap Cannon
+Start - Magic Coat
+Start - Conversion 2
+Start - Tackle
+Start - Conversion
+Start - Defense Curl
+L7 - Psybeam
+L12 - Agility
+L18 - Recover
+L23 - Magnet Rise
+L29 - Signal Beam
+L34 - Recycle
+L40 - Discharge
+L45 - Lock-On
+L50 - Tri Attack
+L56 - Magic Coat
+L62 - Zap Cannon
+L67 - Hyper Beam
+TM03 - Psyshock
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM100 - Confide
 
 == Porygon-Z ==
 
-(Unreleased)
+Start - Trick Room
+Start - Zap Cannon
+Start - Magic Coat
+Start - Conversion 2
+Start - Tackle
+Start - Conversion
+Start - Nasty Plot
+L7 - Psybeam
+L12 - Agility
+L18 - Recover
+L23 - Magnet Rise
+L29 - Signal Beam
+L34 - Embargo
+L40 - Discharge
+L45 - Lock-On
+L50 - Tri Attack
+L56 - Magic Coat
+L62 - Zap Cannon
+L67 - Hyper Beam
+TM03 - Psyshock
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM46 - Thief
+TM48 - Round
+TM57 - Charge Beam
+TM63 - Embargo
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM97 - Dark Pulse
+TM100 - Confide 
 
 == Primeape ==
 
