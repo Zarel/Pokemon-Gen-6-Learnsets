@@ -544,7 +544,7 @@ TM15 - Hyper Beam
 TM17 - Protect
 TM20 - Safeguard
 TM21 - Frustration
-TM22 - Solarbeam
+TM22 - Solar Beam
 TM26 - Earthquake
 TM27 - Return
 TM28 - Dig
@@ -1272,13 +1272,110 @@ Egg - Captivate
 
 == Serperior ==
 
-(Unreleased)
+Start - Tackle
+Start - Leer
+Start - Vine Whip
+Start - Wrap
+L4 - Leer
+L7 - Vine Whip
+L10 - Wrap
+L13 - Growth
+L16 - Leaf Tornado
+L20 - Leech Seed
+L24 - Mega Drain
+L28 - Slam
+L32 - Leaf Blade
+L38 - Coil
+L44 - Giga Drain
+L50 - Wring Out
+L56 - Gastro Acid
+L62 - Leaf Storm 
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM68 - Giga Impact
+TM70 - Flash
+TM75 - Swords Dance
+TM82 - Dragon Tail
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Tutor - Frenzy Plant
 Tutor - Grass Pledge
 
 == Servine ==
 
-(Unreleased)
+Start - Tackle
+Start - Leer
+Start - Vine Whip
+Start - Wrap
+L4 - Leer
+L7 - Vine Whip
+L10 - Wrap
+L13 - Growth
+L16 - Leaf Tornado
+L20 - Leech Seed
+L24 - Mega Drain
+L28 - Slam
+L32 - Leaf Blade
+L36 - Coil
+L40 - Giga Drain
+L44 - Wring Out
+L48 - Gastro Acid
+L52 - Leaf Storm
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM70 - Flash
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
 Tutor - Grass Pledge
 
 == Seviper ==
@@ -2700,12 +2797,123 @@ HM04 - Strength
 
 == Slaking ==
 
-(Unreleased)
+Start - Hammer Arm
+Start - Punishment
+Start - Fling
+Start - Scratch
+Start - Yawn
+Start - Encore
+Start - Slack Off
+L7 - Encore
+L13 - Slack Off
+L19 - Feint Attack
+L25 - Amnesia
+L31 - Covet 
+L36 - Swagger
+L37 - Chip Away
+L43 - Counter
+L49 - Flail
+L55 - Fling
+L61 - Punishment
+L67 - Hammer Arm
+TM01 - Hone Claws
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM30 - Shadow Ball
+TM31 - Brick Bream
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM59 - Incinerate
+TM60 - Quash
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM68 - Giga Impact
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Slakoth ==
 
-(Unreleased)
-
+Start - Scratch
+Start - Yawn
+L7 - Encore
+L13 - Slack Off
+L19 - Feint Attack
+L25 - Amnesia
+L31 - Covet
+L37 - Chip Away
+L43 - Counter
+L49 - Flail
+TM01 - Hone Claws
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 Egg - Body Slam
 Egg - Slash
 Egg - Snore
@@ -3233,7 +3441,50 @@ Egg - Icicle Crash
 
 == Snivy ==
 
-(Unreleased)
+Start - Tackle
+L4 - Leer
+L7 - Vine Whip
+L10 - Wrap
+L13 - Growth
+L16 - Leaf Tornado
+L19 - Leech Seed
+L22 - Mega Drain
+L25 - Slam
+L28 - Leaf Blade
+L31 - Coil
+L34 - Giga Drain
+L37 - Wring Out
+L40 - Gastro Acid
+L43 - Leaf Storm
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM40 - Aerial Ace
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM70 - Flash
+TM75 - Swords Dance
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM96 - Nature Power
+TM100 - Confide
+HM01 - Cut
 Tutor - Grass Pledge
 Egg - Glare
 Egg - Mean Look
@@ -6768,7 +7019,7 @@ TM11 - Sunny Day
 TM17 - Protect
 TM20 - Safeguard
 TM21 - Frustration
-TM22 - Solarbeam
+TM22 - Solar Beam
 TM27 - Return
 TM28 - Dig
 TM31 - Brick Break
@@ -8138,7 +8389,64 @@ HM01 - Cut
 
 == Vigoroth ==
 
-(Unreleased)
+Start - Reversal
+Start - Scratch
+Start - Focus Energy
+Start - Encore
+Start - Uproar
+L7 - Encore
+L13 - Uproar
+L19 - Fury Swipes
+L25 - Endure
+L31 - Slash
+L37 - Counter
+L43 - Chip Away
+L49 - Focus Punch
+L55 - Reversal
+TM01 - Hone Claws
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM13 - Ice Beam
+TM14 - Blizzard
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM47 - Low Sweep
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM67 - Retaliate
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength 
 
 == Vileplume ==
 
