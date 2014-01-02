@@ -5584,8 +5584,65 @@ Egg - Secret Power
 
 == Giratina ==
 
-(Unreleased)
-
+Start - Dragon Breath
+Start - Scary Face
+L6 - Ominous Wind
+L10 - Ancient Power
+L15 - Slash
+L19 - Shadow Sneak
+L24 - Destiny Bond
+L28 - Dragon Claw
+L33 - Earth Power
+L37 - Aura Sphere
+L42 - Shadow Claw
+L46 - Shadow Force
+L50 - Hex
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM61 - Will-O-Wisp
+TM65 - Shadow Claw
+TM66 - Payback
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM82 - Dragon Tail
+TM85 - Dream Eater
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM04 - Strength 
 Tutor - Draco Meteor
 
 == Glaceon ==
@@ -7051,7 +7108,69 @@ Tutor - Grass Pledge
 
 == Groudon ==
 
-(Unreleased)
+Start - Mud Shot
+L5 - Scary Face
+L15 - Lava Plume
+L20 - Hammer Arm
+L30 - Rest
+L35 - Earthquake
+L45 - Ancient Power
+L50 - Eruption
+L60 - Bulk Up
+L65 - Earth Power
+L75 - Fissure
+L80 - Solar Beam
+L90 - Fire Blast 
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM50 - Overheat
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM75 - Swords Dance
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swgager
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength 
 
 == Grovyle ==
 
