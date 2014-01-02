@@ -572,7 +572,68 @@ Tutor - Water Pledge
 
 == Dialga ==
 
-(Unreleased)
+Start - Dragon Breath
+Start - Scary Face
+L6 - Metal Claw
+L10 - Ancient Power
+L15 - Slash
+L19 - Power Gem
+L24 - Metal Burst
+L28 - Dragon Claw
+L33 - Earth Power
+L37 - Aura Sphere
+L42 - Iron Tail
+L46 - Roar of Time
+L50 - Flash Cannon
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM70 - Flash
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM92 - Trick Room
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength 
 Tutor - Draco Meteor
 
 == Diggersby ==
@@ -2903,8 +2964,63 @@ Tutor - Water Pledge
 
 == Entei ==
 
-(Unreleased)
-L? - Sacred Fire
+Start - Sacred Fire
+Start - Eruption
+Start - Extrasensory
+Start - Lava Plume
+Start - Bite
+Start - Leer
+L8 - Ember
+L15 - Roar
+L22 - Fire Spin
+L29 - Stomp
+L36 - Flamethrower
+L43 - Swagger
+L50 - Fire Fang
+L57 - Lava Plume
+L64 - Extrasensory
+L71 - Fire Blast
+L78 - Calm Mind
+L85 - Eruption 
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM48 - Round
+TM50 - Overheat
+TM59 - Incinerate
+TM60 - Quash
+TM61 - Will-O-Wisp
+TM68 - Giga Impact
+TM70 - Flash
+TM71 - Stone Edge
+TM77 - Psych Up
+TM78 - Bulldoze
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM95 - Snarl
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength 
 
 == Escavalier ==
 
