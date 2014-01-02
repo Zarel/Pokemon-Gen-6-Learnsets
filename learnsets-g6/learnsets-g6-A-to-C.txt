@@ -5956,7 +5956,62 @@ HM03 - Surf
 
 == Cobalion ==
 
-(Unreleased)
+Start - Close Combat
+Start - Metal Burst
+Start - Work Up
+Start - Quick Guard
+Start - Quick Attack
+Start - Leer
+L7 - Double Kick
+L13 - Metal Claw
+L19 - Take Down
+L25 - Helping Hand
+L31 - Retaliate
+L37 - Iron Head
+L42 - Sacred Sword
+L49 - Swords Dance
+L55 - Quick Guard
+L61 - Work Up
+L67 - Metal Burst
+L73 - Close Combat
+TM01 - Hone Claws
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM12 - Taunt
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM52 - Focus Blast
+TM54 - False Swipe
+TM67 - Retaliate
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM75 - Swords Dance
+TM77 - Psych Up
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Cofagrigus ==
 
@@ -6515,8 +6570,57 @@ HM05 - Waterfall
 
 == Cresselia ==
 
-(Unreleased)
-L? - Moonblast
+Start - Lunar Dance
+Start - Psycho Shift
+Start - Psycho Cut
+Start - Moonlight
+Start - Confusion
+Start - Double Team
+L11 - Safeguard
+L20 - Mist
+L29 - Aurora Beam
+L38 - Future Sight
+L47 - Slash
+L57 - Moonlight
+L66 - Psycho Cut
+L75 - Psycho Shift
+L84 - Lunar Dance
+L93 - Psychic
+L99 - Moonblast
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM48 - Round
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM87 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM100 - Confide
 
 == Croagunk ==
 
