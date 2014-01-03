@@ -8019,6 +8019,8 @@ HM02 - Fly
 Tutor - Draco Meteor
 Egg - Switcheroo
 Egg - Tailwind
+Egg - Snatch
+Egg - Outrage
 
 == Noivern ==
 
