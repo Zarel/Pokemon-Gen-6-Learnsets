@@ -4175,6 +4175,7 @@ Egg - Imprison
 Egg - Grudge
 Egg - Shadow Sneak
 Egg - Captivate
+Egg - Foul Play
 
 == Spoink ==
 
@@ -10064,6 +10065,7 @@ Egg - Fake Tears
 Egg - Heal Block
 Egg - Nasty Plot
 Egg - Toxic Spikes
+Egg - Ally Switch
 
 == Yanma ==
 
