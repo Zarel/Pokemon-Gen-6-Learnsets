@@ -3411,6 +3411,10 @@ TM92 - Trick Room
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM01 - Cut
+Event 2 - Celebrate
+Event 2 - Tail Whip
+Event 2 - Sand Attack
+Event 2 - Confusion
 
 == Espurr ==
 
