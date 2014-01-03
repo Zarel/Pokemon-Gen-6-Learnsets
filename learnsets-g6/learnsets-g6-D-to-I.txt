@@ -4053,6 +4053,7 @@ TM100 - Confide
 HM02 - Fly
 Egg - Quick Guard
 Egg - Tailwind
+Egg - Snatch
 
 == Floatzel ==
 
