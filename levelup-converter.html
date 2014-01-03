@@ -29,6 +29,7 @@ function change() {
 		var cols = row.split('\t');
 		if (cols[0] === '\u2014') return 'Start - '+cols[1];
 		if (/^[0-9]+$/.test(cols[0])) return 'L'+parseInt(cols[0],10)+' - '+cols[1];
+		if (/^(TM|HM)[0-9]+$/.test(cols[0])) return cols[0]+' - '+cols[1];
 		return '';
 	}).filter(function(row) {
 		return row;
