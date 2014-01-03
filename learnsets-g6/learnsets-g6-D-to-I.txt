@@ -4251,6 +4251,10 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+Event 1 - Celebrate
+Event 1 - Tail Whip
+Event 1 - Sand Attack
+Event 1 - Ember
 
 == Fletchinder ==
 
