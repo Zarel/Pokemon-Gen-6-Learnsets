@@ -766,6 +766,7 @@ Egg - Discharge
 Egg - Mirror Coat
 Egg - Haze
 Egg - Barrier
+Egg - Magnet Rise
 
 == Ambipom ==
 
@@ -1162,6 +1163,7 @@ Egg - Earth Power
 Egg - Defog
 Egg - Head Smash
 Egg - Switcheroo
+Egg - Ally Switch
 
 == Archeops ==
 
@@ -4815,6 +4817,7 @@ Egg - Dragon Dance
 Egg - Flare Blitz
 Egg - Dragon Pulse
 Egg - Dragon Rush
+Egg - Air Cutter
 
 == Charmeleon ==
 
