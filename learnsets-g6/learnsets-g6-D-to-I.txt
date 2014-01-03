@@ -7468,7 +7468,7 @@ L60 - Bulk Up
 L65 - Earth Power
 L75 - Fissure
 L80 - Solar Beam
-L90 - Fire Blast 
+L90 - Fire Blast
 TM01 - Hone Claws
 TM02 - Dragon Claw
 TM05 - Roar
@@ -7511,14 +7511,14 @@ TM77 - Psych Up
 TM78 - Bulldoze
 TM80 - Rock Slide
 TM82 - Dragon Tail
-TM87 - Swgager
+TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
 TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM01 - Cut
-HM04 - Strength 
+HM04 - Strength
 
 == Grovyle ==
 

@@ -2886,7 +2886,7 @@ L7 - Encore
 L13 - Slack Off
 L19 - Feint Attack
 L25 - Amnesia
-L31 - Covet 
+L31 - Covet
 L36 - Swagger
 L37 - Chip Away
 L43 - Counter
@@ -2914,7 +2914,7 @@ TM25 - Thunder
 TM26 - Earthquake
 TM27 - Return
 TM30 - Shadow Ball
-TM31 - Brick Bream
+TM31 - Brick Break
 TM32 - Double Team
 TM35 - Flamethrower
 TM38 - Fire Blast
@@ -2926,6 +2926,7 @@ TM45 - Attract
 TM47 - Low Sweep
 TM48 - Round
 TM52 - Focus Blast
+TM56 - Fling
 TM59 - Incinerate
 TM60 - Quash
 TM65 - Shadow Claw
