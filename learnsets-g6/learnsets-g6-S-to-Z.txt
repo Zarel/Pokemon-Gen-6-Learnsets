@@ -8392,6 +8392,10 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
+Event 1 - Celebrate
+Event 1 - Tail Whip
+Event 1 - Sand Attack
+Event 1 - Water Gun
 
 == Venipede ==
 
