@@ -3006,6 +3006,7 @@ Egg - Grudge
 Egg - Shadow Sneak
 Egg - Synchronoise
 Egg - Misty Terrain
+Egg - Ally Switch
 
 == Rampardos ==
 
