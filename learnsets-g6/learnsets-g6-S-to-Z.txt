@@ -640,6 +640,10 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Event 4 - X-Scissor
+Event 4 - Night Slash
+Event 4 - Double Hit
+Event 4 - Iron Head
 
 == Scolipede ==
 

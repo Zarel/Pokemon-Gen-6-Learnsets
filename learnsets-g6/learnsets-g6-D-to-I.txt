@@ -5378,6 +5378,10 @@ Event 2 - Draco Meteor
 Event 2 - Dragon Claw
 Event 2 - Dig
 Event 2 - Crunch
+Event 3 - Slash
+Event 3 - Dragon Claw
+Event 3 - Dig
+Event 3 - Crunch
 
 == Gardevoir ==
 
