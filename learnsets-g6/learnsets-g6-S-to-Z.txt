@@ -8026,6 +8026,10 @@ TM95 - Snarl
 TM97 - Dark Pulse
 TM100 - Confide
 HM01 - Cut
+Event 2 - Celebrate
+Event 2 - Tail Whip
+Event 2 - Sand Attack
+Event 2 - Pursuit
 
 == Unfezant ==
 
