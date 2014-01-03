@@ -5787,6 +5787,10 @@ TM90 - Substitute
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM01 - Cut
+Event 0 - Celebrate
+Event 0 - Helping Hand
+Event 0 - Sand Attack
+Event 0 - Fairy Wind
 
 == Taillow ==
 
