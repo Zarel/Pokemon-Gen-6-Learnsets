@@ -59,8 +59,69 @@ Egg - Ion Deluge
 
 == Palkia ==
 
-(Unreleased)
-
+Start - Dragon Breath
+Start - Scary Face
+L6 - Water Pulse
+L10 - Ancient Power
+L15 - Slash
+L19 - Power Gem
+L24 - Aqua Tail
+L28 - Dragon Claw
+L33 - Earth Power
+L37 - Aura Sphere
+L42 - Aqua Tail
+L46 - Spacial Rend
+L50 - Hydro Pump
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM03 - Surf
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Palpitoad ==
@@ -2938,7 +2999,60 @@ HM04 - Strength
 
 == Raikou ==
 
-(Unreleased)
+Start - Extrasensory
+Start - Discharge
+Start - Bite
+Start - Leer
+L8 - Thunder Shock
+L15 - Roar
+L22 - Quick Attack
+L29 - Spark
+L36 - Reflect
+L43 - Crunch
+L50 - Thunder Fang
+L57 - Discharge
+L64 - Extrasensory
+L71 - Rain Dance
+L78 - Calm Mind
+L85 - Thunder
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM28 - Dig
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM57 - Charge Beam
+TM60 - Quash
+TM68 - Giga Impact
+TM70 - Flash
+TM72 - Volt Switch
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM93 - Wild Charge
+TM94 - Rock Smash
+TM95 - Snarl
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
 
 == Ralts ==
 
@@ -3239,25 +3353,301 @@ Egg - Final Gambit
 
 == Rayquaza ==
 
-(Unreleased)
-
+Start - Twister
+L5 - Scary Face
+L15 - Crunch
+L20 - Hyper Voice
+L30 - Rest
+L35 - Air Slash
+L45 - Ancient Power
+L50 - Outrage
+L60 - Dragon Dance
+L65 - Fly
+L75 - Extreme Speed
+L80 - Hyper Beam
+L90 - Dragon Pulse
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM05 - Roar
+TM06 - Toxic
+TM08 - Bulk Up
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM56 - Fling
+TM58 - Sky Drop
+TM59 - Incinerate
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM74 - Gyro Ball
+TM75 - Swords Dance
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM02 - Fly
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Draco Meteor
 
 == Regice ==
 
-(Unreleased)
+Start - Hammer Arm
+Start - Zap Cannon
+Start - Lock-On
+Start - Explosion
+Start - Stomp
+L9 - Icy Wind
+L17 - Curse
+L25 - Superpower
+L33 - Ancient Power
+L41 - Amnesia
+L49 - Charge Beam
+L57 - Lock-On
+L65 - Zap Cannon
+L73 - Ice Beam
+L81 - Hammer Arm
+L89 - Hyper Beam
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM64 - Explosion
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM79 - Frost Breath
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Regigigas ==
 
-(Unreleased)
+Start - Heavy Slam
+Start - Crush Grip
+Start - Fire Punch
+Start - Ice Punch
+Start - Thunder Punch
+Start - Dizzy Punch
+Start - Knock Off
+Start - Confuse Ray
+Start - Foresight
+L25 - Revenge
+L40 - Wide Guard
+L50 - Zen Headbutt
+L65 - Payback
+L75 - Crush Grip
+L90 - Heavy Slam
+L100 - Giga Impact
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM23 - Smack Down
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM96 - Nature Power
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Regirock ==
 
-(Unreleased)
+Start - Explosion
+Start - Stomp
+L9 - Rock Throw
+L17 - Curse
+L25 - Superpower
+L33 - Ancientpower
+L41 - Iron Defense
+L49 - Charge Beam
+L57 - Lock-on
+L65 - Zap Cannon
+L73 - Stone Edge
+L81 - Hammer Arm
+L89 - Hyper Beam
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM23 - Smack Down
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM28 - Dig
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM64 - Explosion
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM90 - Substitute
+TM94 - Rock Smash
+HM04 - Strength
 
 == Registeel ==
 
-(Unreleased)
+Start - Hammer Arm
+Start - Iron Head
+Start - Zap Cannon
+Start - Lock-On
+Start - Explosion
+Start - Stomp
+L9 - Metal Claw
+L17 - Curse
+L25 - Superpower
+L33 - Ancient Power
+L41 - Iron Defense
+L41 - Amnesia
+L49 - Charge Beam
+L57 - Lock-On
+L65 - Zap Cannon
+L73 - Iron Head
+L73 - Flash Cannon
+L81 - Hammer Arm
+L89 - Hyper Beam
+TM01 - Hone Claws
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM52 - Focus Blast
+TM56 - Fling
+TM57 - Charge Beam
+TM64 - Explosion
+TM65 - Shadow Claw
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Relicanth ==
 
@@ -3388,8 +3778,67 @@ Egg - Entrainment
 
 == Reshiram ==
 
-(Unreleased)
-
+Start - Fire Fang
+Start - Dragon Rage
+L8 - Imprison
+L15 - Ancient Power
+L22 - Flamethrower
+L29 - Dragon Breath
+L36 - Slash
+L43 - Extrasensory
+L50 - Fusion Flare
+L54 - Dragon Pulse
+L64 - Imprison
+L71 - Crunch
+L78 - Fire Blast
+L85 - Outrage
+L92 - Hyper Voice
+L100 - Blue Flare
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM19 - Roost
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM51 - Steel Wing
+TM52 - Focus Blast
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM65 - Shadow Claw
+TM66 - Payback
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM80 - Rock Slide
+TM82 - Dragon Tail
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM04 - Strength
 Tutor - Draco Meteor
 
 == Reuniclus ==

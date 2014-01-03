@@ -1095,8 +1095,93 @@ HM04 - Strength
 
 == Arceus ==
 
-(Unreleased)
-
+Start - Seismic Toss
+Start - Cosmic Power
+Start - Natural Gift
+Start - Punishment
+L10 - Gravity
+L20 - Earth Power
+L30 - Hyper Voice
+L40 - Extreme Speed
+L50 - Refresh
+L60 - Future Sight
+L70 - Recover
+L80 - Hyper Beam
+L90 - Perish Song
+L100 - Judgment
+TM01 - Hone Claws
+TM02 - Dragon Claw
+TM03 - Psyshock
+TM04 - Calm Mind
+TM05 - Roar
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM13 - Ice Beam
+TM14 - Blizzard
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM24 - Thunderbolt
+TM25 - Thunder
+TM26 - Earthquake
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM31 - Brick Break
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM39 - Rock Tomb
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM50 - Overheat
+TM52 - Focus Blast
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM59 - Incinerate
+TM60 - Quash
+TM61 - Will-O-Wisp
+TM65 - Shadow Claw
+TM66 - Payback
+TM67 - Retaliate
+TM68 - Giga Impact
+TM70 - Flash
+TM71 - Stone Edge
+TM73 - Thunder Wave
+TM75 - Swords Dance
+TM77 - Psych Up
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM81 - X-Scissor
+TM84 - Poison Jab
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM92 - Trick Room
+TM94 - Rock Smash
+TM95 - Snarl
+TM97 - Dark Pulse
+TM100 - Confide
+HM01 - Cut
+HM02 - Fly
+HM03 - Surf
+HM04 - Strength
+HM05 - Waterfall
 Tutor - Draco Meteor
 
 == Archen ==
@@ -1780,7 +1865,67 @@ Egg - Dragon Pulse
 
 == Azelf ==
 
-(Unreleased)
+Start - Natural Gift
+Start - Last Resort
+Start - Rest
+Start - Confusion
+L6 - Imprison
+L16 - Detect
+L21 - Swift
+L31 - Uproar
+L36 - Future Sight
+L46 - Nasty Plot
+L50 - Extrasensory
+L61 - Last Resort
+L66 - Natural Gift
+L76 - Explosion
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM12 - Taunt
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM24 - Thunderbolt
+TM25 - Thunder
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM35 - Flamethrower
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM41 - Torment
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM59 - Incinerate
+TM62 - Acrobatics
+TM64 - Explosion
+TM66 - Payback
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM92 - Trick Room
+TM98 - Power-Up Punch
+TM99 - Dazzling Gleam
+TM100 - Confide
 
 == Azumarill ==
 
@@ -4545,7 +4690,62 @@ L15 - Bug Bite
 
 == Celebi ==
 
-(Unreleased)
+Start - Leech Seed
+Start - Confusion
+Start - Recover
+Start - Heal Bell
+L10 - Safeguard
+L19 - Magical Leaf
+L28 - Ancient Power
+L37 - Baton Pass
+L46 - Natural Gift
+L55 - Heal Block
+L64 - Future Sight
+L73 - Healing Wish
+L82 - Leaf Storm
+L91 - Perish Song
+TM04 - Calm Mind
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM18 - Rain Dance
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM49 - Echoed Voice
+TM53 - Energy Ball
+TM56 - Fling
+TM57 - Charge Beam
+TM68 - Giga Impact
+TM70 - Flash
+TM73 - Thunder Wave
+TM75 - Swords Dance
+TM77 - Psych Up
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM92 - Trick Room
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
+HM01 - Cut
+Event 1 - Hold Back
 
 == Chandelure ==
 
