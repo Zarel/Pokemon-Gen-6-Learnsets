@@ -2636,6 +2636,10 @@ Egg - Covet
 Egg - Natural Gift
 Egg - Synchronoise
 Egg - Stored Power
+Event 3 - Celebrate
+Event 3 - Sand Attack
+Event 3 - Baby-Doll Eyes
+Event 3 - Swift
 
 == Ekans ==
 
