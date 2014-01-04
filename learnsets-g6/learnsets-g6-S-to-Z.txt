@@ -644,6 +644,10 @@ Event 4 - X-Scissor
 Event 4 - Night Slash
 Event 4 - Double Hit
 Event 4 - Iron Head
+Event 5 - Aerial Ace
+Event 5 - False Swipe
+Event 5 - Agility
+Event 5 - Fury Cutter
 
 == Scolipede ==
 
@@ -10099,6 +10103,7 @@ Start - Mirror Coat
 Start - Safeguard
 Start - Destiny Bond
 TM20 - Safeguard
+Event 2 - Counter
 
 == Woobat ==
 

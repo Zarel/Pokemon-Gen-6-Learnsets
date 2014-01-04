@@ -5698,6 +5698,10 @@ TM98 - Power-Up Punch
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM04 - Strength
+Event 0 - Psychic
+Event 0 - Confuse Ray
+Event 0 - Sucker Punch
+Event 0 - Shadow Punch
 
 == Geodude ==
 
@@ -9702,6 +9706,10 @@ Egg - Camouflage
 Egg - Power Split
 Egg - Simple Beam
 Egg - Flatter
+Event 0 - Happy Hour
+Event 0 - Foul Play
+Event 0 - Hypnosis
+Event 0 - Topsy-Turvy
 
 == Ivysaur ==
 

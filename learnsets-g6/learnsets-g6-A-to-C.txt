@@ -4745,7 +4745,10 @@ TM96 - Nature Power
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM01 - Cut
-Event 1 - Hold Back
+Event 5 - Recover
+Event 5 - Heal Bell
+Event 5 - Safeguard
+Event 5 - Hold Back
 
 == Chandelure ==
 
