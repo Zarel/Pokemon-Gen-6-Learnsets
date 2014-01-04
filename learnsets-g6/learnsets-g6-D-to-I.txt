@@ -108,7 +108,7 @@ TM31 - Brick Break
 TM32 - Double Team
 TM35 - Flamethrower
 TM38 - Fire Blast
-TM39 - Rock Smash
+TM39 - Rock Tomb
 TM41 - Torment
 TM42 - Facade
 TM43 - Flame Charge
@@ -169,7 +169,7 @@ TM31 - Brick Break
 TM32 - Double Team
 TM35 - Flamethrower
 TM38 - Fire Blast
-TM39 - Rock Smash
+TM39 - Rock Tomb
 TM42 - Facade
 TM43 - Flame Charge
 TM44 - Rest

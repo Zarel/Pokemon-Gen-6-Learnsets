@@ -2318,7 +2318,7 @@ L36 - Sandstorm
 L39 - Discharge
 L43 - Earth Power
 L46 - Stone Edge
-L50 - Lock On
+L50 - Lock-On
 L50 - Zap Cannon
 TM06 - Toxic
 TM10 - Hidden Power
@@ -3547,10 +3547,10 @@ Start - Stomp
 L9 - Rock Throw
 L17 - Curse
 L25 - Superpower
-L33 - Ancientpower
+L33 - Ancient Power
 L41 - Iron Defense
 L49 - Charge Beam
-L57 - Lock-on
+L57 - Lock-On
 L65 - Zap Cannon
 L73 - Stone Edge
 L81 - Hammer Arm
@@ -3723,7 +3723,7 @@ Egg - Zen Headbutt
 == Remoraid ==
 
 Start - Water Gun
-L6 - Lock On
+L6 - Lock-On
 L10 - Psybeam
 L14 - Aurora Beam
 L18 - Bubble Beam
@@ -4236,7 +4236,7 @@ TM100 - Confide
 HM04 - Strength
 Egg - Take Down
 Egg - Curse
-Egg - Lock On
+Egg - Lock-On
 Egg - Magnitude
 Egg - Gravity
 Egg - Autotomize
