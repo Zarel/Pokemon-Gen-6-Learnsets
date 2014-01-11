@@ -5085,6 +5085,21 @@ TM48 - Round
 TM49 - Echoed Voice
 TM52 - Focus Blast
 TM54 - False Swipe
+TM56 - Fling
+TM59 - Incinerate
+TM67 - Retaliate
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM75 - Swords Dance
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
+HM04 - Strength
 
 == Marshtomp ==
 
