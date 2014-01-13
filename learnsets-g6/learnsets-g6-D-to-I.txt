@@ -1669,6 +1669,7 @@ Egg - Memento
 Egg - Weather Ball
 Egg - Defog
 Egg - Clear Smog
+Egg - Tailwind
 
 == Drilbur ==
 
