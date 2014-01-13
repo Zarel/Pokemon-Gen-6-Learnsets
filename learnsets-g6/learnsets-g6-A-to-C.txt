@@ -7251,7 +7251,6 @@ Egg - Endure
 Egg - Ancient Power
 Egg - Iron Head
 Egg - Chip Away
-Egg - Play Rough
 
 == Cyndaquil ==
 
