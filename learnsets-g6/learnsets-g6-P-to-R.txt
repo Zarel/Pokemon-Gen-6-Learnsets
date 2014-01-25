@@ -3542,6 +3542,9 @@ HM04 - Strength
 
 == Regirock ==
 
+Start - Hammer Arm
+Start - Zap Cannon
+Start - Lock-On
 Start - Explosion
 Start - Stomp
 L9 - Rock Throw
@@ -3587,8 +3590,11 @@ TM77 - Psych Up
 TM78 - Bulldoze
 TM80 - Rock Slide
 TM87 - Swagger
+TM88 - Sleep Talk
 TM90 - Substitute
 TM94 - Rock Smash
+TM98 - Power-Up Punch
+TM100 - Confide
 HM04 - Strength
 
 == Registeel ==
