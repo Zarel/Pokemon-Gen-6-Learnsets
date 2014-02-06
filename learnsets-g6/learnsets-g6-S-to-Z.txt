@@ -648,6 +648,10 @@ Event 5 - Aerial Ace
 Event 5 - False Swipe
 Event 5 - Agility
 Event 5 - Fury Cutter
+Event 6 - Metal Claw
+Event 6 - False Swipe
+Event 6 - Agility
+Event 6 - Fury Cutter
 
 == Scolipede ==
 

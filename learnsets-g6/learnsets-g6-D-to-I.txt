@@ -5703,6 +5703,10 @@ Event 0 - Psychic
 Event 0 - Confuse Ray
 Event 0 - Sucker Punch
 Event 0 - Shadow Punch
+Event 1 - Night Shade
+Event 1 - Confuse Ray
+Event 1 - Sucker Punch
+Event 1 - Shadow Punch
 
 == Geodude ==
 
