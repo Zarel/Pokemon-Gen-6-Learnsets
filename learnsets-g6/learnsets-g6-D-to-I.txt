@@ -923,6 +923,62 @@ HM01 - Cut
 HM04 - Strength 
 Tutor - Draco Meteor
 
+== Diancie ==
+
+Start - Tackle
+Start - Harden
+L5 - Rock Throw
+L8 - Sharpen
+L12 - Smack Down
+L18 - Reflect
+L21 - Stealth Rock
+L27 - Guard Split
+L31 - Ancient Power
+L35 - Flail
+L40 - Skill Swap
+L46 - Trick Room
+L49 - Stone Edge
+L50 - Moonblast
+L50 - Diamond Storm
+L60 - Light Screen
+L70 - Safeguard
+TM03 - Psyshock
+TM04 - Calm Mind
+TM06 - Toxic
+TM07 - Hail
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM23 - Smack Down
+TM27 - Return
+TM29 - Psychic
+TM32 - Double Team
+TM33 - Reflect
+TM37 - Sandstorm
+TM39 - Rock Tomb
+TM42 - Facade
+TM44 - Rest
+TM48 - Round
+TM64 - Explosion
+TM68 - Giga Impact
+TM69 - Rock Polish
+TM70 - Flash
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM77 - Psych Up
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM96 - Nature Power
+TM99 - Dazzling Gleam
+TM100 - Confide
+
 == Diggersby ==
 
 Start - Hammer Arm
