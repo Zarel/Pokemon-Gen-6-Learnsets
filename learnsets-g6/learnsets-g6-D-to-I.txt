@@ -4515,15 +4515,20 @@ HM05 - Waterfall
 
 == Floette ==
 
+Start - Tackle
+Start - Vine Whip
+L6 - Fairy Wind
+L10 - Lucky Chant
+L15 - Razor Leaf
 L20 - Wish
 L25 - Magical Leaf
 L27 - Grassy Terrain
 L33 - Petal Blizzard
 L38 - Aromatherapy
 L43 - Misty Terrain
-L44 - Rest
 L46 - Moonblast
-L88 - Sleep Talk
+L51 - Petal Dance
+L58 - Solar Beam
 TM04 - Calm Mind
 TM06 - Toxic
 TM10 - Hidden Power
@@ -4553,16 +4558,21 @@ TM100 - Confide
 
 == Floette-Eternal-Flower ==
 
+Start - Tackle
+Start - Vine Whip
+L6 - Fairy Wind
+L10 - Lucky Chant
+L15 - Razor Leaf
 L20 - Wish
 L25 - Magical Leaf
 L27 - Grassy Terrain
 L33 - Petal Blizzard
 L38 - Aromatherapy
 L43 - Misty Terrain
-L44 - Rest
 L46 - Moonblast
 L50 - Light of Ruin
-L88 - Sleep Talk
+L51 - Petal Dance
+L58 - Solar Beam
 TM04 - Calm Mind
 TM06 - Toxic
 TM10 - Hidden Power
