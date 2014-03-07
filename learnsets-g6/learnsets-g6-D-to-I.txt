@@ -3833,6 +3833,50 @@ Egg - Trump Card
 Egg - Night Slash
 Egg - Simple Beam
 
+== Fearow ==
+
+Start - Pluck
+Start - Peck
+Start - Growl
+Start - Leer
+Start - Fury Attack
+L5 - Leer
+L9 - Fury Attack
+L13 - Pursuit
+L17 - Aerial Ace
+L23 - Mirror Move
+L29 - Agility
+L35 - Assurance
+L41 - Roost
+L47 - Drill Peck
+L53 - Drill Run
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM18 - Rain Dance
+TM19 - Roost
+TM21 - Frustration
+TM27 - Return
+TM32 - Double Team
+TM40 - Aerial Ace
+TM42 - Facade
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM49 - Echoed Voice
+TM51 - Steel Wing
+TM54 - False Swipe
+TM68 - Giga Impact
+TM87 - Swagger
+TM88 - Sleep Talk
+TM89 - U-turn
+TM90 - Substitute
+TM100 - Confide
+HM02 - Fly
+
 == Feebas ==
 
 Start - Splash
