@@ -46,6 +46,7 @@ for (var i=0; i<input.length; i++) {
 	var type = '';
 	var level = '';
 	if (typeString.substr(0,2) in {tm:1,hm:1}) type = 'M';
+	else if (typeString.substr(0,5) === 'event') type = 'S';
 	else if (typeString === 'tutor') type = 'T';
 	else if (typeString === 'egg') type = 'E';
 	else if (typeString === 'moverelearner' || typeString === 'relearn' || typeString === 'mr' || typeString === 'l?' || typeString === '?') type = '?';
