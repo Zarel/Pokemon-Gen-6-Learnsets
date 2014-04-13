@@ -4104,6 +4104,10 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
+Event 4 - Smokescreen
+Event 4 - Fire Spin
+Event 4 - Confuse Ray
+Event 4 - Fire Punch
 
 == Magmortar ==
 

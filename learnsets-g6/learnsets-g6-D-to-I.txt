@@ -2812,6 +2812,10 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
+Event 4 - Low Kick
+Event 4 - Shock Wave
+Event 4 - Light Screen
+Event 4 - Thunder Punch
 
 == Electivire ==
 
