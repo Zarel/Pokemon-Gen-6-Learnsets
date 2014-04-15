@@ -9111,6 +9111,65 @@ Egg - Trick
 Egg - Silver Wind
 Egg - Bug Buzz
 
+== Volcanion ==
+
+Start - Take Down
+Start - Mist
+Start - Haze
+Start - Flame Charge
+Start - Water Pulse
+Start - Stomp
+Start - Scald
+Start - Weather Ball
+Start - Body Slam
+Start - Hydro Pump
+Start - Flare Blitz
+Start - Overheat
+Start - Explosion
+Start - Steam Eruption
+TM05 - Roar
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM15 - Hyper Beam
+TM17 - Protect
+TM21 - Frustration
+TM22 - Solar Beam
+TM23 - Smack Down
+TM26 - Earthquake
+TM27 - Return
+TM31 - Brick Break
+TM32 - Double Team
+TM34 - Sludge Wave
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM37 - Sandstorm
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM48 - Round
+TM50 - Overheat
+TM52 - Focus Blast
+TM55 - Scald
+TM56 - Fling
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM64 - Explosion
+TM68 - Giga Impact
+TM71 - Stone Edge
+TM74 - Gyro Ball
+TM78 - Bulldoze
+TM80 - Rock Slide
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM91 - Flash Cannon
+TM94 - Rock Smash
+TM100 - Confide
+HM01 - Cut
+HM04 - Strength
+
 == Volcarona ==
 
 Start - Fiery Dance
