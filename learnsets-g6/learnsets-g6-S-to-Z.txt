@@ -6308,7 +6308,6 @@ TM17 - Protect
 TM21 - Frustration
 TM22 - Solar Beam
 TM27 - Return
-TM28 - Dig
 TM32 - Double Team
 TM35 - Flamethrower
 TM38 - Fire Blast

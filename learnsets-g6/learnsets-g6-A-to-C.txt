@@ -6802,6 +6802,7 @@ TM13 - Ice Beam
 TM15 - Hyper Beam
 TM16 - Light Screen
 TM17 - Protect
+TM18 - Rain Dance
 TM20 - Safeguard
 TM21 - Frustration
 TM22 - Solar Beam

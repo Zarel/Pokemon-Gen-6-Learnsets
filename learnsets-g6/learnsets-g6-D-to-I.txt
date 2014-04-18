@@ -2208,7 +2208,6 @@ TM44 - Rest
 TM45 - Attract
 TM48 - Round
 TM53 - Energy Ball
-TM54 - False Swipe
 TM65 - Shadow Claw
 TM67 - Retaliate
 TM68 - Giga Impact
@@ -3153,7 +3152,6 @@ TM22 - Solar Beam
 TM23 - Smack Down
 TM26 - Earthquake
 TM27 - Return
-TM28 - Dig
 TM31 - Brick Break
 TM32 - Double Team
 TM35 - Flamethrower
@@ -3628,7 +3626,6 @@ TM64 - Explosion
 TM70 - Flash
 TM75 - Swords Dance
 TM77 - Psych Up
-TM80 - Rock Slide
 TM83 - Infestation
 TM85 - Dream Eater
 TM86 - Grass Knot
@@ -3690,7 +3687,6 @@ TM68 - Giga Impact
 TM70 - Flash
 TM75 - Swords Dance
 TM77 - Psych Up
-TM80 - Rock Slide
 TM83 - Infestation
 TM85 - Dream Eater
 TM86 - Grass Knot

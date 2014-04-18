@@ -3531,7 +3531,6 @@ TM87 - Swagger
 TM88 - Sleep Talk
 TM89 - U-turn
 TM90 - Substitute
-TM96 - Nature Power
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall 
