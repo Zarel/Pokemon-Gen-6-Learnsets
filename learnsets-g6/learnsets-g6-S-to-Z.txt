@@ -9112,20 +9112,22 @@ Egg - Bug Buzz
 
 == Volcanion ==
 
-Start - Take Down
-Start - Mist
-Start - Haze
-Start - Flame Charge
-Start - Water Pulse
-Start - Stomp
-Start - Scald
-Start - Weather Ball
-Start - Body Slam
-Start - Hydro Pump
-Start - Flare Blitz
-Start - Overheat
-Start - Explosion
 Start - Steam Eruption
+Start - Flare Blitz
+Start - Take Down
+L8 - Mist
+L11 - Haze
+L15 - Flame Charge
+L21 - Water Pulse
+L28 - Stomp
+L32 - Scald
+L40 - Weather Ball
+L46 - Body Slam
+L50 - Hydro Pump
+L58 - Flare Blitz
+L65 - Overheat
+L76 - Explosion
+L85 - Steam Eruption
 TM05 - Roar
 TM06 - Toxic
 TM10 - Hidden Power
