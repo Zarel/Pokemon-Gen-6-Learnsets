@@ -4896,7 +4896,7 @@ L55 - Wring Out
 L61 - Water Spout
 TM06 - Toxic
 TM07 - Hail
-HM10 - Hidden Power
+TM10 - Hidden Power
 TM12 - Taunt
 TM13 - Ice Beam
 TM14 - Blizzard

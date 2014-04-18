@@ -6824,7 +6824,7 @@ TM77 - Psych Up
 TM85 - Dream Eater
 TM86 - Grass Knot
 TM87 - Swagger
-TM87 - Sleep Talk
+TM88 - Sleep Talk
 TM90 - Substitute
 TM92 - Trick Room
 TM100 - Confide

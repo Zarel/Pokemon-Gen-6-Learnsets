@@ -20,7 +20,7 @@ L61 - Wring Out
 L69 - Water Spout
 TM06 - Toxic
 TM07 - Hail
-HM10 - Hidden Power
+TM10 - Hidden Power
 TM12 - Taunt
 TM13 - Ice Beam
 TM14 - Blizzard
@@ -5718,7 +5718,7 @@ TM42 - Facade
 TM44 - Rest
 TM45 - Attract
 TM46 - Thief
-TM46 - Round
+TM48 - Round
 TM49 - Echoed Voice
 TM65 - Shadow Claw
 TM66 - Payback

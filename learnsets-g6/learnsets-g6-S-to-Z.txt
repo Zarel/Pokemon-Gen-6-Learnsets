@@ -3122,7 +3122,7 @@ TM90 - Substitute
 TM92 - Trick Room
 TM94 - Rock Smash
 TM100 - Confide
-Hm03 - Surf
+HM03 - Surf
 HM04 - Strength
 
 == Slowking ==
