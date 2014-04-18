@@ -9139,23 +9139,25 @@ TM100 - Confide
 HM02 - Fly
 
 == Hoopa ==
+
 Start - Trick
 Start - Destiny Bond
 Start - Ally Switch
-Start - Confusion
-Start - Astonish
-Start - Magic Coat
-Start - Psybeam
-Start - Light Screen
-Start - Skill Swap
-Start - Power Split
-Start - Guard Split
-Start - Phantom Force
-Start - Wonder Room
-Start - Trick Room
-Start - Shadow Ball
-Start - Psychic
 Start - Hyperspace Hole
+Start - Confusion
+L6 - Astonish
+L10 - Magic Coat
+L15 - Psybeam
+L19 - Light Screen
+L25 - Skill Swap
+L29 - Power Split
+L35 - Guard Split
+L46 - Phantom Force
+L50 - Wonder Room
+L55 - Trick Room
+L68 - Shadow Ball
+L75 - Psychic
+L85 - Hyperspace Hole
 TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
