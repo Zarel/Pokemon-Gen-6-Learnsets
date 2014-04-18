@@ -4955,6 +4955,14 @@ HM02 - Fly
 HM04 - Strength
 Tutor - Blast Burn
 Tutor - Fire Pledge
+Event 1 - Fire Fang
+Event 1 - Flamethrower
+Event 1 - Air Slash
+Event 1 - Inferno
+Event 2 - Dragon Rage
+Event 2 - Fire Fang
+Event 2 - Air Slash
+Event 2 - Dragon Claw
 
 == Charmander ==
 
@@ -7311,4 +7319,3 @@ Egg - Howl
 Egg - Covet
 Egg - Flare Blitz
 Egg - Flame Burst
-
