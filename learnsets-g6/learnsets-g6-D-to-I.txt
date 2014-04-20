@@ -66,6 +66,10 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Event 5 - Dark Void
+Event 5 - Dark Pulse
+Event 5 - Phantom Force
+Event 5 - Dream Eater
 
 == Darmanitan ==
 
