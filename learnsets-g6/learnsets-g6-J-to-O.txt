@@ -719,6 +719,9 @@ Egg - Screech
 
 == Kecleon ==
 
+Start - Synchronoise
+Start - Ancient Power
+Start - Thief
 Start - Tail Whip
 Start - Astonish
 Start - Lick
@@ -851,13 +854,13 @@ Tutor - Secret Sword
 
 Start - Dragon Pulse
 Start - Yawn
-Start - Bubble
+Start - Water Gun
 Start - Smokescreen
 Start - Leer
-Start - Water Gun
+Start - Bubble
 L4 - Smokescreen
 L8 - Leer
-L11 - Water Gun
+L11 - Bubble
 L14 - Focus Energy
 L18 - Bubble Beam
 L23 - Agility
@@ -1012,6 +1015,9 @@ TM100 - Confide
 == Klang ==
 
 Start - Vice Grip
+Start - Charge
+Start - Thunder Shock
+Start - Gear Grind
 L6 - Charge
 L11 - Thunder Shock
 L16 - Gear Grind
@@ -1150,6 +1156,9 @@ TM100 - Confide
 Start - Magnetic Flux
 Start - Zap Cannon
 Start - Vice Grip
+Start - Charge
+Start - Thunder Shock
+Start - Gear Grind
 L6 - Charge
 L11 - Thunder Shock
 L16 - Gear Grind
@@ -1932,6 +1941,7 @@ HM04 - Strength
 Start - Eerie Impulse
 Start - Water Gun
 Start - Supersonic
+Start - Thunder Wave
 L6 - Thunder Wave
 L9 - Flail
 L12 - Bubble
@@ -4983,10 +4993,10 @@ Egg - Take Down
 == Marill ==
 
 Start - Tackle
-Start - Bubble
+Start - Water Gun
 L2 - Tail Whip
 L5 - Water Sport
-L7 - Water Gun
+L7 - Bubble
 L10 - Defense Curl
 L10 - Rollout
 L13 - Bubble Beam
@@ -5567,6 +5577,7 @@ L9 - Confusion
 L13 - Light Screen
 L17 - Psybeam
 L19 - Fake Out
+L22 - Disarming Voice
 L25 - Psyshock
 L28 - Charm
 L31 - Miracle Eye
@@ -5630,6 +5641,7 @@ L9 - Confusion
 L13 - Light Screen
 L17 - Psybeam
 L19 - Fake Out
+L22 - Disarming Voice
 L25 - Psyshock
 L28 - Charge Beam
 L31 - Shadow Ball
@@ -6751,17 +6763,18 @@ TM100 - Confide
 Start - Roost
 Start - Hurricane
 Start - Sky Attack
+Start - Heat Wave
 Start - Wing Attack
 Start - Ember
-Start - Fire Spin
-Start - Agility
-Start - Endure
-Start - Ancient Power
-Start - Flamethrower
-Start - Safeguard
-Start - Air Slash
-Start - Sunny Day
-Start - Heat Wave
+L8 - Fire Spin
+L15 - Agility
+L22 - Endure
+L29 - Ancient Power
+L36 - Flamethrower
+L43 - Safeguard
+L50 - Air Slash
+L57 - Sunny Day
+L64 - Heat Wave
 L71 - Solar Beam
 L78 - Sky Attack
 L85 - Roost
@@ -8530,6 +8543,7 @@ L10 - Rock Tomb
 L13 - Rage
 L16 - Stealth Rock
 L19 - Rock Polish
+L20 - Gyro Ball
 L22 - Smack Down
 L25 - Dragon Breath
 L28 - Slam

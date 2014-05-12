@@ -1752,9 +1752,9 @@ HM05 - Waterfall
 == Poliwag ==
 
 Start - Water Sport
-L5 - Bubble
+L5 - Water Gun
 L8 - Hypnosis
-L11 - Water Gun
+L11 - Bubble
 L15 - Double Slap
 L18 - Rain Dance
 L21 - Body Slam
@@ -1805,11 +1805,11 @@ Egg - Water Sport
 == Poliwhirl ==
 
 Start - Water Sport
-Start - Bubble
+Start - Water Gun
 Start - Hypnosis
-L5 - Bubble
+L5 - Water Gun
 L8 - Hypnosis
-L11 - Water Gun
+L11 - Bubble
 L15 - Double Slap
 L18 - Rain Dance
 L21 - Body Slam

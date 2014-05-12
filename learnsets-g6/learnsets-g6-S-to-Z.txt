@@ -713,8 +713,8 @@ HM04 - Strength
 
 == Scrafty ==
 
-Start - Low Kick
 Start - Leer
+Start - Low Kick
 Start - Sand Attack
 Start - Feint Attack
 L5 - Sand Attack
@@ -916,13 +916,13 @@ Egg - Steel Wing
 
 == Seadra ==
 
-Start - Bubble
+Start - Water Gun
 Start - Smokescreen
 Start - Leer
-Start - Water Gun
+Start - Bubble
 L4 - Smokescreen
 L8 - Leer
-L11 - Water Gun
+L11 - Bubble
 L14 - Focus Energy
 L18 - Bubble Beam
 L23 - Agility
@@ -1393,9 +1393,9 @@ Tutor - Grass Pledge
 == Seviper ==
 
 Start - Wrap
-Start - Lick
+Start - Swagger
 L5 - Bite
-L9 - Swagger
+L9 - Lick
 L12 - Poison Tail
 L16 - Screech
 L20 - Venoshock
@@ -4438,7 +4438,6 @@ Egg - Brine
 Egg - Dragon Pulse
 Egg - Fake Out
 Egg - Flail
-Egg - Flash Cannon
 Egg - Foresight
 Egg - Haze
 Egg - Mirror Coat
@@ -4824,6 +4823,8 @@ Start - Fire Fang
 Start - Thunder Fang
 Start - Leer
 Start - Tackle
+Start - Odor Sleuth
+Start - Bite
 L5 - Odor Sleuth
 L8 - Bite
 L12 - Helping Hand
@@ -5544,7 +5545,7 @@ Start - Growl
 Start - Focus Energy
 Start - Quick Attack
 L4 - Focus Energy
-L8 - Quick Attack
+L7 - Quick Attack
 L13 - Wing Attack
 L19 - Double Team
 L28 - Endeavor
@@ -5809,7 +5810,7 @@ Event 0 - Fairy Wind
 Start - Peck
 Start - Growl
 L4 - Focus Energy
-L8 - Quick Attack
+L7 - Quick Attack
 L13 - Wing Attack
 L19 - Double Team
 L26 - Endeavor
@@ -6579,7 +6580,6 @@ TM100 - Confide
 HM04 - Strength
 Egg - Comet Punch
 Egg - Counter
-Egg - Cross Chop
 Egg - Detect
 Egg - Drain Punch
 Egg - Endure
@@ -6911,7 +6911,8 @@ L7 - Withdraw
 L12 - Curse
 L17 - Fire Spin
 L20 - Smokescreen
-L23 - Rapid Spin
+L23 - Flame Wheel
+L25 - Rapid Spin
 L28 - Flamethrower
 L33 - Body Slam
 L36 - Protect
@@ -7035,6 +7036,9 @@ HM04 - Strength
 
 Start - Wood Hammer
 Start - Tackle
+Start - Withdraw
+Start - Absorb
+Start - Razor Leaf
 L5 - Withdraw
 L9 - Absorb
 L13 - Razor Leaf
@@ -7923,6 +7927,7 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+Egg - Ally Switch
 Egg - Bullet Punch
 Egg - Counter
 Egg - Endure
@@ -9001,12 +9006,12 @@ HM04 - Strength
 
 == Vivillon ==
 
+Start - Powder
+Start - Sleep Powder
 Start - Poison Powder
 Start - Stun Spore
 Start - Gust
 Start - Light Screen
-Start - Powder
-Start - Sleep Powder
 L12 - Struggle Bug
 L17 - Psybeam
 L21 - Supersonic
@@ -9572,7 +9577,7 @@ HM05 - Waterfall
 
 Start - Tackle
 Start - Tail Whip
-Start - Bubble
+Start - Water Gun
 L4 - Tail Whip
 L7 - Water Gun
 L10 - Withdraw
@@ -9806,6 +9811,8 @@ HM01 - Cut
 
 Start - Poison Gas
 Start - Tackle
+Start - Smog
+Start - Smokescreen
 L4 - Smog
 L7 - Smokescreen
 L12 - Assurance
@@ -10525,12 +10532,12 @@ Start - Heal Pulse
 Start - Aromatherapy
 Start - Ingrain
 Start - Take Down
-Start - Light Screen
-Start - Aurora Beam
-Start - Gravity
-Start - Geomancy
-Start - Moonblast
-Start - Megahorn
+L5 - Light Screen
+L10 - Aurora Beam
+L18 - Gravity
+L26 - Geomancy
+L35 - Moonblast
+L44 - Megahorn
 L51 - Night Slash
 L55 - Horn Leech
 L59 - Psych Up
@@ -10749,12 +10756,12 @@ Start - Hurricane
 Start - Razor Wind
 Start - Taunt
 Start - Roost
-Start - Double Team
-Start - Air Slash
-Start - Snarl
-Start - Oblivion Wing
-Start - Disable
-Start - Dark Pulse
+L5 - Double Team
+L10 - Air Slash
+L18 - Snarl
+L26 - Oblivion Wing
+L35 - Disable
+L44 - Dark Pulse
 L51 - Foul Play
 L55 - Phantom Force
 L59 - Psychic
@@ -10884,19 +10891,20 @@ Egg - Razor Wind
 
 == Zapdos ==
 
+Start - Roost
 Start - Zap Cannon
 Start - Drill Peck
 Start - Peck
 Start - Thunder Shock
-Start - Thunder Wave
-Start - Detect
-Start - Pluck
-Start - Ancient Power
-Start - Charge
-Start - Agility
-Start - Discharge
-Start - Rain Dance
-Start - Light Screen
+L8 - Thunder Wave
+L15 - Detect
+L22 - Pluck
+L29 - Ancient Power
+L36 - Charge
+L43 - Agility
+L50 - Discharge
+L57 - Rain Dance
+L64 - Light Screen
 L71 - Drill Peck
 L78 - Thunder
 L85 - Roost
@@ -11359,16 +11367,16 @@ Start - Glare
 Start - Bulldoze
 Start - Dragon Breath
 Start - Bite
-Start - Safeguard
-Start - Dig
-Start - Bind
-Start - Land's Wrath
-Start - Sandstorm
-Start - Haze
-Start - Crunch
-Start - Earthquake
-Start - Camouflage
-Start - Dragon Pulse
+L5 - Safeguard
+L10 - Dig
+L18 - Bind
+L26 - Land's Wrath
+L35 - Sandstorm
+L44 - Haze
+L51 - Crunch
+L55 - Earthquake
+L59 - Camouflage
+L63 - Dragon Pulse
 L72 - Dragon Dance
 L80 - Coil
 L88 - Extreme Speed

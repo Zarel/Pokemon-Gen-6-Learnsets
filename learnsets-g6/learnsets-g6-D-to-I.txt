@@ -82,7 +82,7 @@ L6 - Incinerate
 L9 - Rage
 L11 - Fire Fang
 L14 - Headbutt
-L17 - Uproar
+L17 - Swagger
 L19 - Facade
 L22 - Fire Punch
 L25 - Work Up
@@ -483,7 +483,7 @@ L42 - Flamethrower
 L47 - Will-O-Wisp
 L51 - Psychic
 L55 - Sunny Day
-L56 - Magic Room
+L58 - Magic Room
 L61 - Fire Blast
 L69 - Future Sight
 L75 - Mystical Fire
@@ -2439,6 +2439,7 @@ Egg - Skill Swap
 
 == Dustox ==
 
+Start - Confusion
 L10 - Confusion
 L13 - Gust
 L17 - Protect
@@ -2683,6 +2684,7 @@ TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
+Egg - Captivate
 Egg - Charm
 Egg - Covet
 Egg - Curse
@@ -3839,6 +3841,7 @@ Egg - Trump Card
 
 == Fearow ==
 
+Start - Drill Run
 Start - Pluck
 Start - Peck
 Start - Growl
@@ -4613,8 +4616,8 @@ Start - Magical Leaf
 Start - Flower Shield
 Start - Grass Knot
 Start - Grassy Terrain
-Start - Misty Terrain
 Start - Petal Blizzard
+Start - Misty Terrain
 Start - Moonblast
 Start - Petal Dance
 Start - Aromatherapy
@@ -5867,9 +5870,9 @@ Start - Tackle
 Start - Defense Curl
 L4 - Mud Sport
 L8 - Rock Polish
-L11 - Rock Throw
+L11 - Rollout
 L15 - Magnitude
-L18 - Rollout
+L18 - Rock Throw
 L22 - Rock Blast
 L25 - Smack Down
 L29 - Self-Destruct
@@ -6762,9 +6765,9 @@ Start - Mud Sport
 Start - Rock Polish
 L4 - Mud Sport
 L8 - Rock Polish
-L11 - Rock Throw
+L11 - Steamroller
 L15 - Magnitude
-L18 - Steamroller
+L18 - Rock Throw
 L22 - Rock Blast
 L27 - Smack Down
 L31 - Self-Destruct
@@ -7411,9 +7414,9 @@ Start - Mud Sport
 Start - Rock Polish
 L4 - Mud Sport
 L8 - Rock Polish
-L11 - Rock Throw
+L11 - Rollout
 L15 - Magnitude
-L18 - Rollout
+L18 - Rock Throw
 L22 - Rock Blast
 L27 - Smack Down
 L31 - Self-Destruct
@@ -7596,6 +7599,7 @@ Egg - Swallow
 == Grotle ==
 
 Start - Tackle
+Start - Withdraw
 L5 - Withdraw
 L9 - Absorb
 L13 - Razor Leaf
@@ -8099,7 +8103,6 @@ Egg - Metronome
 Egg - Mud Bomb
 Egg - Natural Gift
 Egg - Present
-Egg - Seismic Toss
 
 == Hariyama ==
 
@@ -8669,6 +8672,8 @@ Egg - Seismic Toss
 
 Start - Leer
 Start - Tackle
+Start - Odor Sleuth
+Start - Bite
 L5 - Odor Sleuth
 L8 - Bite
 L12 - Helping Hand
@@ -9320,10 +9325,10 @@ Egg - Worry Seed
 
 == Horsea ==
 
-Start - Bubble
+Start - Water Gun
 L4 - Smokescreen
 L8 - Leer
-L11 - Water Gun
+L11 - Bubble
 L14 - Focus Energy
 L18 - Bubble Beam
 L23 - Agility
@@ -9794,7 +9799,6 @@ Egg - Silver Wind
 == Infernape ==
 
 Start - Flare Blitz
-Start - Punishment
 Start - Scratch
 Start - Leer
 Start - Ember
@@ -9805,7 +9809,7 @@ L14 - Mach Punch
 L16 - Fury Swipes
 L19 - Flame Wheel
 L26 - Feint
-L29 - Torment
+L29 - Punishment
 L36 - Close Combat
 L42 - Fire Spin
 L52 - Acrobatics

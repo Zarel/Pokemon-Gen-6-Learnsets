@@ -885,6 +885,8 @@ Start - Dragon Pulse
 Start - Fire Punch
 Start - Tackle
 Start - Growl
+Start - Thunder Wave
+Start - Thunder Shock
 L4 - Thunder Wave
 L8 - Thunder Shock
 L11 - Cotton Spore
@@ -1543,21 +1545,22 @@ Egg - Superpower
 
 == Articuno ==
 
+Start - Roost
 Start - Hurricane
 Start - Freeze-Dry
 Start - Tailwind
 Start - Sheer Cold
 Start - Gust
 Start - Powder Snow
-Start - Mist
-Start - Ice Shard
-Start - Mind Reader
-Start - Ancient Power
-Start - Agility
-Start - Ice Beam
-Start - Reflect
-Start - Hail
-Start - Tailwind
+L8 - Mist
+L15 - Ice Shard
+L22 - Mind Reader
+L29 - Ancient Power
+L36 - Agility
+L43 - Ice Beam
+L50 - Reflect
+L57 - Hail
+L64 - Tailwind
 L71 - Blizzard
 L78 - Sheer Cold
 L85 - Roost
@@ -1930,12 +1933,12 @@ TM100 - Confide
 == Azumarill ==
 
 Start - Tackle
-Start - Bubble
+Start - Water Gun
 Start - Tail Whip
 Start - Water Sport
 L2 - Tail Whip
 L5 - Water Sport
-L7 - Water Gun
+L7 - Bubble
 L10 - Defense Curl
 L10 - Rollout
 L13 - Bubble Beam
@@ -2016,6 +2019,7 @@ TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
 Egg - Body Slam
+Egg - Camouflage
 Egg - Copycat
 Egg - Encore
 Egg - Fake Tears
@@ -2085,8 +2089,8 @@ Egg - Twister
 
 == Baltoy ==
 
-Start - Confusion
 Start - Harden
+Start - Confusion
 L4 - Rapid Spin
 L7 - Mud-Slap
 L10 - Rock Tomb
@@ -2457,7 +2461,7 @@ Start - Poison Powder
 L6 - Razor Leaf
 L9 - Poison Powder
 L12 - Synthesis
-L18 - Protect
+L18 - Reflect
 L22 - Magical Leaf
 L26 - Natural Gift
 L32 - Sweet Scent
@@ -2667,6 +2671,9 @@ HM01 - Cut
 Start - Wonder Room
 Start - Synchronoise
 Start - Confusion
+Start - Growl
+Start - Heal Block
+Start - Miracle Eye
 L4 - Growl
 L8 - Heal Block
 L11 - Miracle Eye
@@ -2987,14 +2994,12 @@ Egg - Defense Curl
 Egg - Double-Edge
 Egg - Endure
 Egg - Fury Swipes
-Egg - Growl
 Egg - Odor Sleuth
 Egg - Quick Attack
 Egg - Rock Climb
 Egg - Rollout
 Egg - Skull Bash
 Egg - Sleep Talk
-Egg - Tackle
 Egg - Water Sport
 
 == Binacle ==
@@ -3148,7 +3153,7 @@ HM01 - Cut
 Start - Flash Cannon
 Start - Tackle
 Start - Tail Whip
-Start - Bubble
+Start - Water Gun
 Start - Withdraw
 L4 - Tail Whip
 L7 - Water Gun
@@ -3213,10 +3218,12 @@ Start - Fire Punch
 Start - High Jump Kick
 Start - Scratch
 Start - Growl
+Start - Focus Energy
+Start - Ember
 L7 - Focus Energy
-L10 - Ember
+L13 - Ember
 L16 - Double Kick
-L16 - Peck
+L17 - Peck
 L21 - Sand Attack
 L28 - Bulk Up
 L32 - Quick Attack
@@ -4405,7 +4412,6 @@ HM04 - Strength
 
 Start - Tackle
 Start - Harden
-L? - Guard Split
 L5 - Rock Throw
 L8 - Sharpen
 L12 - Smack Down
@@ -4874,7 +4880,6 @@ Egg - Endure
 Egg - Gravity
 Egg - Heal Bell
 Egg - Helping Hand
-Egg - Last Resort
 Egg - Metronome
 Egg - Mud Bomb
 Egg - Natural Gift
@@ -5144,6 +5149,7 @@ Egg - Supersonic
 
 Start - Morning Sun
 Start - Tackle
+Start - Growth
 L7 - Growth
 L10 - Leech Seed
 L13 - Helping Hand
@@ -5876,8 +5882,8 @@ HM05 - Waterfall
 == Claydol ==
 
 Start - Teleport
-Start - Confusion
 Start - Harden
+Start - Confusion
 Start - Rapid Spin
 L4 - Rapid Spin
 L7 - Mud-Slap
@@ -5890,6 +5896,7 @@ L28 - Extrasensory
 L31 - Cosmic Power
 L34 - Guard Split
 L34 - Power Split
+L36 - Hyper Beam
 L40 - Earth Power
 L47 - Sandstorm
 L54 - Heal Block
@@ -6231,6 +6238,8 @@ HM04 - Strength
 
 Start - Astonish
 Start - Protect
+Start - Disable
+Start - Haze
 L5 - Disable
 L9 - Haze
 L13 - Night Shade
@@ -6290,10 +6299,12 @@ L29 - Bug Buzz
 
 Start - Scratch
 Start - Growl
+Start - Focus Energy
+Start - Ember
 L7 - Focus Energy
-L10 - Ember
-L16 - Peck
+L13 - Ember
 L16 - Double Kick
+L17 - Peck
 L21 - Sand Attack
 L28 - Bulk Up
 L32 - Quick Attack
