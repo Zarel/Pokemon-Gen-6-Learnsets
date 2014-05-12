@@ -54,7 +54,7 @@ TM97 - Dark Pulse
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM03 - Surf
-HM05 - Waterfall 
+HM05 - Waterfall
 
 == Jigglypuff ==
 
@@ -281,6 +281,7 @@ TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
 HM01 - Cut
+Egg - Camouflage
 Egg - Cross Poison
 Egg - Disable
 Egg - Feint Attack
@@ -288,7 +289,6 @@ Egg - Pin Missile
 Egg - Poison Sting
 Egg - Pursuit
 Egg - Rock Climb
-Egg - Camouflage
 
 == Jumpluff ==
 
@@ -453,17 +453,17 @@ TM94 - Rock Smash
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - Bubble Beam
 Egg - Aurora Beam
-Egg - Screech
+Egg - Bubble Beam
 Egg - Confuse Ray
 Egg - Flail
 Egg - Foresight
-Egg - Icy Wind
 Egg - Giga Drain
-Egg - Rapid Spin
+Egg - Icy Wind
 Egg - Knock Off
 Egg - Mud Shot
+Egg - Rapid Spin
+Egg - Screech
 Egg - Take Down
 
 == Kabutops ==
@@ -652,19 +652,19 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
-Egg - Stomp
-Egg - Double-Edge
-Egg - Disable
-Egg - Counter
-Egg - Focus Energy
-Egg - Foresight
-Egg - Uproar
-Egg - Focus Punch
-Egg - Endeavor
-Egg - Crush Claw
-Egg - Hammer Arm
-Egg - Trump Card
 Egg - Circle Throw
+Egg - Counter
+Egg - Crush Claw
+Egg - Disable
+Egg - Double-Edge
+Egg - Endeavor
+Egg - Focus Energy
+Egg - Focus Punch
+Egg - Foresight
+Egg - Hammer Arm
+Egg - Stomp
+Egg - Trump Card
+Egg - Uproar
 
 == Karrablast ==
 
@@ -707,15 +707,15 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
 HM01 - Cut
-Egg - Horn Attack
+Egg - Bug Bite
 Egg - Counter
-Egg - Screech
+Egg - Drill Run
 Egg - Feint Attack
+Egg - Horn Attack
+Egg - Knock Off
 Egg - Megahorn
 Egg - Pursuit
-Egg - Knock Off
-Egg - Bug Bite
-Egg - Drill Run
+Egg - Screech
 
 == Kecleon ==
 
@@ -781,17 +781,17 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
+Egg - Camouflage
 Egg - Disable
-Egg - Recover
 Egg - Dizzy Punch
 Egg - Fake Out
-Egg - Trick
+Egg - Foul Play
 Egg - Magic Coat
+Egg - Nasty Plot
+Egg - Recover
 Egg - Skill Swap
 Egg - Snatch
-Egg - Nasty Plot
-Egg - Foul Play
-Egg - Camouflage
+Egg - Trick
 
 == Keldeo ==
 
@@ -1101,8 +1101,8 @@ TM100 - Confide
 HM01 - Cut
 Egg - Iron Defense
 Egg - Lock-On
-Egg - Thief
 Egg - Switcheroo
+Egg - Thief
 
 == Klink ==
 
@@ -1208,7 +1208,7 @@ L34 - Sludge Bomb
 L37 - Explosion
 L40 - Destiny Bond
 L42 - Belch
-L45 - Memento 
+L45 - Memento
 TM06 - Toxic
 TM09 - Venoshock
 TM10 - Hidden Power
@@ -1243,17 +1243,17 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM97 - Dark Pulse
 TM100 - Confide
-Egg - Psybeam
-Egg - Screech
-Egg - Psywave
 Egg - Curse
-Egg - Spite
 Egg - Destiny Bond
-Egg - Pain Split
-Egg - Stockpile
-Egg - Spit Up
-Egg - Swallow
 Egg - Grudge
+Egg - Pain Split
+Egg - Psybeam
+Egg - Psywave
+Egg - Screech
+Egg - Spit Up
+Egg - Spite
+Egg - Stockpile
+Egg - Swallow
 Egg - Toxic Spikes
 
 == Krabby ==
@@ -1306,18 +1306,18 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
-Egg - Slam
 Egg - Agility
-Egg - Haze
-Egg - Bide
-Egg - Amnesia
-Egg - Flail
-Egg - Endure
-Egg - Ancient Power
-Egg - Knock Off
-Egg - Tickle
-Egg - Chip Away
 Egg - Ally Switch
+Egg - Amnesia
+Egg - Ancient Power
+Egg - Bide
+Egg - Chip Away
+Egg - Endure
+Egg - Flail
+Egg - Haze
+Egg - Knock Off
+Egg - Slam
+Egg - Tickle
 
 == Kricketot ==
 
@@ -1343,7 +1343,7 @@ L38 - Taunt
 L42 - Night Slash
 L44 - Sticky Web
 L46 - Bug Buzz
-L50 - Perish Song 
+L50 - Perish Song
 TM01 - Hone Claws
 TM06 - Toxic
 TM10 - Hidden Power
@@ -1565,7 +1565,7 @@ TM94 - Rock Smash
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
-HM05 - Waterfall 
+HM05 - Waterfall
 
 == Kyurem ==
 
@@ -2031,20 +2031,20 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
-Egg - Horn Drill
-Egg - Fissure
-Egg - Curse
-Egg - Foresight
-Egg - Sleep Talk
 Egg - Ancient Power
-Egg - Future Sight
-Egg - Whirlpool
-Egg - Refresh
-Egg - Tickle
+Egg - Avalanche
+Egg - Curse
 Egg - Dragon Dance
 Egg - Dragon Pulse
-Egg - Avalanche
+Egg - Fissure
+Egg - Foresight
 Egg - Freeze-Dry
+Egg - Future Sight
+Egg - Horn Drill
+Egg - Refresh
+Egg - Sleep Talk
+Egg - Tickle
+Egg - Whirlpool
 
 == Larvesta ==
 
@@ -2089,12 +2089,12 @@ TM89 - U-turn
 TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
-Egg - String Shot
-Egg - Harden
-Egg - Foresight
 Egg - Endure
-Egg - Morning Sun
+Egg - Foresight
+Egg - Harden
 Egg - Magnet Rise
+Egg - Morning Sun
+Egg - String Shot
 Egg - Zen Headbutt
 
 == Larvitar ==
@@ -2148,18 +2148,18 @@ TM95 - Snarl
 TM97 - Dark Pulse
 TM98 - Power-Up Punch
 TM100 - Confide
-Egg - Stomp
-Egg - Focus Energy
+Egg - Ancient Power
+Egg - Assurance
 Egg - Curse
+Egg - Dragon Dance
+Egg - Focus Energy
+Egg - Iron Defense
+Egg - Iron Head
+Egg - Iron Tail
 Egg - Outrage
 Egg - Pursuit
-Egg - Iron Tail
-Egg - Ancient Power
-Egg - Iron Defense
-Egg - Dragon Dance
-Egg - Assurance
-Egg - Iron Head
 Egg - Stealth Rock
+Egg - Stomp
 
 == Latias ==
 
@@ -2533,17 +2533,17 @@ TM89 - U-turn
 TM90 - Substitute
 TM98 - Power-Up Punch
 TM100 - Confide
-Egg - Psybeam
-Egg - Screech
 Egg - Bide
+Egg - Bug Bite
+Egg - Bug Buzz
 Egg - Dizzy Punch
+Egg - Drain Punch
 Egg - Encore
 Egg - Focus Punch
 Egg - Knock Off
+Egg - Psybeam
+Egg - Screech
 Egg - Silver Wind
-Egg - Bug Buzz
-Egg - Drain Punch
-Egg - Bug Bite
 Egg - Tailwind
 
 == Lickilicky ==
@@ -2679,18 +2679,18 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
-Egg - Body Slam
 Egg - Amnesia
-Egg - Snore
-Egg - Curse
-Egg - Belly Drum
-Egg - Sleep Talk
-Egg - Magnitude
-Egg - Smelling Salts
-Egg - Muddy Water
-Egg - Hammer Arm
-Egg - Zen Headbutt
 Egg - Belch
+Egg - Belly Drum
+Egg - Body Slam
+Egg - Curse
+Egg - Hammer Arm
+Egg - Magnitude
+Egg - Muddy Water
+Egg - Sleep Talk
+Egg - Smelling Salts
+Egg - Snore
+Egg - Zen Headbutt
 
 == Liepard ==
 
@@ -2794,15 +2794,15 @@ TM87 - Swagger
 TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
-Egg - Mega Drain
-Egg - Recover
 Egg - Barrier
 Egg - Curse
 Egg - Endure
+Egg - Mega Drain
 Egg - Mirror Coat
+Egg - Recover
+Egg - Stealth Rock
 Egg - Tickle
 Egg - Wring Out
-Egg - Stealth Rock
 
 == Lilligant ==
 
@@ -2887,18 +2887,18 @@ TM93 - Wild Charge
 TM94 - Rock Smash
 TM95 - Snarl
 TM100 - Confide
-Egg - Sand Attack
+Egg - After You
+Egg - Charm
+Egg - Endure
+Egg - Fire Fang
+Egg - Howl
+Egg - Ice Fang
 Egg - Lick
 Egg - Mud-Slap
-Egg - Endure
-Egg - Charm
 Egg - Pursuit
-Egg - Yawn
-Egg - Howl
+Egg - Sand Attack
 Egg - Thunder Fang
-Egg - Ice Fang
-Egg - Fire Fang
-Egg - After You
+Egg - Yawn
 
 == Linoone ==
 
@@ -3013,10 +3013,10 @@ TM95 - Snarl
 TM97 - Dark Pulse
 TM100 - Confide
 HM04 - Strength
-Egg - Yawn
 Egg - Entrainment
-Egg - Snatch
 Egg - Fire Spin
+Egg - Snatch
+Egg - Yawn
 
 == Litwick ==
 
@@ -3074,12 +3074,12 @@ TM92 - Trick Room
 TM97 - Dark Pulse
 TM100 - Confide
 Egg - Acid
-Egg - Haze
 Egg - Acid Armor
-Egg - Endure
-Egg - Heat Wave
 Egg - Captivate
 Egg - Clear Smog
+Egg - Endure
+Egg - Haze
+Egg - Heat Wave
 Egg - Power Split
 
 == Lombre ==
@@ -3234,16 +3234,16 @@ TM90 - Substitute
 TM96 - Nature Power
 TM100 - Confide
 HM03 - Surf
-Egg - Water Gun
 Egg - Counter
-Egg - Leech Seed
-Egg - Razor Leaf
 Egg - Flail
 Egg - Giga Drain
+Egg - Leech Seed
+Egg - Razor Leaf
 Egg - Sweet Scent
 Egg - Synthesis
 Egg - Teeter Dance
 Egg - Tickle
+Egg - Water Gun
 
 == Loudred ==
 
@@ -3533,7 +3533,7 @@ TM89 - U-turn
 TM90 - Substitute
 TM100 - Confide
 HM03 - Surf
-HM05 - Waterfall 
+HM05 - Waterfall
 
 == Lunatone ==
 
@@ -3639,16 +3639,16 @@ TM90 - Substitute
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - Supersonic
-Egg - Splash
-Egg - Mud Sport
-Egg - Water Sport
-Egg - Brine
-Egg - Aqua Ring
-Egg - Captivate
 Egg - Aqua Jet
-Egg - Heal Pulse
+Egg - Aqua Ring
+Egg - Brine
+Egg - Captivate
 Egg - Entrainment
+Egg - Heal Pulse
+Egg - Mud Sport
+Egg - Splash
+Egg - Supersonic
+Egg - Water Sport
 
 == Luxio ==
 
@@ -3913,21 +3913,21 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
-Egg - Fire Punch
-Egg - Ice Punch
-Egg - Thunder Punch
-Egg - Rolling Kick
-Egg - Counter
-Egg - Meditate
-Egg - Encore
-Egg - Smelling Salts
-Egg - Knock Off
-Egg - Tickle
-Egg - Close Combat
-Egg - Power Trick
 Egg - Bullet Punch
+Egg - Close Combat
+Egg - Counter
+Egg - Encore
+Egg - Fire Punch
 Egg - Heavy Slam
+Egg - Ice Punch
+Egg - Knock Off
+Egg - Meditate
+Egg - Power Trick
 Egg - Quick Guard
+Egg - Rolling Kick
+Egg - Smelling Salts
+Egg - Thunder Punch
+Egg - Tickle
 
 == Magby ==
 
@@ -3972,20 +3972,20 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
-Egg - Karate Chop
-Egg - Mega Punch
-Egg - Thunder Punch
-Egg - Screech
 Egg - Barrier
-Egg - Focus Energy
-Egg - Mach Punch
-Egg - Belly Drum
-Egg - Dynamic Punch
-Egg - Iron Tail
-Egg - Cross Chop
-Egg - Flare Blitz
-Egg - Power Swap
 Egg - Belch
+Egg - Belly Drum
+Egg - Cross Chop
+Egg - Dynamic Punch
+Egg - Flare Blitz
+Egg - Focus Energy
+Egg - Iron Tail
+Egg - Karate Chop
+Egg - Mach Punch
+Egg - Mega Punch
+Egg - Power Swap
+Egg - Screech
+Egg - Thunder Punch
 
 == Magcargo ==
 
@@ -4380,20 +4380,20 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
+Egg - Bullet Punch
+Egg - Chip Away
 Egg - Counter
-Egg - Feint Attack
-Egg - Foresight
+Egg - Cross Chop
 Egg - Detect
 Egg - Dynamic Punch
-Egg - Cross Chop
+Egg - Feint
+Egg - Feint Attack
 Egg - Focus Punch
+Egg - Foresight
 Egg - Helping Hand
 Egg - Revenge
 Egg - Wake-Up Slap
-Egg - Feint
-Egg - Bullet Punch
 Egg - Wide Guard
-Egg - Chip Away
 
 == Malamar ==
 
@@ -4740,18 +4740,18 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
-Egg - Counter
-Egg - Meditate
-Egg - Reversal
-Egg - Foresight
-Egg - Sleep Talk
-Egg - Encore
 Egg - Beat Up
-Egg - Focus Punch
-Egg - Smelling Salts
-Egg - Revenge
 Egg - Close Combat
+Egg - Counter
+Egg - Encore
+Egg - Focus Punch
+Egg - Foresight
+Egg - Meditate
 Egg - Night Slash
+Egg - Revenge
+Egg - Reversal
+Egg - Sleep Talk
+Egg - Smelling Salts
 
 == Mantine ==
 
@@ -4804,14 +4804,14 @@ TM90 - Substitute
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - Slam
-Egg - Hydro Pump
-Egg - Haze
 Egg - Amnesia
-Egg - Splash
-Egg - Twister
+Egg - Haze
+Egg - Hydro Pump
 Egg - Mirror Coat
 Egg - Mud Sport
+Egg - Slam
+Egg - Splash
+Egg - Twister
 Egg - Water Sport
 Egg - Wide Guard
 
@@ -4858,18 +4858,18 @@ TM90 - Substitute
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - Slam
-Egg - Hydro Pump
-Egg - Haze
 Egg - Amnesia
-Egg - Splash
-Egg - Twister
+Egg - Haze
+Egg - Hydro Pump
 Egg - Mirror Coat
 Egg - Mud Sport
 Egg - Signal Beam
+Egg - Slam
+Egg - Splash
+Egg - Tailwind
+Egg - Twister
 Egg - Water Sport
 Egg - Wide Guard
-Egg - Tailwind
 
 == Maractus ==
 
@@ -4916,15 +4916,15 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM96 - Nature Power
 TM100 - Confide
-Egg - Leech Seed
-Egg - Spikes
-Egg - Grass Whistle
-Egg - Bullet Seed
 Egg - Bounce
-Egg - Worry Seed
-Egg - Seed Bomb
-Egg - Wood Hammer
+Egg - Bullet Seed
+Egg - Grass Whistle
 Egg - Grassy Terrain
+Egg - Leech Seed
+Egg - Seed Bomb
+Egg - Spikes
+Egg - Wood Hammer
+Egg - Worry Seed
 
 == Mareep ==
 
@@ -4967,18 +4967,18 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
-Egg - Sand Attack
-Egg - Body Slam
-Egg - Take Down
-Egg - Agility
-Egg - Screech
-Egg - Iron Tail
-Egg - Flatter
-Egg - Charge
-Egg - Odor Sleuth
 Egg - After You
+Egg - Agility
+Egg - Body Slam
+Egg - Charge
 Egg - Eerie Impulse
 Egg - Electric Terrain
+Egg - Flatter
+Egg - Iron Tail
+Egg - Odor Sleuth
+Egg - Sand Attack
+Egg - Screech
+Egg - Take Down
 
 == Marill ==
 
@@ -5027,19 +5027,19 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
-Egg - Body Slam
-Egg - Supersonic
 Egg - Amnesia
+Egg - Aqua Jet
 Egg - Belly Drum
+Egg - Body Slam
+Egg - Camouflage
+Egg - Future Sight
+Egg - Muddy Water
 Egg - Perish Song
 Egg - Present
-Egg - Future Sight
-Egg - Superpower
 Egg - Refresh
-Egg - Muddy Water
+Egg - Superpower
+Egg - Supersonic
 Egg - Water Sport
-Egg - Aqua Jet
-Egg - Camouflage
 
 == Marowak ==
 
@@ -5278,20 +5278,20 @@ TM97 - Dark Pulse
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
-Egg - Slam
 Egg - Ancient Power
-Egg - Poison Fang
-Egg - Tickle
-Egg - Metal Burst
+Egg - Captivate
+Egg - Fire Fang
 Egg - Guard Swap
+Egg - Ice Fang
+Egg - Metal Burst
+Egg - Misty Terrain
+Egg - Poison Fang
 Egg - Punishment
+Egg - Seismic Toss
+Egg - Slam
 Egg - Sucker Punch
 Egg - Thunder Fang
-Egg - Ice Fang
-Egg - Fire Fang
-Egg - Captivate
-Egg - Seismic Toss
-Egg - Misty Terrain
+Egg - Tickle
 
 == Medicham ==
 
@@ -5414,20 +5414,20 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
-Egg - Fire Punch
-Egg - Ice Punch
-Egg - Thunder Punch
-Egg - Foresight
-Egg - Dynamic Punch
 Egg - Baton Pass
-Egg - Fake Out
-Egg - Secret Power
-Egg - Power Swap
-Egg - Guard Swap
-Egg - Drain Punch
 Egg - Bullet Punch
+Egg - Drain Punch
+Egg - Dynamic Punch
+Egg - Fake Out
+Egg - Fire Punch
+Egg - Foresight
+Egg - Guard Swap
+Egg - Ice Punch
+Egg - Power Swap
 Egg - Psycho Cut
 Egg - Quick Guard
+Egg - Secret Power
+Egg - Thunder Punch
 
 == Meganium ==
 
@@ -5733,19 +5733,19 @@ TM90 - Substitute
 TM97 - Dark Pulse
 TM100 - Confide
 HM01 - Cut
-Egg - Tail Whip
-Egg - Hypnosis
 Egg - Amnesia
-Egg - Flail
-Egg - Spite
-Egg - Charm
-Egg - Iron Tail
 Egg - Assist
-Egg - Snatch
+Egg - Charm
+Egg - Flail
+Egg - Foul Play
+Egg - Hypnosis
+Egg - Iron Tail
+Egg - Last Resort
 Egg - Odor Sleuth
 Egg - Punishment
-Egg - Last Resort
-Egg - Foul Play
+Egg - Snatch
+Egg - Spite
+Egg - Tail Whip
 
 == Mesprit ==
 
@@ -6195,15 +6195,15 @@ TM94 - Rock Smash
 TM98 - Power-Up Punch
 TM100 - Confide
 HM04 - Strength
-Egg - Low Kick
-Egg - Endure
-Egg - Baton Pass
-Egg - Vital Throw
-Egg - Smelling Salts
-Egg - Knock Off
-Egg - Feint
-Egg - Me First
 Egg - Ally Switch
+Egg - Baton Pass
+Egg - Endure
+Egg - Feint
+Egg - Knock Off
+Egg - Low Kick
+Egg - Me First
+Egg - Smelling Salts
+Egg - Vital Throw
 
 == Mienshao ==
 
@@ -6340,7 +6340,7 @@ L33 - Rain Dance
 L37 - Hydro Pump
 L41 - Attract
 L45 - Safeguard
-L49 - Aqua Ring 
+L49 - Aqua Ring
 TM06 - Toxic
 TM07 - Hail
 TM10 - Hidden Power
@@ -6426,20 +6426,20 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
-Egg - Double-Edge
-Egg - Seismic Toss
-Egg - Dizzy Punch
-Egg - Curse
-Egg - Reversal
-Egg - Endure
-Egg - Sleep Talk
-Egg - Present
-Egg - Helping Hand
-Egg - Hammer Arm
-Egg - Natural Gift
-Egg - Punishment
-Egg - Heart Stamp
 Egg - Belch
+Egg - Curse
+Egg - Dizzy Punch
+Egg - Double-Edge
+Egg - Endure
+Egg - Hammer Arm
+Egg - Heart Stamp
+Egg - Helping Hand
+Egg - Natural Gift
+Egg - Present
+Egg - Punishment
+Egg - Reversal
+Egg - Seismic Toss
+Egg - Sleep Talk
 
 == Mime Jr. ==
 
@@ -6500,20 +6500,20 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM92 - Trick Room
 TM100 - Confide
-Egg - Hypnosis
-Egg - Mimic
-Egg - Confuse Ray
-Egg - Icy Wind
 Egg - Charm
-Egg - Future Sight
+Egg - Confuse Ray
 Egg - Fake Out
-Egg - Trick
-Egg - Teeter Dance
-Egg - Wake-Up Slap
+Egg - Future Sight
 Egg - Healing Wish
+Egg - Hypnosis
+Egg - Icy Wind
+Egg - Magic Room
+Egg - Mimic
 Egg - Nasty Plot
 Egg - Power Split
-Egg - Magic Room
+Egg - Teeter Dance
+Egg - Trick
+Egg - Wake-Up Slap
 
 == Minccino ==
 
@@ -6562,15 +6562,15 @@ TM89 - U-turn
 TM90 - Substitute
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - Tail Whip
-Egg - Flail
-Egg - Mud-Slap
+Egg - Aqua Tail
 Egg - Endure
-Egg - Sleep Talk
+Egg - Fake Tears
+Egg - Flail
 Egg - Iron Tail
 Egg - Knock Off
-Egg - Fake Tears
-Egg - Aqua Tail
+Egg - Mud-Slap
+Egg - Sleep Talk
+Egg - Tail Whip
 
 == Minun ==
 
@@ -6622,11 +6622,11 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM93 - Wild Charge
 TM100 - Confide
+Egg - Discharge
+Egg - Lucky Chant
 Egg - Sing
 Egg - Sweet Kiss
 Egg - Wish
-Egg - Lucky Chant
-Egg - Discharge
 
 == Misdreavus ==
 
@@ -6681,19 +6681,19 @@ TM92 - Trick Room
 TM97 - Dark Pulse
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - Screech
 Egg - Curse
-Egg - Spite
 Egg - Destiny Bond
-Egg - Memento
-Egg - Skill Swap
 Egg - Imprison
-Egg - Sucker Punch
-Egg - Nasty Plot
-Egg - Shadow Sneak
-Egg - Ominous Wind
-Egg - Wonder Room
 Egg - Me First
+Egg - Memento
+Egg - Nasty Plot
+Egg - Ominous Wind
+Egg - Screech
+Egg - Shadow Sneak
+Egg - Skill Swap
+Egg - Spite
+Egg - Sucker Punch
+Egg - Wonder Room
 
 == Mismagius ==
 
@@ -6988,18 +6988,18 @@ TM92 - Trick Room
 TM98 - Power-Up Punch
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - Hypnosis
-Egg - Mimic
 Egg - Confuse Ray
-Egg - Icy Wind
-Egg - Future Sight
 Egg - Fake Out
-Egg - Trick
-Egg - Teeter Dance
-Egg - Wake-Up Slap
+Egg - Future Sight
+Egg - Hypnosis
+Egg - Icy Wind
+Egg - Magic Room
+Egg - Mimic
 Egg - Nasty Plot
 Egg - Power Split
-Egg - Magic Room
+Egg - Teeter Dance
+Egg - Trick
+Egg - Wake-Up Slap
 
 == Mudkip ==
 
@@ -7044,23 +7044,23 @@ HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
 Tutor - Water Pledge
-Egg - Stomp
-Egg - Double-Edge
+Egg - Ancient Power
+Egg - Avalanche
+Egg - Barrier
 Egg - Bite
 Egg - Counter
-Egg - Sludge
 Egg - Curse
-Egg - Mirror Coat
-Egg - Ancient Power
-Egg - Whirlpool
-Egg - Uproar
-Egg - Yawn
-Egg - Refresh
+Egg - Double-Edge
 Egg - Ice Ball
-Egg - Avalanche
+Egg - Mirror Coat
 Egg - Mud Bomb
+Egg - Refresh
+Egg - Sludge
+Egg - Stomp
+Egg - Uproar
+Egg - Whirlpool
 Egg - Wide Guard
-Egg - Barrier
+Egg - Yawn
 
 == Muk ==
 
@@ -7187,18 +7187,18 @@ TM98 - Power-Up Punch
 TM100 - Confide
 HM03 - Surf
 HM04 - Strength
-Egg - Whirlwind
-Egg - Double-Edge
-Egg - Counter
-Egg - Self-Destruct
-Egg - Lick
-Egg - Curse
-Egg - Charm
-Egg - Pursuit
-Egg - Natural Gift
-Egg - Zen Headbutt
 Egg - After You
 Egg - Belch
+Egg - Charm
+Egg - Counter
+Egg - Curse
+Egg - Double-Edge
+Egg - Lick
+Egg - Natural Gift
+Egg - Pursuit
+Egg - Self-Destruct
+Egg - Whirlwind
+Egg - Zen Headbutt
 
 == Munna ==
 
@@ -7253,16 +7253,16 @@ TM90 - Substitute
 TM92 - Trick Room
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - Sonic Boom
 Egg - Barrier
-Egg - Swift
-Egg - Curse
-Egg - Sleep Talk
 Egg - Baton Pass
+Egg - Curse
+Egg - Healing Wish
 Egg - Helping Hand
 Egg - Magic Coat
 Egg - Secret Power
-Egg - Healing Wish
+Egg - Sleep Talk
+Egg - Sonic Boom
+Egg - Swift
 
 == Murkrow ==
 
@@ -7316,21 +7316,21 @@ TM95 - Snarl
 TM97 - Dark Pulse
 TM100 - Confide
 HM02 - Fly
-Egg - Wing Attack
-Egg - Whirlwind
-Egg - Drill Peck
-Egg - Screech
-Egg - Confuse Ray
-Egg - Mirror Move
-Egg - Sky Attack
-Egg - Feint Attack
-Egg - Perish Song
-Egg - Feather Dance
-Egg - Roost
 Egg - Assurance
-Egg - Psycho Shift
 Egg - Brave Bird
+Egg - Confuse Ray
+Egg - Drill Peck
+Egg - Feather Dance
+Egg - Feint Attack
 Egg - Flatter
+Egg - Mirror Move
+Egg - Perish Song
+Egg - Psycho Shift
+Egg - Roost
+Egg - Screech
+Egg - Sky Attack
+Egg - Whirlwind
+Egg - Wing Attack
 
 == Musharna ==
 
@@ -7428,20 +7428,20 @@ TM90 - Substitute
 TM92 - Trick Room
 TM99 - Dazzling Gleam
 TM100 - Confide
-Egg - Drill Peck
-Egg - Quick Attack
-Egg - Haze
-Egg - Feint Attack
-Egg - Steel Wing
-Egg - Skill Swap
-Egg - Refresh
-Egg - Feather Dance
-Egg - Roost
-Egg - Sucker Punch
-Egg - Zen Headbutt
-Egg - Synchronoise
-Egg - Simple Beam
 Egg - Ally Switch
+Egg - Drill Peck
+Egg - Feather Dance
+Egg - Feint Attack
+Egg - Haze
+Egg - Quick Attack
+Egg - Refresh
+Egg - Roost
+Egg - Simple Beam
+Egg - Skill Swap
+Egg - Steel Wing
+Egg - Sucker Punch
+Egg - Synchronoise
+Egg - Zen Headbutt
 
 == Nidoking ==
 
@@ -7625,19 +7625,19 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
-Egg - Take Down
-Egg - Supersonic
-Egg - Disable
-Egg - Counter
-Egg - Focus Energy
-Egg - Skull Bash
-Egg - Endure
-Egg - Charm
-Egg - Pursuit
-Egg - Iron Tail
 Egg - Beat Up
-Egg - Poison Tail
+Egg - Charm
 Egg - Chip Away
+Egg - Counter
+Egg - Disable
+Egg - Endure
+Egg - Focus Energy
+Egg - Iron Tail
+Egg - Poison Tail
+Egg - Pursuit
+Egg - Skull Bash
+Egg - Supersonic
+Egg - Take Down
 Egg - Venom Drench
 
 == Nidoran-M ==
@@ -7686,19 +7686,19 @@ TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
 HM04 - Strength
-Egg - Take Down
-Egg - Supersonic
-Egg - Disable
-Egg - Counter
-Egg - Confusion
 Egg - Amnesia
-Egg - Endure
-Egg - Iron Tail
 Egg - Beat Up
+Egg - Chip Away
+Egg - Confusion
+Egg - Counter
+Egg - Disable
+Egg - Endure
+Egg - Head Smash
+Egg - Iron Tail
 Egg - Poison Tail
 Egg - Sucker Punch
-Egg - Head Smash
-Egg - Chip Away
+Egg - Supersonic
+Egg - Take Down
 Egg - Venom Drench
 
 == Nidorina ==
@@ -7833,14 +7833,14 @@ TM88 - Sleep Talk
 TM90 - Substitute
 TM100 - Confide
 HM01 - Cut
-Egg - Gust
-Egg - Feint Attack
-Egg - Endure
-Egg - Silver Wind
-Egg - Night Slash
-Egg - Bug Buzz
 Egg - Bug Bite
+Egg - Bug Buzz
+Egg - Endure
+Egg - Feint Attack
 Egg - Final Gambit
+Egg - Gust
+Egg - Night Slash
+Egg - Silver Wind
 
 == Ninetales ==
 
@@ -8043,10 +8043,10 @@ TM100 - Confide
 HM01 - Cut
 HM02 - Fly
 Tutor - Draco Meteor
+Egg - Outrage
+Egg - Snatch
 Egg - Switcheroo
 Egg - Tailwind
-Egg - Snatch
-Egg - Outrage
 
 == Noivern ==
 
@@ -8166,11 +8166,11 @@ TM94 - Rock Smash
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM04 - Strength
+Egg - Block
 Egg - Double-Edge
 Egg - Endure
-Egg - Rollout
 Egg - Magnitude
-Egg - Block
+Egg - Rollout
 Egg - Stealth Rock
 Egg - Wide Guard
 
@@ -8222,22 +8222,22 @@ TM94 - Rock Smash
 TM96 - Nature Power
 TM100 - Confide
 HM04 - Strength
-Egg - Stomp
+Egg - Ancient Power
 Egg - Body Slam
 Egg - Defense Curl
-Egg - Scary Face
 Egg - Endure
-Egg - Rollout
-Egg - Ancient Power
-Egg - Stockpile
-Egg - Spit Up
-Egg - Swallow
-Egg - Heat Wave
-Egg - Yawn
-Egg - Howl
-Egg - Mud Bomb
-Egg - Iron Head
 Egg - Growth
+Egg - Heat Wave
+Egg - Howl
+Egg - Iron Head
+Egg - Mud Bomb
+Egg - Rollout
+Egg - Scary Face
+Egg - Spit Up
+Egg - Stockpile
+Egg - Stomp
+Egg - Swallow
+Egg - Yawn
 
 == Nuzleaf ==
 
@@ -8395,16 +8395,16 @@ TM96 - Nature Power
 TM99 - Dazzling Gleam
 TM100 - Confide
 HM01 - Cut
-Egg - Razor Leaf
-Egg - Flail
+Egg - After You
 Egg - Charm
-Egg - Synthesis
-Egg - Nature Power
+Egg - Flail
 Egg - Ingrain
+Egg - Nature Power
+Egg - Razor Leaf
 Egg - Secret Power
+Egg - Synthesis
 Egg - Teeter Dance
 Egg - Tickle
-Egg - After You
 
 == Omanyte ==
 
@@ -8451,20 +8451,20 @@ TM94 - Rock Smash
 TM100 - Confide
 HM03 - Surf
 HM05 - Waterfall
-Egg - Slam
-Egg - Supersonic
-Egg - Bubble Beam
 Egg - Aurora Beam
-Egg - Haze
 Egg - Bide
-Egg - Spikes
-Egg - Whirlpool
+Egg - Bubble Beam
+Egg - Haze
 Egg - Knock Off
 Egg - Muddy Water
-Egg - Water Pulse
-Egg - Wring Out
-Egg - Toxic Spikes
 Egg - Reflect Type
+Egg - Slam
+Egg - Spikes
+Egg - Supersonic
+Egg - Toxic Spikes
+Egg - Water Pulse
+Egg - Whirlpool
+Egg - Wring Out
 
 == Omastar ==
 
@@ -8577,15 +8577,15 @@ TM94 - Rock Smash
 TM96 - Nature Power
 TM100 - Confide
 HM04 - Strength
+Egg - Block
 Egg - Defense Curl
 Egg - Flail
-Egg - Rollout
-Egg - Block
+Egg - Heavy Slam
 Egg - Rock Blast
 Egg - Rock Climb
-Egg - Stealth Rock
-Egg - Heavy Slam
+Egg - Rollout
 Egg - Rototiller
+Egg - Stealth Rock
 
 == Oshawott ==
 
@@ -8637,12 +8637,11 @@ HM01 - Cut
 HM03 - Surf
 HM05 - Waterfall
 Tutor - Water Pledge
-Egg - Screech
-Egg - Detect
-Egg - Brine
-Egg - Assurance
-Egg - Trump Card
-Egg - Copycat
-Egg - Night Slash
 Egg - Air Slash
-
+Egg - Assurance
+Egg - Brine
+Egg - Copycat
+Egg - Detect
+Egg - Night Slash
+Egg - Screech
+Egg - Trump Card
