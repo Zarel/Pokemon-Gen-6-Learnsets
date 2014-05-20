@@ -8052,6 +8052,10 @@ TM100 - Confide
 HM03 - Surf
 HM04 - Strength
 HM05 - Waterfall
+Event 0 - Waterfall
+Event 0 - Earthquake
+Event 0 - Ice Fang
+Event 0 - Dragon Dance
 
 == Happiny ==
 

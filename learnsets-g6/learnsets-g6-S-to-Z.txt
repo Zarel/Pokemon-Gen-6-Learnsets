@@ -652,6 +652,10 @@ Event 6 - Metal Claw
 Event 6 - False Swipe
 Event 6 - Agility
 Event 6 - Fury Cutter
+Event 7 - Bullet Punch
+Event 7 - Swords Dance
+Event 7 - Roost
+Event 7 - U-turn
 
 == Scolipede ==
 

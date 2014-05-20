@@ -4521,6 +4521,10 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
+Event 1 - Icicle Spear
+Event 1 - Earthquake
+Event 1 - Icicle Crash
+Event 1 - Rock Slide
 
 == Manaphy ==
 
