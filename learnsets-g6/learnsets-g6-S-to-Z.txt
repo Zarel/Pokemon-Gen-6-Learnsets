@@ -7841,6 +7841,10 @@ TM100 - Confide
 HM01 - Cut
 HM03 - Surf
 HM04 - Strength
+Event 3 - Stone Edge
+Event 3 - Crunch
+Event 3 - Earthquake
+Event 3 - Ice Punch
 
 == Tyrantrum ==
 

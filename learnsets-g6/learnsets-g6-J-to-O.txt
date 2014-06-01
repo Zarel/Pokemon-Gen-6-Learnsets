@@ -665,6 +665,10 @@ Egg - Hammer Arm
 Egg - Stomp
 Egg - Trump Card
 Egg - Uproar
+Event 3 - Fake Out
+Event 3 - Return
+Event 3 - Earthquake
+Event 3 - Sucker Punch
 
 == Karrablast ==
 

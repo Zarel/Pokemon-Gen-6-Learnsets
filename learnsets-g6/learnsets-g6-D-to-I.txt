@@ -5863,6 +5863,10 @@ Event 1 - Night Shade
 Event 1 - Confuse Ray
 Event 1 - Sucker Punch
 Event 1 - Shadow Punch
+Event 2 - Shadow Ball
+Event 2 - Sludge Bomb
+Event 2 - Will-O-Wisp
+Event 2 - Destiny Bond
 
 == Geodude ==
 
