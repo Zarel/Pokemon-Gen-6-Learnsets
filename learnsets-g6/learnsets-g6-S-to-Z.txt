@@ -10183,6 +10183,8 @@ Start - Safeguard
 Start - Destiny Bond
 TM20 - Safeguard
 Event 2 - Counter
+Event 3 - Counter
+Event 3 - Mirror Coat
 
 == Woobat ==
 

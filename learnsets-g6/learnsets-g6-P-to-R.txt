@@ -1409,6 +1409,10 @@ Event 31 - Celebrate
 Event 31 - Growl
 Event 31 - Play Nice
 Event 31 - Quick Attack
+Event 32 - Quick Attack
+Event 32 - Electro Ball
+Event 32 - Double Team
+Event 32 - Mega Kick
 
 == Piloswine ==
 

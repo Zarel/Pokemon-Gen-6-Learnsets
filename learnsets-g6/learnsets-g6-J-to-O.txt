@@ -5310,6 +5310,10 @@ Egg - Slam
 Egg - Sucker Punch
 Egg - Thunder Fang
 Egg - Tickle
+Event 2 - Iron Head
+Event 2 - Play Rough
+Event 2 - Fire Fang
+Event 2 - Sucker Punch
 
 == Medicham ==
 
