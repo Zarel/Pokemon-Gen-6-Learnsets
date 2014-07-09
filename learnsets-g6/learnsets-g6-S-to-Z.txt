@@ -7935,7 +7935,6 @@ TM90 - Substitute
 TM94 - Rock Smash
 TM100 - Confide
 HM04 - Strength
-Egg - Ally Switch
 Egg - Bullet Punch
 Egg - Counter
 Egg - Endure
