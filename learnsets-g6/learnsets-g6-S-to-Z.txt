@@ -9063,6 +9063,14 @@ TM88 - Sleep Talk
 TM89 - U-turn
 TM90 - Substitute
 TM100 - Confide
+Event 0 - Stun Spore
+Event 0 - Gust
+Event 0 - Light Screen
+Event 0 - Struggle Bug
+Event 1 - Gust
+Event 1 - Light Screen
+Event 1 - Struggle Bug
+Event 1 - Hold Hands
 
 == Volbeat ==
 
