@@ -179,6 +179,10 @@ TM92 - Trick Room
 TM98 - Power-Up Punch
 TM99 - Dazzling Gleam
 TM100 - Confide
+Event 8 - Wish
+Event 8 - Swift
+Event 8 - Healing Wish
+Event 8 - Moonblast
 
 == Jolteon ==
 
