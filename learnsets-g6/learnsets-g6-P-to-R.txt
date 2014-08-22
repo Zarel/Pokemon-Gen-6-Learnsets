@@ -1413,6 +1413,14 @@ Event 32 - Quick Attack
 Event 32 - Electro Ball
 Event 32 - Double Team
 Event 32 - Mega Kick
+Event 33 - Thunderbolt
+Event 33 - Quick Attack
+Event 33 - Surf
+Event 33 - Hold Hands
+Event 34 - Thunderbolt
+Event 34 - Quick Attack
+Event 34 - Heart Stamp
+Event 34 - Hold Hands
 
 == Piloswine ==
 
@@ -1590,6 +1598,10 @@ Egg - Fury Attack
 Egg - Me First
 Egg - Quick Attack
 Egg - Superpower
+Event 1 - X-Scissor
+Event 1 - Earthquake
+Event 1 - Stone Edge
+Event 1 - Return
 
 == Piplup ==
 

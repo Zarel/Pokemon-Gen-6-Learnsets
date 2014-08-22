@@ -8679,6 +8679,10 @@ Egg - Pursuit
 Egg - Revenge
 Egg - Rock Blast
 Egg - Seismic Toss
+Event 0 - Bullet Seed
+Event 0 - Pin Missile
+Event 0 - Close Combat
+Event 0 - Megahorn
 
 == Herdier ==
 

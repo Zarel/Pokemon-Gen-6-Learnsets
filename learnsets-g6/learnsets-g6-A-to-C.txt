@@ -298,6 +298,10 @@ TM91 - Flash Cannon
 TM94 - Rock Smash
 TM100 - Confide
 HM01 - Cut
+Event 0 - Wide Guard
+Event 0 - King's Shield
+Event 0 - Shadow Ball
+Event 0 - Flash Cannon
 
 == Aerodactyl ==
 
