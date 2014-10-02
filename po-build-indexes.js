@@ -30,7 +30,7 @@ console.log('read moves');
 		POMoves[line[0]] = getId(line[1]);
 	}
 
-	fs.writeFileSync('po-moves.js', "module.exports = "+JSON.stringify(POMoves)+";");
+	fs.writeFileSync('po-moves.js', "module.exports = "+JSON.stringify(POMoves)+";\n");
 })();
 
 console.log('read pokes');
@@ -47,5 +47,5 @@ console.log('read pokes');
 		POPokemon[line[0]] = getId(line[1]);
 	}
 
-	fs.writeFileSync('po-pokemon.js', "module.exports = "+JSON.stringify(POPokemon)+";");
+	fs.writeFileSync('po-pokemon.js', "module.exports = "+JSON.stringify(POPokemon)+";\n");
 })();

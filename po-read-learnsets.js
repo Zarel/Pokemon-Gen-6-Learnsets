@@ -44,4 +44,4 @@ console.log('read tm moves');
 	}
 })();
 
-fs.writeFileSync('learnsets-g6.js', "module.exports = "+JSON.stringify(LearnsetsG6)+";");
+fs.writeFileSync('learnsets-g6.js', "module.exports = "+JSON.stringify(LearnsetsG6)+";\n");
