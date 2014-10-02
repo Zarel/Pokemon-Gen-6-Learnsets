@@ -162,7 +162,7 @@ for (var speciesid in Learnsets) {
 
 output = output.substr(0, output.length-2)+'\n';
 
-output += '};';
+output += '};\n';
 
 fs.writeFileSync('data/learnsets.js', output);
 
@@ -180,6 +180,6 @@ for (var speciesid in LearnsetsG6) {
 
 output = output.substr(0, output.length-2)+'\n';
 
-output += '};';
+output += '};\n';
 
 fs.writeFileSync('data/learnsets-g6.js', output);
