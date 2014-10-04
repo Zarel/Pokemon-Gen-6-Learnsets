@@ -2501,6 +2501,70 @@ Egg - Bestow
 Egg - Destiny Bond
 Egg - Disable
 
+== Pumpkaboo-Super ==
+
+Start - Trick
+Start - Astonish
+Start - Confuse Ray
+L4 - Scary Face
+L6 - Trick-or-Treat
+L11 - Worry Seed
+L16 - Razor Leaf
+L20 - Leech Seed
+L23 - Trick-or-Treat
+L26 - Bullet Seed
+L30 - Shadow Sneak
+L36 - Shadow Ball
+L40 - Trick-or-Treat
+L42 - Pain Split
+L48 - Seed Bomb
+TM06 - Toxic
+TM10 - Hidden Power
+TM11 - Sunny Day
+TM16 - Light Screen
+TM17 - Protect
+TM20 - Safeguard
+TM21 - Frustration
+TM22 - Solar Beam
+TM27 - Return
+TM29 - Psychic
+TM30 - Shadow Ball
+TM32 - Double Team
+TM35 - Flamethrower
+TM36 - Sludge Bomb
+TM38 - Fire Blast
+TM42 - Facade
+TM43 - Flame Charge
+TM44 - Rest
+TM45 - Attract
+TM46 - Thief
+TM48 - Round
+TM53 - Energy Ball
+TM57 - Charge Beam
+TM59 - Incinerate
+TM61 - Will-O-Wisp
+TM64 - Explosion
+TM70 - Flash
+TM74 - Gyro Ball
+TM80 - Rock Slide
+TM85 - Dream Eater
+TM86 - Grass Knot
+TM87 - Swagger
+TM88 - Sleep Talk
+TM90 - Substitute
+TM92 - Trick Room
+TM94 - Rock Smash
+TM96 - Nature Power
+TM97 - Dark Pulse
+TM100 - Confide
+Egg - Bestow
+Egg - Destiny Bond
+Egg - Disable
+Event 0 - Trick-or-Treat
+Event 0 - Astonish
+Event 0 - Scary Face
+Event 0 - Shadow Sneak
+
 == Pupitar ==
 
 Start - Bite
