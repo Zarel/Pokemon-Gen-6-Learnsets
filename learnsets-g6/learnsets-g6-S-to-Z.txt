@@ -141,6 +141,7 @@ HM01 - Cut
 HM02 - Fly
 HM04 - Strength
 Tutor - Draco Meteor
+Event 1 - Wish
 
 == Samurott ==
 
@@ -1747,6 +1748,7 @@ TM100 - Confide
 HM01 - Cut
 HM04 - Strength
 Tutor - Draco Meteor
+Event 1 - Wish
 
 == Shellder ==
 
