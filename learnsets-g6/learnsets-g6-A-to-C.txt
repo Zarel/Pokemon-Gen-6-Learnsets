@@ -202,6 +202,7 @@ Egg - Play Rough
 Egg - Punishment
 Egg - Sucker Punch
 Egg - Zen Headbutt
+Event 1 - Wish
 
 == Accelgor ==
 
@@ -2090,6 +2091,7 @@ Egg - Fire Fang
 Egg - Hydro Pump
 Egg - Thrash
 Egg - Twister
+Event 1 - Wish
 
 == Baltoy ==
 
